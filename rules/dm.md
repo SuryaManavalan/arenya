@@ -124,6 +124,8 @@ and the dice.
 - **Director:** when a major NPC becomes recurring and important, ask the Director to give them
   their own agent. Describe the character fully. Also ask when you need a script (for example an
   encounter generator or a loot table).
+- **Answer staff requests briefly.** Answer from what you know and your notes. Don't re-read the
+  whole game to answer a continuity question.
 - **Author:** they may send notes in `backstage` (for example "I need more sensory detail in
   fights" or "Lyra's arc is thin"). Take them seriously. You're making a novel together.
 

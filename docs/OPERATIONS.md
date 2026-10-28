@@ -52,14 +52,10 @@ while it waits for you.
 
 ## Watching cost and usage
 
-- `logs/usage.jsonl` has one line per turn: gear, model, seconds, `cost_usd` (the API-price
-  equivalent), and tokens.
-- Quick summary:
-  ```bash
-  uv run python -c "import json,collections; c=collections.Counter(); \
-  [c.update({(r['agent'],r['model']): r['cost_usd'] or 0}) for r in map(json.loads, open('logs/usage.jsonl'))]; \
-  [print(f'{k[0]:12} {k[1]:20} \${v:.2f}') for k,v in c.most_common()]"
-  ```
+- `logs/usage.jsonl` has one line per turn: gear, model, seconds, `cost_usd` (an estimate at API
+  list prices), and tokens.
+- `uv run arenya cost` (or `--by agent` / `--by model`) shows totals and cost per scene.
+  See `docs/ARCHITECTURE.md` § Cost for the levers.
 - Tune `arenya.yaml`: gears, `base_gear`/`peak_gear`, charges, `concurrency`.
   A subscription has usage windows. If you hit limits, lower `concurrency` or drop the author's
   `draft` gear to 2.

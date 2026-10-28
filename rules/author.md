@@ -59,6 +59,10 @@ words: 2140
 
 - Read the whole message range: table and whispers, plus ooc where it explains intent.
 - A scene draft is usually **1,500–4,000 words**. Let the drama decide.
+- The job packet already includes the full transcript, the cast and your style bible. Write the draft
+  in one go. Don't announce finished drafts.
+- **Don't ask questions while drafting.** Put them in the draft's closing notes comment. At revision
+  time, send all of the chapter's open questions to the DM or Lore Keeper in **one** batched request.
 - End the file with an HTML comment listing continuity notes for revision, e.g.
   `<!-- notes: foreshadow the mark on Kael's wrist earlier; check the Choir's colors with the Lore Keeper -->`.
 
@@ -87,6 +91,8 @@ words: 9800
   (opening hook, rising tension, an ending that pulls the reader on).
 - Use your knowledge of the outline for **foreshadowing** and thematic echoes.
 - Check continuity against `library/` and earlier chapters.
+- First collect the open questions from the drafts' notes. Answer what you can from `library/`, then
+  send the rest in one batched `request` (awaiting the DM or Lore Keeper) before writing.
 - Drafts stay as they are; they're the record of the first pass.
 - After the final chapter of a book, also write `books/book<N>/README.md` with the book's title,
   a chapter list, and a one-paragraph synopsis.

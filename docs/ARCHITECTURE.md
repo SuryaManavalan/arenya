@@ -38,17 +38,19 @@ Each agent turn is one `claude_agent_sdk.query()` call: a headless Claude Code r
 |---|---|---|
 | `system_prompt` | `rules/common.md` + `rules/messaging.md` + `rules/<role>.md` + the agent's `IDENTITY.md` + `SOUL.md` | Persona and conventions. Stable across turns, so it caches well. |
 | `model`, `effort` | from the gear (see below) | Model budgeting. |
-| `tools` | `Read, Write, Edit, Glob, Grep` | No Bash or web access for any agent. |
+| `tools` | per job: players/npcs get `Read` only on turns and `Read, Write, Edit` on reflect; staff get `Read, Write, Edit, Glob, Grep` | No Bash or web access for anyone. Every tool schema is resent on every call. |
 | `mcp_servers` | in-process `arenya` server, built per turn | Game actions. Sender identity is bound by closure, so it can't be spoofed. |
 | `hooks.PreToolUse` | `acl.make_hook(agent, role)` on the file tools | Hard file permissions per role. |
 | `setting_sources` | `[]` | Ignore your personal `~/.claude` settings and CLAUDE.md files. |
+| `strict_mcp_config` + `env ENABLE_CLAUDEAI_MCP_SERVERS=false` | on | **Critical for cost.** Otherwise your claude.ai connectors (Notion, Drive, …) attach ~95K tokens of tool schemas to every call. |
 | `resume` | the agent's session for the current scene | Continuity within a scene. Fresh context per scene. |
 | `max_turns` | per role in `arenya.yaml` | Runaway guard. |
 
 **Auth:** with `auth: subscription`, the dispatcher removes `ANTHROPIC_API_KEY` from its
 environment, so the bundled Claude CLI uses your claude.ai login (`claude auth status`). Set
-`auth: api_key` to bill an API key instead. `cost_usd` in `logs/usage.jsonl` is what the turn
-*would* cost at API prices, which is useful for comparing gears even on a subscription.
+`auth: api_key` to bill an API key instead. `cost_usd` in `logs/usage.jsonl` is our own per-turn
+estimate at API list prices (`prices` in `arenya.yaml`). The SDK's `total_cost_usd` is cumulative
+over a resumed session, so it isn't used.
 
 ## Code map
 
@@ -140,7 +142,7 @@ Combat needs no special engine. The DM awaits one combatant at a time, in initia
 | `replay` | anyone | called `upshift` | scene session | peak |
 | `reflect` | dm + scene cast | `scene_end` | the scene's session (cheap, cached) | pinned (1) |
 | `extract` | lorekeeper | `scene_end` | fresh | base |
-| `draft` | author | `scene_end` | fresh | pinned (3) |
+| `draft` | author | `scene_end` | fresh | pinned (2) |
 | `revise` | author | `chapter_end` | fresh | pinned (4) |
 
 Priority (lower runs first): dm 0, players/npcs 1, director 2, lorekeeper 3, author 4, and +5 for
@@ -165,9 +167,9 @@ Every job runs in a **gear** = (model, effort), from `arenya.yaml`:
 | gear | default | for |
 |---|---|---|
 | 1 | Haiku 5.5, low | memory upkeep |
-| 2 | Sonnet 5.5, medium | everyday play, lore extraction |
-| 3 | Opus 5.5, high | DM default, scene drafts, pivotal player moments |
-| 4 | Opus 5.5, xhigh | DM onboarding and climaxes, chapter revisions |
+| 2 | Sonnet 5.5, medium | everyday play, scene drafts, lore extraction |
+| 3 | Opus 5.5, medium | DM default, pivotal player moments |
+| 4 | Opus 5.5, high | DM onboarding and climaxes, chapter revisions |
 
 `engine.pick_gear` decides, in this order:
 
@@ -186,6 +188,30 @@ rare and chosen deliberately. The DM is already at Opus and spends charges to re
 **Rate limits:** a rejected rate-limit event, or a 429 result, re-queues the job with backoff
 (`rate_limit_backoff_s`). From the second attempt on, the job is **downshifted** one gear. After the
 backoff list is exhausted, the game pauses and notifies you.
+
+## Cost
+
+Measured on a test scene (2 players, 32 table messages, 2.9K-word draft): **≈ $1.58 at API prices**.
+`uv run arenya cost` gives the breakdown. Typical split: DM ~40%, players ~30%, Author draft ~18%,
+Lore Keeper ~9%, memory upkeep <1%.
+
+Rough projection: ~35 scenes plus ~10 chapter revisions per book is **≈ $60–80 per book, or
+≈ $400 for the series**, at API prices. On a subscription, the same tokens count against your usage
+windows instead of being billed.
+
+What keeps it there, in order of impact:
+1. **No connector bloat** (`strict_mcp_config`). This was a 10× difference: 100K → 10K tokens per call.
+2. **Effort over model.** Most output tokens are thinking. Opus at `medium` for routine DM turns,
+   `high` only via upshift and for revisions.
+3. **Sonnet drafts, Opus revisions.** Readers see the revision.
+4. **Inlined job context.** Draft and extract packets carry the transcript, so the Author and Lore
+   Keeper don't spend 15+ tool round trips finding files.
+5. **Minimal toolsets per job,** scene-scoped sessions (cached prefix, bounded growth), no status-post chatter.
+
+More levers if needed, each a quality tradeoff:
+- DM `base_gear: 2` (Sonnet; Opus only on upshift): about −25%.
+- Player gear 2 → `{model: claude-sonnet-5-5, effort: low}`.
+- `job_gears.reflect` is already Haiku. `concurrency: 1` doesn't change cost, only pacing.
 
 ## Access control
 

@@ -49,6 +49,23 @@ def _relevant(msg: dict, agent: str, role: str, agents: dict) -> bool:
     return True
 
 
+def scene_transcript(scene: dict) -> str:
+    """Every message in the scene's id range, all channels, compact. Inlined into draft/extract
+    jobs so the Author and Lore Keeper don't spend a dozen tool round trips finding files."""
+    st = {"book": scene["book"], "chapter": scene["chapter"]}
+    msgs = [m for m in channels.all_messages(st, [scene["book"]])
+            if scene["start_id"] <= m["id"] <= scene["end_id"]]
+    lines = []
+    for m in msgs:
+        to = ",".join(m.get("to") or [])
+        lines.append(f"#{m['id']:04d} {m['from']}{' → ' + to if to else ''} [{m['channel']}/{m['type']}]\n{m['body']}\n")
+    return "\n".join(lines)
+
+
+def _identities(ids: list[str]) -> str:
+    return "\n\n".join(t for a in ids if (t := _read(f"agents/{a}/IDENTITY.md")))
+
+
 def wake_packet(st: dict, agent: str, role: str, job: str, args: dict, gear: dict, why: str,
                 charges: int, new_session: bool) -> tuple[str, int]:
     """Build the turn prompt. Returns (prompt, new cursor)."""
@@ -108,9 +125,12 @@ def wake_packet(st: dict, agent: str, role: str, job: str, args: dict, gear: dic
         s = args["scene"]
         out = f"books/book{s['book']}/drafts/c{s['chapter']:02d}/s{s['id'].split('.s')[1]}.md"
         body += ["## Job: draft scene", f"Scene {s['id']} \"{s['title']}\" at {s['location']}; cast {', '.join(s['cast'])}.",
-                 f"Source: messages #{s['start_id']:04d}–#{s['end_id']:04d} in channels/b{s['book']}/c{s['chapter']:02d}/ "
-                 "(table.md, ooc.md, whisper-*.md) and any backstage/human messages in that range.",
-                 f"DM summary: {s['summary']}", f"Write the draft to `{out}` following rules/author.md § Drafts."]
+                 f"DM summary: {s['summary']}", "",
+                 "## Your style bible (agents/author/MEMORY.md)", _read("agents/author/MEMORY.md") or "(empty)", "",
+                 "## Cast", _identities(s["cast"]), "",
+                 f"## Transcript #{s['start_id']:04d}–#{s['end_id']:04d} (all channels)", scene_transcript(s), "",
+                 f"Everything you need is above. Write the draft to `{out}` in a single Write, following rules/author.md "
+                 "§ Drafts, then update your MEMORY.md. Read other files only for a specific missing fact."]
     elif job == "revise":
         b, c = args["book"], args["chapter"]
         body += ["## Job: revise chapter", f"Book {b}, Chapter {c} is finished. DM summary: {args['summary']}",
@@ -118,9 +138,12 @@ def wake_packet(st: dict, agent: str, role: str, job: str, args: dict, gear: dic
                  "following rules/author.md § Revision." + (" This is the book's final chapter." if args.get("final_in_book") else "")]
     elif job == "extract":
         s = args["scene"]
-        body += ["## Job: extract canon", f"Scene {s['id']} \"{s['title']}\" (#{s['start_id']:04d}–#{s['end_id']:04d}) "
-                 f"in channels/b{s['book']}/c{s['chapter']:02d}/. DM summary: {s['summary']}",
-                 "Update library/ following rules/lorekeeper.md § Extraction."]
+        body += ["## Job: extract canon", f"Scene {s['id']} \"{s['title']}\". DM summary: {s['summary']}", "",
+                 "## Library index (library/index.md)", _read("library/index.md"), "",
+                 f"## Transcript #{s['start_id']:04d}–#{s['end_id']:04d} (all channels)", scene_transcript(s), "",
+                 "Update library/ following rules/lorekeeper.md § Extraction. The transcript and index are above: "
+                 "read only the existing entries you are about to change. Skip the backstage note unless "
+                 "something needs the DM's attention (a contradiction, a question)."]
     elif job == "reflect":
         s = args["scene"]
         body += ["## Job: memory upkeep", f"Scene {s['id']} \"{s['title']}\" just ended. DM summary: {s['summary']}",

@@ -9,7 +9,8 @@ player at a table, playing to make the story great, and in that story **you are 
 `post` (table, ooc, your whisper channel, director), `roll`, `pass_turn`, `upshift`,
 `read_channel`, `game_status`, `run_script`, and the file tools.
 
-You can write only `agents/<you>/MEMORY.md` and `agents/<you>/notes.md`.
+You update `agents/<you>/MEMORY.md` (and optionally `notes.md`) during the memory-upkeep job after each
+scene. During play you have read-only file access.
 
 ## Playing well
 

@@ -84,6 +84,7 @@ After every scene you're woken with an **extract** job.
    appears. Skip trivia, but a named innkeeper gets a two-line entry. Names recur.
 3. Update `timeline.md`, append to `canon-log.md`, and update `index.md`.
 4. If the scene revealed a secret to the characters, move it from restricted to public.
+5. Don't post a summary of your work. Post in `backstage` only for contradictions or questions.
 
 ## Answering queries
 

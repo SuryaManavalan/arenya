@@ -16,6 +16,17 @@ from .config import ROOT, gear, role_of, roster, settings
 from .tools import TurnContext, build_server
 
 BUILTIN_TOOLS = ["Read", "Write", "Edit", "Glob", "Grep"]
+# Every tool schema is resent on every model call, so each job gets only what it uses.
+PLAYER_TURN_TOOLS = ["Read"]
+REFLECT_TOOLS = ["Read", "Write", "Edit"]
+
+
+def tools_for(role: str, job: str) -> list[str]:
+    if job == "reflect":
+        return REFLECT_TOOLS
+    if role in ("player", "npc"):
+        return PLAYER_TURN_TOOLS
+    return BUILTIN_TOOLS
 
 
 class RateLimited(Exception):
@@ -149,9 +160,13 @@ class Dispatcher:
             system_prompt=prompts.system_prompt(agent, role),
             model=gr["model"],
             effort=gr["effort"],
-            tools=BUILTIN_TOOLS,
-            allowed_tools=BUILTIN_TOOLS + ["mcp__arenya"],
+            tools=tools_for(role, kind),
+            allowed_tools=tools_for(role, kind) + ["mcp__arenya"],
             mcp_servers={"arenya": build_server(ctx)},
+            # Without these, Claude Code attaches the account's claude.ai connectors (Notion,
+            # Drive, …): ~95K tokens of tool schemas on every call. See docs/ARCHITECTURE.md § Cost.
+            strict_mcp_config=True,
+            env={"ENABLE_CLAUDEAI_MCP_SERVERS": "false"},
             hooks={"PreToolUse": [HookMatcher(matcher=acl.FILE_TOOLS, hooks=[acl.make_hook(agent, role)])]},
             setting_sources=[],
             cwd=str(ROOT),
@@ -183,10 +198,13 @@ class Dispatcher:
             self._retry(job, gr["n"], repr(e), downshift=False)
             return
 
+        usage = result.usage if result else None
         engine.log("usage", {"agent": agent, "job": kind, "gear": gr["n"], "model": gr["model"],
                              "effort": gr["effort"], "why": why, "secs": round(time.time() - started, 1),
                              "turns": result.num_turns if result else None,
-                             "cost_usd": result.total_cost_usd if result else None,
+                             # SDK total_cost_usd is cumulative over a resumed session; estimate per turn instead.
+                             "cost_usd": estimate_cost(gr["model"], usage),
+                             "scene": prompts.session_key(state.load(), "turn", {}),
                              "usage": result.usage if result else None, "posted": ctx.posted,
                              "error": result.errors if result and result.is_error else None})
         with state.locked() as st:
@@ -233,6 +251,15 @@ class Dispatcher:
             paused = st["paused"]
         if paused:
             engine.notify_human(f"game paused after repeated failures: {why[:200]}")
+
+
+def estimate_cost(model: str, usage: dict | None) -> float | None:
+    p = settings().get("prices", {}).get(model)
+    if not usage or not p:
+        return None
+    return round((usage.get("input_tokens", 0) * p["input"] + usage.get("output_tokens", 0) * p["output"]
+                  + usage.get("cache_read_input_tokens", 0) * p["cache_read"]
+                  + usage.get("cache_creation_input_tokens", 0) * p["cache_write"]) / 1e6, 5)
 
 
 def _brief(inp: dict) -> str:

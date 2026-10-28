@@ -99,6 +99,28 @@ def cmd_approve_script(a):
     print("approved")
 
 
+def cmd_cost(a):
+    import collections
+    import json
+    path = ROOT / "logs/usage.jsonl"
+    if not path.exists():
+        sys.exit("no usage logged yet")
+    rows = [json.loads(l) for l in path.read_text().splitlines()]
+    by = collections.defaultdict(lambda: [0.0, 0])
+    for r in rows:
+        key = r["agent"] if a.by == "agent" else f"{r['agent']}/{r['job']}" if a.by == "job" else r["model"]
+        by[key][0] += r.get("cost_usd") or 0
+        by[key][1] += 1
+    total = sum(v[0] for v in by.values())
+    for k, (c, n) in sorted(by.items(), key=lambda kv: -kv[1][0]):
+        print(f"{k:28} {n:5} turns  ${c:8.2f}  {100 * c / total if total else 0:5.1f}%")
+    st = state.load()
+    print(f"{'TOTAL':28} {len(rows):5} turns  ${total:8.2f}   (API-price estimate; on a subscription "
+          f"this is usage, not billing)")
+    if st["scenes"]:
+        print(f"closed scenes: {len(st['scenes'])} → ${total / len(st['scenes']):.2f} per scene")
+
+
 def cmd_set_chapter(a):
     with state.locked() as st:
         if st["scene"]:
@@ -157,6 +179,10 @@ def main():
     s.add_argument("--roles", nargs="*")
     s.add_argument("--description")
     s.set_defaults(f=cmd_approve_script)
+
+    s = sub.add_parser("cost", help="estimated spend from logs/usage.jsonl")
+    s.add_argument("--by", choices=["agent", "job", "model"], default="job")
+    s.set_defaults(f=cmd_cost)
 
     s = sub.add_parser("set-chapter", help="set where play starts/continues (e.g. after human-written chapters)")
     s.add_argument("book", type=int)

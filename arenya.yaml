@@ -15,11 +15,19 @@ notify_command: null
 # ---------------------------------------------------------------------------
 # Gearbox ("automatic transmission"). Every agent turn runs in exactly one gear.
 # ---------------------------------------------------------------------------
+# Most output tokens are thinking, so effort is the biggest cost lever after model choice.
 gears:
   1: {model: claude-haiku-5-5,  effort: low}      # bookkeeping: memory upkeep
-  2: {model: claude-sonnet-5-5, effort: medium}   # everyday play
-  3: {model: claude-opus-5-5,   effort: high}     # pivotal moments, DM default
-  4: {model: claude-opus-5-5,   effort: xhigh}    # the big ones: chapter revisions, DM climaxes
+  2: {model: claude-sonnet-5-5, effort: medium}   # everyday play, scene drafts, lore extraction
+  3: {model: claude-opus-5-5,   effort: medium}   # DM default, pivotal player moments
+  4: {model: claude-opus-5-5,   effort: high}     # the big ones: chapter revisions, DM climaxes, onboarding
+
+# API list prices ($ per million tokens) used to estimate each turn's cost in logs/usage.jsonl.
+# cache_write is the 1-hour cache rate (2x input), which Claude Code uses.
+prices:
+  claude-opus-5-5:   {input: 4.00, output: 20.00, cache_read: 0.20, cache_write: 8.00}
+  claude-sonnet-5-5: {input: 2.00, output: 10.00, cache_read: 0.20, cache_write: 4.00}
+  claude-haiku-5-5:  {input: 0.10, output: 0.50,  cache_read: 0.01, cache_write: 0.20}
 
 # base_gear: gear for an ordinary turn.
 # peak_gear: gear reached by spending an upshift charge, or by being in the spotlight.
@@ -36,7 +44,7 @@ roles:
 # Jobs that pin a gear regardless of role (bookkeeping is cheap, revisions are not).
 job_gears:
   reflect: 1
-  draft: 3
+  draft: 2      # first drafts on Sonnet; the Opus revision pass is what readers see
   revise: 4
   onboard: 4
 
