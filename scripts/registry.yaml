@@ -1,0 +1,4 @@
+# Approved helper scripts, runnable by agents through the run_script tool.
+# Only `uv run arenya approve-script` (the human) adds entries here.
+# name: {file: <file in scripts/>, roles: [roles allowed, empty = all], description: ...}
+scripts: {}

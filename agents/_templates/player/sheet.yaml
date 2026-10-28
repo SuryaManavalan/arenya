@@ -1,0 +1,19 @@
+# 5e chassis, reskinned by world/mechanics.md. Only the DM edits this (update_sheet).
+name: <Name>
+level: 1
+class: <class / reskin>
+ancestry: <ancestry>
+abilities: {str: 10, dex: 10, con: 10, int: 10, wis: 10, cha: 10}
+proficiency_bonus: 2
+hp: {max: 10, current: 10, temp: 0}
+ac: 10
+speed: 30
+saves: {}            # e.g. {wis: 4, cha: 4}
+skills: {}           # e.g. {perception: 3, insight: 3}
+attacks: []          # e.g. [{name: Spirit lash, to_hit: 5, damage: "1d10+3 necrotic"}]
+abilities_special: [] # class features, spirit-magic powers (see world/mechanics.md)
+resources: {}        # e.g. {spirit_slots: {max: 2, current: 2}}
+conditions: []
+inventory: []
+coin: {gp: 0}
+notes: ""

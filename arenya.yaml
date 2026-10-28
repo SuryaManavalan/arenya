@@ -1,0 +1,50 @@
+# Arenya engine configuration. Agents never write this file; edit it by hand.
+# See docs/ARCHITECTURE.md for what every key does.
+
+# subscription: strip ANTHROPIC_API_KEY so the Claude CLI uses your claude.ai login.
+# api_key:      pass ANTHROPIC_API_KEY through (pay-per-token).
+auth: subscription
+
+# Max agent turns running at once. Keep low on a subscription (usage windows).
+concurrency: 2
+
+# Optional shell command run when the game needs you (gets the message as $ARENYA_MSG).
+# e.g. "notify-send Arenya \"$ARENYA_MSG\""  or a powershell toast on WSL.
+notify_command: null
+
+# ---------------------------------------------------------------------------
+# Gearbox ("automatic transmission"). Every agent turn runs in exactly one gear.
+# ---------------------------------------------------------------------------
+gears:
+  1: {model: claude-haiku-5-5,  effort: low}      # bookkeeping: memory upkeep
+  2: {model: claude-sonnet-5-5, effort: medium}   # everyday play
+  3: {model: claude-opus-5-5,   effort: high}     # pivotal moments, DM default
+  4: {model: claude-opus-5-5,   effort: xhigh}    # the big ones: chapter revisions, DM climaxes
+
+# base_gear: gear for an ordinary turn.
+# peak_gear: gear reached by spending an upshift charge, or by being in the spotlight.
+# charges:   upshift charges granted at the start of every chapter (unspent ones carry over up to charge_cap).
+# max_turns: tool-use round trips allowed in one turn before the CLI stops the agent.
+roles:
+  dm:         {base_gear: 3, peak_gear: 4, charges: 12, charge_cap: 20, max_turns: 60}
+  player:     {base_gear: 2, peak_gear: 3, charges: 1,  charge_cap: 3,  max_turns: 15}
+  npc:        {base_gear: 2, peak_gear: 3, charges: 0,  charge_cap: 1,  max_turns: 10}
+  author:     {base_gear: 3, peak_gear: 4, charges: 0,  charge_cap: 0,  max_turns: 80}
+  lorekeeper: {base_gear: 2, peak_gear: 3, charges: 3,  charge_cap: 6,  max_turns: 60}
+  director:   {base_gear: 2, peak_gear: 3, charges: 3,  charge_cap: 6,  max_turns: 60}
+
+# Jobs that pin a gear regardless of role (bookkeeping is cheap, revisions are not).
+job_gears:
+  reflect: 1
+  draft: 3
+  revise: 4
+  onboard: 4
+
+# DM levers on other agents' gears.
+spotlights_per_scene: 3      # posts with spotlight=[...] give those agents a free peak-gear reply
+grants_per_chapter: 4        # extra charges the DM may award (like Inspiration)
+
+# Safety valves.
+idle_wakes_before_pause: 3   # DM woken on an idle table this many times with no post -> pause & call human
+packet_message_limit: 80     # max new messages inlined into a wake packet (older: read_channel)
+rate_limit_backoff_s: [60, 300, 900, 1800]
