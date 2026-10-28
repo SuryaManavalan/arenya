@@ -1,0 +1,23 @@
+{
+ "phase": "setup",
+ "next_id": 1,
+ "book": 1,
+ "chapter": 15,
+ "scene_counter": 0,
+ "scene": null,
+ "scenes": [],
+ "expectations": [],
+ "cursors": {},
+ "sessions": {},
+ "charges": {},
+ "grants_used": {},
+ "upshift": [],
+ "spotlight": [],
+ "queue": [],
+ "running": [],
+ "job_seq": 0,
+ "human_waiting": [],
+ "idle_wakes": 0,
+ "paused": false,
+ "pause_reason": null
+}
