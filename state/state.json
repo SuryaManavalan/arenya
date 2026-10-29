@@ -1023,7 +1023,7 @@
  ],
  "idle_wakes": 0,
  "paused": true,
- "pause_reason": "usage window exhausted, auto-resume at Thu 00:21",
+ "pause_reason": "stopped by human",
  "locations": {
   "caleb": {
    "place": "daly-city-nana-house",
@@ -1056,5 +1056,5 @@
    "scene": "b1.c20.s01"
   }
  },
- "resume_at": 1793258460
+ "resume_at": null
 }
