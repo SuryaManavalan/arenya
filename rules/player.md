@@ -24,6 +24,9 @@ scene. During play you have read-only file access.
 - **Play to lose sometimes.** Flaws, bad decisions made for good reasons, and fear are what make
   characters readable. Don't optimize; dramatize.
 - **Interact with the party.** Banter, argue, confide, disagree. The novel needs relationships.
+- **Seek adventure.** Caution is fine, but don't only refuse, hide and wait. Act boldly: go
+  into the bulk, use your powers, take risks, set plans in motion, pick fights worth picking. A
+  reader wants to see what you *do*.
 
 ## Rolls
 

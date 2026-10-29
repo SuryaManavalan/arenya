@@ -1,72 +1,71 @@
 # Memory — dm
-_Last updated: b1.c17.s12_
+_Last updated: b1.c18.s01_
 
 ## Who I am right now
-Book 1 (*Astral*) is between chapters. Chapter 17 closed after 12 scenes; Chapter 18 is next. No scene is open. It's Sunday Nov 1, about 10:40 a.m., at Nana's in Hillcrest. Kino's window hour is done. The sill salt held, but the courtesy hill Kino left at the pantry was taken, and the linoleum is clean. The fog still breathes every eleven seconds, and something vast turned over offshore at 8:48. The pacing decree (#0957) is binding: arcs are 3–6 scenes, scenes 10–30 messages, skip time freely.
+Book 1 (*Astral*), Chapter 18 is open. Scene s01 "Monday" closed at 1 p.m. Mon Nov 2. The fog still breathes every eleven seconds, and the breath is now on the news: the Heron Thing clip (Candlestick, 6:52 a.m.) went viral with the eleven-second breath. Kino's left forearm warmed 6:52–6:53, keyed to the water, not the bird. The pacing decree (#0957) is binding: arcs are 3–6 scenes, scenes 10–30 messages, skip time freely.
 
 ## What I want
-1. **Chapter 18 opening.** Skip forward in time (Mon Nov 2 onward). Move the outline spine: Typhus present, rifts rising, the houses, the media war.
-2. **Hale's bad week.** The balance from the void lands on Box 112. Consequences for the Nissan and the Livermore clock (Tue Nov 10).
-3. **Dalal.** Holds Malachi's true name and the Lucero house. Keep him ambiguous (curb man or broker still open). Pay off later.
-4. **Kaiju escalation** (decree #0906). Fog breath every eleven seconds; the shape under it grows.
-5. **The window.** Whatever drew the waterline wants to be read. Answer it slowly, not in one scene.
+1. **Scene s02 "All Souls" (Mon 4 p.m. to dusk).** Church at Our Lady of Mercy, Daly City, then Holy Cross Cemetery in Colma. Susmithaa's ofrenda is built with her canister. Land the grief beat and let the fog watch from offshore.
+2. **Typhus must become present.** Still not on the page in person. Keep him in the news, on a call, or in a body.
+3. **Waterfront beat.** Arenya's 600-word piece is due Tue 5 p.m. Teddy gave her a new keycard. Her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer.
+4. **Elias, Wed 6:40 a.m.** Crissy Field warming hut. "He'll be early. He's always early when he's scared."
+5. **Hale's bad week.** Balance on Box 112; the Nissan's fifth stroke; Livermore clock Tue Nov 10.
+6. **Kaiju escalation** (decree #0906). The shape under the fog grows. Answer the window slowly.
 
 ## People
-- **Arenya** — Argued the trade through; kept the house turned away from Dalal. Apologized to Malachi, will stay angry about the lie. Sat her window watch behind Kino with the notebook shut, then open. Abernathy's contact in the bond. Logged 10:21 and photographed the circle. (s10–s12)
-- **Kino (Joaquín)** — Salted the 110 line and the sill corner to corner. Sat the window for an hour. Says the Lady walks beside him. Left a courtesy salt hill that was taken. Hands steady now. (s11–s12)
-- **Abernathy / Ix** — Pantry retreat, then at Arenya's knee. Felt the blank page "wait on" him and nothing touch him. Heard a short name, one breath, that he knows "like his own cough" and won't say. Flinched at the waterline drawing, something he's seen before. Owes Arenya his past (human #0207). (s11–s12)
-- **Amma (Lakshmi Sowri)** — Barefoot, Sheaffer in her pocket. Alternate tick struck. Hand came out empty. (s10–s11)
-- **Appa (Raghavan Sowri)** — Stain receded to a crescent. Told Caleb to sit at the table. Still hasn't forgiven anyone. (s11)
-- **Nana Itzel Lucero** — Ran the comal rite. Covered the salt, didn't sweep it. Called Ava "doctora." Not yet asked whether the taken salt was manners or a debt. (s11)
-- **Malachi Shawani** — Persuasion 16 won the void. Dalal now holds his true name. Confessed to Appa. Heard the blank page. Hasn't been told about the window yet. (s11)
+- **Arenya** — Apologized to Malachi, still angry about the lie. Her old keycard pinged Monolith twice Saturday. Has 600 words due Tue. Her wrists run cold. Abernathy's contact in the bond. (s01 and earlier)
+- **Kino (Joaquín)** — Salted the 110 line and the sill. Left a courtesy salt hill that was taken. Left forearm warmed 6:52–6:53 Monday, keyed to the water. Says the Lady walks beside him. (s01)
+- **Abernathy / Ix** — Pantry blankness. Flinched at the waterline drawing. Heard a turn signal tick eleven times on the cassette. Owes Arenya his past (human #0207). (s01)
+- **Ava** — Oven swung east at 11:58 Sunday night. Has the fog case report and the palm photo. (s01)
+- **Amma (Lakshmi Sowri)** — Alternate tick struck. Sheaffer passed. Has said "kanna" and Arenya refuses to define it. (s08–s11)
+- **Appa (Raghavan Sowri)** — PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52. He added it to the "11" envelope on the fridge. Stain receded to a crescent. Confessed to nobody else since Malachi. (s01)
+- **Nana Itzel Lucero** — Says the taken salt was manners: the thing now knows it's welcome. Don't leave more unless you mean it. Keeps the cassette in her freezer. (s01)
 - **Caleb Strand** — Confessed he helped kill Susmithaa. Scar cool. Sat at the table, then went to the porch with Ava. (s11–s12)
-- **Ava** — Saw the fog's shape turn at 8:48. Photographed the window circle at Kino's request. Has a case report on the fog. (s11–s12)
-- **Susmithaa Sowri** — Deceased Mon Oct 26. Canister on Nana's shelf.
+- **Malachi Shawani** — Dalal holds his true name (sold). Saw three calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). Will park a block away and keep distance from Arenya. (s01)
+- **Teddy** — Keeps Arenya on the waterfront beat. Reveals her old card. Voicemail and legal; DPH letter. (s01)
+- **Elias** — Confirmed the coffee at Crissy Field. Knows more than he says. (s01)
+- **Rodel Panganiban** (notary, Colma) — Landline message 11:58 Mon: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. (s01)
+- **Pt. H. Dalal** — White veshti, sacred thread, glasses back on. Holds Malachi's true name and the Lucero house. Curb man or broker still open. Possibly owns the San Bruno oxfords. Says "I only keep the names."
+- **Susmithaa Sowri** — Deceased Mon Oct 26. Canister on Nana's shelf. Ofrenda built with her canister.
 - **Shepherd** — Stamp "WE WILL COME TO HIM." Identity unknown. Quiet means danger.
-- **Hale / Daniel Hale** — Navy coat, Box 112. Now receives the balance from the void.
-- **Pt. H. Dalal** — White veshti, sacred thread. Glasses back on. Read Malachi's market death ("someone else wore glasses that day"). Read the house as "Lucero." Noticed the blank page: "The box was the other man's. I only keep the names." Possibly owns the San Bruno oxfords.
-- **The runner (unnamed)** — Clipboard, pencil behind ear, lanyard backward. Rode the 9:12 with the balance. Sunday visitor.
+- **Hale / Daniel Hale** — Navy coat, Box 112. Receives the balance from the void.
+- **The runner (unnamed)** — Clipboard, pencil behind ear, lanyard backward. Sunday visitor. Pacifica testimony unconfirmed.
 - **The Nissan (grey, 7KBQ4R2)** — Driverless. Fifth stroke unfinished.
-- **Rodel Panganiban** (notary, Colma), **Benny Benasaraf** (Serramonte Auto), **Walter Bell** (Lattice watcher, Camry, Box 12).
+- **Walter Bell** (Lattice watcher, Camry, Box 12), **Benny Benasaraf** (Serramonte Auto).
 
 ## What I know
 - Rules: `world/mechanics.md`. Plan and clocks: `plot/dm-notes.md`.
-- **Custody form (canon):** REF PROXIMAL/11. Item: sealed container, Susmithaa, "c/o LUCERO, I." Receiver line R (grey pencil, March). Alternate "L. SOWRI ✓." Stamp: shepherd's crook in a circle. Voided: "Opened in error. Issuer's ink. Returned up the line. Closed." (s10–s11)
-- **Void rule (canon, s11):** a voided error returns its balance to the issuer. It needs a witness who keeps names. The witness reads whatever faces him. Turned backs give nothing. A face gives a name.
-- **Nana's rite:** nothing sealed with glue enters the house. Open on the salt. Carry in the non-signing hand. Open only with wood. Items are covered, not swept. Items set down, never handed.
-- **Window (s12, Sun 10:21):** stove clock stopped 11 sec with the fog's breath. Long back stayed above offshore water. Smudge at forehead height on the outside of the glass. A fingertip drew a waterline, then a hump, unfinished. No name, no word. The courtesy salt was taken. Abernathy: "manners, not a debt." Abernathy's flinch suggests a link to his past.
-- **Threads:** Appa's thumb tie and Amma's left-foot slack released. The grey thread from the jar to the 110 stop went loose after the bus left.
-- **Appa's pen (s06):** Mar 19, Rodel's counter. Hale offered his pen cap-first. Appa wrote the R in Hale's ink.
-- **Temple (s07):** Sri Venkateswara Satsang, San Bruno. Oxfords size 10–11, grey welt dust. Pink slip "LAKSHMI SOWRI · ROHINI · SAT 10/31 · PAID ✓."
-- **Livermore register No. 2207:** $101 archana for "Ari," endorsed "R. Sowri" then "Pay to the order of H. Dalal."
-- **Caleb's Pacifica testimony (unconfirmed):** a runner at Mr. Okafor's stucco house in Linda Mar; left on the 110, never drove.
-- **The 110:** Daly City BART bay C is the turnaround. The 8:12 tick moved to 9:12. Sign flickered NOT IN SERVICE at 8:48.
-- **Kaiju (decree #0906):** fog breathes every 11 seconds; lamps dim in time. At 8:48 the bank lifted and something vast lay down offshore (Ava only).
+- **Custody form (canon):** REF PROXIMAL/11. Item: sealed container, Susmithaa, "c/o LUCERO, I." Receiver line R (grey pencil, March). Alternate "L. SOWRI ✓." Voided: "Opened in error. Issuer's ink. Returned up the line. Closed." (s10–s11)
+- **Void rule (canon):** a voided error returns its balance to the issuer. It needs a witness who keeps names. The witness reads whatever faces him. A face gives a name. (s11)
+- **Nana's rite:** nothing sealed with glue enters the house. Open on the salt. Carry in the non-signing hand. Items are covered, not swept, and set down, never handed. (s11)
+- **Window (Sun 10:21):** the fog's breath stopped the stove clock for 11 seconds. A waterline and hump were drawn on the outside glass. The courtesy salt was taken. (s12)
 - **Malachi's past (s10):** overseas, eleven years ago, a man died after forty seconds of eye contact in a market, filed as "cerebral event." Nine matching deaths in this city.
-- **CHP query (s10):** Malachi ran a highway-patrol query for Arenya's car under his name.
-- **Keycard clone:** Teddy's card cloned. Caller asked if Teddy had "signed for it yet."
+- **Livermore register No. 2207:** $101 archana for "Ari," endorsed "R. Sowri" then "Pay to the order of H. Dalal."
+- **Temple (s07):** Sri Venkateswara Satsang, San Bruno. Oxfords size 10–11, grey welt dust. Pink slip "LAKSHMI SOWRI · ROHINI · SAT 10/31 · PAID ✓."
+- **The 110:** Daly City BART bay C is the turnaround. Sign flickered NOT IN SERVICE at 8:48 Sunday.
+- **Kaiju (decree #0906):** fog breathes every 11 seconds; lamps dim in time. At 8:48 Sunday something vast lay down offshore (Ava only).
 - **Shepherd text (Fri 11:14 PM):** "...SIGNATORY ON FILE: R. SOWRI. SUN 11/1. WE WILL COME TO HIM."
-- **Oven (Ava):** SW at 2:17 a.m. Sunday, held 5h46m, stable.
+- **Keycard clone:** Teddy's card cloned; caller asked if he had "signed for it yet."
+- **CHP query (s10):** Malachi ran a highway-patrol query for Arenya's car under his name.
 
 ## Open threads
 - **Window:** what drew the waterline, and why it took the salt. Ask Nana (manners or debt?). Abernathy's flinch.
-- **Hale's bad week:** balance on Box 112; Nissan's fifth stroke; Livermore clock Tue Nov 10.
 - **Dalal's name ledger:** Malachi's true name is in his book. Who wore the glasses in the market?
-- **Shepherd's identity.** **Runner's identity:** Pacifica, the 110, the San Bruno rack.
-- **Landline rings** (Sat 3:12 p.m.). Malachi said don't answer.
-- **Teddy:** voicemail, legal, DPH letter, Monday 9:00 a.m. Keycard held.
-- **Susmithaa's ash:** church Monday (Día de los Muertos); family decides after.
+- **Corinne's memo:** meeting Tue 1 p.m. Malachi's 703 calls.
+- **Hale's bad week:** Box 112, the Nissan, Livermore clock Tue Nov 10.
+- **Elias at Crissy Field:** Wed 6:40 a.m.
+- **Shepherd's identity.** Runner's identity.
+- **Landline:** Malachi said don't answer.
+- **Ash:** after the church and cemetery, the family decides.
 - **Abernathy's past** (human #0207). Pantry blankness.
 - **Kaiju escalation** and the Book 1 climax.
-- **Ava's palm** and the fog case report.
-- **Price signs:** Kino's sternum ache gone; Arenya's cold wrists; Appa's stain.
-- **"Kanna":** Amma's word. Arenya refuses to define it.
+- **Price signs:** Arenya's cold wrists; Appa's stain.
 - **Awaiting human** on #0199 points 1–3 and #0002. Running provisionally.
 
 ## Recent scenes
-- b1.c17.s12 "The Window Hour" (Sun 9:40–10:40 a.m., Nana's): Kino sits the window behind a salt line; a waterline and hump are drawn on the outside glass; the courtesy salt is taken; Abernathy flinches at the drawing.
-- b1.c17.s11 "All Hallows" (Sun 7:48–9:30 a.m.): the 110 arrives; Dalal reads the runner's prints; Malachi wins the void (Persuasion 16); the fog stops breathing and something turns under it.
-- b1.c17.s10 "Hat in Hand" (Sat 6:20–7 p.m.): Malachi confesses and crosses the salt; the glasses grey a hand's width.
-- b1.c17.s09 "The Long Afternoon" (Sat): shoe rack empty; 110 turnaround footprints; "8:12" tick.
-- b1.c17.s08 "Since When" (Sat morning): Amma hears "Susmithaa Sowri." Sheaffer passed.
-- b1.c17.s07 "Saturday Seva" (San Bruno temple): oxfords with grey welt dust; pink slip.
+- b1.c18.s01 "Monday" (Mon Nov 2, morning to 1 p.m.): the Heron clip goes viral; Kino's forearm warms; Rodel's landline call reports Dalal and the grey suit; the cassette goes in the freezer; Malachi's name has been sold.
+- b1.c17.s12 "The Window Hour" (Sun 9:40–10:40 a.m., Nana's): a waterline and hump are drawn on the outside glass; the courtesy salt is taken; Abernathy flinches.
+- b1.c17.s11 "All Hallows" (Sun 7:48–9:30 a.m.): the 110 arrives; Malachi wins the void; the fog stops breathing and something turns under it.
+- b1.c17.s10 "Hat in Hand" (Sat 6:20–7 p.m.): Malachi confesses and crosses the salt.
+- b1.c17.s09 "The Long Afternoon" (Sat): shoe rack empty; 110 turnaround footprints.
+- b1.c17.s08 "Since When" (Sat morning): Amma hears "Susmithaa Sowri."

@@ -1,10 +1,25 @@
 {
  "phase": "play",
- "next_id": 969,
+ "next_id": 1010,
  "book": 1,
  "chapter": 18,
- "scene_counter": 0,
- "scene": null,
+ "scene_counter": 2,
+ "scene": {
+  "id": "b1.c18.s02",
+  "title": "All Souls",
+  "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
+  "cast": [
+   "arenya",
+   "malachi",
+   "abernathy",
+   "kino",
+   "ava",
+   "caleb"
+  ],
+  "place": null,
+  "start_id": 988,
+  "spotlights_used": 0
+ },
  "scenes": [
   {
    "id": "b1.c15.s01",
@@ -556,52 +571,71 @@
    "summary": "Kino sat Nana's kitchen window for an hour (9:40\u201310:40 a.m., Sun Nov 1) behind a corner-to-corner salt line on the sill, after leaving a small hill of salt as a courtesy in front of the pantry. Arenya and Abernathy watched from a chair behind him, using the reflection in the oven door. At 10:21 the stove clock stopped for eleven seconds in time with the fog's breath, and a long back stayed above the offshore water a moment too long. In the oven-door reflection Arenya saw a forehead-height smudge on the outside of the glass, with no one on the step. A fingertip on the outside drew a waterline and a rising hump, then stopped unfinished like the Nissan's fifth stroke; it wrote no name and spoke no word. Abernathy got the 'blank page' again, closer, felt like he was being waited on, and flinched at the drawing as something he'd seen before but can't place. At the end of the hour the sill line was intact, but the pantry salt hill was gone and the linoleum was clean, as if taken like a gift. Abernathy is sure it was manners, not a debt. Arenya logged times and photographed the circle, sill and clock. Next steps: ask Nana whether taking the salt was manners or a debt, keep the pantry shut, and tell Malachi about the blank page.",
    "book": 1,
    "chapter": 17
+  },
+  {
+   "id": "b1.c18.s01",
+   "title": "Monday",
+   "location": "Hillcrest, Daly City \u2192 the Mission \u2192 the city, Sun night Nov 1 to Mon noon Nov 2",
+   "place": "daly-city-nana-house",
+   "cast": [
+    "arenya",
+    "malachi",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 969,
+   "end_id": 987,
+   "summary": "Monday Nov 2, morning to 1 p.m. The Heron Thing clip (Candlestick, 6:52) goes viral with the 11-second breath; Kino's left forearm warmed 6:52\u20136:53, keyed to the water, not the bird. Ava's oven swung east at 11:58 Sunday night. Appa's PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52, and Appa adds it to the \"11\" envelope on the fridge. Nana says the taken salt was manners: the thing now knows it's welcome, so don't leave more unless you mean it. Teddy keeps Arenya on the waterfront beat (600 words due Tue 5 p.m.) with a new keycard, and reveals her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer. Elias confirms the coffee: Wed 6:40, Crissy Field warming hut, \"He'll be early. He's always early when he's scared.\" Malachi saw 3 calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). At 11:58 Rodel left a message on the landline: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. Malachi's true name has been sold. Abernathy heard a turn signal tick eleven times on the tape. The cassette is in Nana's freezer; Kino salted the hall sill; Malachi will park a block away and keep distance from Arenya. The ofrenda is built with Susmithaa's canister; church at four, Colma after.",
+   "book": 1,
+   "chapter": 18
   }
  ],
  "expectations": [],
  "cursors": {
-  "lorekeeper": 309,
-  "dm": 965,
-  "arenya": 962,
-  "abernathy": 963,
+  "lorekeeper": 989,
+  "dm": 1008,
+  "arenya": 1002,
+  "abernathy": 1003,
   "author": 596,
-  "caleb": 945,
-  "kino": 961,
-  "ava": 944,
-  "malachi": 942
+  "caleb": 1007,
+  "kino": 1005,
+  "ava": 1005,
+  "malachi": 1003
  },
  "sessions": {
   "lorekeeper": {
-   "key": "b1.c16.between",
-   "session_id": "f5a97980-7f49-4aec-b89b-b152bf01037f"
+   "key": "b1.c18.s02",
+   "session_id": "5553759e-8615-4f19-a85b-0e09a8a63dc8"
   },
   "arenya": {
-   "key": "b1.c17.s12",
-   "session_id": "f7486f5c-1022-4c42-bee1-e2272c731dd1"
+   "key": "b1.c18.s02",
+   "session_id": "3ecdd618-3aa3-4f5c-87ab-632c67902939"
   },
   "dm": {
-   "key": "b1.c17.s12",
-   "session_id": "e71bdd4c-d6d8-4b9a-974f-b9867707af5e"
+   "key": "b1.c18.s01",
+   "session_id": "de662ed1-4ebc-41ac-89c5-84c5bfcb8592"
   },
   "abernathy": {
-   "key": "b1.c17.s12",
-   "session_id": "6d6eaa7b-997f-46db-a16a-4521638fad86"
+   "key": "b1.c18.s02",
+   "session_id": "41d6f8ce-7415-4740-951d-4d89365494c8"
   },
   "caleb": {
-   "key": "b1.c17.s11",
-   "session_id": "2357c19c-9fef-44bc-af27-3470f6f4773d"
+   "key": "b1.c18.s02",
+   "session_id": "6bf5193d-56c4-49c8-8a57-47a5dc7e8333"
   },
   "kino": {
-   "key": "b1.c17.s12",
-   "session_id": "60cb493f-b4a4-42c5-b1cd-3085c00f70fa"
+   "key": "b1.c18.s01",
+   "session_id": "bf8fde24-ffbf-489b-87ee-449bac6aba1b"
   },
   "ava": {
-   "key": "b1.c17.s11",
-   "session_id": "51a35e0a-b085-4e3a-8b36-f26ac25b89e3"
+   "key": "b1.c18.s02",
+   "session_id": "12872c4f-8fb4-425f-9cf5-07c7b9e07630"
   },
   "malachi": {
-   "key": "b1.c17.s11",
-   "session_id": "7228c900-0c09-4146-9f98-2f7efdf7f18e"
+   "key": "b1.c18.s02",
+   "session_id": "19ff23d7-1a93-4607-bfab-63a0484ab702"
   },
   "author": {
    "key": "b1.c17.between",
@@ -611,7 +645,7 @@
  "charges": {
   "dm": {
    "period": "b1.c18",
-   "left": 20
+   "left": 19
   },
   "author": {
    "period": "b1.c18",
@@ -655,26 +689,140 @@
   "b1.c16": 4,
   "b1.c17": 4
  },
- "upshift": [],
+ "upshift": [
+  "dm"
+ ],
  "spotlight": [],
- "queue": [],
- "running": [
+ "queue": [
   {
-   "seq": 1040,
+   "seq": 1057,
    "agent": "author",
-   "job": "revise",
+   "job": "draft",
    "args": {
-    "book": 1,
-    "chapter": 17,
-    "summary": "Chapter 17 closes the Colma/custody-receipt arc. Appa confessed that he signed the R in Hale's ink, and the family traced the runner, the 110 bus, the San Bruno temple oxfords and Pt. Dalal. Malachi confessed his lie and crossed Nana's salt. On All Hallows morning, Malachi persuaded the runner to void the Proximal/11 entry as 'opened in error'; its balance went back up the line to the ink's issuer (Hale). Dalal witnessed it, read the faces turned toward him (Malachi's true name, his market death, 'someone else wore glasses that day'; the house as Lucero), and took his glasses back. Appa's stain receded, Amma's alternate entry was struck, and Appa told Caleb to sit at the table. Offshore, the fog breathes every eleven seconds, and something vast has turned over under it. In the window hour, an unseen presence drew a waterline and a rising back on Nana's glass, left it unfinished, and took Kino's courtesy salt. Open going forward: Hale's bad week with the balance on his desk, Teddy's legal and DPH Monday, Dalal's name ledger, Shepherd, Abernathy's patient voice and his flinch at the drawing, Susmithaa's ash on D\u00eda de los Muertos, and the kaiju rising toward the Book 1 climax.",
-    "final_in_book": false
+    "scene": {
+     "id": "b1.c18.s01",
+     "title": "Monday",
+     "location": "Hillcrest, Daly City \u2192 the Mission \u2192 the city, Sun night Nov 1 to Mon noon Nov 2",
+     "place": "daly-city-nana-house",
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 969,
+     "end_id": 987,
+     "summary": "Monday Nov 2, morning to 1 p.m. The Heron Thing clip (Candlestick, 6:52) goes viral with the 11-second breath; Kino's left forearm warmed 6:52\u20136:53, keyed to the water, not the bird. Ava's oven swung east at 11:58 Sunday night. Appa's PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52, and Appa adds it to the \"11\" envelope on the fridge. Nana says the taken salt was manners: the thing now knows it's welcome, so don't leave more unless you mean it. Teddy keeps Arenya on the waterfront beat (600 words due Tue 5 p.m.) with a new keycard, and reveals her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer. Elias confirms the coffee: Wed 6:40, Crissy Field warming hut, \"He'll be early. He's always early when he's scared.\" Malachi saw 3 calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). At 11:58 Rodel left a message on the landline: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. Malachi's true name has been sold. Abernathy heard a turn signal tick eleven times on the tape. The cassette is in Nana's freezer; Kino salted the hall sill; Malachi will park a block away and keep distance from Arenya. The ofrenda is built with Susmithaa's canister; church at four, Colma after.",
+     "book": 1,
+     "chapter": 18
+    }
    },
    "priority": 9,
    "attempt": 0,
-   "ts": "2026-10-29T04:11:36Z"
+   "ts": "2026-10-29T04:37:28Z"
+  },
+  {
+   "seq": 1058,
+   "agent": "lorekeeper",
+   "job": "extract",
+   "args": {
+    "scene": {
+     "id": "b1.c18.s01",
+     "title": "Monday",
+     "location": "Hillcrest, Daly City \u2192 the Mission \u2192 the city, Sun night Nov 1 to Mon noon Nov 2",
+     "place": "daly-city-nana-house",
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 969,
+     "end_id": 987,
+     "summary": "Monday Nov 2, morning to 1 p.m. The Heron Thing clip (Candlestick, 6:52) goes viral with the 11-second breath; Kino's left forearm warmed 6:52\u20136:53, keyed to the water, not the bird. Ava's oven swung east at 11:58 Sunday night. Appa's PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52, and Appa adds it to the \"11\" envelope on the fridge. Nana says the taken salt was manners: the thing now knows it's welcome, so don't leave more unless you mean it. Teddy keeps Arenya on the waterfront beat (600 words due Tue 5 p.m.) with a new keycard, and reveals her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer. Elias confirms the coffee: Wed 6:40, Crissy Field warming hut, \"He'll be early. He's always early when he's scared.\" Malachi saw 3 calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). At 11:58 Rodel left a message on the landline: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. Malachi's true name has been sold. Abernathy heard a turn signal tick eleven times on the tape. The cassette is in Nana's freezer; Kino salted the hall sill; Malachi will park a block away and keep distance from Arenya. The ofrenda is built with Susmithaa's canister; church at four, Colma after.",
+     "book": 1,
+     "chapter": 18
+    }
+   },
+   "priority": 8,
+   "attempt": 0,
+   "ts": "2026-10-29T04:37:28Z"
+  },
+  {
+   "seq": 1065,
+   "agent": "caleb",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c18.s01",
+     "title": "Monday",
+     "location": "Hillcrest, Daly City \u2192 the Mission \u2192 the city, Sun night Nov 1 to Mon noon Nov 2",
+     "place": "daly-city-nana-house",
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 969,
+     "end_id": 987,
+     "summary": "Monday Nov 2, morning to 1 p.m. The Heron Thing clip (Candlestick, 6:52) goes viral with the 11-second breath; Kino's left forearm warmed 6:52\u20136:53, keyed to the water, not the bird. Ava's oven swung east at 11:58 Sunday night. Appa's PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52, and Appa adds it to the \"11\" envelope on the fridge. Nana says the taken salt was manners: the thing now knows it's welcome, so don't leave more unless you mean it. Teddy keeps Arenya on the waterfront beat (600 words due Tue 5 p.m.) with a new keycard, and reveals her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer. Elias confirms the coffee: Wed 6:40, Crissy Field warming hut, \"He'll be early. He's always early when he's scared.\" Malachi saw 3 calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). At 11:58 Rodel left a message on the landline: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. Malachi's true name has been sold. Abernathy heard a turn signal tick eleven times on the tape. The cassette is in Nana's freezer; Kino salted the hall sill; Malachi will park a block away and keep distance from Arenya. The ofrenda is built with Susmithaa's canister; church at four, Colma after.",
+     "book": 1,
+     "chapter": 18
+    }
+   },
+   "priority": 6,
+   "attempt": 0,
+   "ts": "2026-10-29T04:37:28Z"
   }
  ],
- "job_seq": 1041,
+ "running": [
+  {
+   "seq": 1084,
+   "agent": "dm",
+   "job": "turn",
+   "args": {},
+   "priority": 0,
+   "attempt": 0,
+   "ts": "2026-10-29T04:40:06Z"
+  },
+  {
+   "seq": 1064,
+   "agent": "ava",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c18.s01",
+     "title": "Monday",
+     "location": "Hillcrest, Daly City \u2192 the Mission \u2192 the city, Sun night Nov 1 to Mon noon Nov 2",
+     "place": "daly-city-nana-house",
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 969,
+     "end_id": 987,
+     "summary": "Monday Nov 2, morning to 1 p.m. The Heron Thing clip (Candlestick, 6:52) goes viral with the 11-second breath; Kino's left forearm warmed 6:52\u20136:53, keyed to the water, not the bird. Ava's oven swung east at 11:58 Sunday night. Appa's PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52, and Appa adds it to the \"11\" envelope on the fridge. Nana says the taken salt was manners: the thing now knows it's welcome, so don't leave more unless you mean it. Teddy keeps Arenya on the waterfront beat (600 words due Tue 5 p.m.) with a new keycard, and reveals her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer. Elias confirms the coffee: Wed 6:40, Crissy Field warming hut, \"He'll be early. He's always early when he's scared.\" Malachi saw 3 calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). At 11:58 Rodel left a message on the landline: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. Malachi's true name has been sold. Abernathy heard a turn signal tick eleven times on the tape. The cassette is in Nana's freezer; Kino salted the hall sill; Malachi will park a block away and keep distance from Arenya. The ofrenda is built with Susmithaa's canister; church at four, Colma after.",
+     "book": 1,
+     "chapter": 18
+    }
+   },
+   "priority": 6,
+   "attempt": 0,
+   "ts": "2026-10-29T04:37:28Z"
+  }
+ ],
+ "job_seq": 1084,
  "human_waiting": [],
  "idle_wakes": 0,
  "paused": false,
@@ -682,33 +830,33 @@
  "locations": {
   "caleb": {
    "place": null,
-   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
-   "scene": "b1.c17.s11"
+   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
+   "scene": "b1.c18.s02"
   },
   "kino": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's kitchen, Hillcrest, Daly City \u2014 Sunday Nov 1, 9:40 a.m.",
-   "scene": "b1.c17.s12"
+   "place": null,
+   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
+   "scene": "b1.c18.s02"
   },
   "ava": {
    "place": null,
-   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
-   "scene": "b1.c17.s11"
+   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
+   "scene": "b1.c18.s02"
   },
   "arenya": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's kitchen, Hillcrest, Daly City \u2014 Sunday Nov 1, 9:40 a.m.",
-   "scene": "b1.c17.s12"
+   "place": null,
+   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
+   "scene": "b1.c18.s02"
   },
   "abernathy": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's kitchen, Hillcrest, Daly City \u2014 Sunday Nov 1, 9:40 a.m.",
-   "scene": "b1.c17.s12"
+   "place": null,
+   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
+   "scene": "b1.c18.s02"
   },
   "malachi": {
    "place": null,
-   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
-   "scene": "b1.c17.s11"
+   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
+   "scene": "b1.c18.s02"
   }
  }
 }

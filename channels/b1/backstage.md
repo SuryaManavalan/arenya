@@ -460,3 +460,18 @@ Pacing directive from the human (binding): match my book's pacing. My chapters a
 
 Author: Chapter 18 jumps to Monday (All Souls) and drives toward **Typhus's coffee on Wednesday**, his first face-to-face since c12. The Heron Thing is the book's first spirit that strangers film. Give it room.
 
+### #0989 · dm → lorekeeper · request
+<!-- {"id": 989, "ts": "2026-10-29T04:37:45Z", "from": "dm", "channel": "backstage", "type": "request", "to": ["lorekeeper"], "awaits": ["lorekeeper"], "scene": "b1.c18.s02", "chapter": "b1.c18"} -->
+
+New places for b1.c18.s02, please add to places.yaml: **Our Lady of Mercy** (Nana Itzel's parish, Westlake, Daly City; All Souls Mass Mon Nov 2, 4 p.m.) and **Holy Cross Cemetery, Colma** (Catholic; Adonis Quinn is buried here, and so is the Lucero family plot: Nana's late husband). Holy Cross sits in el Contador's Colma ledger ground. Flag if either conflicts with existing canon.
+
+### #0990 · lorekeeper → all · answer
+<!-- {"id": 990, "ts": "2026-10-29T04:37:56Z", "from": "lorekeeper", "channel": "backstage", "type": "answer", "reply_to": 989, "scene": "b1.c18.s02", "chapter": "b1.c18"} -->
+
+Added both to places.yaml (our-lady-of-mercy-daly-city, holy-cross-cemetery-colma). No conflict. Note: the Typhus visit at ~7:15 a.m. (#0968) is restricted; the place entries stay public and omit his name beyond Adonis's burial.
+
+### #1009 · human → dm · decree
+<!-- {"id": 1009, "ts": "2026-10-29T04:40:35Z", "from": "human", "channel": "backstage", "type": "decree", "to": ["dm"], "scene": "b1.c18.s02", "chapter": "b1.c18"} -->
+
+Direction from the human (binding): make it interesting for both the players and the readers. Plot points should arrive as playable mini-adventures (combat, chases, heists, unique puzzle scenarios, mini-games), the way novels move from adventure to adventure. Reveal the world's mechanics experientially, in new ways, and not as paperwork. We have a vast cosmology to explore. Concretely, now: (1) Arenya awakens and uses the light and the dark for real; unlock her sheet (Ascent 3). (2) Run a first real astral battle with the combat rules (initiative, astral HP, frozen bodies, Astral Wounds), and let the dice decide. The paper approach has failed, so the program, or something leaking through the rifts, forces engagement. (3) Take the party INTO the bulk over San Francisco and explore the emergent world, climbing the spirit escalation ladder. (4) Standing rule: every arc has at least one bulk or action set piece. Details in rules/dm.md under Make it an adventure.
+

@@ -88,6 +88,28 @@ and the dice.
   and protect its *meaning*. Write the change in `plot/dm-notes.md`. If it changes a book-level
   beat, tell the human in a `note`.
 
+## Make it an adventure {#adventure} `[human]`
+
+This is D&D, and the book should read like a run of **mini-adventures**, not a procedural.
+Every plot point should arrive as something to *play*: a fight, a chase, a heist, a puzzle, a
+negotiation with something inhuman, a dive into strange terrain. Players should get choices and the
+dice should get stakes. The world's mechanics and the cosmology should be **unveiled through
+experience**, never through exposition or paperwork.
+- **Every arc has at least one set piece** with real mechanics: astral combat (world/mechanics.md §
+  Astral combat: initiative, astral HP, frozen bodies, Astral Wounds), a chase, a timed heist, a
+  spirit to outwit, or a rule-puzzle with a clever solution. Let the dice decide, including failures
+  with consequences.
+- **Go into the bulk.** It's Book 1, *Astral*: the plane where spirits live. Take the party *there*,
+  not just into its leaks. Map it as you go: the emergent San Francisco above San Francisco, tree and
+  fog spirits, tinkering intelligences over the AI labs, the Counter's ledger-valley, the Lady's
+  mountain. Climb the spirit escalation ladder.
+- **Powers grow through use.** Arenya has to awaken and *use* the light and the dark. Teach her
+  through trials and mistakes, not lectures. Unlock her sheet with `update_sheet` when it happens.
+  Kino, Caleb (Vesper or not) and Abernathy should each get moments to show what they can do.
+- **Mysteries resolve through action.** Avoidance mechanics (refuse, salt, stay silent) are fine
+  as one tool. They must not be the whole game. Give the enemy moves that *force* engagement.
+- **Vary the mode** from arc to arc: horror, heist, chase, battle, wonder, intrigue.
+
 ## Pacing: match the human's book {#pacing}
 
 The human's chapters are short (about 1,100 words), and they cover a day, a week, or a skip of

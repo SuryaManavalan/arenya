@@ -177,6 +177,22 @@ places:
     kind: home
     visibility: public
     sources: [agents/kino]
+  our-lady-of-mercy-daly-city:
+    name: Our Lady of Mercy (Nana Itzel's parish, Westlake, Daly City)
+    lat: 37.6930
+    lon: -122.4750
+    kind: church
+    note: All Souls Mass Mon Nov 2, 4 p.m. (b1.c18.s02). Coordinates approximate.
+    visibility: public
+    sources: ["b1.c18.s02 #0989"]
+  holy-cross-cemetery-colma:
+    name: Holy Cross Cemetery, Colma
+    lat: 37.6730
+    lon: -122.4560
+    kind: cemetery
+    note: Catholic. Adonis Quinn buried here;Lucero family plot (Ernesto, Nana's late husband). Sits in El Contador's Colma ledger ground. No conflict with existing canon.
+    visibility: public
+    sources: ["b1.c18.s02 #0989", "#0948", "#0968"]
   daly-city-nana-house:
     name: Nana Itzel's kitchen (Daly City, hill above Mission St)
     lat: 37.6900
