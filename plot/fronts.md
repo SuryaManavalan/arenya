@@ -8,6 +8,16 @@ and **what visible sign reaches the party** (news, a rift, a strange spirit, a p
 _Seeded 2026-10-28 by the monitor. **World turn 1** (catch-up, run during b1.c17.s11, covering Mon
 Oct 26 to Sun Nov 1): all current steps set below. Everything invented here is `[dm-proposed]`._
 
+_**World turn 2** (end of b1.c17; covers Sun Nov 1 10:40 a.m. → Mon Nov 2 ~9 a.m.). Advanced: **Rifts 2→3**,
+**Malachi's agency 1→2**, **Lattice** (Shepherd hunts Caleb 2→3/4; Team Four re-crewed), Typhus 2 (third
+coincidence, primed for 3 at the coffee). Chapter 18 opens Monday, All Souls._
+
+_**World turn 3** (c18 opening; no table time since WT2, so it pre-plays the off-screen gap the chapter
+will skip through: **Mon Nov 2 noon → Wed Nov 4 6:40 a.m.**). Advanced: **Lattice** (Pryce reads the
+coffee off Typhus's calendar; **Pryce buys Malachi's true name from Dalal**; lift window pulled up to Wed–Fri),
+**Rifts** (sign intensifies at the Gate; still step 3). Typhus stays 2-primed (the coffee is step 3's stage).
+Malachi's agency branches on Tuesday. Revise if the party's choices in s01–s03 cut across any of this._
+
 ---
 
 ## 1. Typhus Quinn and Monolith: "accelerate humanity"
@@ -68,6 +78,34 @@ Oct 26 to Sun Nov 1): all current steps set below. Everything invented here is `
   person, early, alone, with no flowers and the notebook in his pocket. El Contador logs him as a
   passerby: Typhus Quinn is now in the Colma book.
 
+### World turn 2 (Sun Nov 1 → Mon Nov 2 morning)
+- **Sun 4:10 p.m., Woodside.** Lantern lead coil engineer **Hollis Wen** (dm-free; careful, 40s, ex-JPL)
+  emails him the 8:38 a.m. unpowered 0.4 s spike as "probably a ground fault, flagging for completeness."
+  Typhus asks for the raw trace. The waveform has an **eleven-second envelope**. He doesn't know what it
+  matches. He prints it and folds it into Adonis's notebook.
+- **Mon 6:52 a.m.** The coil spikes again, unpowered, 1.1 s, the same minute the Candlestick thing (rifts
+  below) turns to face Hunters Point. By 7:30 he has seen the viral clip. Three coincidences now; he still
+  calls it coincidence out loud. **Still step 2, primed for 3:** he will bring the folded trace to the
+  coffee and wants someone who isn't on his payroll to tell him he's wrong.
+- **Mon ~7:15 a.m., Holy Cross, Colma.** He goes early, alone, no flowers. Stands at Adonis's grave 22
+  minutes. Graphite-grey driver idling (Pryce's choice of driver, not his). El Contador logs him as a
+  passerby. **He'll be gone before 8:30.** If the party comes to Colma, they find his traces, not him:
+  a folded Lantern trace corner left in the grass (eleven-second envelope), a stopped-clock moment, the
+  driver's car pulling out. Meeting him is the coffee's job.
+- **Mon 8:50 a.m.** Elias's two emails go out as planned (coffee Wed Nov 4, 6:40, Crissy Field warming
+  hut; "I'd bring someone. — E.").
+- **Mon 12:30 p.m.** Fellowship clip as planned ("My cousin did not overdose…").
+
+### World turn 3 (Mon noon → Wed 6:40 a.m.) `[dm-proposed]`
+- **Mon 3:20 p.m., Palo Alto.** He asks Hollis Wen, privately and off the ticket system, to correlate the
+  coil spikes against public NOAA tide gauges. **Tue 9:05 p.m.** Hollis replies to his personal address:
+  the Alameda gauge logged an **11-second seiche** at 6:52 a.m. Monday, which "shouldn't exist in a bay
+  that shape." Typhus prints it. He now has three pages: the trace, the seiche, Adonis's "WHERE FROM?"
+- **Tue evening.** He cancels his driver for Wednesday and says he'll drive himself (the Rivian, not the
+  graphite-grey car). It's a small dodge of Pryce, and too late: the calendar line already exists.
+- **Still step 2, primed.** He'll be at the hut at 6:22, eighteen minutes early, with the three pages in a
+  manila folder and two coffees he didn't ask the size of.
+
 ### How Typhus becomes present (next 1–3 scenes)
 1. **News (Sun night / Mon morning, any TV or phone):** "Bayview gas scare: PG&E finds no leak," with a
    shaky phone clip of car alarms tripping in sequence toward the water. **Appa**, retired PG&E, gets a call
@@ -119,6 +157,45 @@ Oct 26 to Sun Nov 1): all current steps set below. Everything invented here is `
   CONTRACTOR" and a wrong contractor number parks on the Sowri street in Daly City, and **Appa
   notices** the number is wrong. (b) Caleb's scar warms whenever a Crown is within a block. (c) Dalal
   now holds Malachi's true name and sells to whoever pays. Expect Pryce to buy it within the week.
+- **World turn 2 (Sun Nov 1 → Mon morning):**
+  - **Sun 1:40 p.m., Drop Two.** Pryce takes Arenya's file back from Shepherd's office in person. Shepherd's
+    reply is one line, in the Crowns: *"Then you carry what's returned."* (Shepherd is not done; it's
+    sulking and patient.)
+  - **Hale's balance.** Sun evening Hale's own right thumb greys at the nail, the same crescent Appa just
+    lost. Mon morning, Box 112's new lock at Colma Notary holds a carbon envelope **addressed to Hale**,
+    "RETURNED — OPENED IN ERROR." Hale now owes El Contador the Proximal/11 balance by day 16 himself. That
+    makes him **desperate, not off the board**: Pryce keeps him on Team Four precisely because a man with a
+    debt due Nov 10 will push. (Sign: Rodel calls Malachi or Nana: "the man in the navy coat came for his
+    mail with a bandage on his thumb.")
+  - **Team Four re-crewed Mon.** "Voss" arrives: a woman, late 20s, Crown-flattened like the rest but
+    *newer*; still has a chipped-red-polish habit she can't stop. Caleb would know the type: two months in.
+  - **Shepherd hunts Caleb 2→3/4.** The runner's office logged the 8:38 sighting at Hillcrest. Shepherd
+    knows **"Hillcrest, the 110 side,"** not the house (Dalal won't sell the Lucero house). The Crowns are
+    retuned to his old tether. At 4/4 they find the door.
+  - **Dalal** offers Malachi's true name to Pryce Mon afternoon. Pryce hasn't paid yet. Dalal's price is
+    unusual: he wants **the glasses' other wearer's name** in exchange, and Pryce doesn't have it.
+- **Lattice wants the light: 4/6** (unchanged; the next tick is the lift attempt, target window Thu Nov 5
+  – Mon Nov 9).
+- **World turn 3 (Mon noon → Wed dawn):**
+  - **Tue 10:10 a.m., Palo Alto.** Pryce's assistant syncs Typhus's calendar: *"Wed 6:40 — CF hut — E.K.
+    guest."* Pryce asks Elias who the guest is. Elias says "a Fellowship donor." Pryce pulls Elias's sent
+    mail through IT by noon and finds Arenya's work address. **Pryce now knows #12 is meeting his CEO.** He
+    doesn't confront Elias; he keeps him in place as a known leak (Elias senses the chill and doesn't know why).
+  - **Pryce's management of the coffee:** Voss in running gear with a Crown under a headband (the "jogger");
+    a white Sprinter on Mason St. with a resonance array, logged as "Presidio fog-sensor survey." Order: observe,
+    tag, don't touch while the CEO is present. Dorsey drives. Hale is kept *off* it (too desperate).
+  - **Lift window moved up: Wed Nov 4 evening – Fri Nov 6.** Pryce wants it done before Typhus can make her
+    an asset. Lattice clock stays 4/6 until the attempt actually lands (likely c19).
+  - **Tue 8:40 p.m., Dalal's sale.** Pryce pays, not with the glasses' other wearer's name (he doesn't have it)
+    but with **read access to the Mill's intake ledger**: the names of the rendered. Dalal accepts; he wants
+    to know who's been taken off his kind of books. **Pryce now holds Malachi's true name** (effect TBD; at
+    minimum a Crown can find him the way it finds Caleb by tether, and the name can travel up to the
+    agency through the overlap). This feeds Malachi's agency step 3.
+  - **Sign (Wed, before or after the coffee):** Rodel calls Malachi (or Nana): *"The man with the thread
+    came by. He said to tell the tall one: I sold, I'm sorry, the price was too good. He left a bag of
+    oranges on my counter. I don't know what to do with the oranges."*
+  - **Hale:** grey crescent spreading to the second knuckle by Wed. Seen Tue night at the Colma 110 stop,
+    alone, reading the schedule.
 - **Dalal (sub-thread):** a broker, not office staff. He read the Lucero house on Sunday but **won't
   sell the house** (it's under the Lady and he fears her). He'll sell Malachi.
 
@@ -129,8 +206,36 @@ Oct 26 to Sun Nov 1): all current steps set below. Everything invented here is `
   spirits seen face to face → archetypal and characteristic spirits in public → abstract
   "psychosis" entities, mass episodes → magic becomes fully physical near the rifts, and meta mages
   get stronger → kaiju-scale spirits moving in the bulk over the Bay (climax).
-- **Current step: 2** (first visible rift: Bayview, Thu Oct 29, 12:03 a.m., read as a gas leak) ·
-  **last advanced:** world turn 1.
+- **Current step: 3** (a place/nature spirit met face to face in public) · **last advanced:** world
+  turn 2. (Step 2 was Bayview, Thu Oct 29.)
+- **World turn 2:**
+  - **Sun 10:21 a.m., Hillcrest.** The window visitor (see dm-log c17.s12): the Lady's reach, or what lies
+    beside her, trying to draw the shape. Unfinished.
+  - **Sun 11:58 p.m.** Ava's oven light swings **east, toward Hunters Point**, for the first time, and
+    holds. Ix won't cross 101 eastbound.
+  - **Mon 6:52 a.m., Candlestick Point, the boat ramp (STEP 3).** In the low tide at dawn, a **tide spirit**
+    comes ashore *wrong*: a seven-foot standing shape of eelgrass, kelp, wrack and old rope, heron-like,
+    with water draining out of it on an **eleven-second** rhythm. It walks up the ramp into the parking lot
+    and stands for eleven minutes **facing Hunters Point**. It's displaced, the current pulled east by the
+    rift. Two fishermen, a dog-walker and a Muni operator on break film it. Every phone's clock drifts 11
+    seconds. It walks back into the water and the lot is left with a **salt crust in a line pointing
+    northeast**. Kino's forearm (the note's receipt) warms at 6:52 wherever he is. It's the tide that took
+    his note: **it knows him**, and Kino can find it again at the next low tide (Mon 7:31 p.m.).
+  - **Mon morning.** Gas meters on the Sowri block in Daly City tick backward for 11 seconds at 6:52. Appa's
+    colleague's call now has two incidents in it.
+- **World turn 3 (Mon noon → Wed dawn; still step 3, intensifying):**
+  - **Mon 7:31 p.m. low tide.** The Heron Thing comes up again at Candlestick (if Kino goes, it's s03; if not,
+    it stands for 11 minutes unwatched and the salt line points northeast again, 3 degrees further north,
+    straight at the Mill's stack).
+  - **Tue all day.** Two more shoreline birds-in-wrong-place reports (brown pelicans roosting on the
+    Third St. light-rail wires, all facing the water). Ava's oven light, still east, is **brighter** after dark.
+  - **Wed 6:40 a.m., Crissy Field (the coffee's weather).** The Golden Gate foghorns, which run on a fixed
+    schedule, sound **on the eleven-second breath** for the duration of the meeting. The fog bank sits just
+    outside the Gate like something resting its chin on the bridge. Typhus will hear it and say, "It's been
+    doing that since Friday. Nobody at the Coast Guard will tell me why." an archetypal or characteristic spirit in public. Candidate: a
+  **spirit of hurry** on 101 by the Hunters Point exit (cars' clocks run fast, a pileup with no impact,
+  every driver late to something they don't have). It can be tied to the lift attempt (chaos cover) or
+  stand alone.
 - **Kaiju thread (decree #0906):** the ocean fog bank breathes. On Sunday 8:41 a.m. Ava saw a vast
   shape turn over in it and lie down farther out. Keep it growing across c17–c18.
 - **Next step (3), within a week:** a nature or place spirit met face to face, in public, near the Bay
@@ -144,9 +249,19 @@ Oct 26 to Sun Nov 1): all current steps set below. Everything invented here is `
   case from eleven years ago was buried.
 - **Ladder:** his CHP query trail gets noticed → handler check-in → recall order → the agency's link to
   Lattice surfaces → Malachi forced to choose → (Book 2: he founds the official organization `[human]`).
-- **Current step: 1 → 2** (query noticed; handler check-in imminent) · **last advanced:** world turn 1.
+- **Current step: 2** (handler check-in) · **last advanced:** world turn 2. Sun 6:05 p.m.: Corinne
+  Abate leaves a voice memo on the 703 line: *"You ran a plate you can't explain at two a.m. and then you
+  went dark for a weekend. Tuesday. Bring the notebook you think I don't know about."* (The cell keeps a
+  notebook too. Malachi's personal one is the leverage.) Next step (3, recall order) comes if he skips Tuesday
+  or if Dalal's sale of his name reaches Pryce and then, through the overlap, the agency.
 - **This week:** Fri Oct 30, a routine CHP audit flagged a federal badge running a "never issued"
   plate at 2:10 a.m. Sat Oct 31, his cell lead pulled the query. Sun Nov 1: Dalal reads his name.
+- **World turn 3, Tue Nov 3 branch (player's choice):** *If Malachi goes* to the usual place (a
+  Vietnamese pho shop in the Outer Sunset, back booth), Corinne already has a printout of his Thursday plate
+  run, and asks one real question: "Who's the girl?" She also lets slip that "a contractor from the
+  Peninsula" has been asking her shop's liaison about 'domestic field anomalies' (the overlap, surfacing).
+  Still step 2, but his cover is thin. *If he skips it,* step 3 (recall order) lands Wed by text: "Report to
+  Langley Fri. Bring the notebook." Pryce owning his name (Lattice WT3) makes either branch worse in c19.
 - **Visible sign (next scene he's in):** his work phone, off since Thursday, holds three missed calls
   from a 703 number when he powers it on, plus a text from his CHP contact: *"Someone from your shop asked
   about your Thursday plate. I said nothing. That's the last nothing."* His cell lead (dm-free name:
@@ -159,6 +274,13 @@ Oct 26 to Sun Nov 1): all current steps set below. Everything invented here is `
 - **Current step: 1** (local curiosity: Adonis's freeze video, the "Bayview hysteria" item) · **last
   advanced:** world turn 1 · **step 2 hinges on Monday** (Teddy, 9:00 a.m.: does Arenya keep her job
   and her story?).
+- **World turn 2:** still step 1, but loaded: by Mon noon the Candlestick clip ("the Heron Thing") passes
+  2M views, alongside Bayview. Local TV runs both as a "Southeast waterfront weirdness" package. Teddy wants a
+  reporter on it *today*, which is Arenya's leverage at 9:00: she keeps her job if she takes the waterfront
+  beat. **Step 2 lands if she does.**
+- **World turn 3:** if she takes the beat, Teddy wants 600 words by Tue 5 p.m. ("Southeast waterfront: what
+  the city isn't saying"). Brooke gets a tip Tue: a PG&E contractor complaint about "backwards meters" on
+  Hudson. A national aggregator picks up the Heron Thing Tue night. Step 2 holds once her first piece runs.
 - **Visible signs:** the Bayview clip goes regional by Monday (300k views; the "alarms toward the water"
   sequence is uncanny). Brooke texts Arenya Sunday night: *"Did you see Bayview? That's your
   freeze-video energy. Also Teddy's asking where you are."*

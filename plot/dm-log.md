@@ -38,6 +38,11 @@ decisions that aren't fully recorded in `library/`. Message ids point to the sou
 - s09: San Bruno rack empty; 110 turnaround, "8:12" tick, pink transfer. Ava's oven flicker SW 5:58.
 - s10: Malachi's confession at the gate; glasses greyed the salt; blue jar; thread to the 110 stop; Nana's trade terms; Sunday lineup.
 
+- s11 "All Hallows" (#0941): 8:38 runner off the 110 checked Kino's boots ("already on it"); Dalal walked glasses-less in the runner's prints. Void won (Persuasion 16 vs 15), "opened in error," balance up the line on the 9:12. Witness price: Dalal read Malachi's true name, the Lucero house, and the market death ("someone else wore glasses that day"; "a page not ours"). Blank page at window noticed by Dalal. R and L. SOWRI ✓ struck. Appa's stain → crescent. Ava alone saw the vast shape turn under the lifted fog. Bay C sign NOT IN SERVICE. "The box was the other man's. I only keep the names."
+- s12 "The Window Hour" (9:40–10:40): stove clock stopped 11 s at 10:21; long back held above the water; forehead smudge outside the glass (oven-door reflection only); fingertip drew waterline + rising hump, unfinished (rhymes with the Nissan's fifth stroke). Pantry salt hill taken clean. Abernathy: "Manners, not a debt. A debt would've asked." **DM canon:** the window visitor is the Lady's reach / the sea-thing she lies beside, trying to *show* the climax shape; it can't finish a stroke on anything El Contador has counted. Keep ambiguous at the table.
+
+## World turn 2 (chapter end b1.c17): see fronts.md § World turn 2
+
 ### Resolved clocks
 - Witness clock (c16.s08): Nana signed. Bell's offer void.
 - Box 112 (c17.s01): closed, new lock.

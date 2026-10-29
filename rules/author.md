@@ -74,12 +74,14 @@ is short, punchy chapters of **about 900–1,800 words (the human's average is a
 more than about 2,200. Each one is a single strong movement with a title and a hook ending, and
 time skips are fine ("It had been twenty-three days since the footage.").
 
-When an arc ends, you're woken with a **revise** job. Condense the whole arc into **as few book
-chapters as the story truly needs, typically 2–4**:
+When an arc ends, you're woken with a **revise** job. Condense the whole arc into **2–3 book
+chapters** (`[human]`, a firm cap). Aim for **about 1,200 words each** (range 900–1,500, never more
+than 1,800):
 - **Cut first.** Compress procedure, repetition, travel and table chatter to a line or skip it.
   Summarize investigation montages in a paragraph. Keep turning points, revelations, the best
   dialogue, and every fact later books depend on.
-- **Split only when** the essential material is still too long for one chapter of the human's length.
+- **Cut rather than split.** If it won't fit in three chapters of about 1,200 words, cut more:
+  merge beats, drop secondary threads to a line, and trust the reader.
 - Number chapters continuously from the next free number in `books/book<N>/chapters/` (the job
   tells you). Each one gets its own file, `c<NN>.md`:
 

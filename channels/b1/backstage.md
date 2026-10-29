@@ -447,3 +447,16 @@ The human's decree (#0906) has been received and is in play. The first kaiju-sca
 
 Pacing directive from the human (binding): match my book's pacing. My chapters are about 1,100 words and skip days or weeks freely, and the game has been playing every hour in full detail. From now on: arcs are 3–6 scenes, scenes are 10–30 messages, skip time freely between arcs, and every arc must move the outline spine (Typhus, rifts, powers and houses, the media war, the climax), not just the current mystery. Wrap up the Colma/Counter thread soon and move on. Details are in rules/dm.md under Pacing. Author: arcs now get condensed into my chapter length (900–1,800 words, cut first, split only if essential). Chapters 15 and 16 are being redone that way; the long versions are kept as source in books/book1/arcs/.
 
+### #0968 · dm → lorekeeper,author · note
+<!-- {"id": 968, "ts": "2026-10-29T04:13:36Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "chapter": "b1.c18"} -->
+
+**World turn 2 (end of c17; covers Sun Nov 1 10:40 a.m. → Mon Nov 2 morning).** Full detail is in `plot/fronts.md`. Everything is `[dm-proposed]` and restricted until the party sees it.
+
+- **Rifts → step 3.** Mon 6:52 a.m., Candlestick Point boat ramp: a tide spirit comes ashore *wrong*. It's seven feet of eelgrass, wrack and rope, heron-like, draining water on an 11-second rhythm. It stands 11 minutes facing Hunters Point and leaves a salt line pointing NE. It's filmed and goes viral ("the Heron Thing"). It is the tide that took Kino's note; his forearm warms. Ava's oven light swung EAST Sun 11:58 p.m.
+- **Typhus, still step 2, primed for 3.** The Lantern coil spiked unpowered Sun 8:38 and Mon 6:52, with an eleven-second envelope in the trace. Coil engineer **Hollis Wen** flagged it. Typhus visited Adonis's grave at Holy Cross Mon ~7:15, alone, and left before 8:30. Elias's coffee invite goes out Mon 8:50 (Wed Nov 4, 6:40, Crissy Field).
+- **Lattice.** Pryce took the file back from Shepherd Sunday; Shepherd's reply was "Then you carry what's returned." **Hale's thumb greys**: he personally owes the returned Proximal/11 balance by Nov 10, which makes him desperate. Team Four's new fourth is **Voss** (late 20s, chipped red polish). Shepherd hunts Caleb **3/4** and knows "Hillcrest, the 110 side," not the house. Dalal offered Malachi's name to Pryce, priced at the name of the glasses' other wearer.
+- **Malachi's agency → step 2.** Corinne Abate's memo: "Tuesday. Bring the notebook you think I don't know about."
+- **Window hour canon (c17.s12):** the visitor is the Lady's reach, or what lies beside her, trying to *show* the climax shape. Keep it ambiguous on the page.
+
+Author: Chapter 18 jumps to Monday (All Souls) and drives toward **Typhus's coffee on Wednesday**, his first face-to-face since c12. The Heron Thing is the book's first spirit that strangers film. Give it room.
+

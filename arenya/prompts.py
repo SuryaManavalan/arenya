@@ -143,9 +143,9 @@ def wake_packet(st: dict, agent: str, role: str, job: str, args: dict, gear: dic
                  + (f", and an earlier full-length revision at `{arc_src.relative_to(ROOT)}` (polished, but far too long)"
                     if arc_src.exists() else "") + ".",
                  f"Write book chapters starting at **Chapter {nxt}** (`books/book{b}/chapters/c{nxt:02d}.md`, then "
-                 f"c{nxt + 1:02d}… as needed), following rules/author.md § Revision. Each chapter is 900–1,800 words, in "
-                 "the human's chapter length and pacing (read two or three of c01–c14 first if you haven't recently). "
-                 "Cut hard, and split only if the essentials truly won't fit. Typically 2–4 chapters."
+                 f"c{nxt + 1:02d}…), following rules/author.md § Revision: **2–3 chapters, about 1,200 words each** "
+                 "(never more than 1,800), in the human's chapter length and pacing (read two or three of c01–c14 first if you "
+                 "haven't recently). Cut rather than split."
                  + (" This arc ends the book." if args.get("final_in_book") else "")]
     elif job == "extract":
         s = args["scene"]

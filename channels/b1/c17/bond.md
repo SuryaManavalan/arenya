@@ -212,3 +212,19 @@ I'm right here.
 
 Sit by me, not the pantry. And when Kino's hour is up, you owe me the patient voice. All of it. Who knew your name before you gave it?
 
+### #0959 · abernathy → all · dialogue
+<!-- {"id": 959, "ts": "2026-10-29T04:10:17Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+Right. Beside you, love. Not the pantry. Though I'll have you know the pantry was a tactical retreat, and the tactics were mostly my knees, which I haven't got.
+
+*(quieter, the accent slipping a half-inch)* The voice. All right. It was in the walled-off place, when the runner stood on the step and Dalal's glasses went on the wood. Patient. Not unkind. Like someone who's got all day, because they have. And it said a short name at me. Not Abernathy. Shorter. One breath of it. I knew it the way you know your own cough.
+
+I didn't answer. I didn't *decide* not to, mind. I just didn't, and it let me not, and that's the part that scares me. Anything that wants something pushes. This waited.
+
+That's all of it, guv. I don't know whose it is, and I'm not going to pretend I do. Now watch the oven door. The circle's a degree colder, and I'd lay my last shilling something's sat down behind it.
+
+### #0965 · abernathy → all · dialogue
+<!-- {"id": 965, "ts": "2026-10-29T04:11:17Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+That drawing, guv. The waterline and the hump. I've seen that stroke before, and I couldn't tell you where. It's not a thought, it's a *flinch*. Write that down too, and don't ask me to say more. I'd only be guessing, and I won't lie to you.
+

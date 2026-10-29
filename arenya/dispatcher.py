@@ -29,6 +29,15 @@ def tools_for(role: str, job: str) -> list[str]:
     return BUILTIN_TOOLS
 
 
+# Jobs that make up play. Everything else (drafts, extraction, revisions, memory upkeep, world turns)
+# runs in the background and must never keep the table waiting.
+PLAY_JOBS = {"turn", "nudge", "replay", "onboard"}
+
+
+def _is_play(job: dict) -> bool:
+    return job["job"] in PLAY_JOBS
+
+
 class RateLimited(Exception):
     pass
 
@@ -62,11 +71,13 @@ class Dispatcher:
                     continue
             else:
                 self._launch()
-            if not self.tasks:
-                if not self._idle() and self.once and not state.load()["queue"]:
-                    return
-                await asyncio.sleep(1)
-                continue
+            if not any(_is_play(j) for j in self.tasks.values()):
+                woke = self._idle()
+                if not self.tasks:
+                    if not woke and self.once and not state.load()["queue"]:
+                        return
+                    await asyncio.sleep(1)
+                    continue
             done, _ = await asyncio.wait(self.tasks, timeout=3, return_when=asyncio.FIRST_COMPLETED)
             for t in done:
                 job = self.tasks.pop(t)
@@ -97,8 +108,10 @@ class Dispatcher:
     def _idle(self) -> bool:
         """Nothing queued or running. Wake the DM unless we're waiting on the human. Returns True if it queued work."""
         with state.locked() as st:
-            if st["queue"] or st["running"]:
-                return bool(st["queue"])
+            if any(_is_play(j) for j in st["queue"]):
+                return True    # play is already queued
+            if any(_is_play(j) for j in st["running"]):
+                return False   # play is in progress
             if st["phase"] == "setup":
                 return False
             owed = {a for e in st["expectations"] for a in e["waiting_on"]} - {"human"}

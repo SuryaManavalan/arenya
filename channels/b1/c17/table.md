@@ -3708,3 +3708,87 @@ Then to Kino, quieter: "I'll be in the next room with the door open. I'm not lea
 
 I pull a chair to the table, three feet behind him, facing his back, where I can see the glass in the reflection of the dark oven door. If the circle changes, I'll be the first to know.
 
+### #0958 · kino → all · action
+<!-- {"id": 958, "ts": "2026-10-29T04:10:15Z", "from": "kino", "channel": "table", "type": "action", "reply_to": 954, "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+"Caleb." I don't look at him. "You can get up. Front room, or the porch with Ava. Not the floor." It isn't a verdict. It's the same thing Appa gave him, a place to be, and I need the kitchen empty more than I need to decide about him.
+
+When he's gone I don't touch the pantry door. I take a pinch from the jar and set it on the linoleum in front of the gap, one small hill. It isn't a wall. It's the kind of thing you leave on a step for someone so they know you saw them. Then I take the salt to the sink and lay it along the sill, corner to corner, slowly, and I don't let the line break, not even where the sill dips by the faucet. My hands are still shaking a little. I let them.
+
+I pull one of Nana's chairs from the table and set it square to the window, close enough to the sink that my knees touch the cabinet, and I sit. Now the circle is right at my eyes, so whoever wiped it sat about where I'm sitting. I don't put my face to the glass. I rest my hands flat on my thighs, the left forearm turned up so the thumbprint shows, and breathe the way she taught me: four in, hold, four out, slow enough that the room gets louder. I can hear the refrigerator, Ava's voice through the porch door, and the clock over the stove.
+
+Then I ask, quietly, the way you ask on the mountain at night. *"Buenos días. Soy Joaquín, nieto de Itzel. This is her house. You wiped the glass to look out, or to look in. I'm not going to chase you. I'm going to sit here an hour. If you want to be seen, I'm the one who's looking."* I keep my eyes on the clean circle, on the hydrant and the slumped skeleton and the flat grey water past the roofs, and I don't turn toward the pantry.
+
+### #0960 · system → all · pass
+<!-- {"id": 960, "ts": "2026-10-29T04:10:19Z", "from": "system", "channel": "table", "type": "pass", "reply_to": 954, "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+abernathy passes: Answered in bond; nothing for the table.
+
+### #0961 · dm → kino,arenya,abernathy · narration
+<!-- {"id": 961, "ts": "2026-10-29T04:10:47Z", "from": "dm", "channel": "table", "type": "narration", "to": ["kino", "arenya", "abernathy"], "awaits": ["kino", "arenya", "abernathy"], "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+The hour does what hours do.
+
+**9:52.** Nothing. The hydrant, the slumped plastic skeleton on the porch across the street, and grey water past the roofs. Ava laughs once on the porch, short, at something Caleb didn't mean to be funny. The fridge cycles off.
+
+**10:07.** The steam on the window has dried everywhere except the edge of the clean circle, which stays beaded, as if something on the other side is breathing on it.
+
+**10:21.** The clock over the stove stops. Kino counts it without meaning to: *eleven seconds*, and then the tick resumes. Out past the roofs the fog bank lifts and settles, lifts and settles, and on the third breath it doesn't come all the way down. A long low line stays above the water a moment too long, the way a back stays above the surface when something rolls. Then it's fog again.
+
+In the dark oven door, Arenya sees the circle reversed: a smudge at the center of it on the *outside* of the glass, about the height of a forehead, as if someone has leaned against the window to look in. There's no one on the step. She can see the step.
+
+On the glass, slowly, from outside, a fingertip draws a line through the bead: one flat horizontal stroke, the waterline. Then a low hump rising out of it. Then it stops, unfinished, like the Nissan's fifth stroke. It doesn't write a word or a name. The beads run, and the drawing goes with them.
+
+Nothing speaks. Abernathy, at Arenya's knee, gets the blank page again, closer this time, like a held breath on the other side of a door.
+
+**10:40.** The hour's up. The salt on the sill is unbroken from corner to corner, and the dip by the faucet held. Kino turns his chair. The little hill of salt he left on the linoleum in front of the pantry is **gone**. It isn't scattered. It's gone, and the linoleum is clean, as if someone picked it up the way you pick up a thing left on a step for you.
+
+### #0962 · kino → all · action
+<!-- {"id": 962, "ts": "2026-10-29T04:10:59Z", "from": "kino", "channel": "table", "type": "action", "reply_to": 961, "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+I don't stand up fast. I sit with the empty linoleum a moment, then look at the sill, the unbroken line, the dip by the faucet that held. Then I look at the glass, at the beads running where the hump was.
+
+"It drew the waterline," I say, to Arenya, to the oven door. "The back coming up. Then it stopped, same as the Nissan." I turn the chair the rest of the way. "It didn't write a name. It didn't come in. It took the salt like a gift off a step. Whatever it is, it's not hunting us. It's *showing* us something and can't finish."
+
+I touch the place where the little hill was, two fingers, flat. Nothing. Cold, maybe.
+
+"Don't wipe the glass," I say. "Ava gets a photo of the circle before it dries, and the sill, and the time on the stove clock. Eleven seconds. Write it down." I look at the pantry door Arenya closed. "And somebody tell Nana the salt got picked up. She'll know if that's manners or a debt."
+
+I flex my hands. They've stopped shaking.
+
+### #0963 · arenya → all · action
+<!-- {"id": 963, "ts": "2026-10-29T04:11:08Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+I haven't moved from the chair. My eyes are still on the oven door, where the smudge was.
+
+"I saw it in the reflection," I say. "A forehead. Outside the glass, leaning in. Then a finger. I could see the step the whole time, and there was no one on it." I open the notebook now, because the window has gone quiet and Kino asked for a record. I write: *10:21. Clock stopped 11 sec. Smudge, forehead height, outside. Waterline. Hump. Unfinished.* I don't write anything else.
+
+"Kino's right about the stroke. It stopped where the Nissan's stopped." I stand, take my phone out, and photograph the circle, the sill and the stove clock before the beads dry. "It wanted us to see the water. The back coming up. That matches what Ava saw offshore."
+
+I look at the clean linoleum. "The salt is the part I don't like. Someone took the gift. That's either manners or a debt. We ask Nana. And we keep the pantry door shut."
+
+I close the notebook and put it back in my bag. "Then we tell Malachi about the blank page. He said he heard it too."
+
+### #0964 · abernathy → all · action
+<!-- {"id": 964, "ts": "2026-10-29T04:11:16Z", "from": "abernathy", "channel": "table", "type": "action", "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+At Arenya's knee, where only she can perceive me, I've gone still as I can manage, which for me is a flicker held at the edges. The blank page leans in close, a held breath behind a door. It isn't cold. It feels like being *waited on*. I don't move toward it, and I don't move away.
+
+When the hump of salt goes from the linoleum, my edges stutter for a frame. I'm in two places, then one. Nothing touched me. It never does.
+
+Where only she can hear me, I murmur: "Manners, love. Not a debt. A debt would've *asked*." I don't know why I'm sure. I'm sure, and I don't like it.
+
+### #0966 · system → all · scene_end
+<!-- {"id": 966, "ts": "2026-10-29T04:11:31Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+**End of scene b1.c17.s12 — The Window Hour**
+
+Kino sat Nana's kitchen window for an hour (9:40–10:40 a.m., Sun Nov 1) behind a corner-to-corner salt line on the sill, after leaving a small hill of salt as a courtesy in front of the pantry. Arenya and Abernathy watched from a chair behind him, using the reflection in the oven door. At 10:21 the stove clock stopped for eleven seconds in time with the fog's breath, and a long back stayed above the offshore water a moment too long. In the oven-door reflection Arenya saw a forehead-height smudge on the outside of the glass, with no one on the step. A fingertip on the outside drew a waterline and a rising hump, then stopped unfinished like the Nissan's fifth stroke; it wrote no name and spoke no word. Abernathy got the 'blank page' again, closer, felt like he was being waited on, and flinched at the drawing as something he'd seen before but can't place. At the end of the hour the sill line was intact, but the pantry salt hill was gone and the linoleum was clean, as if taken like a gift. Abernathy is sure it was manners, not a debt. Arenya logged times and photographed the circle, sill and clock. Next steps: ask Nana whether taking the salt was manners or a debt, keep the pantry shut, and tell Malachi about the blank page.
+
+### #0967 · system → all · chapter_end
+<!-- {"id": 967, "ts": "2026-10-29T04:11:36Z", "from": "system", "channel": "table", "type": "chapter_end", "chapter": "b1.c17"} -->
+
+**End of Book 1, Chapter 17**
+
+Chapter 17 closes the Colma/custody-receipt arc. Appa confessed that he signed the R in Hale's ink, and the family traced the runner, the 110 bus, the San Bruno temple oxfords and Pt. Dalal. Malachi confessed his lie and crossed Nana's salt. On All Hallows morning, Malachi persuaded the runner to void the Proximal/11 entry as 'opened in error'; its balance went back up the line to the ink's issuer (Hale). Dalal witnessed it, read the faces turned toward him (Malachi's true name, his market death, 'someone else wore glasses that day'; the house as Lucero), and took his glasses back. Appa's stain receded, Amma's alternate entry was struck, and Appa told Caleb to sit at the table. Offshore, the fog breathes every eleven seconds, and something vast has turned over under it. In the window hour, an unseen presence drew a waterline and a rising back on Nana's glass, left it unfinished, and took Kino's courtesy salt. Open going forward: Hale's bad week with the balance on his desk, Teddy's legal and DPH Monday, Dalal's name ledger, Shepherd, Abernathy's patient voice and his flinch at the drawing, Susmithaa's ash on Día de los Muertos, and the kaiju rising toward the Book 1 climax.
+

@@ -1,22 +1,10 @@
 {
  "phase": "play",
- "next_id": 958,
+ "next_id": 969,
  "book": 1,
- "chapter": 17,
- "scene_counter": 12,
- "scene": {
-  "id": "b1.c17.s12",
-  "title": "The Window Hour",
-  "location": "Nana Itzel's kitchen, Hillcrest, Daly City \u2014 Sunday Nov 1, 9:40 a.m.",
-  "cast": [
-   "kino",
-   "abernathy",
-   "arenya"
-  ],
-  "place": "daly-city-nana-house",
-  "start_id": 953,
-  "spotlights_used": 1
- },
+ "chapter": 18,
+ "scene_counter": 0,
+ "scene": null,
  "scenes": [
   {
    "id": "b1.c15.s01",
@@ -552,28 +540,33 @@
    "summary": "Sunday Nov 1, 7:48\u20139:30 a.m., Hillcrest. Kino watched the 110 arrive at 8:38. The runner stepped off, ticked Kino as \"already on the list,\" and Pt. Dalal followed him, without his glasses, walking inside the runner's grey footprints. Kino salted the sidewalk behind them at the hydrant and the bus left. At bay C, Ava saw the 8:12 tick move to the 9:12. Malachi faced the runner alone at the curb and argued (Persuasion 16 vs DC 15) that the R was written in the issuer's ink, so the entry was opened in error. The runner agreed to void it, but the void needed a witness who keeps names. Dalal took his glasses back off the wooden comal and read whatever faced him. Everyone turned their backs except Malachi. Dalal read Malachi's true name and his past (\"forty seconds, a market, someone else wore glasses that day; you have been on a page that is not ours\"), read the house as \"Lucero,\" and frowned at a blank page at the kitchen window (Abernathy, hidden in the pantry, felt nothing). The runner struck Proximal eleven and the alternate (\"Issuer's ink. Returned up the line. Closed.\"). The family's copy of the form struck itself, Appa's stain receded to a crescent under the nail, and Caleb's scar went cool. At that moment the fog bank stopped breathing, lifted, and, seen only by Ava, something vast turned over beneath it and lay down farther out to sea. The runner rode the 9:12 back with the balance \"on his lap\" toward the ink's issuer (Hale's office). Dalal said, \"The box was the other man's. I only keep the names.\" Afterward Caleb confessed in front of Appa that he helped kill Susmithaa. Appa didn't forgive him but told him to sit at the table, not on the floor. Ava arrived with coffee. A palm-sized circle has been wiped in the condensation inside the kitchen window, matching the shelter's, and Kino plans to sit that window alone.",
    "book": 1,
    "chapter": 17
-  }
- ],
- "expectations": [
+  },
   {
-   "id": 954,
-   "from": "dm",
-   "channel": "table",
-   "waiting_on": [
+   "id": "b1.c17.s12",
+   "title": "The Window Hour",
+   "location": "Nana Itzel's kitchen, Hillcrest, Daly City \u2014 Sunday Nov 1, 9:40 a.m.",
+   "place": "daly-city-nana-house",
+   "cast": [
     "kino",
-    "abernathy"
+    "abernathy",
+    "arenya"
    ],
-   "ts": "2026-10-29T04:09:32Z"
+   "start_id": 953,
+   "end_id": 966,
+   "summary": "Kino sat Nana's kitchen window for an hour (9:40\u201310:40 a.m., Sun Nov 1) behind a corner-to-corner salt line on the sill, after leaving a small hill of salt as a courtesy in front of the pantry. Arenya and Abernathy watched from a chair behind him, using the reflection in the oven door. At 10:21 the stove clock stopped for eleven seconds in time with the fog's breath, and a long back stayed above the offshore water a moment too long. In the oven-door reflection Arenya saw a forehead-height smudge on the outside of the glass, with no one on the step. A fingertip on the outside drew a waterline and a rising hump, then stopped unfinished like the Nissan's fifth stroke; it wrote no name and spoke no word. Abernathy got the 'blank page' again, closer, felt like he was being waited on, and flinched at the drawing as something he'd seen before but can't place. At the end of the hour the sill line was intact, but the pantry salt hill was gone and the linoleum was clean, as if taken like a gift. Abernathy is sure it was manners, not a debt. Arenya logged times and photographed the circle, sill and clock. Next steps: ask Nana whether taking the salt was manners or a debt, keep the pantry shut, and tell Malachi about the blank page.",
+   "book": 1,
+   "chapter": 17
   }
  ],
+ "expectations": [],
  "cursors": {
   "lorekeeper": 309,
-  "dm": 952,
-  "arenya": 954,
-  "abernathy": 942,
+  "dm": 965,
+  "arenya": 962,
+  "abernathy": 963,
   "author": 596,
   "caleb": 945,
-  "kino": 954,
+  "kino": 961,
   "ava": 944,
   "malachi": 942
  },
@@ -583,24 +576,24 @@
    "session_id": "f5a97980-7f49-4aec-b89b-b152bf01037f"
   },
   "arenya": {
-   "key": "b1.c17.s11",
-   "session_id": "fac87092-7536-4cac-96cc-97f52496595c"
+   "key": "b1.c17.s12",
+   "session_id": "f7486f5c-1022-4c42-bee1-e2272c731dd1"
   },
   "dm": {
-   "key": "b1.c17.between",
-   "session_id": "a1610816-66d7-41f5-9220-46cec223bb30"
+   "key": "b1.c17.s12",
+   "session_id": "e71bdd4c-d6d8-4b9a-974f-b9867707af5e"
   },
   "abernathy": {
-   "key": "b1.c17.s11",
-   "session_id": "d10ea450-4f1c-457d-a4bb-fc5834546461"
+   "key": "b1.c17.s12",
+   "session_id": "6d6eaa7b-997f-46db-a16a-4521638fad86"
   },
   "caleb": {
    "key": "b1.c17.s11",
    "session_id": "2357c19c-9fef-44bc-af27-3470f6f4773d"
   },
   "kino": {
-   "key": "b1.c17.s11",
-   "session_id": "30c8406a-46d1-4106-a2e5-0911c577d43b"
+   "key": "b1.c17.s12",
+   "session_id": "60cb493f-b4a4-42c5-b1cd-3085c00f70fa"
   },
   "ava": {
    "key": "b1.c17.s11",
@@ -617,44 +610,44 @@
  },
  "charges": {
   "dm": {
-   "period": "b1.c17",
-   "left": 16
+   "period": "b1.c18",
+   "left": 20
   },
   "author": {
-   "period": "b1.c17",
+   "period": "b1.c18",
    "left": 0
   },
   "lorekeeper": {
-   "period": "b1.c17",
+   "period": "b1.c18",
    "left": 6
   },
   "director": {
-   "period": "b1.c17",
+   "period": "b1.c18",
    "left": 6
   },
   "arenya": {
-   "period": "b1.c17",
+   "period": "b1.c18",
    "left": 3
   },
   "malachi": {
-   "period": "b1.c17",
+   "period": "b1.c18",
    "left": 3
   },
   "abernathy": {
-   "period": "b1.c17",
+   "period": "b1.c18",
    "left": 3
   },
   "kino": {
-   "period": "b1.c17",
+   "period": "b1.c18",
    "left": 3
   },
   "ava": {
-   "period": "b1.c17",
+   "period": "b1.c18",
    "left": 3
   },
   "caleb": {
-   "period": "b1.c17",
-   "left": 2
+   "period": "b1.c18",
+   "left": 3
   }
  },
  "grants_used": {
@@ -664,66 +657,24 @@
  },
  "upshift": [],
  "spotlight": [],
- "queue": [
-  {
-   "seq": 1025,
-   "agent": "abernathy",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
-   "attempt": 0,
-   "ts": "2026-10-29T04:09:32Z"
-  },
-  {
-   "seq": 1026,
-   "agent": "author",
-   "job": "revise",
-   "args": {
-    "book": 1,
-    "chapter": 15,
-    "summary": "Chapter 15 follows the first day after Susmithaa's death. At Seton, Malachi traded coffee for information and gave Arenya the freeze count and Adonis Quinn's name. Nana Itzel arrived with pozole, and Arenya met Kino. Mr. Bell, a Lattice watcher in a grey cardigan, appraised her hand and left a tracking card, which Nana hid in the freezer. At home, Susmithaa's phone held fourteen missed calls and voicemails from Daniel Hale of \"Meridian Mutual Life,\" and her copy of *Curtain* held a temple receipt and a farewell note (\"Don't sign. Don't verify.\"). The lamp flame split. Arenya confessed to Amma, and Kino showed his cold birthmark. At dawn Ravi handed over Susmithaa's papers: the Meridian letter naming Arenya beneficiary, torn through with NO, and a notarized declaration. Nana named el Contador, the clerk-spirit under Colma, and explained *dos testigos*. Abernathy found a memory of his walled off. At the stone yard, the clerk's ledger showed Susmithaa as row 11 with a contested stroke, and row 12 waiting for a second stroke. Kino refused the clerk's \"\u00bfY t\u00fa?\", and Arenya's palm took a pencil dot. At Colma Notary & Mail, notary Rodel Panganiban confirmed March 19: Susmithaa's declaration in the morning, and an hour later Hale renting Box 112 for cash. A bait envelope \"TO THE BENEFICIARY\" sits in the open box, and Arenya's phone photo shows her real name in its window. Mr. Bell has filed a request to verify the beneficiary and walked into the notary as they drove away. Arenya has refused Hale's noon meeting, the second witness is undecided, and the Lattice is closing in.",
-    "final_in_book": false
-   },
-   "priority": 3,
-   "attempt": 0,
-   "ts": "2026-10-29T04:09:48Z"
-  },
-  {
-   "seq": 1027,
-   "agent": "author",
-   "job": "revise",
-   "args": {
-    "book": 1,
-    "chapter": 16,
-    "summary": "Arenya and Kino followed Susmithaa's paper trail to the Livermore temple. Its register shows archana No. 2207, booked in March in Arenya's name. The visiting \"Pt. H. Dalal, Fremont\" took the $101 as dakshina \"per family,\" with Rodel's number and Box 112 as the contact, eleven days before Hale rented the box. In the temple hall a planted flip phone imitated Amma's voice. Arenya stayed silent, but its cold settled over Kino's sternum, and his heart now runs a quarter-beat behind. Back in Daly City, Amma gave up the folder she had hidden from Appa. The check carries a forged \"R. Sowri\" endorsement in the visitor's ruler-straight hand. The gas meter by the garage tried to enter the number as a receipt, and the household refused it by saying nothing. Appa then confessed his March verbal yes to a fake temple caller. He also passed on Rodel's warnings: keep Susmithaa's key, \"things that count come in where things are counted,\" and \"he asked me for one-twelve before it was empty.\" The key now rests at the foot of the lamp. The family has a day to prepare. Then, on Friday morning in daylight, Appa will drive Arenya and Kino to question Rodel at Colma Notary & Mail before Box 112 closes at 7:40.",
-    "final_in_book": false
-   },
-   "priority": 3,
-   "attempt": 0,
-   "ts": "2026-10-29T04:09:48Z"
-  }
- ],
+ "queue": [],
  "running": [
   {
-   "seq": 1023,
-   "agent": "kino",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
+   "seq": 1040,
+   "agent": "author",
+   "job": "revise",
+   "args": {
+    "book": 1,
+    "chapter": 17,
+    "summary": "Chapter 17 closes the Colma/custody-receipt arc. Appa confessed that he signed the R in Hale's ink, and the family traced the runner, the 110 bus, the San Bruno temple oxfords and Pt. Dalal. Malachi confessed his lie and crossed Nana's salt. On All Hallows morning, Malachi persuaded the runner to void the Proximal/11 entry as 'opened in error'; its balance went back up the line to the ink's issuer (Hale). Dalal witnessed it, read the faces turned toward him (Malachi's true name, his market death, 'someone else wore glasses that day'; the house as Lucero), and took his glasses back. Appa's stain receded, Amma's alternate entry was struck, and Appa told Caleb to sit at the table. Offshore, the fog breathes every eleven seconds, and something vast has turned over under it. In the window hour, an unseen presence drew a waterline and a rising back on Nana's glass, left it unfinished, and took Kino's courtesy salt. Open going forward: Hale's bad week with the balance on his desk, Teddy's legal and DPH Monday, Dalal's name ledger, Shepherd, Abernathy's patient voice and his flinch at the drawing, Susmithaa's ash on D\u00eda de los Muertos, and the kaiju rising toward the Book 1 climax.",
+    "final_in_book": false
+   },
+   "priority": 9,
    "attempt": 0,
-   "ts": "2026-10-29T04:09:32Z"
-  },
-  {
-   "seq": 1024,
-   "agent": "arenya",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
-   "attempt": 0,
-   "ts": "2026-10-29T04:09:32Z"
+   "ts": "2026-10-29T04:11:36Z"
   }
  ],
- "job_seq": 1027,
+ "job_seq": 1041,
  "human_waiting": [],
  "idle_wakes": 0,
  "paused": false,
