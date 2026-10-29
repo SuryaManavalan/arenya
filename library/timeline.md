@@ -18,3 +18,7 @@ Oldest first. Dates are relative unless noted. Chapter dates in the manuscript u
 - c13: Malachi in her apartment; Saiesh/Arenya fight — [c13]
 - c14: She takes down the wall; second mountain dream; sleeps through weekend — [c14]
 - b1.c15.s01 (Sunday night, 2:40 a.m.; Arenya woke 3:19, Amma called 3:20): Susmithaa killed by a collection team in the bulk; her light passes to Arenya; Abernathy bound to Arenya; Arenya "counted" on right wrist; a suited American asks the hospital about a niece — [#0005–#0020]
+- b1.c15.s02 (2:52–~3:14 a.m., same night): Caleb wakes, folds the tether, bails from Team Four with Susmithaa's ash canister, hides in a culvert in Daly City — [#0021–#0040]
+- b1.c15.s04 (~6:40–7 a.m., Monday): Kino confesses his dreams to Nana Itzel; Susmithaa was Nana's Thursday-tea friend of eleven years; Nana reframes the Lady as turned toward a "door"; plan to attend the Sowri house at 2 p.m. with pozole — [#0058–#0067]
+- b1.c15.s05 (4:12–~5:51 a.m., Monday, Seton): Arenya comforts her parents; Malachi introduces himself as "Shawani, DoE," trades information, gets her burner number; Ravi reveals Susmithaa's March warning; Arenya takes Susmithaa's phone; the lamp stays warm and her fist loosens — [#0071–#0095]
+- b1.c15.s03 (3:01–~6 a.m., same night/dawn): Tam's spirit turns her face south toward the city; Kino fails to track the warmth, Nana tells him he was "shown it"; Ava sees the flame and Susmithaa's shrine in her oven-glass, a warmth takes up residence in her palms — [#0041–#0055]

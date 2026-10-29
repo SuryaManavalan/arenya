@@ -117,7 +117,19 @@ def api_file(path: str) -> dict:
 
 def api_places() -> dict:
     p = ROOT / "library/places.yaml"
-    return (yaml.safe_load(p.read_text()) or {}).get("places", {}) if p.exists() else {}
+    if not p.exists():
+        return {}
+    text = p.read_text()
+    try:
+        return (yaml.safe_load(text) or {}).get("places", {})
+    except yaml.YAMLError as e:
+        # Common agent slip: unquoted "#0059" inside [..] starts a YAML comment. Quote and retry.
+        fixed = re.sub(r"(?<=[\[,\s])(#\d+)", r"'\1'", text)
+        try:
+            places = (yaml.safe_load(fixed) or {}).get("places", {})
+            return {**places, "_warning": f"places.yaml has a YAML error (auto-repaired for display): {e}"}
+        except yaml.YAMLError:
+            return {"_warning": f"places.yaml is not valid YAML: {e}"}
 
 
 def api_activity() -> dict:

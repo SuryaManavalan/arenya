@@ -21,3 +21,12 @@ related: [meta-mages, caleb-strand, freezing-deaths, typhus-arc]
 - Run beneath Typhus by an unnamed program director, insulating him.
 - **Susmithaa** was the biggest prize (deity-class light); collection failed as the bloodline tantra passed Sahasrajyoti to Arenya. The program now wants Arenya.
 - **Caleb Strand** was on Susmithaa's team; her discharge burns out his Crown.
+
+## Named in play (b1.c15.s02, #0022–#0038; names DM-invented, human approved naming #0027)
+- **Shepherd** — handler; a voice speaking through the Crowns, unhurried, "like a dentist." Can listen through a live Crown; offers "fix" (memory wipe).
+- **Team Four** — Caleb (Lead), Dorsey (driver), Pruitt, Hale. Crown-flat men who don't act without instruction (Hale turns his head "like a security camera").
+- **Drop Two** — hand-to-hand canister handover point, ~20 min drive from Daly City, on the way to Hunters Point.
+- **The Mill** — under Monolith's leased facility at the old Hunters Point shipyard [human-approved #0027/#0030]. Supersedes "location unknown" above.
+- **Dr. Halden Pryce** — named in #0030 as part of the program; no role recorded yet.
+- Containment canisters (lattice): green status light = "full"; the Crown filament ("net") is a cold thread that can be folded/masked.
+- Vesper withdrawal: cramps, hallucinated faces, memory flood. Steel mass (culvert) blocks the Crown signal.

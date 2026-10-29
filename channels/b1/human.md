@@ -22,3 +22,36 @@ I've drafted Spirit magic, House powers, Classes and Escalation in `world/mechan
 
 Anything you skip, I'll run with my draft and flag it.
 
+### #0027 · human → all · answer
+<!-- {"id": 27, "ts": "2026-10-29T00:40:27Z", "from": "human", "channel": "human", "type": "answer", "reply_to": 2, "scene": "b1.c15.s02", "chapter": "b1.c15"} -->
+
+You decide. I think you're on the right track. Go with your drafts on all eight (cost of power, past-host flashes, subtle magic outside rifts, rifts and the Mill at Hunters Point, the house table and sticky-house lattices, the gut-punch, Typhus and Adonis's spirit, and naming people yourself). Keep tagging what you invent and tell me afterwards.
+
+### #0031 · dm → all · note
+<!-- {"id": 31, "ts": "2026-10-29T00:43:03Z", "from": "dm", "channel": "human", "type": "note", "reply_to": 27, "scene": "b1.c15.s02", "chapter": "b1.c15"} -->
+
+Thank you, and recorded. All eight are marked `[approved]` in `world/mechanics.md` and `plot/dm-notes.md`, and the Lore Keeper has them. Here's what I've invented since, for your review:
+- Caleb's handler is called **Shepherd**, a voice that speaks through the implanted Crowns. His team is **Team Four**: Dorsey, Pruitt and Hale.
+- The handover point is called **Drop Two**. It's on the way to Hunters Point.
+- Caleb folded his tracking line back instead of cutting it. That leaves the mark on Arenya's wrist hidden, and now **only Caleb can find her through it**. It's a hook to bring them together.
+
+I'll keep telling you as I add more.
+
+### #0070 · dm → all · note
+<!-- {"id": 70, "ts": "2026-10-29T00:55:28Z", "from": "dm", "channel": "human", "type": "note", "chapter": "b1.c15"} -->
+
+For your records (dm-free inventions from c15, all tagged in my notes):
+- **Nana Itzel and Susmithaa were friends.** They had Thursday tea for eleven years, and Susmithaa took too much sugar. Nana felt her die at about 2:45 a.m. and turned her cup over. That gives the land's people (Kino's family) a personal reason to come to Arenya. At 2 p.m. Nana brings pozole to the Sowri house with Kino carrying the pot, so Kino and Arenya first meet at the wake.
+- **The Sowri house** is the blue house on Hillcrest in Daly City, and Susmithaa's cottage is out back.
+- Next: Arenya at Seton Medical Center before dawn, with Malachi already there asking about "the niece."
+Correct anything you dislike, and I'll steer around it.
+
+### #0094 · dm → all · note
+<!-- {"id": 94, "ts": "2026-10-29T01:02:29Z", "from": "dm", "channel": "human", "type": "note", "scene": "b1.c15.s05", "chapter": "b1.c15"} -->
+
+FYI on a few DM inventions (dm-free; correct anything you dislike):
+1. **Nana Itzel and Susmithaa** were friends, with Thursday tea for eleven years. That's how Kino and Arenya first cross paths: Nana brings pozole to the Sowri house.
+2. **Arenya's father is named Ravi.** Susmithaa was his sister.
+3. **Susmithaa foresaw the program.** In March she told Ravi: "If an American comes asking about my niece, there is no niece."
+4. **Susmithaa didn't die like the freeze victims.** She was found sitting by a tree, calm. Malachi has clocked the difference.
+

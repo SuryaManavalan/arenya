@@ -358,6 +358,7 @@ function placeFor(loc){if(!loc)return null;if(loc.place&&PLACES[loc.place])retur
   for(const [k,p] of Object.entries(PLACES)){for(const n of [p.name,...(p.aliases||[])])if(n&&t.includes(n.toLowerCase().split(" (")[0]))return k}return null}
 async function renderMap(){
   PLACES=await api("/api/places");
+  const warn=PLACES._warning||PLACES.error;delete PLACES._warning;delete PLACES.error;
   if(!MAP){MAP=L.map("map",{zoomControl:true}).setView([37.76,-122.43],11);
     // Free, keyless OpenStreetMap tiles, darkened with a CSS filter (.darktiles) to match the theme.
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"© OpenStreetMap contributors",maxZoom:19,className:"darktiles"}).addTo(MAP);}
@@ -371,7 +372,7 @@ async function renderMap(){
     L.marker([p.lat,p.lon],{icon}).bindPopup(pop).addTo(MAPLAYER);
     if(here[k]){const ic=L.divIcon({className:"",html:`<div class="who-marker">${here[k].map(a=>av(a)).join("")}</div>`,iconSize:[30*here[k].length,30],iconAnchor:[15*here[k].length,40]});L.marker([p.lat,p.lon],{icon:ic,zIndexOffset:1000}).bindPopup(pop).addTo(MAPLAYER)}}
   const unplaced=Object.entries(S.cast).filter(([id,c])=>!placeFor(c.location));
-  $("#mapside").innerHTML=`<h3 class="muted" style="font-size:12px;letter-spacing:1.5px;text-transform:uppercase">Where everyone is</h3>`+
+  $("#mapside").innerHTML=(warn?`<div class="ask" style="border-color:var(--danger);color:var(--danger);font-size:12.5px">⚠ ${esc(warn)}</div>`:"")+`<h3 class="muted" style="font-size:12px;letter-spacing:1.5px;text-transform:uppercase">Where everyone is</h3>`+
     Object.entries(S.cast).filter(([,c])=>c.role==="player"||c.location).map(([id,c])=>`<div class="exp" style="display:flex;gap:8px;align-items:center">${av(id,"sm")}<div><b>${esc(c.name)}</b><br><span class="muted">${c.location?esc(c.location.location):"not yet in a scene"}</span></div></div>`).join("")+
     `<h3 class="muted" style="font-size:12px;letter-spacing:1.5px;text-transform:uppercase;margin-top:18px">Legend</h3>`+Object.entries(KIND).map(([k,c])=>`<div style="display:flex;gap:8px;align-items:center;font-size:12.5px;margin:3px 0"><span class="pin" style="background:${c}"></span>${k}</div>`).join("")+
     `<div style="display:flex;gap:8px;align-items:center;font-size:12.5px;margin:3px 0"><span class="pin restricted" style="background:#555"></span>secret (characters don't know)</div>`+

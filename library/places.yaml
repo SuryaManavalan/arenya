@@ -99,6 +99,22 @@ places:
     kind: home
     visibility: public
     sources: [agents/kino]
+  daly-city-nana-house:
+    name: Nana Itzel's kitchen (Daly City, hill above Mission St)
+    lat: 37.6900
+    lon: -122.4690
+    kind: home
+    note: Stucco house; scene b1.c15.s04. Supersedes the Excelsior pin as her residence per the table (Kino was raised in the Excelsior).
+    visibility: public
+    sources: ["b1.c15.s04 #0059"]
+  susmithaa-cottage:
+    name: Susmithaa's cottage (behind the blue house, Hillcrest, Daly City)
+    lat: 37.6885
+    lon: -122.4680
+    kind: home
+    note: Down the hill from Nana. Approximate. Possibly same property as the garden of her death (unconfirmed).
+    visibility: public
+    sources: ["b1.c15.s04 #0061", "#0062"]
   inner-sunset-ava:
     name: Ava's apartment (Inner Sunset)
     lat: 37.7620

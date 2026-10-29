@@ -1,9 +1,9 @@
 {
  "phase": "play",
- "next_id": 21,
+ "next_id": 96,
  "book": 1,
  "chapter": 15,
- "scene_counter": 1,
+ "scene_counter": 5,
  "scene": null,
  "scenes": [
   {
@@ -19,25 +19,78 @@
    "summary": "In a shared dream in the bulk above her parents' Daly City garden, Arenya watches her aunt Susmithaa, the host of the Sowri line's light spirit, take the form of a woman made of lamps as a faceless four-man collection team draws a magnetic net that snuffs her flames. Abernathy fights at Susmithaa's side as her squire; his lantern strike fails and his light gutters, but he shields the single flame Arenya reaches for and holds. In that moment his voice slips briefly out of cockney into something old: \"keep it lit, child.\" Arenya tries to pin the man in the light grey jacket from her investigation wall and fails. She keeps only the words \"left pocket\", and his net's filament \"counts\" her, leaving a cold coin-sized spot on the inside of her right wrist. Susmithaa pours all her remaining light into Arenya's flame. The collection catches only ash, and her last words are a charge: something old is waking, the doors will open, keep it lit, go with all the light you can carry, and look after Abernathy (\"He'll say he's looking after you. He's lying\"). Abernathy is torn loose and bound to Arenya, and Susmithaa's body collapses by the curry-leaf tree. Arenya wakes at 3:19 a.m. with a warm, clenched fist; Abernathy is filling her kettle and warns her in private to hide the hand and leave the wrist mark alone. At 3:20 Amma calls: Susmithaa is dead at Seton, her window lamp went out with oil still in it, and a polite American in a suit reached the hospital before the family and asked whether Susmithaa had a niece.",
    "book": 1,
    "chapter": 15
-  }
- ],
- "expectations": [
+  },
   {
-   "id": 2,
-   "from": "dm",
-   "channel": "human",
-   "waiting_on": [
-    "human"
+   "id": "b1.c15.s02",
+   "title": "Woke",
+   "location": "A grey sedan on a quiet residential street in Daly City, 2:52 a.m., half a block from the Sowri house",
+   "place": "sowri-family-home",
+   "cast": [
+    "caleb"
    ],
-   "ts": "2026-10-29T00:31:55Z"
+   "start_id": 21,
+   "end_id": 40,
+   "summary": "Caleb Strand wakes for real in Team Four's grey sedan at 2:52 a.m., half a block from the Sowri house. His Crown implant is burnt but live, and the containment canister at his feet reads \"full\" but holds only ash. He keeps his face flat and reports the collection to the handler Shepherd (Deception 18). He passes off his still-extended filament as a \"residual tether\" and folds it back along the line instead of cutting it. That leaves Arenya's wrist tag masked, faint and findable only by him, and the cost is the first bite of Vesper withdrawal. At the on-ramp light on the way to Drop Two, he unbuckles and bails with the canister (Acrobatics 18). The Crown-flat team doesn't pursue; they drive off to report. Over the Crown, Shepherd calls him \"Caleb\" for the first time in fourteen months, offers to fix him and make him forget, and warns that the folded tether \"will unfold.\" Caleb names Susmithaa, refuses (\"I'd rather be scared\"), and deliberately heads away from the south-east pull toward the woman so he won't lead the program to her. He hides in a steel storm culvert in a drainage cut, where the Crown goes silent. Withdrawal and fourteen months of memory crash in. He recites his victims aloud (the Tartine man, Yuri, Susmithaa), admits he never learned his teammates' names, and vows to keep the canister of Susmithaa's ash until someone \"not them\" tells him what it is. The two Vesper doses stay untouched in his left pocket.",
+   "book": 1,
+   "chapter": 15
+  },
+  {
+   "id": "b1.c15.s03",
+   "title": "Dawn Watch",
+   "location": "Cross-cut: the East Peak fire road on Mount Tamalpais at 3:01 a.m., and Ava's apartment in the Inner Sunset at 5:48 a.m.",
+   "place": "mount-tamalpais",
+   "cast": [
+    "kino",
+    "ava"
+   ],
+   "start_id": 41,
+   "end_id": 55,
+   "summary": "At 3 a.m. on East Peak, Kino sensed a warmth to the south, beneath the fog, smelling of burnt butter and church. Ix respects it. Kino failed to track it (Survival 6). Nana told him over the phone that he was \"shown it\" and should bring \"the thing you're not saying\" to her table at first light. Kino vowed to the Sleeping Lady, \"I'll go where you're looking. You don't have to turn around for me.\" On the way down, the wind fell into step beside him and his cold birthmark briefly eased, a small sign that she has not abandoned him. At 5:48 a.m. in the Inner Sunset, Ava saw a lit flame in her hands in the reflection in her oven glass while her real hands were empty, and her clocks were frozen at 2:41. She tested it scientifically and found it consistent across angles. It gutters when she holds her breath. Behind her reflection she glimpsed another window: a brass lamp, browning marigolds, and an old woman's hand with a ring on the smallest finger that reached to pinch the wick and stopped (Susmithaa's shrine, unnamed to her). She told it, \"Don't go out, I've got you.\" The vision ended with the clocks resetting to 5:52, and an unseen candle-sized warmth now lives in her palms. Her video shows only a deniable smear of light, and a blank phantom calendar reminder for 3:20 a.m. appeared, the minute Amma called Arenya.",
+   "book": 1,
+   "chapter": 15
+  },
+  {
+   "id": "b1.c15.s04",
+   "title": "Nana's Table",
+   "location": "Nana's kitchen, Daly City: stucco house on the hill above Mission St",
+   "place": null,
+   "cast": [
+    "kino"
+   ],
+   "start_id": 58,
+   "end_id": 67,
+   "summary": "At first light Kino confesses to Nana Itzel that he has dreamed the Sleeping Lady rolling away from him since September and hid it. She already knew. The overturned second cup belonged to Susmithaa Sowri, her friend of eleven years (Thursday tea, too much sugar). Nana felt her die at about 2:45 a.m. and turned the cup over. The \"butter and church\" smell Kino tracked was ghee and camphor: Susmithaa's passing. Nana reframes the dream: the Lady isn't turning from Kino, she's turned toward a \"door,\" and the light went through it to Susmithaa's unbelieving niece. Kino works through his jealousy aloud (\"even if it should've been me\") and decides a champion stands beside the door, not in front of it. Nana answers that his gift is night-eyes, which is what a lamp needs, and plans to bring pozole to the Sowri house at two with Kino carrying the pot, in a black shirt, saying nothing. She tells him what \"wrong\" looks like: someone nobody remembers inviting (made forgettable), the memorial lamp's flame leaning toward someone with no draft, and anyone watching the niece \"like they're working out how heavy she is.\" Ix will stay out in the fog past the porch light.",
+   "book": 1,
+   "chapter": 15
+  },
+  {
+   "id": "b1.c15.s05",
+   "title": "Seton",
+   "location": "Seton Medical Center, Daly City \u2014 the family room off the ER, before dawn",
+   "place": null,
+   "cast": [
+    "arenya",
+    "abernathy",
+    "malachi"
+   ],
+   "start_id": 71,
+   "end_id": 95,
+   "summary": "At Seton before dawn, Arenya comforts her mother, who brought Susmithaa's cracked brass lamp and refused to give it up. She hides the cold coin-mark on her wrist with a \"steering wheel\" excuse while Abernathy warns her that the man at the nurses' station has no light at all, \"like a hole in a fence.\" Malachi introduces himself as \"Shawani, Department of Energy,\" apologizes, and waits in the corridor while Arenya takes ten minutes with her family. Amma recalls Susmithaa's last dinner: her Thursday friend Itzel in Daly City will come with pozole if she dies. Appa (Ravi) reveals that in March Susmithaa warned him to deny any niece to an American who came asking. In the corridor, Malachi and Arenya trade: she shows him the wrist mark (he's never seen one and warns her off doctors and photographs); he says Adonis Quinn was Monolith's founder's cousin, that his \"people\" are three analysts and a phone, that a polite American asked for Susmithaa by full name at about 3:40 a.m., before the paperwork, and that Susmithaa did not die like the nine freeze victims. Arenya gives him her burner number; he'll call once tomorrow. She takes custody of Susmithaa's phone (it buzzed repeatedly at 3 a.m. and once at dawn). The lamp stays warm to her touch, and her right fist begins to loosen for the first time.",
+   "book": 1,
+   "chapter": 15
   }
  ],
+ "expectations": [],
  "cursors": {
   "lorekeeper": 3,
-  "dm": 20,
-  "arenya": 14,
-  "abernathy": 17,
-  "author": 0
+  "dm": 95,
+  "arenya": 90,
+  "abernathy": 73,
+  "author": 0,
+  "caleb": 38,
+  "kino": 64,
+  "ava": 50,
+  "malachi": 89
  },
  "sessions": {
   "lorekeeper": {
@@ -45,16 +98,32 @@
    "session_id": "cb7b820a-698e-4f7e-bd7a-f8920572b932"
   },
   "arenya": {
-   "key": "b1.c15.s01",
-   "session_id": "026de4a0-bf33-49f2-9afb-b6e84619aed9"
+   "key": "b1.c15.s05",
+   "session_id": "23ba5bc7-52a7-4190-b735-63ff00eb1ba7"
   },
   "dm": {
-   "key": "b1.c15.s01",
-   "session_id": "ef3a1439-ef8d-4447-a09d-12ac29f89f9a"
+   "key": "b1.c15.s05",
+   "session_id": "19bc462f-0ef3-489d-b8f6-376cbd446c89"
   },
   "abernathy": {
-   "key": "b1.c15.s01",
-   "session_id": "60bbbd34-3748-447e-a427-9200f9772426"
+   "key": "b1.c15.s05",
+   "session_id": "82deb6e0-d29d-44c9-a1a2-0d5405d39a2f"
+  },
+  "caleb": {
+   "key": "b1.c15.s02",
+   "session_id": "fd16d6ea-857a-4481-9658-506a2074d64c"
+  },
+  "kino": {
+   "key": "b1.c15.s04",
+   "session_id": "aa86d163-1ac0-48b9-aaf8-0042320a5d4c"
+  },
+  "ava": {
+   "key": "b1.c15.s03",
+   "session_id": "875a051d-f652-4cab-b071-234e35224283"
+  },
+  "malachi": {
+   "key": "b1.c15.s05",
+   "session_id": "be876b34-3058-412a-ba5c-8aa3c5343a89"
   }
  },
  "charges": {
@@ -92,35 +161,65 @@
   },
   "ava": {
    "period": "b1.c15",
-   "left": 1
+   "left": 2
   },
   "caleb": {
    "period": "b1.c15",
-   "left": 1
+   "left": 2
   }
  },
  "grants_used": {
-  "b1.c15": 2
+  "b1.c15": 4
  },
  "upshift": [],
  "spotlight": [],
  "queue": [],
  "running": [
   {
-   "seq": 19,
+   "seq": 90,
    "agent": "dm",
    "job": "turn",
    "args": {},
    "priority": 0,
    "attempt": 0,
-   "ts": "2026-10-29T00:38:11Z"
+   "ts": "2026-10-29T01:04:11Z"
   }
  ],
- "job_seq": 19,
- "human_waiting": [
-  2
- ],
+ "job_seq": 90,
+ "human_waiting": [],
  "idle_wakes": 1,
  "paused": false,
- "pause_reason": null
+ "pause_reason": null,
+ "locations": {
+  "caleb": {
+   "place": "sowri-family-home",
+   "location": "A grey sedan on a quiet residential street in Daly City, 2:52 a.m., half a block from the Sowri house",
+   "scene": "b1.c15.s02"
+  },
+  "kino": {
+   "place": null,
+   "location": "Nana's kitchen, Daly City: stucco house on the hill above Mission St",
+   "scene": "b1.c15.s04"
+  },
+  "ava": {
+   "place": "mount-tamalpais",
+   "location": "Cross-cut: the East Peak fire road on Mount Tamalpais at 3:01 a.m., and Ava's apartment in the Inner Sunset at 5:48 a.m.",
+   "scene": "b1.c15.s03"
+  },
+  "arenya": {
+   "place": null,
+   "location": "Seton Medical Center, Daly City \u2014 the family room off the ER, before dawn",
+   "scene": "b1.c15.s05"
+  },
+  "abernathy": {
+   "place": null,
+   "location": "Seton Medical Center, Daly City \u2014 the family room off the ER, before dawn",
+   "scene": "b1.c15.s05"
+  },
+  "malachi": {
+   "place": null,
+   "location": "Seton Medical Center, Daly City \u2014 the family room off the ER, before dawn",
+   "scene": "b1.c15.s05"
+  }
+ }
 }

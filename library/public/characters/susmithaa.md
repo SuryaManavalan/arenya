@@ -23,5 +23,16 @@ Arenya's aunt. The family vaguely calls her "international" and says she was "do
 - Her real body sat down by the curry-leaf tree in the garden, in only a cardigan, and died. Appa found her. Taken to Seton, pronounced dead. Her window lamp (kuthu vilakku, lit 31 years) went out with oil still in it. [#0014, #0019]
 - A polite American in a suit reached the hospital before the family, asked for "Susmithaa Sowri" by full name, and asked whether she had a niece. [#0019]
 
+- **b1.c15.s03 (5:48–5:52 a.m., after death):** Her shrine appeared in Ava's oven-glass reflection: brass lamp on a low shelf, browning marigolds, an old woman's hand with a ring on the smallest finger reaching to pinch the wick, then stopping. Ava does not know whose it is. Her light's warmth also seems to have touched Ava's palms (camphor and ghee scent). [#0050, #0053]
+
+- **b1.c15.s04 (via Nana):** Lived in a cottage behind the blue house on Hillcrest, Daly City, down the hill from Nana; kept a lamp in her window. Friend of [[nana-itzel]]: Thursday tea for eleven years, too much sugar (drank tea, not coffee), brought a candle-tasting sweet. Nana felt her die ~2:45 a.m. Her death smell, ghee and camphor, is what Kino tracked. Told Arenya "little things" over the years; Arenya laughed, and Susmithaa laughed along "so the girl wouldn't feel bad." Worried about the unbelieving niece more than dying. Family expected back from Seton by noon, then days of visitors and a kept lamp. [#0061, #0062, #0064]
+
+- **b1.c15.s05 (Seton):** Sister of [[ravi-sowri]]. In March she phoned him at work: "If an American ever comes asking about my niece, tell him there is no niece... Exactly." At Sunday dinner (rasam, too much) she was "silly-happy," learning tamales from Itzel, her Thursday friend: "If I die first, Itzel will come with pozole, and you must eat it and not be rude about the chili" (last words to Amma). Her phone buzzed unanswered at 3 a.m.; Arenya now holds it. Malachi had listed her as "unusual" since September; she did not die like the nine freeze victims. Her lamp: see [[susmithaa-brass-lamp]]. [#0082, #0084, #0086, #0090]
+
+## Open questions
+- Malachi's list says she was found "sitting by a tree"; consistent with s01 curry-leaf tree.
+- Residence: s04 puts her cottage on Hillcrest (behind a blue house), while s01 places her death in "her Daly City garden" with the curry-leaf tree and Appa finding her; probably the same property, unconfirmed. Also Nana calls Arenya "her brother's girl" (Appa is Susmithaa's brother). [#0014, #0061]
+- The shrine hand stopped short of pinching the wick, yet the window lamp was recorded as having gone out (#0019). Whose hand is it, and is this a vision of the past, or of someone tending the lamp now?
+
 ## Status
 Dead (b1.c15.s01). Her light passed to [[arenya-sowri]]; [[abernathy]] was bound to Arenya.

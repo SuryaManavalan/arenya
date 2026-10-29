@@ -72,6 +72,8 @@ each piece was introduced or revealed in, so the Author doesn't reveal the shape
 death sites, rifts, facilities, spirit sites) gets an entry with real-world `lat`/`lon` (approximate
 is fine), `kind`, `visibility` and `sources`. Add one whenever a scene happens somewhere new or the
 DM asks. Rifts get `kind: rift`, with a note about how strong they are.
+It's YAML, and `#` starts a comment, so **always quote message ids**:
+`sources: ["b1.c15.s04 #0059"]`, never `[b1.c15.s04 #0059]`.
 
 ## Sources and authority
 

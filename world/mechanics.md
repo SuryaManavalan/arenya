@@ -148,7 +148,7 @@ back. Losing them is a story, not an ending. Every other character can die.
 - Ability checks, saves, advantage/disadvantage, combat flow and conditions follow 5e unless overridden here.
 - Modern-day gear (phones, cars, firearms, money, the internet, police, consequences) follows real-world logic. The DM sets DCs and damage for it.
 
-## Spirit magic `[dm-proposed]`, pending the human's confirmation (from B1)
+## Spirit magic `[approved]` (human, #0027: "go with your drafts on all eight") (from B1)
 - **Source.** A host's power belongs to their spirit. The host lends it a body and a will and points
   it, and the spirit lends its house's nature. Meta mages borrow a channel through Vesper. What
   they're actually using is rendered spirit.
@@ -167,7 +167,7 @@ back. Losing them is a story, not an ending. Every other character can die.
   can't create lasting matter. It can't touch time (that belongs to later books and to whatever
   Abernathy was).
 
-### The six houses: powers `[dm-proposed]`
+### The six houses: powers `[approved]` (#0027)
 | house | archetype | in a fight (the bulk) | outside a fight |
 |---|---|---|---|
 | **Light** | revelation, radiance, warding | radiant force, wards, burning away illusion, healing | seeing what's true, being *seen* |

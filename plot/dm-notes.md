@@ -59,7 +59,7 @@ Spotlight the dream for Arenya. Then cut to each of the others' mornings.
    chattering, and Malachi already there, now sure she's involved.
 
 ### Seeds to pay off
-- **"Be careful who sees you"** (Susmithaa, c03). PROPOSED to the human (Q6, #pending): Arenya's
+- **"Be careful who sees you"** (Susmithaa, c03). APPROVED by the human (#0027): Arenya's
   Monolith visit (c09/c12) is **how the program found the Sowri line**. A lobby resonance array (or
   the expressionless **graphite-grey escort** in c12, a meta mage) read her latent signature. They
   traced the family and found the real prize. Her investigation literally led them to her aunt.
@@ -75,7 +75,11 @@ Spotlight the dream for Arenya. Then cut to each of the others' mornings.
   Leaning: not Elias Khatri. Elias is decent, compromised, and a future inside source.
 - **Team Four** (Caleb's team): **Dorsey** (lead), **Pruitt**, **Hale**. Forgettable men.
 - **The Mill**: where spirits are rendered. Proposed location: under Monolith's leased facility at
-  the old **Hunters Point shipyard** (pending the human, Q4).
+  the old **Hunters Point shipyard** (APPROVED, #0027). Drop Two sits on the way there.
+- **#0027 (human):** approved all eight drafts from #0002: cost of power, past-host flashes, subtle
+  magic outside rifts, rifts + the Mill at Hunters Point, the house table + sticky-house lattices, the
+  "be careful who sees you" gut-punch, Typhus/Adonis's spirit, and DM naming authority. Keep tagging
+  inventions and tell the human afterwards.
 
 ## The collection pipeline (DM decisions, built on human canon)
 - **Collection teams** are meta mages working in fours, made forgettable by design (that's the
@@ -97,6 +101,16 @@ Spotlight the dream for Arenya. Then cut to each of the others' mornings.
   wants Arenya. This is Book 1's engine.
 - Typhus learns, at some point mid-book, that the rendering is what tears the **rifts**.
 
+## c15.s04 "Nana's Table" (kino)
+- DM canon (#0061): the overturned cup was **Susmithaa's**. She had tea with Nana on Thursdays for 11 years.
+  Nana felt her die at about 2:45 a.m. The southern smell was ghee and camphor (her passing). Nana reframes the
+  Lady's roll: she's turned *toward a door*, not away from Kino. Nana knows the light went to the niece.
+  Route: this pushes Kino toward Arenya (funeral / Hillcrest cottage / Seton).
+- Set-up: Kino and Nana bring pozole to the Sowri house at **2 p.m.** (Kino: black shirt, carries the pot, Ix in
+  the fog). Nana's three tells (#0066): a forgettable stranger nobody invited (a Lattice watcher, made
+  forgettable by the Crown), the memorial lamp's flame leaning toward someone, and a watcher sizing up Arenya.
+  Use it: the "watchers" tick of the Lattice clock could land at this house; Kino gets first contact with Arenya there.
+
 ## Saiesh
 Fades as an NPC (human's call). Give him a dignified exit, not a cruel one. He and Arenya are still
 mid-fight from c13.
@@ -113,7 +127,16 @@ Next destination: **the light passes to Arenya, and she begins to believe** (the
 - **Lattice wants the light** (0/6). Each tick is the program moving closer to Arenya: watchers →
   scan → team assigned → approach → attempt. Starts at 1 (they know a transfer happened).
 - **Caleb's withdrawal**: day 0. Con save DC 12 + days, each day.
-- **Shepherd hunts Caleb** (0/4).
+- **Caleb after s02:** in a storm culvert in a Daly City drainage cut, 3:14 a.m. onward. He's dark to the
+  Crown only while under steel. He has the canister of Susmithaa's ash, a knife, $380, a dead burner and
+  2 Vesper doses (untaken). Vow: keep the ash until "somebody not them" explains it, which is a natural
+  hook to Arenya, Abernathy or Nana Itzel. Possible payoff: the ash holds a last ember of Susmithaa
+  that Arenya's light can call (DM-free, decide later). The Crown is unresolved: knife surgery, a
+  Faraday trick or a hedge-tech ally.
+- **Shepherd hunts Caleb** (1/4): c15.s02, Caleb bailed at the on-ramp light (Acrobatics 18). Team
+  Four drove off to report. Shepherd now calls him by his real name over the live Crown and claims
+  the folded tether "will unfold." Partly a bluff, partly true: the program can't read the masked
+  tag, but it can find Caleb through the Crown until he deals with it.
 - **Saiesh's exit** (open): resolve within the first two chapters, gently.
 
 ## NPC agendas & secrets in play
@@ -146,6 +169,16 @@ Next destination: **the light passes to Arenya, and she begins to believe** (the
   will matter. Keep it lit. Go with all the light you can carry... look after that one. He'll say
   he's looking after you. He's lying." Her body fell in the garden by the curry-leaf tree. Arenya
   woke 3:19; Amma called 3:20; Abernathy is in her kitchen, filling the kettle.
+- **Grey Jacket = Caleb** (per his IDENTITY). His lingering and his "counting" Arenya was the first
+  spark of his waking. The wrist tag is HIS filament: he can feel it faintly, like a phantom limb, and
+  so can the program unless he masks it. "Left pocket" = his Vesper. s02 opens in the sedan at
+  2:52 a.m.: Dorsey (driver's seat), Pruitt (back left), Hale (back right) slumped in their Crowns;
+  Caleb in the front passenger seat. Shepherd is on comms. The containment lattice canister in the
+  footwell is empty except for ash.
+- c15.s02 so far: Caleb's bluff worked (Deception 18 vs DC 14) with "residual tether, reeling it in."
+  He **folded** the filament back along the line, so the wrist tag is masked, not cut. Now only Caleb
+  can feel or find it, faintly. Shepherd thinks the tether is closed. Withdrawal began (eye cramp,
+  faces in the fog). Team Four is driving to **Drop Two** (~20 min out, toward Hunters Point). The canister handover there is where the lie gets exposed.
 
 ## Monsters / combat tracker
 

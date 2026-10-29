@@ -16,6 +16,7 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[ava-lindqvist]] — barista/psychosis researcher (public)
 - [[kino-balam]] — Tamalpais ranger, land's champion (public)
 - [[nana-itzel]] — Kino's grandmother (public)
+- [[ravi-sowri]] — Arenya's father, Susmithaa's brother (public)
 - [[caleb-strand]] — the grey-jacketed man, meta mage (public)
 - minor-characters — Teddy, Marla, Galina, Fatima, etc. (public)
 - abernathy-true-nature — ex-Time Master (restricted)
@@ -28,13 +29,14 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[tartine-bakery]] — Yuri's death site (public)
 - [[monolith-campus]] — HQ (public)
 - [[mount-tamalpais]] — Tam / Sleeping Lady (public)
+- [[seton-medical-center]] — Daly City hospital; Susmithaa's death, Malachi meeting (public)
 
 ## Factions
 - [[monolith]] — space-tech empire (public)
 - [[sowri-line]] — the light (public, provisional)
 - [[dark-land-lineage]] — SF's land lineage (public, provisional)
 - [[meta-mages]] — Typhus's army (public)
-- collection-program — Lattice Program, the Mill (restricted)
+- collection-program — Lattice Program, the Mill, Shepherd, Team Four, Drop Two (restricted)
 - time-masters (restricted)
 
 ## Magic
@@ -51,7 +53,8 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - master-cosmology — books, concurrency (restricted)
 
 ## Items
-(none yet; titanium Khatri card noted under [[elias-khatri]])
+- [[susmithaa-brass-lamp]] — cracked-chimney lamp, warm to Arenya (public)
+- titanium Khatri card noted under [[elias-khatri]]
 
 ## History & events
 - [[freezing-deaths]] — the cluster (public)

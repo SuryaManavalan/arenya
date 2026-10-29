@@ -17,3 +17,19 @@ He looks at your wrist, at the cold coin on it, and the patter stops.
 
 Quieter, not looking at you: "She said somethin' at the end. About me. You 'eard it. Everyone 'ears it." The cockney slides thin for a breath. "I don't know what she meant. I'd tell you if I did. I'm tellin' you now so it's said before you start wonderin' alone: *I don't know.*"
 
+### #0073 · dm → abernathy,arenya · narration
+<!-- {"id": 73, "ts": "2026-10-29T00:55:43Z", "from": "dm", "channel": "bond", "type": "narration", "to": ["abernathy", "arenya"], "scene": "b1.c15.s05", "chapter": "b1.c15"} -->
+
+To Abernathy, the hospital is loud in a way the living can't hear. Every ward hums with small, frightened lights. The lamp in its blanket is the quietest thing in the building. It isn't empty, only *listening*, like a room where someone has just stopped talking. And the man at the nurses' station has no glow at all. It's not hidden. There's simply nothing there, like a gap in a fence you could put your hand through. You've never seen a living man like that. Or you have, and you can't remember where.
+
+### #0075 · abernathy → arenya · dialogue
+<!-- {"id": 75, "ts": "2026-10-29T00:55:57Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c15.s05", "chapter": "b1.c15"} -->
+
+Don't look, love. Don't look at the nurses' station. Look at your mum.
+
+That bloke in the coat, guv. He's got no light on him at all. Not hidden, not shuttered. *Nothing.* Like a hole in a fence. I've never seen a living man like that, and I don't like how it itches that I might have.
+
+Right. Rules. Left hand off the wrist, but easy, like you're rubbing it cause it's cold. Tell your mum it's the air-con. If he's asking after a niece, he'll be down that corridor in a minute, and you want to be a girl crying on her mum, not a girl with a mark.
+
+And that lamp in the blanket. It's not out, Arenya. It's *listening*. Keep it close. And keep your fist shut, yeah? Whatever you do with it. Please.
+
