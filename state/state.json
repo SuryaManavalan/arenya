@@ -1,22 +1,10 @@
 {
  "phase": "play",
- "next_id": 188,
+ "next_id": 235,
  "book": 1,
  "chapter": 15,
- "scene_counter": 8,
- "scene": {
-  "id": "b1.c15.s08",
-  "title": "What Ix Brought Back",
-  "location": "Sowri house, front room, Daly City (small hours)",
-  "cast": [
-   "arenya",
-   "kino",
-   "abernathy"
-  ],
-  "place": null,
-  "start_id": 174,
-  "spotlights_used": 1
- },
+ "scene_counter": 9,
+ "scene": null,
  "scenes": [
   {
    "id": "b1.c15.s01",
@@ -121,44 +109,76 @@
    "summary": "Arenya unlocked Susmithaa's phone with Appa's birthday and played the 6:12 p.m. voicemail on speaker. The caller was \"Daniel Hale, Meridian Mutual Life, beneficiary services.\" He pronounced \"Sowri\" exactly as the family does, knew the time of death to the minute (3:19 a.m., which the hospital never gave), and asked to \"verify the beneficiary in person\" (claim ref MM-031944). Kino saw the lamp flame duck small and blue on the word \"her,\" and his birthmark pulsed. Amma says Susmithaa never mentioned insurance; Appa is evasive. Nana recalled Susmithaa saying in March, \"I bought a door, and I put Ari's name on it.\" Kino failed to spot what Ix was watching, but heard a car pull away dark. Then the Sowri landline rang. Hale left a second message addressed to Arenya: the policy is real, paid in cash at a Colma office on March 19; meet tomorrow at noon at Serramonte Library, second floor by the periodicals, or he'll \"come to you.\" He signed off with \"Keep that hand warm,\" which links him to Mr. Bell. Under his voice, a second voice was counting \"eleven, twelve,\" stopping on \"hand.\" Kino heard it, and Arenya unconsciously wrote it in her margin. Frost formed on the freezer seal where the phone and tracking card are hidden. Nana explained that they count the ones who carry, and saying the number aloud means they've moved from hunting to collecting: \"Twelve is you.\" Everyone sleeps at the Sowri house under the lamp. Ix went alone to scout Serramonte. Arenya has decided nobody goes to the meeting yet; she wants to check the Colma office.",
    "book": 1,
    "chapter": 15
+  },
+  {
+   "id": "b1.c15.s08",
+   "title": "What Ix Brought Back",
+   "location": "Sowri house, front room, Daly City (small hours)",
+   "place": null,
+   "cast": [
+    "arenya",
+    "kino",
+    "abernathy"
+   ],
+   "start_id": 174,
+   "end_id": 212,
+   "summary": "Ravi gave Arenya the three papers Susmithaa left: the Meridian Mutual \"welcome\" letter numbering her 11 and Arenya 12, her notarized torn NO, and a farewell note. The note said \"Writing is not keeping,\" don't sign, verify or give your full name in a room they chose, and asked Arenya to feed Kino, apologize to Amma about the will, and make Itzel tell the frightening parts. Nana Itzel revealed el Contador, a fair, never-erring clerk-spirit born of the 1912 removal of SF's dead to Colma and the stone-yard shed ledgers. Grey \"beneficiary\" men read its books and collect. In March she witnessed Susmithaa's salt-and-candle no under the shed door. It was entered, and it bought seven months: \"a no buys time, not freedom.\" A second mark in the salt, two strokes side by side, means dos testigos: a contested entry stays open until two stand for it. Arenya told Kino that if it comes to that she'd want it to be him, and he accepted, though not tonight. Hale's calls are understood as pressure to make her name herself. The landline is unplugged, nobody goes to Serramonte at noon, and the plan is breakfast, then Colma in daylight, with Kino walking the stone yard first and Arenya at the gate. In the bond, Abernathy honestly found his memory of \"Mark it so it can be found again\" walled off clean, \"like somebody tidied up after me.\" The sun mark in Arenya's palm sank back. The family slept together under the lamp while Nana kept watch.",
+   "book": 1,
+   "chapter": 15
+  },
+  {
+   "id": "b1.c15.s09",
+   "title": "The Stone Yard",
+   "location": "A monument-carving yard off Mission Road, Colma, mid-morning",
+   "place": null,
+   "cast": [
+    "arenya",
+    "kino",
+    "abernathy"
+   ],
+   "start_id": 213,
+   "end_id": 233,
+   "summary": "At the Esposo Monument Co. yard in Colma, Kino walked first with permission (\"Con permiso, vengo a ver, no a tomar\") while Arenya stayed at the gate with Nana. The yard is a ruled ledger page. Twelve rows of granite blanks run to the shed, which stands as the heading, and a margin file of blanks lines the left fence. Row 11's margin holds Susmithaa's old salted chisel stroke (her contested March no). Row 12's margin stone is polished and holds a single pencil stroke, a witness of one, waiting for a second. At the shed wall Kino heard el Contador, the same dry counting voice from Hale's voicemail, reading back \"Doce. Testigo: una. Falta una.\" It then silently asked him \"\u00bfY t\u00fa?\" Kino wanted badly to say yes. He refused to answer by word or gesture, turned his gaze to Arenya to mean \"not mine to give,\" and backed away. The clerk followed his look to Arenya and made a tick: referred. A pencil dot now sits beside the rule under the 12 in Arenya's palm, marked \"come back to this.\" Abernathy confirmed the hot-brass smell returned for half a second at the gate, and the clerk ruled him a blank \"not yet\" line. Leaving, they saw Mr. Bell's empty beige Camry (7K\u2026) parked across Mission Road with a validation slip from Colma Notary & Mail, likely the \"Colma office\" of the March 19 policy. Tito Boy remarked on \"a lot of visitors\" this week.",
+   "book": 1,
+   "chapter": 15
   }
  ],
  "expectations": [],
  "cursors": {
-  "lorekeeper": 3,
-  "dm": 187,
-  "arenya": 184,
-  "abernathy": 181,
+  "lorekeeper": 214,
+  "dm": 231,
+  "arenya": 229,
+  "abernathy": 221,
   "author": 0,
   "caleb": 38,
-  "kino": 185,
+  "kino": 229,
   "ava": 50,
   "malachi": 89
  },
  "sessions": {
   "lorekeeper": {
-   "key": "b1.c15.between",
-   "session_id": "cb7b820a-698e-4f7e-bd7a-f8920572b932"
+   "key": "b1.c15.s09",
+   "session_id": "ae7dbe04-f653-478f-a12b-c3d3cb79e9d5"
   },
   "arenya": {
-   "key": "b1.c15.s08",
-   "session_id": "c1c70fe0-68c6-4e75-900c-bb7cc3b1e1af"
+   "key": "b1.c15.s09",
+   "session_id": "fcecea23-7fa1-43d2-aa59-5eb49109f263"
   },
   "dm": {
-   "key": "b1.c15.s08",
-   "session_id": "772475fc-b884-4f96-abb0-cbeb11feef44"
+   "key": "b1.c15.s09",
+   "session_id": "abae2579-c3b0-4f05-b19d-7e330dcddb87"
   },
   "abernathy": {
-   "key": "b1.c15.s08",
-   "session_id": "c76f133c-2b0e-4cfe-bcbd-741dd724bcc7"
+   "key": "b1.c15.s09",
+   "session_id": "f080a591-2e45-4cdf-882a-15962a16ede1"
   },
   "caleb": {
    "key": "b1.c15.s02",
    "session_id": "fd16d6ea-857a-4481-9658-506a2074d64c"
   },
   "kino": {
-   "key": "b1.c15.s08",
-   "session_id": "d03394ed-f204-46e1-911b-e76a4e47b99c"
+   "key": "b1.c15.s09",
+   "session_id": "9c87b92b-f1c2-41f8-bf6b-ae2102930170"
   },
   "ava": {
    "key": "b1.c15.s03",
@@ -218,43 +238,113 @@
  "spotlight": [],
  "queue": [
   {
-   "seq": 176,
-   "agent": "dm",
-   "job": "reflect",
+   "seq": 230,
+   "agent": "author",
+   "job": "draft",
    "args": {
     "scene": {
-     "id": "b1.c15.s07",
-     "title": "Fourteen Missed Calls",
-     "location": "Sowri family home, Daly City: front room by the memorial lamp, evening",
-     "place": "sowri-family-home",
+     "id": "b1.c15.s09",
+     "title": "The Stone Yard",
+     "location": "A monument-carving yard off Mission Road, Colma, mid-morning",
+     "place": null,
      "cast": [
       "arenya",
-      "kino"
+      "kino",
+      "abernathy"
      ],
-     "start_id": 153,
-     "end_id": 172,
-     "summary": "Arenya unlocked Susmithaa's phone with Appa's birthday and played the 6:12 p.m. voicemail on speaker. The caller was \"Daniel Hale, Meridian Mutual Life, beneficiary services.\" He pronounced \"Sowri\" exactly as the family does, knew the time of death to the minute (3:19 a.m., which the hospital never gave), and asked to \"verify the beneficiary in person\" (claim ref MM-031944). Kino saw the lamp flame duck small and blue on the word \"her,\" and his birthmark pulsed. Amma says Susmithaa never mentioned insurance; Appa is evasive. Nana recalled Susmithaa saying in March, \"I bought a door, and I put Ari's name on it.\" Kino failed to spot what Ix was watching, but heard a car pull away dark. Then the Sowri landline rang. Hale left a second message addressed to Arenya: the policy is real, paid in cash at a Colma office on March 19; meet tomorrow at noon at Serramonte Library, second floor by the periodicals, or he'll \"come to you.\" He signed off with \"Keep that hand warm,\" which links him to Mr. Bell. Under his voice, a second voice was counting \"eleven, twelve,\" stopping on \"hand.\" Kino heard it, and Arenya unconsciously wrote it in her margin. Frost formed on the freezer seal where the phone and tracking card are hidden. Nana explained that they count the ones who carry, and saying the number aloud means they've moved from hunting to collecting: \"Twelve is you.\" Everyone sleeps at the Sowri house under the lamp. Ix went alone to scout Serramonte. Arenya has decided nobody goes to the meeting yet; she wants to check the Colma office.",
+     "start_id": 213,
+     "end_id": 233,
+     "summary": "At the Esposo Monument Co. yard in Colma, Kino walked first with permission (\"Con permiso, vengo a ver, no a tomar\") while Arenya stayed at the gate with Nana. The yard is a ruled ledger page. Twelve rows of granite blanks run to the shed, which stands as the heading, and a margin file of blanks lines the left fence. Row 11's margin holds Susmithaa's old salted chisel stroke (her contested March no). Row 12's margin stone is polished and holds a single pencil stroke, a witness of one, waiting for a second. At the shed wall Kino heard el Contador, the same dry counting voice from Hale's voicemail, reading back \"Doce. Testigo: una. Falta una.\" It then silently asked him \"\u00bfY t\u00fa?\" Kino wanted badly to say yes. He refused to answer by word or gesture, turned his gaze to Arenya to mean \"not mine to give,\" and backed away. The clerk followed his look to Arenya and made a tick: referred. A pencil dot now sits beside the rule under the 12 in Arenya's palm, marked \"come back to this.\" Abernathy confirmed the hot-brass smell returned for half a second at the gate, and the clerk ruled him a blank \"not yet\" line. Leaving, they saw Mr. Bell's empty beige Camry (7K\u2026) parked across Mission Road with a validation slip from Colma Notary & Mail, likely the \"Colma office\" of the March 19 policy. Tito Boy remarked on \"a lot of visitors\" this week.",
      "book": 1,
      "chapter": 15
     }
    },
-   "priority": 5,
+   "priority": 9,
    "attempt": 0,
-   "ts": "2026-10-29T01:15:43Z"
+   "ts": "2026-10-29T01:30:10Z"
+  },
+  {
+   "seq": 231,
+   "agent": "lorekeeper",
+   "job": "extract",
+   "args": {
+    "scene": {
+     "id": "b1.c15.s09",
+     "title": "The Stone Yard",
+     "location": "A monument-carving yard off Mission Road, Colma, mid-morning",
+     "place": null,
+     "cast": [
+      "arenya",
+      "kino",
+      "abernathy"
+     ],
+     "start_id": 213,
+     "end_id": 233,
+     "summary": "At the Esposo Monument Co. yard in Colma, Kino walked first with permission (\"Con permiso, vengo a ver, no a tomar\") while Arenya stayed at the gate with Nana. The yard is a ruled ledger page. Twelve rows of granite blanks run to the shed, which stands as the heading, and a margin file of blanks lines the left fence. Row 11's margin holds Susmithaa's old salted chisel stroke (her contested March no). Row 12's margin stone is polished and holds a single pencil stroke, a witness of one, waiting for a second. At the shed wall Kino heard el Contador, the same dry counting voice from Hale's voicemail, reading back \"Doce. Testigo: una. Falta una.\" It then silently asked him \"\u00bfY t\u00fa?\" Kino wanted badly to say yes. He refused to answer by word or gesture, turned his gaze to Arenya to mean \"not mine to give,\" and backed away. The clerk followed his look to Arenya and made a tick: referred. A pencil dot now sits beside the rule under the 12 in Arenya's palm, marked \"come back to this.\" Abernathy confirmed the hot-brass smell returned for half a second at the gate, and the clerk ruled him a blank \"not yet\" line. Leaving, they saw Mr. Bell's empty beige Camry (7K\u2026) parked across Mission Road with a validation slip from Colma Notary & Mail, likely the \"Colma office\" of the March 19 policy. Tito Boy remarked on \"a lot of visitors\" this week.",
+     "book": 1,
+     "chapter": 15
+    }
+   },
+   "priority": 8,
+   "attempt": 0,
+   "ts": "2026-10-29T01:30:11Z"
   }
  ],
  "running": [
   {
-   "seq": 192,
-   "agent": "dm",
-   "job": "replay",
-   "args": {},
-   "priority": -1,
+   "seq": 234,
+   "agent": "kino",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c15.s09",
+     "title": "The Stone Yard",
+     "location": "A monument-carving yard off Mission Road, Colma, mid-morning",
+     "place": null,
+     "cast": [
+      "arenya",
+      "kino",
+      "abernathy"
+     ],
+     "start_id": 213,
+     "end_id": 233,
+     "summary": "At the Esposo Monument Co. yard in Colma, Kino walked first with permission (\"Con permiso, vengo a ver, no a tomar\") while Arenya stayed at the gate with Nana. The yard is a ruled ledger page. Twelve rows of granite blanks run to the shed, which stands as the heading, and a margin file of blanks lines the left fence. Row 11's margin holds Susmithaa's old salted chisel stroke (her contested March no). Row 12's margin stone is polished and holds a single pencil stroke, a witness of one, waiting for a second. At the shed wall Kino heard el Contador, the same dry counting voice from Hale's voicemail, reading back \"Doce. Testigo: una. Falta una.\" It then silently asked him \"\u00bfY t\u00fa?\" Kino wanted badly to say yes. He refused to answer by word or gesture, turned his gaze to Arenya to mean \"not mine to give,\" and backed away. The clerk followed his look to Arenya and made a tick: referred. A pencil dot now sits beside the rule under the 12 in Arenya's palm, marked \"come back to this.\" Abernathy confirmed the hot-brass smell returned for half a second at the gate, and the clerk ruled him a blank \"not yet\" line. Leaving, they saw Mr. Bell's empty beige Camry (7K\u2026) parked across Mission Road with a validation slip from Colma Notary & Mail, likely the \"Colma office\" of the March 19 policy. Tito Boy remarked on \"a lot of visitors\" this week.",
+     "book": 1,
+     "chapter": 15
+    }
+   },
+   "priority": 6,
    "attempt": 0,
-   "ts": "2026-10-29T01:18:19Z"
+   "ts": "2026-10-29T01:30:11Z"
+  },
+  {
+   "seq": 235,
+   "agent": "abernathy",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c15.s09",
+     "title": "The Stone Yard",
+     "location": "A monument-carving yard off Mission Road, Colma, mid-morning",
+     "place": null,
+     "cast": [
+      "arenya",
+      "kino",
+      "abernathy"
+     ],
+     "start_id": 213,
+     "end_id": 233,
+     "summary": "At the Esposo Monument Co. yard in Colma, Kino walked first with permission (\"Con permiso, vengo a ver, no a tomar\") while Arenya stayed at the gate with Nana. The yard is a ruled ledger page. Twelve rows of granite blanks run to the shed, which stands as the heading, and a margin file of blanks lines the left fence. Row 11's margin holds Susmithaa's old salted chisel stroke (her contested March no). Row 12's margin stone is polished and holds a single pencil stroke, a witness of one, waiting for a second. At the shed wall Kino heard el Contador, the same dry counting voice from Hale's voicemail, reading back \"Doce. Testigo: una. Falta una.\" It then silently asked him \"\u00bfY t\u00fa?\" Kino wanted badly to say yes. He refused to answer by word or gesture, turned his gaze to Arenya to mean \"not mine to give,\" and backed away. The clerk followed his look to Arenya and made a tick: referred. A pencil dot now sits beside the rule under the 12 in Arenya's palm, marked \"come back to this.\" Abernathy confirmed the hot-brass smell returned for half a second at the gate, and the clerk ruled him a blank \"not yet\" line. Leaving, they saw Mr. Bell's empty beige Camry (7K\u2026) parked across Mission Road with a validation slip from Colma Notary & Mail, likely the \"Colma office\" of the March 19 policy. Tito Boy remarked on \"a lot of visitors\" this week.",
+     "book": 1,
+     "chapter": 15
+    }
+   },
+   "priority": 6,
+   "attempt": 0,
+   "ts": "2026-10-29T01:30:11Z"
   }
  ],
- "job_seq": 192,
+ "job_seq": 235,
  "human_waiting": [],
  "idle_wakes": 0,
  "paused": false,
@@ -267,8 +357,8 @@
   },
   "kino": {
    "place": null,
-   "location": "Sowri house, front room, Daly City (small hours)",
-   "scene": "b1.c15.s08"
+   "location": "A monument-carving yard off Mission Road, Colma, mid-morning",
+   "scene": "b1.c15.s09"
   },
   "ava": {
    "place": "mount-tamalpais",
@@ -277,13 +367,13 @@
   },
   "arenya": {
    "place": null,
-   "location": "Sowri house, front room, Daly City (small hours)",
-   "scene": "b1.c15.s08"
+   "location": "A monument-carving yard off Mission Road, Colma, mid-morning",
+   "scene": "b1.c15.s09"
   },
   "abernathy": {
    "place": null,
-   "location": "Sowri house, front room, Daly City (small hours)",
-   "scene": "b1.c15.s08"
+   "location": "A monument-carving yard off Mission Road, Colma, mid-morning",
+   "scene": "b1.c15.s09"
   },
   "malachi": {
    "place": null,

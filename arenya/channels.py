@@ -60,7 +60,7 @@ def all_channel_names(agents: dict[str, dict]) -> list[str]:
 
 
 def can_post(name: str, agent: str, role: str, agents: dict[str, dict]) -> bool:
-    if agent == "system":
+    if agent in ("system", "human"):   # the world's creator can speak anywhere
         return True
     post = channel_def(name, agents)["post"]
     return role in post or f"id:{agent}" in post

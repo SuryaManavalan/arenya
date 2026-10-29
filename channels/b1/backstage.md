@@ -90,3 +90,31 @@ Lore Keeper, two flags from b1.c15.s07 for the DM:
 1. "Daniel Hale" shares a surname with Team Four's Hale (s02, #0021–#0040). Is this the same man? I've logged it restricted and provisional.
 2. Hale and Arenya both give Susmithaa's death as 3:19 a.m. In s01 the attack ran about 2:40–3:14, and Nana felt her die about 2:45 (s04). Only Arenya's waking (3:19) and Amma's call (3:20) are firm. Should 3:19 stay as the "official" death minute, or is the gap deliberate?
 
+### #0188 · dm → lorekeeper · answer
+<!-- {"id": 188, "ts": "2026-10-29T01:19:58Z", "from": "dm", "channel": "backstage", "type": "answer", "to": ["lorekeeper"], "reply_to": 187, "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+Good catches, both deliberate.
+1. **Same man.** "Daniel Hale" of Meridian Mutual is Team Four's Hale. The Crown-flattening makes collection men forgettable, so they don't bother with aliases. Failed collections get a "claims" follow-up from the same team. Keep it restricted. Caleb would recognize the name if he ever hears it.
+2. **The gap is deliberate.** The body died about 2:45 (Nana felt it). **3:19 is when the light finished passing** to Arenya, the moment she woke. The Lattice logs the *light*, not the body. That's why Hale's minute is a tell: no human record should have 3:19. The Seton pronouncement time is not established; leave it open.
+New canon coming up (s08): the Counter wrote "12" with a ruled line on Arenya's palm. Susmithaa's envelope shows **she was No. 11** (a Meridian "welcome" letter from March 9 for a policy she never bought, beneficiary Arenya = 12). Also a notarized Colma declaration of "no," witnessed by Ravi. Full letter text to follow once it's played.
+
+### #0203 · dm → lorekeeper · note
+<!-- {"id": 203, "ts": "2026-10-29T01:23:57Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+New DM canon (dm-free, provisional), from #0198 and #0202: **El Contador** is the clerk-entity under Colma. It was born from the 1912 removal of 150,000+ dead from SF to Colma and the shed ledgers by the stone yard (smell: wet granite and ink). It counts the dead and the soon-to-be-dead in the valley, never errs, never crosses out. Grey "beneficiary" men (Lattice / *los que cuentan* readers) read its books and collect. A written **no** (salt + candle under the shed door) gets *entered*. It buys time, not freedom, and can't be unwritten, only made expensive through pressure. **Two strokes side by side** in the margin = "dos testigos": the entry is contested and stays open until two people stand for it. Implied: Arenya + Kino. Please file under restricted, with a public-facing rumor version only ("you don't lie on paper near Colma").
+
+### #0214 · dm → lorekeeper · request
+<!-- {"id": 214, "ts": "2026-10-29T01:27:24Z", "from": "dm", "channel": "backstage", "type": "request", "to": ["lorekeeper"], "awaits": ["lorekeeper"], "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+New place for the map: **colma-stone-yard**. "Esposo Monument Co. yard (Colma, off Mission Road)." It's a working headstone yard: chain-link fence, rows of uncut granite blanks, a polishing shed that's in use. At the back is a corrugated-tin shed that the business doesn't use: el Contador's ledger shed, where Nana and Susmithaa slid the March no under the door. Visibility should be public for the yard and restricted for the shed's nature. Approx lat 37.6835, lon -122.4600. NPC: **Tito Boy Esposo**, about 60, owns the yard and cuts the stones. He's fully mundane and doesn't go near the back shed. "City says it's on our lot. We just don't go in." Sources: b1.c15.s09.
+
+### #0216 · lorekeeper → all · answer
+<!-- {"id": 216, "ts": "2026-10-29T01:27:38Z", "from": "lorekeeper", "channel": "backstage", "type": "answer", "reply_to": 214, "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+Filed: places.yaml now has `colma-stone-yard` (public; Tito Boy Esposo noted) and `colma-ledger-shed` (restricted, spirit kind, provisional) at your coordinates. Use `colma-stone-yard` as the scene place key. Extraction of the s04–s09 canon will follow in the scene extract.
+
+### #0234 · human → dm · note
+<!-- {"id": 234, "ts": "2026-10-29T01:30:23Z", "from": "human", "channel": "backstage", "type": "note", "to": ["dm"], "chapter": "b1.c15"} -->
+
+Pacing note from the human: not every scene has to be a full-length movie scene. Like a D&D table, you can use movement scenes at your discretion: fast-forward to this, then this happens, then that happens, and land in the next scene that matters. Full scenes should still be most of the game, but use the fast-forward so we don't get bogged down in single scenes that don't turn into a story. (Now also in rules/dm.md under Running scenes.)
+

@@ -49,6 +49,10 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[prana-and-ascent]] — chakra/Ascent (public)
 
 ## Creatures / spirits
+- [[el-contador-rumor]] — Colma's clerk-spirit, folk version (public, provisional)
+- el-contador — full account, written no, Lattice reading its books (restricted)
+- dos-testigos — contested-entry mark; the next "no" takes two (restricted)
+- susmithaa-sun-mark — child-drawn sun; Abernathy's sealed memory (restricted)
 - [[sahasrajyoti]] — the Sowri main spirit (public, provisional)
 - [[sleeping-lady]] — the mountain spirit (public, provisional)
 

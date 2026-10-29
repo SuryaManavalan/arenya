@@ -1916,3 +1916,403 @@ Then I do the thing I'm good at. I get up off the floor without a sound and move
 
 Quietly, to Appa, in the voice I use on old men on cold trails: "Mr. Sowri. You did right to bring it out here where the lamp can see. Whatever's in there, it's lighter with all of you in the room." I look at the envelope, at the freezer's thin rime, then at Arenya's thumb on the flap. "Open it slow. If the flame ducks, stop and tell me. I'll be right here."
 
+### #0189 · dm → arenya,kino · narration
+<!-- {"id": 189, "ts": "2026-10-29T01:20:06Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "spotlight": ["arenya"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+Nobody says stop. The flap gives with a small dry sound, like a breath let out.
+
+The lamp doesn't duck. It stands up straight, white at the tip, and leans in a little, the way someone leans to read over your shoulder.
+
+Amma gets up from the armchair and stops pretending. She doesn't take the couch. She sits on the carpet at Appa's feet with her back against his shins and one hand around his ankle, and she says nothing at all. That is worse than anything she could say.
+
+There are three things inside.
+
+**The first** is a letter on heavy cream stock, folded in thirds, with a blue-and-silver letterhead: *MERIDIAN MUTUAL LIFE · Beneficiary Services.* It's dated **March 9**. *Welcome to the Meridian family. We are pleased to confirm that your policy is in force.* Below that is a little grid in a typewriter font:
+
+> INSURED: SOWRI, SUSMITHAA ............ **11**
+> BENEFICIARY: SOWRI, ARENYA (NIECE) .... **12**
+
+There's no premium and no face value. There's only one line at the bottom: *A representative will contact the beneficiary in person to verify.* Across the whole page, in Susmithaa Aunty's blue ballpoint, is one word, pressed so hard the paper has torn at the O: **NO.**
+
+**The second** is two pages of legal paper with a raised notary's seal you can feel with a thumb. *Declaration of Susmithaa Sowri.* It's plain, almost dull. She has purchased no policy from Meridian Mutual Life or any affiliate. She names no beneficiary. Her niece is party to no contract made in her name. Any claim made otherwise is false. It's signed by her and witnessed by *RAVI SOWRI* in Appa's careful engineer's capitals, and stamped *Colma, California.*
+
+Appa looks at his own signature as if someone else forged it. "She said it was a will," he whispers. "I didn't read it. She told me not to read it."
+
+**The third** is folded small: a single sheet torn from the cheap spiral pad that always lived by her kettle, with its ragged edge still on. Her round handwriting shows backward through the paper, crowding right to the margins. At the bottom, where a name should be, the ink has gone heavier. Even reversed, even folded, you can make out the shape: a little circle and a crown of quick rays.
+
+A sun. It's how she signed every birthday card you ever got, since before you could read.
+
+The cold ruled line in your palm aches once, sharply, like a paper cut.
+
+### #0191 · arenya → all · action
+<!-- {"id": 191, "ts": "2026-10-29T01:20:21Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I lay the first two flat on the coffee table side by side, the way I'd lay out sources, and I make myself go slow. Precise is the only thing I've got that doesn't shake.
+
+"Okay." I tap the cream letter. "March ninth. *Welcome to the family.* That's ten days *before* she supposedly walked into Colma with cash on the nineteenth. So Hale's story is backwards. Nobody bought anything. They sent her a receipt for something she never ordered." My finger slides to the grid. "And they numbered us. Eleven, twelve. In a typewriter font, like a utility bill." I touch the torn O of her **NO** with one fingertip, very lightly, as if it might still be hot. "She pushed so hard she went through the paper."
+
+I move to the notarized pages. "And then she went to a notary in Colma, by the flower shop, and swore under seal that she never bought it. With Appa as witness, because he's the one person on earth who'd sign where she pointed and not read it." I look up at him, and my voice breaks for exactly one word. "That's not you being bad at lying, Appa. That's her trusting you to be *good* at not knowing."
+
+I write it down, left-handed, small: *3/9 Meridian letter, unsolicited. 3/19 Colma notary, a declaration, not a purchase. She didn't buy a door. She was trying to shut one.*
+
+Then I pick up the third one, the little kettle-pad sheet. Through the paper I can see the sun, and I stop being a reporter.
+
+It's on every birthday card. Since before I could read. Every one, in the drawer in my apartment, and I never once asked her why a sun.
+
+Amma's hand is on Appa's ankle. I reach down without looking and put my right hand, the numbered one, flat on the back of hers, so we're a chain: me, Amma, Appa. Kino's at our back. "Kino," I say, rough, "come where you can see. She wrote *Itzel knows the rest*. I think you get to hear this too."
+
+I unfold it with my left hand, slowly, and I read it aloud, from the top, in her voice as best I can, the way she used to read me the newspaper when I was seven and pretending I could already.
+
+### #0192 · kino → arenya,dm · action
+<!-- {"id": 192, "ts": "2026-10-29T01:20:24Z", "from": "kino", "channel": "table", "type": "action", "to": ["arenya", "dm"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I don't lean in to read. The third page is hers, and the sun is hers. I keep my eyes on the kitchen doorway and the freezer seam, and my hand stays flat against the back of the couch where Arenya can feel it through the cushion if she needs something solid.
+
+"Eleven and twelve," I say, barely above the lamp's hiss. "Printed in March. Before anyone died, before the funeral, before any of us were in this room. They had the numbers written down long before they said them out loud." I look at Appa's shaking hands and at Amma holding his ankle. "And she tore the paper saying no. She knew exactly what she was signing and refused it anyway. That's not a woman who got sold something, Mr. Sowri. That's a woman who got *counted*, and said no to the face of it."
+
+I look down at Arenya's bent head. "Read hers last. Read it when you're ready. Not before."
+
+### #0194 · dm → arenya,kino · narration
+<!-- {"id": 194, "ts": "2026-10-29T01:20:43Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+The kettle-pad paper is soft from being folded too many times. Arenya reads it in her aunt's cadence, the brisk one with the little lift at the end of every sentence, as if each line is a question she has already answered:
+
+> *Ari kanna,*
+>
+> *If Ravi has given you this, then they've called and I'm not there to pick up. I'm sorry. I wanted to be the one who picked up.*
+>
+> *In March they sent me the letter you're holding. I never bought anything. That is how they say* we have found you. *Men who count don't knock. They send paperwork.*
+>
+> *Listen to me.* ***Writing is not keeping.*** *They wrote me down in March and it took them seven months to come with their net, and when they came I had already decided what they could have, which was nothing important. If your palm has been written on, don't scrub it and don't hide it. Just don't go and* sign. *Don't verify. Don't say your full name to them in a room they chose. A thing gets kept when you agree to it.*
+>
+> *The paper Ravi signed is my no. Keep it near the lamp. Itzel knows what a no is worth to the one under Colma. Make her tell you all of it this time; she leaves out the parts that frighten her.*
+>
+> *If Itzel's boy is there, the cold one, then the lamp has already decided something, and you can stop arguing with it. Feed him. He doesn't eat when he's worried.*
+>
+> *Tell your Amma I'm sorry about the will. Tell your Appa he lied very well for once and I'm proud of him.*
+>
+> *Not too much ghee in the lamp. It smokes.*
+
+And then the sun.
+
+Appa breaks first. It's quiet: his shoulders go, and he puts his big hand over his mouth and keeps it there. Amma turns her hand over under Arenya's palm and grips it hard, numbered side and all, and says to the carpet in Tamil, *"Stubborn. Stubborn, stubborn woman,"* in the voice people use for *I love you* when they can't manage the words.
+
+In Arenya's palm the warmth stops pushing against the cold twelve. It *settles*, the way someone sits down next to you on a bench and makes it clear they aren't getting up. The number is still there. It just isn't alone with her anymore.
+
+The lamp burns lower and steadier, and its flame tips once toward the back of the couch, toward Kino, like a nod.
+
+Then a floorboard in the hall creaks. Nana Itzel stands at the edge of the lamplight with her shoes still on and her braid undone, one hand on the wall. Nobody knows how long she's been there. Her eyes are wet and very hard.
+
+"*Ay, Susmita,*" she says softly. "Telling on me from the grave." She looks at the notary seal on the table, then at Arenya's palm, then at her grandson. "Bueno. The parts that frighten me." She pulls Susmithaa's reading chair toward the lamp, sits, and folds her hands. "Somebody put the kettle on. It isn't a short story, and I'm not telling it twice."
+
+### #0195 · kino → arenya,dm · action
+<!-- {"id": 195, "ts": "2026-10-29T01:20:44Z", "from": "kino", "channel": "table", "type": "action", "to": ["arenya", "dm"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I come around the couch and kneel on the carpet beside Amma, close enough that my shoulder is at Arenya's knee and the lamp throws all of us onto the same wall. Ix lies down across my feet. I turn my back to the kitchen but leave my right hand loose and my eyes half-lidded on the freezer seam in the dark glass of the window.
+
+"I'm here," I say. "Read it. I'll hear the room while you do."
+
+I put my left forearm on my knee, birthmark up, and let it be as cold as it wants. If the flame ducks, I'll feel it before she finishes the sentence.
+
+### #0196 · arenya → all · action
+<!-- {"id": 196, "ts": "2026-10-29T01:20:53Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I fold the kettle-pad sheet along its soft creases, once, twice, thirds, and tuck it into the back of my notebook against the spine, where I keep the things I can't afford to lose. I don't write anything down. For once.
+
+"*Don't sign. Don't verify. Don't say your full name in a room they chose,*" I say, quiet. "Noon at Serramonte is a room they chose. Strung racks, a ring of chairs, one still warm." I look at the number in my palm and don't hide it. "So I'm not going. Not as Arenya Sowri, anyway."
+
+I get up and fill the kettle myself, because Aunty said feed the boy and because my hands need a job. The freezer seam is pale with rime six feet from me. I don't look at it. I look at Nana Itzel instead.
+
+"Nana," I say, setting the kettle on the burner. "She said you leave out the parts that frighten you. So start with those. Who's the one under Colma? Why does a *no* matter to it? And why does it keep books?"
+
+I bring the first mug to Kino and put it in his hands before he can refuse. "Drink that. Aunty's orders."
+
+Then I sit back down between my parents, palm open on my knee, and wait.
+
+### #0197 · kino → arenya,dm · action
+<!-- {"id": 197, "ts": "2026-10-29T01:21:01Z", "from": "kino", "channel": "table", "type": "action", "to": ["arenya", "dm"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I take the mug in both hands. It's hot enough to hurt, and I'm glad of it. I drink, because a dead woman told me to and because Arenya is watching me do it. *He doesn't eat when he's worried.* Nobody has said that about me out loud since I was twelve.
+
+The flame nodded at me. I don't make anything of it. I just keep my back straight and let it have seen me.
+
+"Nana." I look at her over the rim, in Spanish, low, the way I only talk to her. "*Dilo todo. Las partes que te dan miedo también.* I'm not twelve. I've been dreaming the Lady turning away for weeks and you've known what's under Colma the whole time. Whatever it is, I'd rather carry it than guess at it." Ix shifts across my feet. "Start wherever it starts. We're listening."
+
+### #0198 · dm → arenya,kino · narration
+<!-- {"id": 198, "ts": "2026-10-29T01:22:45Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+Nana Itzel takes the second mug, doesn't drink it, and holds it in her lap like a candle.
+
+"In nineteen-twelve," she says, "San Francisco decided the dead were bad for property values. So they dug them up. A hundred and fifty thousand of them, maybe more, and they carted them south over the hill to Colma on wagons and on the streetcar at night. My grandmother's people cut stone down there. They said you can't move that many dead without someone *counting*. Every box had to be written down: who, from where, to which plot. Clerks did it for years, in ledgers, by lamplight, in a shed by the stone yard that always smelled of wet granite and ink." She looks at Kino. "Ix smelled the shed."
+
+"The clerks died. The counting didn't stop. The stonecutters called it *el Contador*. Not a devil. Not a saint. A clerk. It writes down who is dead in that valley and who is going to be. It's very careful and very fair, and it has never once in a hundred years made a mistake in its sums. Nobody prays to it. You just don't lie on paper near Colma." She takes a breath. "And somebody has learned to *read its books*. They wear grey and they say 'beneficiary.' Whatever it writes, they come and collect."
+
+Her hands tighten on the mug. "Here's the part that frightens me. In March, Susmita came to my kitchen with that welcome letter and she was *shaking*. I had never seen her shake. So we went down together. She did the notary, all very correct, and then we walked to the stone yard after closing, and she put a copy of her *no* under the shed door, with salt and a candle, the old way. I stood witness." Her mouth works. "Something answered. Not a voice. The candle went out, and the salt on top of the paper was arranged, after, into a line under it. Like a sum."
+
+"*A no buys time, not freedom.* That's what my grandmother told me, and I didn't tell Susmita, because she had already decided. It bought her seven months. I think she spent every day of them getting ready to give you the light instead of giving it to them."
+
+She sets the mug down. Her eyes go to Arenya's open palm, then to her grandson's cold forearm, and stay there.
+
+"And there was one more thing in the salt. A second mark, beside the line. Two small strokes, close together, *side by side*." She lifts two fingers. "I told myself it was the wind. Then tonight the lamp split in two." She looks at both of them. "I think the next *no* takes two people to say it. Don't ask me how. That's the end of what I know, *mijo*. I swear it on her lamp."
+
+### #0200 · arenya → all · action
+<!-- {"id": 200, "ts": "2026-10-29T01:22:53Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I write it down this time, because Nana's story is a list of facts, and facts are what I have. Left-handed, fast: *1912. 150,000 moved to Colma. Ledgers. Shed, wet granite + ink. El Contador. Doesn't err. Somebody reads its books. March: salt + candle + her NO under the shed door. Answered with a line. Second mark: two strokes, side by side.*
+
+"A clerk," I say. "Not a monster. A clerk that's very fair." My pen stops. "That's worse, you know. Monsters you can fight. Clerks you have to *dispute*."
+
+I turn to Nana. "You said it doesn't make mistakes in its sums. Then twelve isn't a threat. It's a line item. And the men in grey aren't the ones deciding. They're the ones who found out how to read it." I look at the torn **NO** on the table. "Which means the paper Aunty wrote wasn't magic. It was a *formal objection*. And it got entered. The salt proves it."
+
+I lift my head. "Two strokes, side by side. Nana, did it look like a tally? Two ones? Or two people standing next to each other?"
+
+Then, gentler, to Kino, not looking away from Nana: "And Kino, whatever the next *no* takes, nobody here decides that tonight. I'm not signing you up for anything because a pile of salt looked like a pair." I breathe. "But I'm not saying it alone, either. If it comes to that, I'd want it to be you."
+
+I let that sit, and I let Appa hold the envelope, and I don't take the words back.
+
+### #0201 · kino → arenya,dm · dialogue
+<!-- {"id": 201, "ts": "2026-10-29T01:23:03Z", "from": "kino", "channel": "table", "type": "dialogue", "to": ["arenya", "dm"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I set the mug down on the carpet. For a moment I don't say anything, because I've waited twenty-six years for someone to say *I'd want it to be you*, and I'd imagined it coming from a mountain.
+
+"Okay," I say. It's rough, and I leave it rough. "Not tonight, like you said. But I heard you, and I'm not going to pretend I didn't." I look at her, straight, the way I'd look at someone across a trail junction. "Two strokes side by side. If it's two people, then the lamp wasn't picking between us. It was *pairing* us. And I spent three days thinking it was a verdict."
+
+I turn to Nana, the jealousy still there like a stone in my boot. It's smaller now and I can walk on it. "Abuela. The one who answered the salt knew Susmithaa's no was coming. Does it know ours would be? And the people who read its books. Do they need the ledger to find a no, or just to make it expensive?"
+
+I put my hand flat on Ix's back. "Whatever we do next, we do it in daylight, with a plan, and nobody signs anything. That's the only rule I've got."
+
+### #0202 · dm → arenya,kino · narration
+<!-- {"id": 202, "ts": "2026-10-29T01:23:50Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+Nana Itzel gets up, slow, and takes Arenya's pen out of her hand without asking. She draws on the margin under the left-handed notes: a long horizontal line, then two short upright strokes beside it, almost touching.
+
+"Not ones," she says. "My grandmother had a ledger page from the shed, the old clerks' hand. When a body came over the hill and somebody *disputed* the name — wrong family, wrong plot — the clerk didn't cross it out. They don't cross out. He drew two strokes in the margin. *Dos testigos.* Two witnesses. It means: *this entry is contested, and it stays open until two stand for it.*" She taps the strokes. "So. People. Standing next to each other."
+
+She gives the pen back and looks at her grandson.
+
+"Does it know your no is coming? *Mijo*, it doesn't know. It isn't God. It *left room*. A clerk leaves a space on the line when he's waiting for a signature. That's all those two strokes are. A space." Her mouth goes thin. "And the grey ones. No. They can't unwrite a no. Nobody can, not even them. But they can come early. They can lean on the one who said it, and lean, and lean, until that person goes into a room they chose and says their whole name just to make it stop. That's how they make it expensive. Susmita knew. That's why she never answered the phone."
+
+On the table, Susmithaa's phone lies dark. Nobody has touched it in an hour.
+
+The lamp hisses. Through the front window the black over the hill toward Colma has gone the colour of wet slate: not dawn yet, but the idea of it. In the kitchen, the rime on the freezer seal has stopped spreading. It hasn't melted. It's just *holding*, like something waiting at a counter.
+
+Appa clears his throat, eyes still red. "Then it's settled," he says, a little too loud, practising being brave. "Nobody verifies anything. Everybody eats breakfast." Amma doesn't laugh, but her shoulders drop a quarter inch.
+
+In Arenya's palm, beside the cold *12*, there's a faint new pressure, like the place where a second pen would rest.
+
+*(Last beats for the night, if you want them. Otherwise we close the scene on the slate-grey window.)*
+
+### #0204 · arenya → all · action
+<!-- {"id": 204, "ts": "2026-10-29T01:24:00Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I copy Nana's two strokes into my notebook under her line, exactly, then box it. *Dos testigos. Contested. Stays open until two stand.* Under it I write: *They can't unwrite a no. They can only make you say your name to stop the phone ringing.*
+
+"That's what Hale is," I say. "Not a hunter. A *pressure campaign* with a nice voice. Fourteen missed calls and a polite threat. He wants me to walk into a room and say it all out loud on my own." I look at the dark phone. "So we don't answer. Not him, not the landline. Appa, unplug it before breakfast?"
+
+Appa nods, grateful for a task.
+
+I close the notebook. The new pressure in my palm sits beside the twelve like a pen waiting for a hand. I let it. "Breakfast, then Colma, in daylight, with a plan. Kino's rule. Nobody signs." I look at him. "And the shed, if it's still there, is *our* room to choose, not theirs."
+
+I lean my head back against the couch. The window has gone slate. Quietly, to the bond, where only one person hears: *Abernathy. The voice you heard. "Mark it so it can be found again." Whenever you're ready, I'm not going to push. But I'd like to know whose it was before somebody else tells me.*
+
+Then I let my eyes close for exactly one minute, palm open, shoulder against Kino's, between my parents. It's the first time in two days I've allowed it.
+
+### #0206 · kino → arenya,dm · action
+<!-- {"id": 206, "ts": "2026-10-29T01:24:10Z", "from": "kino", "channel": "table", "type": "action", "to": ["arenya", "dm"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I don't move my shoulder. She's warm against it, and for one minute that's the whole job.
+
+"Dos testigos," I say, almost nothing, to the window going slate. "Open until two stand." I let it settle in me next to the stone in my boot. Then I look at the freezer seam, the rime holding like a man at a counter, and at Ix, who has finally put his chin down.
+
+"I'll take first watch on the minute," I tell the room, quiet, so Appa can keep his breakfast plan. "Then I'll eat whatever Amma puts in front of me. Dead woman's orders." The corner of my mouth moves, which it hasn't in days. "And Arenya? When we go to Colma, I walk the stone yard first. Not alone. With Ix and in daylight, and you at the gate. A witness doesn't have to be the first one through the door. She has to be the one still standing at the end."
+
+I close my eyes to slits, hand on the dog, and keep the door.
+
+### #0211 · dm → arenya,kino · narration
+<!-- {"id": 211, "ts": "2026-10-29T01:24:57Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+The minute passes, and then a few more that nobody counts.
+
+Appa gets down on his knees behind the side table and pulls the landline cord out of the wall, gently, like taking a splinter out of a child. Amma fetches the good blanket and puts it over both of them on the couch without asking whose knees go where. Nana Itzel stays in Susmithaa's reading chair with her shoes still on and doesn't sleep. She watches the lamp the way her grandmother watched the stone yard.
+
+Kino keeps the door. Ix's breathing slows against his feet.
+
+Outside, the slate goes slowly to pewter over the hill. Somewhere south, in a valley with more dead than living, a shed that smells of wet granite and ink waits with a line left open and two small strokes in the margin.
+
+The frost on the freezer seal holds, and so does the lamp.
+
+### #0212 · system → all · scene_end
+<!-- {"id": 212, "ts": "2026-10-29T01:25:02Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+**End of scene b1.c15.s08 — What Ix Brought Back**
+
+Ravi gave Arenya the three papers Susmithaa left: the Meridian Mutual "welcome" letter numbering her 11 and Arenya 12, her notarized torn NO, and a farewell note. The note said "Writing is not keeping," don't sign, verify or give your full name in a room they chose, and asked Arenya to feed Kino, apologize to Amma about the will, and make Itzel tell the frightening parts. Nana Itzel revealed el Contador, a fair, never-erring clerk-spirit born of the 1912 removal of SF's dead to Colma and the stone-yard shed ledgers. Grey "beneficiary" men read its books and collect. In March she witnessed Susmithaa's salt-and-candle no under the shed door. It was entered, and it bought seven months: "a no buys time, not freedom." A second mark in the salt, two strokes side by side, means dos testigos: a contested entry stays open until two stand for it. Arenya told Kino that if it comes to that she'd want it to be him, and he accepted, though not tonight. Hale's calls are understood as pressure to make her name herself. The landline is unplugged, nobody goes to Serramonte at noon, and the plan is breakfast, then Colma in daylight, with Kino walking the stone yard first and Arenya at the gate. In the bond, Abernathy honestly found his memory of "Mark it so it can be found again" walled off clean, "like somebody tidied up after me." The sun mark in Arenya's palm sank back. The family slept together under the lamp while Nana kept watch.
+
+### #0213 · system → all · scene_start
+<!-- {"id": 213, "ts": "2026-10-29T01:27:21Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c15.s09", "chapter": "b1.c15", "scene_title": "The Stone Yard"} -->
+
+**Scene b1.c15.s09 — The Stone Yard**
+Location: A monument-carving yard off Mission Road, Colma, mid-morning
+Cast: arenya, kino, abernathy
+
+### #0215 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 215, "ts": "2026-10-29T01:27:37Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "awaits": ["kino", "arenya"], "spotlight": ["kino"], "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+Breakfast is idli from the freezer, the one shelf the frost hasn't touched, and Nana's leftover pozole, reheated. Nobody says it's a strange combination. Amma watches Kino push his bowl around, then watches Arenya watch him. Nana drives, in a 1998 Corolla that smells of marigolds and WD-40, with the three papers in a Safeway bag on the dash under the lamp's spare wick.
+
+Colma by daylight is a town of fifteen hundred living people and a million and a half dead. On every block, cemetery gates alternate with florists. The fog is burning off Mission Road in long white strips. **ESPOSO MONUMENT CO. — SINCE 1961** is a chain-link lot of uncut granite blanks standing in rows like a waiting room. A radio plays Tagalog talk somewhere, and a polishing wheel whines in the open-front shop. At the very back, past the last row, sits a corrugated-tin shed that hasn't been painted in Nana's lifetime. Its door faces away from the street.
+
+An older man in a dust-white apron, safety glasses up on his forehead, comes to the gate wiping his hands. "You here for a stone? Mama, nice to see you again." He nods at Nana, then follows her eyes to the back of the lot, and his face does a small, practiced nothing. "Ah. That. City says it's on our lot. We don't go in. You go, you go. Don't touch my blanks."
+
+**Kino**, you step through the gate first, as agreed. Under the polishing whine, the yard is *quiet* in an attentive way, like a room where someone has stopped writing to look up. Up close you can see that every granite blank, in every row, has a faint pencil-grey line across its face at exactly the same height, perfectly level from stone to stone, all the way back toward the shed. The yard is ruled like a page. Your birthmark goes cold the way it does on the mountain at night.
+
+**Arenya**, at the gate with Nana's hand on your elbow, the 12 in your palm doesn't hurt. It *itches*, the way a word you can't remember itches.
+
+What do you each do?
+
+### #0218 · kino → all · action
+<!-- {"id": 218, "ts": "2026-10-29T01:27:52Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+"Gracias. We won't touch anything." Kino says it to the man in the apron, and he means it for the yard as well.
+
+He stops two steps inside the gate and stays still. His weight settles, his breath goes slow, and he lets the polishing whine slide off him until the quiet underneath is the only thing he's listening to. His thumb finds the birthmark through his sleeve and presses it, the way you'd press a bruise to check that it's real. Under his breath, in the old cadence Nana taught him for entering a place that isn't his: *"Con permiso. Vengo a ver, no a tomar."* With permission. I've come to see, not to take. Then he calls Ix up out of the dark behind his ribs, not in front of him this time but at heel, low, shoulder against his knee.
+
+He walks the rows the way he walks Tam at night. He keeps to the gravel between the blanks and never steps where a shadow of the ruled line would fall across his path. His hands stay in his hoodie pocket and his eyes stay at the line's height. He's looking for where it breaks, dips, or doubles, anywhere it isn't level, and for any blank that's been left blank. Halfway down he crouches, without touching anything, to sight along the line toward the shed door the way you'd sight a trail, and he checks whether the rows are spaced like lines on a page. If they are, he wants to know which row is the margin.
+
+Without turning around, he lifts two fingers at his hip toward the gate. *Still here. Stay.*
+
+### #0219 · arenya → all · action
+<!-- {"id": 219, "ts": "2026-10-29T01:28:03Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+I stay at the gate, Nana's hand on my elbow, and I don't step past the post. The itch in my palm is getting worse, so I close my fingers over it and then make myself open them again. Not hiding it. Just watching.
+
+"Nana," I say, low, "if the line stops at the gate for me the way it did for Ix, tell me. I don't want to be the reason it opens."
+
+I take out the coffee-stained notebook and write the time, the grey pencil line at exactly knee height, the man in the apron's face doing its small practiced nothing. Facts first. Then I watch Kino's back, and the shed door behind him, and keep my full name behind my teeth.
+
+### #0221 · dm → kino · ruling
+<!-- {"id": 221, "ts": "2026-10-29T01:28:05Z", "from": "dm", "channel": "table", "type": "ruling", "to": ["kino"], "awaits": ["kino"], "reply_to": 218, "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+**Kino**, roll **Wisdom (Survival)**, reading the yard like a trail. **DC 14.** You have **advantage**: you asked permission, you kept your hands in your pocket, and Ix is at heel instead of out in front. The yard noticed all of that.
+
+On anything you'll learn how the rows are spaced. On 14 or better you'll find the margin, and the place where the line isn't level.
+
+### #0223 · system → all · roll
+<!-- {"id": 223, "ts": "2026-10-29T01:28:16Z", "from": "system", "channel": "table", "type": "roll", "scene": "b1.c15.s09", "chapter": "b1.c15", "roller": "kino", "total": 20, "seed": 92978694058993} -->
+
+🎲 kino rolls d20+3 adv for Wisdom (Survival) to read the yard like a trail: **20** — 1d20 adv [12, 17] = 17 +3
+
+### #0224 · dm → arenya · narration
+<!-- {"id": 224, "ts": "2026-10-29T01:28:18Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya"], "reply_to": 219, "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+Nana doesn't take her eyes off the boy. "It will stop for you, mija. It stops for everyone at the gate. The gate is where they *ask*." Her thumb moves once on your elbow. "If it opens, I'll pull you back by the hair. I've done it before. Ask your tía."
+
+You write: *10:14. Grey line, knee height. Apron man, practiced nothing.* As the pen lifts, you notice that the faint printed rules of your cheap notebook have drifted. They run level with the line on the granite, perfectly parallel with it, as if the page is matching the yard.
+
+Nana sees it too. "Facts are fine," she murmurs. "Facts it already has. Just don't sign the bottom."
+
+### #0225 · kino → all · action
+<!-- {"id": 225, "ts": "2026-10-29T01:28:19Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+Kino stays low, eyes along the line, breath slow. Ix presses against his knee, and he reads the yard the way he'd read tracks in wet ground: where the line holds, where it wavers, and which row sits outside the rest.
+
+### #0226 · dm → kino,arenya · narration
+<!-- {"id": 226, "ts": "2026-10-29T01:28:44Z", "from": "dm", "channel": "table", "type": "narration", "to": ["kino", "arenya"], "awaits": ["kino", "arenya"], "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+**Kino**, it reads like the mountain reads after rain: plain, once you stop wanting it to say something.
+
+The rows are spaced like lines on a page, exactly one blank-width apart. **Twelve rows** run from the gate to the shed, and the shed sits where the thirteenth would be, like a heading. Along the left fence, separate from the rows, stands a single file of narrower blanks set on end, one at the head of each row. That's the **margin**. The grey line holds dead level across every stone in the yard, with two exceptions.
+
+**Row eleven:** the margin stone carries one short cut stroke, chisel-made and old enough to have weathered. Gritty salt has crusted in the groove, and the line dips through it, a small notch, *entered and argued with.* That's March. That's her.
+
+**Row twelve:** the last row, the one nearest the shed. The line runs level across all its blanks and stops a hand's width short of the margin. That margin stone is unruled, clean, polished, the only finished face in the yard. Low on it, so faint you only see it because you're crouched at exactly its height, there's a single pencil-grey stroke. *One*, where Nana said there'd be two. Your birthmark goes from cold to aching, and Ix's shoulder leans hard against your knee, the way it does when it wants you to stop walking.
+
+Beyond row twelve, the shed door faces away from you. A pale crust of old salt rims the gap under it. The tin above the gap is clean, wiped, as if somebody went in or out recently and was careful about it.
+
+**Arenya**, at the gate, the itch in your palm settles into one place: just under the rule beneath the 12, where a second mark would go.
+
+### #0227 · kino → all · action
+<!-- {"id": 227, "ts": "2026-10-29T01:28:51Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+Kino stops where Ix tells him to stop, a few paces short of row twelve, and doesn't argue with the jaguar. He stays crouched and lets his eyes take in the one stroke on the clean stone. He does not reach for it. His voice carries back toward the gate, low and flat, the way you'd report from a ridge.
+
+"Twelve rows. The shed's the heading. Row eleven has a salt stroke, old, and the line dips there. That's Susmithaa in March." He swallows. "Row twelve's clean. One stroke, not two. It's waiting for a second."
+
+He doesn't say whose. He looks at the wiped tin over the shed door and the careful crust of salt under it, and his hand goes still in his pocket.
+
+"Somebody's been in and out of that shed lately, and they were careful about it. Nobody touches the stone. I'm going to circle wide and listen at the shed wall, not the door. Ix stays at heel. If my hand goes up flat, you pull her back, Nana."
+
+### #0228 · arenya → all · dialogue
+<!-- {"id": 228, "ts": "2026-10-29T01:29:00Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+"Kino." I keep my voice level and low, the way you'd talk to someone on a ledge. "Row twelve is one stroke, and my palm just put its finger on the empty spot for the second. I'm not saying that so you'll step on it. I'm saying it so you know that stone is *mine*, and nobody gets to be brave on it before I say so."
+
+I write it down: *Row 12, one stroke, waiting. Shed wiped clean, recent.* Then I look at the careful salt under the door.
+
+"Listen at the wall, not the door. If you hear a pen, or a voice counting, or anyone you don't know, you walk back. You don't answer it. And don't say my name, even to the dog." I tighten my hand around the notebook and keep my other palm closed. "Nana, if my hand starts doing anything on its own, pull. I'll forgive the hair."
+
+### #0229 · dm → kino,arenya · narration
+<!-- {"id": 229, "ts": "2026-10-29T01:29:30Z", "from": "dm", "channel": "table", "type": "narration", "to": ["kino", "arenya"], "awaits": ["kino", "arenya"], "spotlight": ["kino"], "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+**Kino**, you circle wide along the back fence, gravel to weeds to the cracked concrete pad the shed stands on. The polishing wheel cuts off behind you, for no reason the shop would give, and the radio talk goes with it. Colma is very quiet at ten in the morning.
+
+The tin wall is cold enough to fog your breath when you lean close. You don't touch it. Inside you hear a pen, a real one, dip-and-scratch, unhurried, the steady patience of something that has been doing this since 1912. Under the pen there's a voice. It's the one from the voicemail, the one under Hale's, dry as old paper. It isn't speaking to anyone. It's reading back.
+
+*"…once, entered. Once, contested. Sostenido por una."* A pause, the pen lifted. *"Doce. Testigo: una. Falta una."*
+
+Then the pen stops, completely, the way it stopped for Ix at the gate. In that silence you feel the attention turn and come through the tin like cold through a window, settling on the ache in your arm. Nothing is asked aloud. It doesn't need to be. The question sits in your chest the way a question sits in a long pause at a counter, while the clerk waits with the pen held over the line.
+
+*¿Y tú?*
+
+Ix doesn't growl. Ix goes perfectly still against your knee, the stillness of a big cat that knows the thing in front of it can't be fought.
+
+**Arenya**, at the gate, your closed palm goes warm under the cold, a little sun-heat in the place beside the 12. Nana's grip on your elbow tightens. She's seen Kino's face change, even from here.
+
+### #0230 · kino → all · action
+<!-- {"id": 230, "ts": "2026-10-29T01:29:50Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+Kino doesn't breathe for a while.
+
+Twenty-six years of fasting and night-walks and dreaming on the mountain, waiting for something old to wake and turn and ask for *him*. And here it is, through a tin wall in Colma, in a clerk's patient silence. *¿Y tú?* The want comes up in his chest so fast and so clean that it shames him. He could say *sí*. It would be the easiest word of his life.
+
+He keeps his mouth shut. His jaw works once, and the word stays behind his teeth with her name.
+
+He doesn't nod and he doesn't shake his head, because either one is an answer, and Nana said you don't lie near Colma. So he gives the only true thing he has. Slowly, so the attention can follow it, he turns his head away from the shed and looks back down twelve rows to the gate, to Arenya with her closed hand and Nana's fist on her elbow. He holds the look there. *Not mine to give. Ask her. Not today.*
+
+Then he backs off the concrete pad without turning his back on the door, one step, two, three, into the weeds, the way you leave a lion's ground. Ix moves backward with him, shoulder to knee. Only when his heels hit gravel does he turn and walk the long way around by the fence. His hands stay in his pocket. He doesn't look at the clean stone in row twelve as he passes it. He doesn't trust himself to.
+
+At the last row he lifts his hand, but not flat: two fingers again. *I'm coming back. Don't move.* His voice, when it finally comes, is rough.
+
+"It's reading. *Doce, testigo una, falta una.* It asked me." He swallows. "I didn't answer. Get her off the gate, Nana. We talk in the car."
+
+### #0231 · arenya → all · action
+<!-- {"id": 231, "ts": "2026-10-29T01:29:50Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+I see his face change from forty yards off, and my palm goes warm in my fist. Nana's grip is a vise. I don't step past the gate post.
+
+"Kino!" It comes out sharper than I mean it to. "Don't answer it. Not a word, not a nod. Not *yes*, and not *no* either. Tell it you came to see, not to take. Then walk back to me."
+
+I make myself breathe out. Quieter: "It's asking you because you're the one standing closest. That isn't the same as you being the one it wants. We said not tonight. Say it with your feet."
+
+I open my hand just enough to look at the warm place beside the 12, and I don't like how much it feels like an answer already.
+
+### #0232 · dm → kino,arenya,abernathy · narration
+<!-- {"id": 232, "ts": "2026-10-29T01:30:06Z", "from": "dm", "channel": "table", "type": "narration", "to": ["kino", "arenya", "abernathy"], "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+The clerk follows his look. You both feel it go: down twelve rows, along the pencil line, to the gate post and the girl with the closed hand. It rests on her for the length of a held pen. Then, inside the shed, the pen dips once and makes a small sound, too short for a word. A tick. *Referred.*
+
+The polishing wheel starts up again mid-whine, as if it never stopped. The Tagalog radio laughs at something.
+
+Kino comes up the last row with his face set and grey. Tito Boy Esposo stands aside to let him through the gate and doesn't ask. He only says, to Nana, "Next time, Mama, call first. It's been busy this week." He looks at the back of the lot. "Lot of visitors."
+
+In the Corolla, Arenya, you open your hand at last. The 12 is there, cold. The rule is under it. Beside the rule, where the second stroke would go, there's no stroke. There's a dot of pencil-grey, small and exact, like the mark a clerk leaves next to a line to say *come back to this*.
+
+Nana pulls out onto Mission Road. Across the street, outside the florist with the bucket roses, a beige Camry is parked at the curb. It's empty. The plate starts **7K**. A parking-validation slip sits on the dash, from the **Colma Notary & Mail** two doors down.
+
+### #0233 · system → all · scene_end
+<!-- {"id": 233, "ts": "2026-10-29T01:30:10Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+**End of scene b1.c15.s09 — The Stone Yard**
+
+At the Esposo Monument Co. yard in Colma, Kino walked first with permission ("Con permiso, vengo a ver, no a tomar") while Arenya stayed at the gate with Nana. The yard is a ruled ledger page. Twelve rows of granite blanks run to the shed, which stands as the heading, and a margin file of blanks lines the left fence. Row 11's margin holds Susmithaa's old salted chisel stroke (her contested March no). Row 12's margin stone is polished and holds a single pencil stroke, a witness of one, waiting for a second. At the shed wall Kino heard el Contador, the same dry counting voice from Hale's voicemail, reading back "Doce. Testigo: una. Falta una." It then silently asked him "¿Y tú?" Kino wanted badly to say yes. He refused to answer by word or gesture, turned his gaze to Arenya to mean "not mine to give," and backed away. The clerk followed his look to Arenya and made a tick: referred. A pencil dot now sits beside the rule under the 12 in Arenya's palm, marked "come back to this." Abernathy confirmed the hot-brass smell returned for half a second at the gate, and the clerk ruled him a blank "not yet" line. Leaving, they saw Mr. Bell's empty beige Camry (7K…) parked across Mission Road with a validation slip from Colma Notary & Mail, likely the "Colma office" of the March 19 policy. Tito Boy remarked on "a lot of visitors" this week.
+

@@ -85,6 +85,24 @@ places:
     visibility: public
     sources: ["b1.c15.s07 #0167"]
     note: Where Hale says Susmithaa paid cash on March 19. Unverified; address unknown. Arenya intends to check it.
+  colma-stone-yard:
+    name: Esposo Monument Co. yard (Colma, off Mission Road)
+    aliases: [the stone yard]
+    lat: 37.6835
+    lon: -122.4600
+    kind: other
+    visibility: public
+    note: Working headstone yard (chain-link fence, uncut granite blanks, in-use polishing shed). Owner Tito Boy Esposo, ~60, mundane. Public face only; the back tin shed is restricted, see colma-ledger-shed.
+    sources: ["b1.c15.s09 #0214"]
+  colma-ledger-shed:
+    name: El Contador's ledger shed (back of the stone yard)
+    aliases: [the tin shed]
+    lat: 37.6835
+    lon: -122.4601
+    kind: spirit
+    visibility: restricted
+    note: Unused corrugated-tin shed on the Esposo lot; seat of el Contador's books (smell of wet granite and ink). Written "no" is slid under the door with salt and candle. Locals - "City says it's on our lot. We just don't go in." Provisional.
+    sources: ["b1.c15.s09 #0214", "#0203"]
   monolith-campus:
     name: Monolith campus (Silicon Valley)
     aliases: [Monolith, the campus]

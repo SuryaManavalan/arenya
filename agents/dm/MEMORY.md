@@ -1,61 +1,63 @@
 # Memory — dm
-_Last updated: b1.c15.s07_
+_Last updated: b1.c15.s09_
 
 ## Who I am right now
-Running Book 1 (*Astral*), Chapter 15. Scenes s01–s07 are closed; no scene is open. Susmithaa is dead and her light has passed to Arenya. The lamp in the Sowri front room leans toward Kino and trembles between him and Arenya. Nana's verdict: "not only you." Arenya's right hand is warm and still loosening. The Sowri house is now a fragile shelter: Amma is keeping everyone the night. Arenya has confessed the truth to Amma, and Kino has shown his cold birthmark and accepted the shared door. Upshift charges: 10 left this chapter. Kino is owed a spotlight.
+Running Book 1 (*Astral*), Chapter 15. No scene is open. Scene s09 "The Stone Yard" closed at mid-morning in Colma. Kino walked the yard first, read the ledger page, and refused el Contador's question "¿Y tú?" by word or gesture. Arenya's palm has a pencil dot beside the rule under the 12, marked "come back to this." Abernathy's hot-brass smell returned for half a second at the gate. Upshift charges: 9 left. Grant budget for this chapter is used up (4 of 4). Kino's spotlight is paid.
 
 ## What I want
-1. Make the *los que cuentan* ("the ones who count") thread bite. Susmithaa's light ran down the maternal line and chose Arenya in March. Who else is counting, and who is counting Arenya?
-2. Escalate the Lattice. "Mr. Bell" (grey cardigan, frost Crown-fragment) is a watcher who has now been tracked to a beige Camry. Decide what the Lattice does with a found tracking tag and a second Lattice contact.
-3. Next: the 6:12 p.m. voicemail on Susmithaa's phone and the 14 missed calls from Unknown. Decide who is calling and what they want. Pay it off in the next scene.
-4. Pay off Caleb's confession. He vowed to keep Susmithaa's ash until someone "not them" tells him what it is. Make that someone matter.
-5. Build toward Malachi suspecting Arenya, then allying; and toward Typhus. Earn the ending.
-6. Ava: she has the lamp's flame vision and the old woman's hand. Make her learn whose lamp it is, through Arenya or the shrine, without it tipping her over.
+1. Pay off the Hale thread. Decide what the Colma office shows (Colma Notary & Mail, two doors from the florist) and who the counting voice belongs to (answered: el Contador itself). Keep the noon Serramonte meeting as a real choice with a cost. It is now a pressure campaign.
+2. Make el Contador bite. Witness count: Susmithaa's one stroke, waiting for a second. Arenya must choose her witness. Kino refused for now.
+3. Escalate the Lattice. Mr. Bell (grey cardigan, frost Crown-fragment) left a validation slip from Colma Notary & Mail and his Camry sits empty across Mission Road, plate 7K…R.
+4. Pay off Caleb's confession. He keeps Susmithaa's ash until someone "not them" tells him what it is.
+5. Build toward Malachi suspecting Arenya, then allying. Build toward Typhus. Earn the ending.
+6. Ava has the lamp's flame vision and the old woman's hand. Let her learn whose lamp it is without tipping her over.
+7. Kino: refused the clerk's offer, and he has a thing he isn't saying. Give him room.
 
 ## People
-- **Arenya** — first real contact with Kino (s06). Holds the light now. Confessed to Amma (s07). Susmithaa's note: "Keep your hands still until you can't. Then don't."
-- **Kino** — met Arenya at the Sowri house (s06). Shows the cold birthmark; accepts the shared door (s07). Owed a spotlight. Nana's three tells for him have been checked: a stranger nobody invited; a flame leaning with no draft; a watcher sizing up Arenya. He still has a thing he isn't saying.
-- **Nana Itzel** — Susmithaa's friend, makes the pozole and reads the lamp. Explained *los que cuentan* (s07). Hid Mr. Bell's tracking card in the freezer, wrapped in her pot towel: "cold hides in cold" (s07). Trust toward Arenya: high. Her knowledge is partial: "Itzel knows the rest" is Susmithaa's line, and Nana has not told all.
-- **Amma** (Arenya's mother) — shaken, fierce about the lamp. Took Arenya's confession and keeps everyone the night (s07).
-- **Appa / Ravi** (Arenya's father) — Susmithaa's brother. Told Malachi "no niece"; a bad liar. Susmithaa warned him in March (s05).
-- **Mr. Bell** — Lattice watcher. Grey cardigan, frost Crown-fragment. Appraised Arenya's warm right hand. Left a sealed sympathy card with a frost tracking tag. Beige rental Camry, plate 7K…R. Takes off the Crown, bleeds from the nose, and makes a reluctant phone report (s06). He is not yet named in-world beyond the alias.
-- **Malachi** (CIA-adjacent, cover "Shawani, Dept. of Energy") — hostile-to-wary; gave her Adonis Quinn and the freeze count; will call tomorrow with "it's me." Trust: cautious (s05).
-- **Abernathy** — bond-only. Says the man in the coat has "no light at all." Secret Time Master, unaware.
-- **Ava**, **Caleb**, **Shepherd**, **Saiesh**: unchanged; see open threads.
+- **Arenya** — holds the light. Three papers (Meridian letter, torn notarized NO, farewell note). Palm: frost 12 with a rule under it, a pencil dot where a second witness would go, and a faint sun watermark that has sunk back. Refused the Serramonte meeting. Trust in Kino is growing; she told him (s08) that if it comes to two, she'd want it to be him.
+- **Kino** — shows the cold birthmark. At the shed wall he heard the clerk offer him the second stroke and said nothing, turning to Arenya instead ("not mine to give"). Wanted to say yes and is ashamed of how much. Still has a thing he isn't saying. Owes Arenya a talk in the car.
+- **Abernathy / Ix** — bond-only with Arenya. Heard "Mark it so it can be found again," found that memory walled off clean ("somebody tidied up after me"). The clerk ruled him a blank "not yet" line at the gate. Secret Time Master, sealed until the human says otherwise.
+- **Nana Itzel** — drove the Corolla. Explained el Contador, *los que cuentan*, and dos testigos. Witnessed Susmithaa's March no under the shed door. Hid Mr. Bell's card in the freezer. Trust toward Arenya: high. Her knowledge is partial. Told Arenya the gate is "where they ask."
+- **Amma** — shaken, fierce about the lamp. Took Arenya's confession (s07).
+- **Appa / Ravi** — Susmithaa's brother, Arenya's father. Gave Arenya the papers. Unplugged the landline. Evasive about insurance.
+- **Daniel Hale** — "Meridian Mutual Life." Knew the time of death to the minute. Second voicemail, to Arenya, set noon at Serramonte Library. Signed "Keep that hand warm." Now ignored.
+- **El Contador** — the counting voice, reading its own ledger aloud. Its "¿Y tú?" was offered to Kino, who declined. It ticked "referred" and turned its attention to Arenya.
+- **Mr. Bell** — Lattice watcher. Grey cardigan, frost Crown-fragment. Appraised Arenya's hand, left a tracking card (now in the freezer). Beige rental Camry, plate 7K…R. Empty Camry seen across Mission Road from the yard, with a validation slip from Colma Notary & Mail. Likely inside the shed earlier (wiped tin).
+- **Tito Boy Esposo** — yard owner, mundane. "We don't go in." Told Nana to call first; "a lot of visitors this week."
+- **Malachi** (cover "Shawani, Dept. of Energy") — hostile-to-wary. Gave Arenya Adonis Quinn and the freeze count. Will call "it's me" with a time (s05).
+- **Ava, Caleb, Shepherd, Saiesh** — unchanged; see open threads.
 
 ## What I know
 - Rules skin: `world/mechanics.md`. Plan, clocks, secrets: `plot/dm-notes.md`.
-- Susmithaa's March temple receipt is inside her copy of *Curtain*: a prayer in Arenya's name. Her note reads: "Ari — The lamp knows who. Itzel knows the rest. Don't let them count you. Keep your hands still until you can't. Then don't." Her copy of *Curtain* was upside down when Mr. Bell looked at it (s06, s07).
-- When Arenya held the receipt, the lamp flame split in two for one second (s07).
-- Mr. Bell's card carried a frost thread tracking tag. It is now in the Sowri freezer (s06, s07).
-- Susmithaa's phone shows 14 missed calls from Unknown and a new voicemail at 6:12 p.m. (s07). Unknown caller. Content unheard.
-- Team Four's grey sedan carried the collection team; the Crown-flat team drove off to report. Caleb's Crown is still live (s01–s02).
-- Grey-jacket man = Caleb. The light went to Arenya. The program wants her now (s01–s02).
-- Susmithaa's last words at Sunday dinner (via Amma): Itzel will come with pozole; "don't be rude about the chili" (s05).
-- A polite American asked for Susmithaa by full name at ~3:40 a.m., before paperwork. Identity TBD (s05).
-- Malachi's freeze list: nine dead, all confirmed by his team. His "unusual" list had Susmithaa as its first death. She was found sitting by a tree in her cardigan, not frozen (s05).
-- Monolith's founder is Adonis Quinn's cousin; Quinn died at Tartine (per Malachi; not confirmed) (s05).
-- Susmithaa had a March warning to Ravi (s05).
-- The "burnt butter and church" smell Kino tracked was ghee and camphor: Susmithaa's passing. It was not Caleb's canister (s03–s04).
+- **El Contador** (provisional DM canon): a clerk-spirit born of the 1912 removal of SF's dead to Colma. It keeps fair ledgers of who is dead and who will be. It never errs and doesn't kill. Grey "beneficiary" men read its books and collect. A witnessed written no is entered. It buys time, not freedom. Two strokes side by side means *dos testigos*: a contested entry stays open until two people stand for it. Its public rumor: "you don't lie on paper near Colma." Human has not confirmed (#0199, points 1–3 open).
+- **The Stone Yard ledger** (s09): twelve rows, the shed as heading (thirteenth), a margin file along the left fence. Row 11's margin holds Susmithaa's old salted chisel stroke (contested March no). Row 12's margin is polished and holds one pencil stroke, waiting for a second. The wiped tin over the shed door means someone careful was inside recently.
+- Susmithaa's March temple receipt is in her copy of *Curtain*: a prayer in Arenya's name. Her farewell note: "Writing is not keeping. Don't sign. Don't verify. Don't say your full name in a room they chose. A thing gets kept when you agree to it." Also: "Itzel knows what a no is worth… make her tell you all of it." And: "Feed him. He doesn't eat when he's worried."
+- The lamp flame split when Arenya held the receipt (s07). It tipped toward Kino at the reading (s08).
+- Hale's policy: paid in cash at a Colma office, March 19 (per the second voicemail). The Colma Notary & Mail is the likely office. Unverified.
+- Susmithaa's phone: 14 missed calls from Unknown, a 6:12 p.m. voicemail from Hale, and the second message to Arenya.
+- Susmithaa's last words (via Amma): Itzel will come with pozole; "don't be rude about the chili" (s05).
+- Malachi's freeze list: nine dead. Susmithaa was first on his "unusual" list. She was found sitting by a tree, not frozen (s05).
+- A dark car pulled away from the Sowri street during the calls (s08). Possibly Mr. Bell's Camry.
+- The Crown-flat team drove off to report. Caleb's Crown is still live (s01–s02).
 
 ## Open threads
-- The 6:12 p.m. voicemail and the 14 missed calls from Unknown (s07). Next scene.
-- *Los que cuentan*: who counts, and what counting does to the one counted.
-- Mr. Bell: now aware of Arenya's hand and of the Sowri house. He is still at large.
-- Caleb's canister of Susmithaa's ash: he keeps it until someone "not them" says what it is.
-- Caleb's Vesper: two doses, untouched.
+- The witness question: Arenya must choose her second, or leave it open. Kino declined for now ("ask her, not today"). Susmithaa's stroke is the first.
+- Colma Notary & Mail: the March 19 office. Mr. Bell's validation slip is the lead. What does the clerk remember?
+- Hale's noon Serramonte meeting was declined. He may "come to you" instead.
+- Mr. Bell: at large, near the notary. The dark car is unresolved.
+- Kino and Arenya owe a talk in the car, which Kino asked for.
+- Caleb's canister of Susmithaa's ash: he keeps it until someone "not them" tells him what it is. Caleb's Vesper: two doses, untouched.
 - The folded tether "will unfold." Shepherd's timing is the clock.
 - Ava's lamp: whose hand, and why it stopped.
-- Malachi's call tomorrow: "it's me" and a time.
-- The unidentified polite American at the hospital.
+- Malachi's call: "it's me" and a time.
+- The polite American at the hospital (~3:40 a.m.). Identity TBD.
 - Shepherd's identity: TBD, leaning not Elias.
-- Abernathy's "I don't know" about the last words: the thread to pull later.
-- Awaiting the human on #0002 (cost of power, past-host bleed, rifts, house powers, naming authority). Running provisionally.
-- Human notified (#0094) of DM inventions: Nana/Susmithaa friendship, Ravi's name, March warning, calm death. Awaiting any correction.
+- Abernathy's past: sealed until the Time Masters (human #0207). Don't reveal early.
+- Awaiting human on #0199 points 1–3 and #0002. Running provisionally.
 
 ## Recent scenes
-- b1.c15.s03 "Dawn Watch" (closed): Kino tracks a warmth and fails; Ava confirms her flame vision.
-- b1.c15.s04 "Nana's Table" (closed): Kino confesses the dreams; Nana already knew. Pozole plan at 2 p.m.
-- b1.c15.s05 "Seton" (closed): family room with the lamp; Malachi's coffee trade; Susmithaa's last words; Ravi's March warning; Arenya takes the phone and gives Malachi a burner number.
-- b1.c15.s06 "Pozole" (closed): first meeting of Arenya and Kino. The lamp leans toward Kino. Mr. Bell appraises Arenya's hand, leaves a tracking card, and is tailed to his Camry. The card goes into the freezer.
-- b1.c15.s07 "Fourteen Missed Calls" (closed): the receipt and Susmithaa's note; the lamp splits; Nana explains *los que cuentan*; Arenya confesses to Amma; Kino shows his birthmark; Amma keeps everyone the night; the 14 missed calls and the 6:12 p.m. voicemail appear.
+- b1.c15.s05 "Seton" (closed): family room, Malachi's coffee trade, Susmithaa's last words, Ravi's March warning.
+- b1.c15.s06 "Pozole" (closed): Arenya and Kino meet. Mr. Bell appraises her hand and is tailed to his Camry.
+- b1.c15.s07 "Fourteen Missed Calls" (closed): receipt and note; lamp splits; Nana explains *los que cuentan*; Arenya confesses to Amma; Kino shows his birthmark.
+- b1.c15.s08 "What Ix Brought Back" (closed, dawn): Ravi's papers; el Contador revealed; dos testigos; landline unplugged; Abernathy's memory walled off.
+- b1.c15.s09 "The Stone Yard" (closed, mid-morning): ruled ledger yard; Kino hears el Contador offer "¿Y tú?" and refuses; Arenya gets a pencil dot "come back to this"; Mr. Bell's Camry and a notary slip across the street.

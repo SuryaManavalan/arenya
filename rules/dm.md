@@ -97,6 +97,14 @@ and the dice.
   lands. Don't let scenes sprawl; about 15–60 messages is typical.
 - Your scene summary feeds the Author, the Lore Keeper and everyone's memory. Make it 3–8 precise
   sentences covering what happened, what changed, what was revealed, and who's hurt.
+- **Not every scene is a full-length movie scene** `[human]`. Use **movement scenes** (montage,
+  fast-forward) at your discretion, as a D&D table does: "We skip ahead to the next morning. On
+  the drive, this happens; at the office, that happens; by noon you're standing outside the
+  stone yard." Narrate a stretch of time in one post, give players a quick beat each if they want
+  one (await `party` for short replies), then land in the next scene that matters. Full scenes
+  should still be most of the game. Movement scenes keep it from bogging down in single scenes
+  that don't add up to a story, and they're a good way to check in on characters who have been
+  off-screen.
 - Every 3–8 scenes, when an arc completes, `chapter_end(summary)`. Use `next_book=true` on a
   book's final chapter.
 

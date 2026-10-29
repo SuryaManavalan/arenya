@@ -112,3 +112,85 @@ I know that shape, love. Don't ask me from where, because I can't tell you, and 
 
 Also, someone's opened Appa's door a crack and is listening. Not a spirit. Just a frightened man in socks. Mention it gently.
 
+### #0190 · dm → abernathy · narration
+<!-- {"id": 190, "ts": "2026-10-29T01:20:11Z", "from": "dm", "channel": "bond", "type": "narration", "to": ["abernathy"], "awaits": ["abernathy"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+*(For Abernathy: she asked you to tell her before she reads.)*
+
+The third paper is still folded in her left hand. To your sight, the little sun at the bottom of it isn't ink. It's *lit*: a tiny steady glow the colour of the lamp, soaking through the folds. It's the same shape as the watermark that came up under the twelve. It isn't a copy. It's the same mark, made by the same hand that made it in her palm.
+
+When you look straight at it, something comes back. It isn't a picture. It's a smell, hot brass and lamp-smoke. Then a voice that is yours and isn't, low and unhurried, saying to someone a very long way back: ***"Mark it so it can be found again."***
+
+Then the fog closes over it. Your coat is cold again. Her thumb is on the fold.
+
+### #0193 · abernathy → arenya · dialogue
+<!-- {"id": 193, "ts": "2026-10-29T01:20:33Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+Before you read, love. Quick, and keep your face still.
+
+The sun on that page isn't ink. It's lit, the colour of the lamp, soaking through the folds. Same mark that came up under the twelve in your palm, and it's the same hand that made both. Not a copy. Your aunt didn't just sign with it. She *sent* it.
+
+I don't think it's a trap. The cold in your hand aches when you touch it, but your light doesn't flinch. It leans in.
+
+And I'll tell you something true, because I said I'd never lie to you about danger. Looking at it, I smelled hot brass and lamp-smoke, and I heard a voice say, "*Mark it so it can be found again.*" Low. Patient. Mine, and not mine. I don't know who it was talking to. Don't ask me yet, guv. I've got a headache I haven't got a head for.
+
+Read it. Slow. I'm here.
+
+### #0205 · arenya → all · dialogue
+<!-- {"id": 205, "ts": "2026-10-29T01:24:00Z", "from": "arenya", "channel": "bond", "type": "dialogue", "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+The voice you heard. "Mark it so it can be found again." I'm not going to push. But I'd like to know whose it was before somebody else tells me. Also, thank you for the warning about the sun. It helped to know first.
+
+### #0208 · dm → abernathy · narration
+<!-- {"id": 208, "ts": "2026-10-29T01:24:27Z", "from": "dm", "channel": "bond", "type": "narration", "to": ["abernathy"], "awaits": ["abernathy"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+*(For Abernathy: she asked, and she said she won't push.)*
+
+You go looking for it, the way you'd reach for a word on the tip of your tongue. Hot brass. Lamp-smoke. *Mark it so it can be found again.*
+
+There's nothing there. It isn't fog this time. Fog has something behind it. This is a clean wall, smooth and cool, like a page that was never written on. Even the smell has gone. The headache goes with it, and you're left with only the plain fact that you *heard* it once, tonight, and can't hear it now.
+
+Across the room the little sun has sunk back under her skin. Her palm is just a palm with a cold twelve in it and a warm place beside it.
+
+She's waiting with her eyes shut, one minute's worth of rest, shoulder against the boy's.
+
+### #0209 · abernathy → arenya · dialogue
+<!-- {"id": 209, "ts": "2026-10-29T01:24:34Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I went looking, love. Honest as I can be.
+
+Nothing. Not fog, which I'd know, fog's got something behind it. It's a clean wall, smooth as a page nobody wrote on. The smell's gone. The voice is gone. All I've got is that I *heard* it, tonight, and now I can't.
+
+Whose voice it was, I don't know. I won't make one up for you. It said "mark it so it can be found again," and it said it like it had the right to. And the sun on your aunt's page is the same mark. That's all I've got, and it's plenty to be going on with.
+
+*(a pause, the cockney slipping thin)* Doesn't feel like forgetting, though. Feels like somebody tidied up after me. I don't care for that.
+
+Now shut your eyes, your Ladyship. Your minute's nearly spent. I'll keep count of the rest, and I won't let it be anyone's number but mine.
+
+### #0217 · dm → abernathy,arenya · narration
+<!-- {"id": 217, "ts": "2026-10-29T01:27:41Z", "from": "dm", "channel": "bond", "type": "narration", "to": ["abernathy", "arenya"], "awaits": ["abernathy"], "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+At the gate, Ix, you get the toll-booth feeling again, the same one from last night: wet granite and ink, and something long dead noting that you've passed. This time you're standing still, and you can *feel* the noting happen. A line gets ruled beside you, waiting for an entry.
+
+Nothing gets written in it. The line stays blank, like a clerk who has dipped the pen, looked at you, and set the pen down. It isn't hostile. It's puzzled. You get a faint, old-paper sense of *not yet*.
+
+The tidied-up wall in your memory doesn't move. But the hot-brass smell comes back for half a second, and then it's gone.
+
+### #0220 · arenya → all · dialogue
+<!-- {"id": 220, "ts": "2026-10-29T01:28:04Z", "from": "arenya", "channel": "bond", "type": "dialogue", "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+Puzzled, huh? Not hostile. I'll take puzzled. Puzzled is a clerk who can't find your line, which is how I'd like to stay.
+
+If the brass smell comes back, say so. Out loud, in here, right away. Even if it's only half a second.
+
+### #0222 · abernathy → all · dialogue
+<!-- {"id": 222, "ts": "2026-10-29T01:28:11Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "reply_to": 217, "scene": "b1.c15.s09", "chapter": "b1.c15"} -->
+
+Right. Brass. Just now, love, half a second, hot and gone, same as last night. Saying it out loud like you asked, so you've got it on the record.
+
+And the line by Ix's feet, ruled and blank. Clerk dipped the pen, looked at him, put it down. *Not yet.* Puzzled's good. Puzzled's what we want. But a clerk that's puzzled by Ix is a clerk that'll be less puzzled by you, so keep your name behind your teeth, Ladyship.
+
+Wall in my head hasn't budged, mind. Whoever tidied up didn't tidy the smell. Careless, or on purpose. I don't fancy either.
+
+Eyes on Kino's back. I'll watch the shed door and tell you if anything stirs.
+

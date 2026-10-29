@@ -40,6 +40,63 @@ trying to protect Earth (**must hit**).
     clause" and Susmithaa's handwritten letter: the insurer is a front for the Counter's tally. A beneficiary who appears
     "in person" gets entered/claimed. She bought the policy to see who would come asking. Also: a name for Number 11 (TBD:
     Adonis Quinn) and Itzel's address as "the rest."
+  - **REVISED (s08, upshifted turn); this supersedes the line above.** The envelope holds three items:
+    1. Meridian Mutual "welcome" letter dated March 9. Susmithaa NEVER bought it. "INSURED: SOWRI, SUSMITHAA .... 11 /
+       BENEFICIARY: SOWRI, ARENYA (NIECE) .... 12". No premium, no face value. "A representative will contact the
+       beneficiary in person to verify." Across it, in her ballpoint, she wrote NO, hard enough to tear the paper.
+       **Number 11 = Susmithaa.** (This resolves the TBD.) The Lattice/Counter uses actuarial paperwork to count hosts.
+    2. A notarized Declaration (Colma notary, witnessed by Ravi): she bought no policy, names no beneficiary, and her
+       niece is party to no contract. This is her "no," a counter-entry. Itzel knows what it's worth "to the one
+       under Colma." Mechanically it's a future ward/leverage (dm-free; define when used).
+    3. A handwritten letter (text below), signed with a small child-style SUN (her birthday-card signature since
+       Arenya was little) = the watermark Abernathy saw = the Sahasrajyoti sign (my inference; keep it soft).
+    Two beats: #0189 shows items 1–2 and the folded letter with the sun showing through. Arenya asked Abernathy to
+    warn her before she reads, so I waited for that. Post the letter next turn. Final text:
+    > Ari kanna,
+    > If Ravi has given you this, then they've called and I'm not there to pick up. I'm sorry. I wanted to be the one who picked up.
+    > In March they sent me the letter you're holding. I never bought anything. That is how they say *we have found you*. Men who count don't knock. They send paperwork.
+    > Listen to me. **Writing is not keeping.** They wrote me down in March and it took them seven months to come with their net, and when they came I had already decided what they could have, which was nothing important. If your palm has been written on, don't scrub it and don't hide it. Just don't go and *sign*. Don't verify. Don't say your full name to them in a room they chose. A thing gets kept when you agree to it.
+    > The paper Ravi signed is my no. Keep it near the lamp. Itzel knows what a no is worth to the one under Colma. Make her tell you all of it this time; she leaves out the parts that frighten her.
+    > If Itzel's boy is there, the cold one, then the lamp has already decided something, and you can stop arguing with it. Feed him. He doesn't eat when he's worried.
+    > Tell your Amma I'm sorry about the will. Tell your Appa he lied very well for once and I'm proud of him.
+    > Not too much ghee in the lamp. It smokes.
+    > [sun]
+    After she reads it, the warmth in her palm stops pushing and *sits*, like someone sitting down on the bench beside her.
+  - PLAYED #0194: Arenya read the letter aloud. The palm warmth "sits." The lamp nods toward Kino. Nana Itzel
+    overheard and is about to tell "the parts that frighten me" about THE ONE UNDER COLMA. NEXT: prep her story
+    (the Counter: what it is, its pact with cemetery-town Colma, what a "no" is worth, Nana's own encounter/debt).
+    Check cosmology with the human if it touches cosmology. Possibly end s08 on her opening and make it s09.
+  - PLAYED #0198, Nana's story (PROVISIONAL; human asked #0199): el Contador = a clerk-spirit born from the 1912+
+    relocation of SF's dead to Colma; the ledger shed by the stone yard smells of wet granite and ink. It's fair, never
+    wrong, doesn't kill, records who's dead and "going to be." The Lattice ("they wear grey, say 'beneficiary'") reads
+    its books and collects. In March, Nana and Susmithaa put the "no" under the shed door with salt and a candle; the
+    candle went out and the salt formed a line under it (a sum). "A no buys time, not freedom": seven months. A second
+    mark in the salt, two strokes side by side, means the next "no" takes two (Arenya + Kino). Nana swears that's all she knows.
+    Arenya has decided NOT to go to Serramonte at noon "as Arenya Sowri" (watch for a decoy/alias plan).
+  - Abernathy fragment #2 (s08, #0181/#0190): a sun watermark under the 12; then, at the letter's sun, a smell of hot brass
+    and his own voice, older: "mark it so it can be found again."
+  - Lore Keeper answers (#0188): Daniel Hale = Team Four's Hale (the same man; Crown-flattened, so he doesn't bother
+    with an alias; Caleb would recognize the name). 3:19 = when the light finished passing (Lattice logs the light,
+    not the body). The body died ~2:45. Hale knowing 3:19 is a tell. The Seton pronouncement time is not established.
+
+## Live: b1.c15.s09 "The Stone Yard" (Colma, daylight)
+- Esposo Monument Co. yard. NPC Tito Boy Esposo (mundane; "we don't go in"). Every blank stone carries a level
+  pencil-grey line, so the yard is a ruled page. Kino walks it first (his spotlight is now paid).
+- Abernathy at the gate: the Counter rules a line for him and leaves it BLANK ("not yet"). Time Master seed; it can't enter him.
+- Planned for the shed sill: the March salt line, now hard as stone. Beside it, two strokes scratched into the concrete, and
+  ONE of them has been freshly cut since March (someone has already "stood" for one side? Or the Lattice is pre-filling a
+  witness). Decide on contact. Under the door: Susmithaa's no is still visible, with a sum line under it.
+- AS PLAYED (#0226, Kino nat-ish 20): 12 rows = lines, the shed = heading (13), and the left-fence file of blanks = margin.
+  Row 11 margin: one old chisel stroke with salt and a notch in the line (Susmithaa, contested). Row 12 margin: unruled and polished,
+  with ONE faint pencil stroke. DECISION: Susmithaa made that stroke in March, standing for Arenya. A second living witness
+  is needed. Kino is implied, but don't force it. The tin above the shed door gap has been WIPED clean recently: Mr. Bell was inside
+  (the Lattice reading the books). The itch in Arenya's palm sits where the second mark goes.
+- #0229: DECISION: the counting voice under Hale's IS el Contador reading back its books. Hale's calls are routed near the
+  ledger, or Hale reads aloud from it. Inside the shed: "Doce. Testigo: una. Falta una." It silently asked Kino "¿Y tú?"
+  If he says yes, that's the second stroke and the entry stays open (time bought). It binds him as a stake: when it closes, both
+  are accountable. If he says no or stays silent, the clerk records nothing and waits. Either choice is valid.
+- Still to plant: the March 19 "Colma office" = the notary by the flower shop. A clerk remembers Susmithaa.
+- Possibly end the chapter after this scene.
 
 ## Opening: b1.c15 — "The Night the Light Moved" (DM decisions, built on the human's answers)
 The same night, every character is touched by one event:
@@ -247,5 +304,9 @@ Next destination: **the light passes to Arenya, and she begins to believe** (the
   and is detached from the body. He discovers mid-book that his spirit-power work is causing the rifts.
   He's terrified, then he embraces it as destiny. Everything he does is one tangled frontier program:
   spirit power sources, meta mages, rifts.
+
+- **Abernathy's past is sealed until the Time Masters come into play (later books)** `[human, #0207]`.
+  No more memory fragments in Book 1. The sun mark and "Mark it so it can be found again" stay
+  unexplained. His honest answer is "I don't know" (closed off in bond #0208).
 
 ## Deviations from the outline (and why)

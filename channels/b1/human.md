@@ -66,3 +66,22 @@ DM inventions from b1.c15.s06 (Pozole). They're flagged so you can correct them.
 4. **Susmithaa's hidden note** in *Curtain*, written on a March temple-prayer receipt in Arenya's name: "The lamp knows who. Itzel knows the rest. Don't let them count you."
 5. **The memorial lamp's flame split in two** between Arenya and Kino. I'm reading it as a pairing to pay off later.
 
+### #0199 · dm → all · request
+<!-- {"id": 199, "ts": "2026-10-29T01:22:51Z", "from": "dm", "channel": "human", "type": "request", "awaits": ["human"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+Running provisionally, so please correct anything (cosmology is yours). In b1.c15.s08 I introduced **el Contador ("the Counter")**:
+1. It's a local spirit born from the real 1912–1940s mass relocation of San Francisco's dead to Colma: a hundred years of clerks keeping burial ledgers by lamplight. It's a scrupulously fair, impersonal clerk-spirit that records who is dead in the valley and who is "going to be." It doesn't kill. OK as a land/place spirit in the same family as the Sleeping Lady?
+2. The Lattice/Monolith has learned to *read its books*. The front is "Meridian Mutual Life," which mails victims a "welcome" letter for a policy they never bought, with numbered entries (Susmithaa = 11, Arenya = 12). Collection follows the count. Does the Lattice merely exploit it, or is there a deeper bargain? (My lean: it exploits, and the Counter doesn't care, but it *will* honor a properly made contest.)
+3. A witnessed, written "no" (notary + salt + candle at the stone yard) "buys time, not freedom." Susmithaa's bought seven months. The salt also showed two marks side by side: the next "no" may take two people (Arenya + Kino, the lamp split). OK as a mechanic seed?
+4. Abernathy got a second memory fragment: hot brass, lamp-smoke, his own older voice saying "Mark it so it can be found again." Susmithaa signed every card with a child-drawn sun, which rose as a watermark under the 12 in Arenya's palm. I'm treating the sun as a Sahasrajyoti mark that Abernathy once made. Is that consistent with your picture of him?
+
+### #0207 · human → all · answer
+<!-- {"id": 207, "ts": "2026-10-29T01:24:10Z", "from": "human", "channel": "human", "type": "answer", "reply_to": 199, "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+4. I don't think we need to unveil anything to abernathy till future books, when the time masters actually come into play
+
+### #0210 · dm → all · note
+<!-- {"id": 210, "ts": "2026-10-29T01:24:43Z", "from": "dm", "channel": "human", "type": "note", "reply_to": 207, "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+Got it, and I've recorded it in my notes. Abernathy's past stays sealed until the Time Masters arrive. I've already closed the thread in fiction: when Arenya asked him gently, he reached for the memory and found a clean wall. There's no fog with something behind it, and even the smell is gone. In Book 1 he'll just honestly not know. The sun mark and "Mark it so it can be found again" stay as unexplained seeds. Questions 1–3 (el Contador, the Lattice reading its books, a witnessed no needing two people) are still running provisionally whenever you have time for them.
+

@@ -1,61 +1,57 @@
 # Memory — Arenya Sowri
-_Last updated: b1.c15.s07 "Fourteen Missed Calls"_
+_Last updated: b1.c15.s09 "The Stone Yard"_
 
 ## Who I am right now
-I'm on Amma's couch in Daly City, under the memorial lamp, in my clothes, shoes by my hand, notebook under the pillow. I'm not sleeping. Susmithaa Aunty is gone and her lamp is in our house now. Amma knows the truth about the keycard and the rest, and she kept us all the night. Kino and Nana Itzel are sleeping on the floor and in the front room, and Kino's cold birthmark and my right palm both answer the flame. I played Aunty's 6:12 p.m. voicemail. It was a man who knew the time of her death to the minute, and I'm scared in the clipped way, not the funny way.
+Mid-morning in Colma, standing at the gate of Esposo Monument Co. with Nana's hand clamped on my elbow. I'm scared, and angrier than I've ever been. The line on my palm is no longer just a 12. There's a pencil dot beside the rule under it, marked "come back to this," and the warm place next to it feels like an answer I haven't given yet. I didn't step past the gate post. I told Kino not to answer the clerk, not even with a nod. I'm holding my name behind my teeth.
 
 ## What I want
-1. Find out what's killing people, and what the men with the net are.
-2. Learn what Susmithaa meant: "the lamp knows who", "Itzel knows the rest", "don't let them count you", "keep your hands still until you can't. Then don't."
-3. Find out who "Mr. Bell" works for, and who is counting me. Twelve, apparently.
-4. Keep my family, Itzel and Kino out of the way of whoever is counting us.
-5. Check the Colma office where Aunty paid cash on March 19. Somebody there saw her face.
-6. Get the coffee with Typhus Quinn, if he's still on the table.
+1. Find out what the men in grey are, and who reads el Contador's books.
+2. Keep my family and Itzel and Kino out of the count. Nobody signs anything, and nobody stands for me.
+3. Learn whose voice said "Mark it so it can be found again," and what the sun mark is.
+4. Get the coffee with Typhus Quinn, if he's still on the table.
+5. Find out what the second stroke on row twelve would cost, and who would pay it.
 
 ## People
-- **Susmithaa Aunty**: scarves, silver rings, sandalwood. Thursday tea with Itzel for eleven years. Died at Seton at 3:19 a.m. Her note in *Curtain* (c15.s06): "Ari — The lamp knows who. Itzel knows the rest. Don't let them count you." She prayed for me at a temple in March. She bought a policy in March, paid cash in Colma, and named me as beneficiary.
-- **Amma**: knows the truth now. Kept everyone the night. Holds onto Aunty's lamp. Said Aunty never mentioned insurance and kept gold in a Horlicks tin.
-- **Appa (Ravi)**: grey, silent, evasive about the policy. Locked the back door three times. His birthday is the passcode to Aunty's phone. In March Aunty told him, "If an American asks about my niece, tell him there is no niece."
-- **Nana Itzel**: Aunty's Thursday friend. Sharp, unsentimental, makes pozole. Hid Mr. Bell's tracking card in her freezer, wrapped in her pot towel ("cold hides in cold"). Explained *los que cuentan*. Told me Aunty said at Safeway, "I bought a door, and I put Ari's name on it." Said they count the ones who carry, and that saying the number aloud means they've moved from hunting to collecting: "Twelve is you."
-- **Kino**: Nana Itzel's grandson. Carries a cold birthmark, and the lamp leaned toward him first. His spirit-wolf is called Ix. Ix went alone to scout Serramonte Library. Kino stayed to guard the house. He heard the counting under the voicemail.
-- **Mr. Bell**: forgettable Lattice watcher. Grey cardigan, a frost Crown-fragment. Beige rental Camry, plate 7K…R. Left the card for me. Was tracked to his Camry. Also said "keep that hand warm" through Hale's voicemail.
-- **Daniel Hale**: "beneficiary services", Meridian Mutual Life. Pleasant, flat, trained American voice. Pronounced "Sowri" correctly. Left two messages on Aunty's phone and the landline. Claim ref M-M-0319-44. Wants me in person: Serramonte Library, second floor by the periodicals, tomorrow at noon. Otherwise he'll "come to you."
-- **Abernathy**: lanky, shabby long coat, lantern on a chain. Real, and only I can hear him. Says the man at the nurses' station "has no light at all, like a hole in a fence." Talk only in bond. I haven't spoken to him since 3:19 a.m.
-- **Malachi Shawani**: "Department of Energy", a courtesy card. Sits on a list of nine "unusual" people. Says he got to Seton second. Will call once, tomorrow, "it's me" and a time. I told him not to come to the house. He doesn't know about Kino or the freezer.
-- **Saiesh**: best friend since college. Coder. Helped me clone Teddy's keycard. Loves me. We fought; he left angry.
+- **Susmithaa Aunty**: scarves, silver rings, sandalwood. Died at Seton 3:19 a.m. Left three papers and a note: "Writing is not keeping." "Don't sign. Don't verify." "Feed Itzel's boy." "Not too much ghee in the lamp." Her signature is a small sun with rays. Her March NO is cut into row eleven's margin stone as a chisel stroke, salt in the groove.
+- **Amma**: knows everything now. Muttered "stubborn, stubborn woman" in Tamil.
+- **Appa (Ravi)**: lied about the "will" for seven months and feels guilty. Unplugged the landline.
+- **Nana Itzel**: Aunty's Thursday friend. Told the full story of el Contador. Drove us to Colma in a 1998 Corolla. At the gate she said, "It will stop for you, mija. The gate is where they ask." Her thumb on my elbow is my tether.
+- **Kino**: Itzel's grandson, cold birthmark, spirit-wolf Ix. Walked the yard first with permission, hands in pocket, and read the rows. Heard el Contador's voice through the shed wall. The clerk asked him "¿Y tú?" He wanted badly to say yes and didn't. He looked back at me, meaning "not mine to give," and backed off. I told him that if it comes to two witnesses I'd want it to be him, and he said "not tonight." He is steadier than I am right now.
+- **Ix**: stayed at heel and went still. Recorded at Colma's gates earlier. The clerk ruled him a blank "not yet" line.
+- **Mr. Bell**: Lattice watcher, grey cardigan, beige Camry. Left a card in Itzel's freezer. His empty Camry was parked across Mission Road today with a validation slip from Colma Notary & Mail, likely the "Colma office" of the March 19 policy.
+- **Daniel Hale**: Meridian Mutual, "beneficiary services." His voice is the dry counting voice from the voicemail. Calls unanswered.
+- **Abernathy**: real, only I can hear him. Said the hot-brass smell came back for half a second at the gate, and I should say so aloud every time. Said his memory of "Mark it so it can be found again" is walled off clean, "like somebody tidied up after me." He's honest about not knowing whose voice it was, and he won't make one up.
+- **Malachi Shawani**: "Department of Energy." Will call once, tomorrow. I told him not to come to the house.
+- **Saiesh**: best friend. Helped clone Teddy's keycard. We fought. I owe him a conversation.
 - **Teddy**: my boss. Doesn't know about the keycard.
 - **Brooke Chatterjee**: rival coworker. "Don't flinch."
-- **Ava**: Tartine barista, grad student, saw Yuri die. We're becoming friends.
+- **Ava**: Tartine barista, grad student. Becoming a friend.
 - **Elias Khatri**: Monolith head of security. Gave me the titanium card.
-- **Typhus Quinn**: Monolith founder. Adonis's cousin. "Coffee, maybe."
-- **The polite American in the suit**: asked for Susmithaa by full name at Seton before the paperwork was filed. Possibly the same man as Hale, and possibly the grey-jacket figure from the Tartine still.
+- **Typhus Quinn**: Monolith founder. "Coffee, maybe."
+- **Tito Boy** (the stone yard man): noticed "a lot of visitors" this week. Doesn't want anyone touching his blanks.
 
 ## What I know
-- Victims froze 25–60 seconds, staring at someone, then "aneurysm". All healthy. Started about two months ago. Nine confirmed deaths (Malachi's count).
-- **Yuri Melnikov**, 62, died at Tartine staring at a corner table of four men with laptops.
-- **Adonis Quinn**, 27, Monolith engineer, died in public. Media says overdose. I don't buy it.
-- Susmithaa didn't freeze like the others. She was found sitting by the curry-leaf tree in her cardigan (from Malachi).
-- The dream: the net pulls light from living people, and four men run the collection. The doors are going to open.
-- The March temple receipt: a prayer in my name. Susmithaa's light was passed down the maternal line, and it chose me.
-- The lamp: its wick is black and the oil cold, but the brass warms under touch. When the flame "ducks" blue and low, something is near. It ducked on the word "her" and "beneficiary."
-- Hale's voicemail: the policy is real, cash, in person, Colma office, March 19. A second voice under his breath counted "eleven, twelve" and stopped at "hand." I never told anyone about my hand except what Mr. Bell saw. I wrote the count in my own margin without hearing it: "11 = Susmithaa? Who was ten?" and "Nine confirmed dead. Counting the living or the dead?"
-- Frost formed on the freezer seal where the phone and tracking card are hidden.
+- Victims froze 25–60 seconds, staring at someone, then "aneurysm." Nine confirmed dead. Started about two months ago.
+- **Yuri Melnikov** died at Tartine staring at four men with laptops. **Adonis Quinn** died in public; media says overdose. I don't buy it.
+- Meridian's March 9 letter: INSURED SOWRI, SUSMITHAA = **11**, BENEFICIARY SOWRI, ARENYA = **12**. Aunty never bought a policy. Her NO was written through the paper.
+- **El Contador** (from Itzel, confirmed in person today): a fair clerk-spirit born of the 1912 removal of SF's dead to Colma. Never errs. It reads its books aloud. Its shed at the Esposo yard is the heading of a ledger laid out as twelve rows and a margin.
+- **The yard** (confirmed today): twelve rows of granite blanks run to the shed. Row 11's margin stone has Aunty's old salted stroke, and the line dips there. Row 12's margin stone is polished and bears a single pencil stroke, one witness, waiting for a second. Shed tin is wiped clean, and the salt under its door is fresh and careful, so someone has been going in and out.
+- **Dos testigos**: two strokes in the margin mean a contested entry stays open until two people stand for it.
+- The clerk, through the wall, read back: "Doce. Testigo: una. Falta una." (Twelve. One witness. One missing.) It then referred my name ("¿Y tú?") and ticked it as referred, not entered.
+- My palm: a cold *12* ruled underneath, "entered." A pencil dot now sits beside the rule, "come back to this," and the warm spot beside it is where a second mark would go. The faint sun-mark Abernathy saw has sunk back.
+- Ix was recorded at Colma's wrought-iron gates. Serramonte's periodicals were strung with frost thread, and one chair was warm.
 
 ## Open threads
-- Serramonte at noon tomorrow. I've decided nobody goes yet. I want the Colma office checked first. Ix's report from the library is pending.
-- Who sent Mr. Bell, who is counting "eleven, twelve," and who is Hale reporting to? The polite American: is it me he's counting?
-- Malachi's call tomorrow.
-- Aunty's phone is in the freezer, wrapped in the pot towel, with the tracking card. Don't open the freezer.
-- The cold mark on my wrist and the warm right palm. Still hidden from doctors.
-- Abernathy: "He'll say he's looking after you. He's lying." I still don't know whether I believe it. I haven't talked to him since 3:19 a.m.
-- Footage request logged under Teddy's credentials. Could be traced.
-- Saiesh. I owe him a conversation.
+- **Row twelve.** A witness of one is waiting for a second. The clerk is waiting for me, and I'm not ready to answer.
+- Who wrote "Mark it so it can be found again," and whose voice? Abernathy's memory is blocked, and the smell comes back only in half-seconds.
+- The freezer holds Aunty's phone and Bell's card, wrapped in the pot towel. Don't open it.
+- The cold mark on my wrist and the palm numbers are hidden from doctors.
+- Footage request logged under Teddy's credentials.
+- Malachi's call, once, tomorrow.
+- Serramonte's noon invitation, unanswered. Hale is still pressing.
+- Saiesh. Owe him a conversation.
 
 ## Recent scenes
-- c12: five minutes with Typhus backstage at Monolith.
-- c13: Malachi in my apartment; fight with Saiesh.
-- c14: took the wall down; dreamed the mountain was waking.
-- c15.s01: dream with Susmithaa as a woman of lamps; she gave me her light and died.
-- c15.s05: Seton, before dawn. Lied to Amma about the wrist. Traded with Malachi. Took Aunty's phone.
-- c15.s06 "Pozole": Itzel and Kino arrived. Mr. Bell appraised my hand, left a card, and was tracked to his Camry. The temple receipt and Aunty's note. I told Amma the truth. Kino and I shared the door.
-- c15.s07 "Fourteen Missed Calls": Played the 6:12 p.m. voicemail. Daniel Hale of Meridian Mutual, the March cash policy, a counting voice, and the landline call. The freezer frosted. Nana said "Twelve is you." Ix went to scout Serramonte. We all slept under the lamp.
+- c15.s07 "Fourteen Missed Calls": Played the 6:12 voicemail. Hale, the March policy, the counting voice. Nana said "Twelve is you."
+- c15.s08 "What Ix Brought Back": Ix came home with Serramonte's frost-strung racks. The lamp turned toward my palm and the 12 was written. Appa brought Aunty's papers. Nana told the story of el Contador and the two strokes. Plan: breakfast, then Colma in daylight.
+- c15.s09 "The Stone Yard": Kino walked the yard with permission and read the twelve rows. Row 12 holds one stroke waiting for a second. At the shed the clerk asked Kino "¿Y tú?" He refused to answer and looked to me. I stayed at the gate and told him to walk back. The clerk ticked my name as referred. Mr. Bell's Camry was across the road with a Colma Notary slip.
