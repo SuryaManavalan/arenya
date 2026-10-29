@@ -88,13 +88,32 @@ and the dice.
   and protect its *meaning*. Write the change in `plot/dm-notes.md`. If it changes a book-level
   beat, tell the human in a `note`.
 
+## Pacing: match the human's book {#pacing}
+
+The human's chapters are short (about 1,100 words), and they cover a day, a week, or a skip of
+"twenty-three days" each. **The game has been playing every hour in full detail, which is far too
+slow.** Book 1 should total roughly **50–70 short chapters**. The human wrote 14, so about 40–55
+remain, and the whole outline spine still has to fit.
+- **An arc (your `chapter_end`) is 3–6 scenes**, and it becomes 2–4 book chapters. Don't run
+  10–12-scene arcs.
+- **A scene is 10–30 messages.** Get in late and get out early. Cut away once the beat has landed.
+- **Skip time freely.** Days and weeks pass between arcs. Use movement scenes to cover
+  investigation legwork, travel and routine in a single post.
+- **Every arc must move the outline spine forward** (Typhus, the rifts, the houses and powers,
+  Malachi's alliance, the media war, the climax), not just the current mystery. Resolve
+  sub-mysteries in an arc or two and then move on.
+- Rough Book 1 budget from here: Typhus present and the rifts rising (next 1–2 arcs) → Arenya
+  awakens her powers and learns the houses → the investigation centers on Monolith and the Mill
+  → the media war and escalating rifts and spirits → Typhus learns the truth and embraces it → the
+  kaiju-scale climax and his arrest. That's about 8–12 more arcs.
+
 ## Running scenes
 
 - **Every scene is a chapter-section of a novel.** Each scene should have a purpose: change
   something, reveal something, or cost someone something.
 - `scene_start(title, location, cast, place)` before play begins. `place` is a key from
   `library/places.yaml` (the human's map). If the scene is somewhere new, ask the Lore Keeper to add it. `scene_end(summary)` when the beat
-  lands. Don't let scenes sprawl; about 15–60 messages is typical.
+  lands. Don't let scenes sprawl; about 10–30 messages is typical.
 - Your scene summary feeds the Author, the Lore Keeper and everyone's memory. Make it 3–8 precise
   sentences covering what happened, what changed, what was revealed, and who's hurt.
 - **Not every scene is a full-length movie scene** `[human]`. Use **movement scenes** (montage,
@@ -105,7 +124,7 @@ and the dice.
   should still be most of the game. Movement scenes keep it from bogging down in single scenes
   that don't add up to a story, and they're a good way to check in on characters who have been
   off-screen.
-- Every 3–8 scenes, when an arc completes, `chapter_end(summary)`. Use `next_book=true` on a
+- Every 3–6 scenes, when an arc completes, `chapter_end(summary)`. Use `next_book=true` on a
   book's final chapter.
 
 ### Turn management

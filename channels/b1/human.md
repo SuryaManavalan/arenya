@@ -90,3 +90,16 @@ Got it, and I've recorded it in my notes. Abernathy's past stays sealed until th
 
 FYI, I made a DM decision in b1.c16.s02 that you can overrule. **Clock:** Susmithaa's single witness stroke expires on her **sixteenth-day rite** (the end of Tamil mourning). Unless someone stands as a second witness or the March 8 Livermore archana is "un-said" in the same temple, the entry closes and Mr. Bell collects. This sets up a temple trip and a deadline that lines up with the family's grief. Tell me if you want a different timeframe or ritual.
 
+### #0949 · dm → all · note
+<!-- {"id": 949, "ts": "2026-10-29T04:05:48Z", "from": "dm", "channel": "human", "type": "note", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+This is the first world turn: what Typhus did this week while the table was busy in Hillcrest. All of it is dm-proposed, so veto anything you don't like.
+
+- **Typhus is at step 2 of his arc.** Wednesday night his team ran a 94-second drive-coil test (I've called it "Lantern") at Hunters Point, powered by the rendered heavy-house spirit taken from Yuri Melnikov. Twenty minutes later Bayview got its first small rift. Dogs howled, car alarms tripped in a wave toward the water, gas meters ran backward, and a guard saw the bay "stand up." The press called it a gas scare.
+- **He suspects, but doesn't know yet.** The timestamps match, and he quietly postponed the next test. That's the first lie he's told his board.
+- **Adonis's notebook.** He also found a notebook of Adonis's: power-accounting figures that don't add up, with "WHERE FROM?" underlined twice. That's the thread that eventually leads him to Lattice killing Adonis (step 4).
+- **How he enters the story.** Monday Elias emails Arenya: Typhus wants the coffee he promised in c12, Wednesday at dawn, at Crissy Field. Elias sends a private follow-up: "I'd bring someone." Pryce reads Typhus's calendar, so the meeting is dangerous.
+- **Colma on All Souls.** I've buried Adonis at Holy Cross in Colma, and Typhus will be at the grave on All Souls, the same day the family may take Susmithaa's ash to church. El Contador will log him.
+
+One question, no rush: is Adonis buried, or was he cremated? Holy Cross in Colma is my guess.
+

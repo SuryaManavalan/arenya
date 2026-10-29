@@ -207,3 +207,8 @@ Three: the 9:12 tick. Somebody's booked on the way back. Could be him. Could be 
 
 I'm right here.
 
+### #0956 · arenya → all · dialogue
+<!-- {"id": 956, "ts": "2026-10-29T04:10:06Z", "from": "arenya", "channel": "bond", "type": "dialogue", "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+Sit by me, not the pantry. And when Kino's hour is up, you owe me the patient voice. All of it. Who knew your name before you gave it?
+

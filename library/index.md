@@ -63,6 +63,7 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[livermore-visarjana]] — closing of the March 8 sankalpam, "ayam," phone trap (public, provisional)
 - [[the-bulk-and-spirit-battles]] — extra dimensions and duels (public)
 - [[prana-and-ascent]] — chakra/Ascent (public)
+- [[range-of-spirits]] — every shape/size/non-form; houses as attractors; B1 kaiju climax (public)
 
 ## Creatures / spirits
 - [[el-contador-rumor]] — Colma's clerk-spirit, folk version (public, provisional)
@@ -71,6 +72,7 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - susmithaa-sun-mark — child-drawn sun; Abernathy's sealed memory (restricted)
 - [[sahasrajyoti]] — the Sowri main spirit (public, provisional)
 - [[sleeping-lady]] — the mountain spirit (public, provisional)
+- [[hillcrest-fog-bank]] — 11-second breathing fog; vast shape turned over offshore, s11 (public, provisional)
 
 ## Cosmology
 - [[astral-plane-and-the-ladder]] (public)
@@ -97,6 +99,7 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[custody-receipt-proximal-11]] — the opened R. SOWRI envelope: c/o LUCERO, I., pencil R, L. SOWRI ✓; s08 (public, provisional)
 - [[the-runner]] — Shepherd's-crook curb-vigil man, no car, bus 110; Caleb's account s08; s09 scouting: pink transfer, bay C prints, "8:12" (public, provisional)
 - [[dalal-glasses-blue-jar]] — Dalal's wrapped glasses in Nana's blue jar; grey thread to the 110 stop; Nana's trade terms; s10 (public, provisional)
+- [[wiped-circle-windows]] — palm-sized circles in the shelter and Nana's kitchen window; Dalal's "blank page"; s11 (public, provisional)
 - [[meridian-mutual-policy]] — the supposed policy / Susmithaa's "door"; s16.s01: "c/o" line, 8 March archana (public, provisional)
 
 ## History & events

@@ -58,7 +58,8 @@ words: 2140
 ```
 
 - Read the whole message range: table and whispers, plus ooc where it explains intent.
-- A scene draft is usually **1,500–4,000 words**. Let the drama decide.
+- A scene draft is **600–1,500 words**: the scene's essential beats in finished-quality prose. It's
+  raw material for revision, and most of it will be cut or compressed there.
 - The job packet already includes the full transcript, the cast and your style bible. Write the draft
   in one go. Don't announce finished drafts.
 - **Don't ask questions while drafting.** Put them in the draft's closing notes comment. At revision
@@ -68,21 +69,33 @@ words: 2140
 
 ## Revision {#revision}
 
-When a chapter ends, you're woken with a **revise** job. Read all of that chapter's drafts and
-write `books/book<N>/chapters/c<CC>.md` as one finished chapter:
+The DM's "chapters" are **arcs**: units of play. **Book chapters follow the human's format**, which
+is short, punchy chapters of **about 900–1,800 words (the human's average is about 1,100)**, never
+more than about 2,200. Each one is a single strong movement with a title and a hook ending, and
+time skips are fine ("It had been twenty-three days since the footage.").
+
+When an arc ends, you're woken with a **revise** job. Condense the whole arc into **as few book
+chapters as the story truly needs, typically 2–4**:
+- **Cut first.** Compress procedure, repetition, travel and table chatter to a line or skip it.
+  Summarize investigation montages in a paragraph. Keep turning points, revelations, the best
+  dialogue, and every fact later books depend on.
+- **Split only when** the essential material is still too long for one chapter of the human's length.
+- Number chapters continuously from the next free number in `books/book<N>/chapters/` (the job
+  tells you). Each one gets its own file, `c<NN>.md`:
 
 ```markdown
 ---
 book: 1
-chapter: 4
+chapter: 17
 title: <chapter title>
-pov: [lyra, kael]
-scenes: [b1.c04.s01, b1.c04.s02, b1.c04.s03]
+arc: b1.c15            # the DM arc this came from
+pov: [arenya]
+scenes: [b1.c15.s01, b1.c15.s02]
 status: revised
-words: 9800
+words: 1350
 ---
 
-# Chapter Four: <title>
+# Chapter Seventeen: <title>
 
 <prose>
 ```

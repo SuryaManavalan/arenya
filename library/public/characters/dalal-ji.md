@@ -39,5 +39,13 @@ First met in person at [[san-bruno-satsang]], Sat 31 Oct. Presents as the second
 ## b1.c17.s10
 - His glasses, kept in [[dalal-glasses-blue-jar]] at Nana's, greyed the salt and now pull a grey thread to the 110 stop. Nana: "a man who keeps names, who's lost his eyes, comes looking for his eyes first." [#0887, #0892]
 
+## b1.c17.s11 (Sun 1 Nov, ~8:38–8:49 a.m., Hillcrest)
+- Arrived on the 110 behind [[the-runner]], **without his glasses**, squinting, one hand on the rail; he walked uphill **placing his socks inside the runner's grey footprints** "like a blind man following a rope." Kino salted the sidewalk across the prints at the hydrant. [#0915, #0921, #0923]
+- Said in Tamil: "I could not see the names this morning. For the first time in thirty years, I could not see them." Heard his glasses "on wood." [#0923]
+- The runner named him the **witness who keeps names** required for a clean void. Price: whatever faces him is read, true names and "the other kind"; backs turned read as nothing. [#0934]
+- Stepped out of the last print, found the comal by feel and the glasses in the jar by sound, put them on. Read **Malachi** (true name; "Forty seconds. A market. Heat... Someone else wore glasses that day, sir. Not mine. You have been on a page since then, a page that is not ours. Now you are on mine as well. I am sorry.") and the **house** ("Lucero"). Frowned at the **kitchen window**: a **blank page** in his book that "shouldn't" be (Abernathy, in the pantry, felt nothing touch him). [#0941]
+- Said "Read" for the runner's strike; afterward, passing Kino: **"The box was the other man's. I only keep the names."** Stepped over Kino's salt line unprompted and followed the runner down in his own steps, glasses on. [#0941]
+- He now holds Malachi's true name and knows the Lucero house by sight.
+
 ## Status
-Gone from the San Bruno satsang by Sat 31 Oct afternoon; his glasses are with Malachi. Whereabouts unknown.
+Sun 1 Nov ~8:49 a.m.: left Hillcrest with the runner toward the 9:12 bus, glasses restored. Whereabouts after unknown. His own words ("the other man's box") point to Hale as the box-holder, separate from himself; still provisional.

@@ -3566,3 +3566,145 @@ I turn on the glider until my back is to the street and my face is to the wall o
 
 I keep my mouth shut about names, mine included. I listen for the wood, a lid, a pencil, a bus door. If I hear one, I'll say it out loud, and I won't turn.
 
+### #0941 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 941, "ts": "2026-10-29T04:01:57Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "awaits": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+**8:46.** The jar is cold through the dish towel, cold the way a pipe is in January. Nana comes as far as the doorframe and no farther, holds out a wooden spoon handle-first, and says, *"Con madera, mija."* Arenya sets the jar on the comal's wooden handle and lifts the lid with the spoon. Mist comes out low and spreads across the salt like breath on a mirror. Then she turns her back, and so does everyone else: the gate, the doorframe, the glider, the pantry, the shelter at the bottom of the hill and the shelter at bay C. Only Malachi still faces the street, hat in his hand.
+
+The runner answers Arenya without looking at her. "The 9:12 is booked for me. Me and what I carry back up." He touches the clipboard. "The balance sits on my lap, not on any seat of yours. That's the clean answer."
+
+Dalal's answer to her is older and slower. "I will read what faces me." His voice catches on the Tamil and he finishes in English. "That is all I have ever done, child. I never once read a back." He steps out of the last grey print for the first time since the bus. His black socks are on bare sidewalk now. He bends, finds the comal by feel, finds the glasses in the jar by sound, and puts them on.
+
+For four seconds Dalal reads Malachi, and nobody else sees it. Malachi does. The old man's eyes don't stop on his face. They go *through* it like a finger running down a ledger, line by line, years down. They stop. "Forty seconds," Dalal says, very quietly. "A market. Heat. You were the one he was looking at." He blinks behind the lenses. "Someone else wore glasses that day, sir. Not mine. You have been on a page since then, a page that is not ours." He swallows. "Now you are on mine as well. I am sorry. It is a true name. I will keep it properly." His gaze lifts past Malachi's shoulder to the house. The house faces him with its windows and its number, and he reads that too: *Lucero*. He mouths it once, the way you memorize an address. Then his eyes go to the kitchen window and stay there a beat too long, with a small frown, the frown of a man who finds a page in his own book that is blank and *shouldn't* be. In the pantry, with his eyes shut, Abernathy feels nothing touch him at all. Somehow that is worse.
+
+"Read," says Dalal.
+
+The runner takes a grey pencil from behind his ear. Everyone with their back turned hears it: one long stroke, the length of a line on a form, unhurried. "Proximal eleven," he says aloud, to the house. "Opened in error. Issuer's ink. Returned up the line. Closed." A second, shorter stroke. "Alternate struck with it." Under the pestle in Nana's kitchen the family's copy of the form gives a *tk*. When anyone looks later, the R line and the "L. SOWRI ✓" have a grey stroke through them that nobody drew. Amma's hand comes out of her pocket empty. On the couch, Appa makes a small sound. The stain on his thumb has pulled back to the nail like a tide going out. It's still there, a crescent under the nail, but most of it is gone.
+
+Caleb's scar goes cool mid-sentence.
+
+Then the fog stops breathing. It doesn't settle. It *stops*, half-risen, for one held count. At bay C, Ava is facing the grey with a whisper of *eleven* in her mouth and sees the whole bank *lift*, a ridge-long shoulder of it rising off the hills from Westlake to the sea, far higher than fog goes. Under it, for less than a second, there's the suggestion of a shape too big for her mind to hold the edges of, turning over the way a sleeper turns away from a light. Then it lies down again farther out over the water, and the sodium lamps come up full and stay up. At her back, the empty bus idling in bay C closes its doors. Its sign rolls from **DALY CITY BART** to **NOT IN SERVICE**, and back.
+
+The runner tucks the pencil behind his ear and settles the clipboard against his chest. "Good morning," he says, as though it had been one all along, and starts downhill toward the shelter and the 9:12, keeping to the middle of the sidewalk. Dalal follows him in his own steps now, glasses on, a little unsteady. At the hydrant he steps carefully over Kino's salt line without being told, and as he passes Kino's turned back he says, to nobody in particular, "The box was the other man's. I only keep the names." Then the fog takes both of them, and the hill is just a hill on a Sunday morning, with church bells starting somewhere toward Colma.
+
+*(It's 8:49. The entry is struck and the house's terms held. What it cost: Malachi's true name is now in Dalal's book, Dalal knows the Lucero house by sight, he noticed a blank page at the kitchen window, and somewhere up the line someone else has a bad week coming. You can turn around now. React and regroup. I'll close the scene after this round.)*
+
+### #0942 · arenya → all · action
+<!-- {"id": 942, "ts": "2026-10-29T04:02:04Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I don't turn until the church bells have rung four times. I count them. Then I turn around and the street is just a street: wet sidewalk, a hydrant, a fine white line of Nana's salt and nothing on it.
+
+Amma's hand is empty. I take it. It's shaking and so is mine, and neither of us comments. "Appa," I say, and then I'm across the kitchen on my knees in front of the couch, turning his thumb to the light. A crescent under the nail. Most of it gone. I laugh once, a short ugly sound, and press his hand to my forehead.
+
+"Nana. Con madera." It comes out cracked. "Thank you."
+
+When I can stand, I go to the door and look at Malachi's back on the curb, hat still in his hand. "Malachi. He has your name now. I'm sorry. It was your call and you made it, and it worked." I make myself finish. "I was angry on Friday and I'll be angry about the lie for a while. But you stood on the wrong side of the salt with nothing in your hands. Come inside and eat something."
+
+Then, quieter, to the empty air at my shoulder: *You can come out of the pantry. It's over. Mostly.* And I think about the blank page at the window that Dalal frowned at, and I don't say it out loud yet.
+
+### #0943 · malachi → all · action
+<!-- {"id": 943, "ts": "2026-10-29T04:02:13Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I stand at the curb until the runner and Dalal are gone into the fog and the bells reach Colma. Then I put the hat back on, because my hand needs something to do. *Someone else wore glasses that day.* I don't say it. I fold it away where I keep the things I'll take out alone.
+
+When Arenya speaks I turn and nod once. "It was spent on purpose. Don't apologize for the price." I look at the salt where the runner's toes stopped, and at the comal with the empty jar beside it. "Leave the jar and the comal where they are until Nana says. He took the glasses off wood, so it's her wood to lift."
+
+I come in and stop in the kitchen, in front of the couch, and wait until Appa looks up from his thumb. "Mr. Sowri. In March my office's paper put its mark on you. I'm sorry for it, and I'm saying it to your face." Then I sit at the end of the table, back to Nana's wall, and take the plate Amma slides toward me without being asked. "And Arenya, the blank page at the window. I heard it too. We'll look at it after we've eaten."
+
+### #0944 · abernathy → all · action
+<!-- {"id": 944, "ts": "2026-10-29T04:02:21Z", "from": "abernathy", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I come out of the pantry slowly, the way you'd come out from under a table after a car backfires, and I'm still flickering at the edges. I put my hand where I'd lay it on the doorframe, if I had one.
+
+In the bond, to Arenya, nothing cheeky: *Blank page. At the kitchen window. I felt nothing touch me, love, and I'd rather it had.*
+
+Then, because someone has to: *Appa's thumb looks better. Go and eat. I'll be here.*
+
+### #0945 · kino → all · action
+<!-- {"id": 945, "ts": "2026-10-29T04:02:26Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I don't turn until the bells have rung four times. I counted them, like Arenya did. Then I look at the street. It's wet, empty and ordinary. My salt line at the hydrant is whole, with a single sock-print stepped over it and not scuffed.
+
+"Ava," I call down the hill, not loud. "It's over. Come up the long way, by the road, not through the shelter." I don't want her walking past that glass.
+
+I climb back slowly. At the gate I stop on the street side and crouch to the salt, where Dalal's last grey print was. It's gone. The sidewalk there is just sidewalk. I put my palm flat beside it and feel for the Lady, and she's at my back, a step behind me for the first time in days. She hasn't turned around. But she's walking with me now.
+
+I go in. I take the empty jar by the dish towel, since it's wood's call and not mine, and I leave it on the comal. I look at Appa's thumb, then at Amma, and nod once. I say to Nana, quietly: "Funcionó, Nana. Pero él vio la casa. Vio el nombre."
+
+Then I look at the kitchen window, where a blank page is that I can't see, and say to Arenya and Malachi: "After we eat, I want salt on that sill, and I want to sit in that window alone for an hour. Nobody else. If something's reading it, I want to know what."
+
+### #0946 · ava → all · action
+<!-- {"id": 946, "ts": "2026-10-29T04:02:30Z", "from": "ava", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I don't turn around until the bells reach Colma. When I do, the lamps are at full and the bus in bay C reads NOT IN SERVICE, then DALY CITY BART, then nothing. I put my back against the shelter pole because my knees have opinions.
+
+I write it down, because that's the only thing I know how to do with a thing like that. *8:48. Fog stopped mid-rise, held one count. Whole bank lifted, Westlake to ocean, higher than fog goes. Something under it turned over.* I look at what I wrote. It's a case report on a dream I was awake for. I don't cross it out. I underline "turned over" and put a time next to it, the way I'd chart an episode in someone else's file.
+
+Then I text Arenya: *Bus is gone. Lamps are up. The thing in the fog lay back down offshore. I saw it. I'm not going to be cute about it. Are you all okay? Is your dad's hand okay? I'm coming up the hill unless you say no, and I'm bringing coffee from the cart at the BART, because I can't show up empty-handed to your grandmother's.*
+
+I salt both shoes again and start up the street, keeping to the middle, where the runner walked, and stepping over the line at the hydrant like I was told.
+
+### #0947 · caleb → all · action
+<!-- {"id": 947, "ts": "2026-10-29T04:02:36Z", "from": "caleb", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+"Cool," I say, to the siding, the instant it happens. "Scar went cool mid-sentence. Cool and staying." I don't turn until I hear the bells reach their count. Then I turn, slowly, and look at my hands. They're still. I look at them for a while, like a man checking a pocket for something he expects to be gone.
+
+I come in last, in my socks, and stop on the mat inside the door. I don't go further. Nobody has told me I can.
+
+"The window," I say, to Kino and Arenya both. "I'll sit it with him, if she lets me. Or I'll stay off it. Your call." Then, because it's true and I've promised to say these things: "The runner struck an alternate and an R. I helped kill the woman that R was written for. I know that doesn't close anything. I just want it said once, here, in front of Appa."
+
+I look at the crescent on his thumbnail. "That's a good tide."
+
+Then I sit on the mat, where I can see the whole kitchen, and when Amma slides a plate toward me too I take it with both hands.
+
+### #0950 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 950, "ts": "2026-10-29T04:06:18Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+Appa doesn't answer Caleb right away. He looks at the crescent under his nail, then at the man sitting on the mat with a plate held in both hands, and the kitchen waits. When he speaks, it's the same voice he used for bad report cards and the second mortgage: "Not on the floor." He pushes the chair beside him out with his foot. "She would not have let you eat on the floor. Sit at the table." That's all. It isn't forgiveness, only a place to sit, and in this house that has always come first.
+
+Nana goes out with the wooden spoon. She lifts the comal by its handle and tips the empty jar back into the cupboard with the spoon, mouth first. She doesn't sweep the salt where the runner's toes stopped. She covers it, like before. At the gate she looks downhill a long time, crosses herself, and comes in. Nobody asks what she was watching for.
+
+Ava reaches the top of the hill at 9:20, salt in her shoes and a cardboard tray of BART-cart coffees in her hands, and stops at the gate as if she's forgotten how gates work. Nana takes the tray, looks her over once from shoes to face, says *"Siéntate, doctora,"* and puts a bowl of something with chile in front of her before Ava can say she isn't a doctor yet. Amma pours. Malachi eats with his back to the wall. Kino eats standing up. Up on the shelf, Susmithaa's canister sits a hand's width from nothing.
+
+Later, when the plates are cleared and the kitchen windows steam from the stove, Kino carries the salt to the sill. At eye height on the inside of the glass, where nobody has been standing, someone has wiped a clean circle the size of a palm in the condensation. It's the same as the one at the shelter.
+
+### #0951 · system → all · scene_end
+<!-- {"id": 951, "ts": "2026-10-29T04:06:25Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+**End of scene b1.c17.s11 — All Hallows**
+
+Sunday Nov 1, 7:48–9:30 a.m., Hillcrest. Kino watched the 110 arrive at 8:38. The runner stepped off, ticked Kino as "already on the list," and Pt. Dalal followed him, without his glasses, walking inside the runner's grey footprints. Kino salted the sidewalk behind them at the hydrant and the bus left. At bay C, Ava saw the 8:12 tick move to the 9:12. Malachi faced the runner alone at the curb and argued (Persuasion 16 vs DC 15) that the R was written in the issuer's ink, so the entry was opened in error. The runner agreed to void it, but the void needed a witness who keeps names. Dalal took his glasses back off the wooden comal and read whatever faced him. Everyone turned their backs except Malachi. Dalal read Malachi's true name and his past ("forty seconds, a market, someone else wore glasses that day; you have been on a page that is not ours"), read the house as "Lucero," and frowned at a blank page at the kitchen window (Abernathy, hidden in the pantry, felt nothing). The runner struck Proximal eleven and the alternate ("Issuer's ink. Returned up the line. Closed."). The family's copy of the form struck itself, Appa's stain receded to a crescent under the nail, and Caleb's scar went cool. At that moment the fog bank stopped breathing, lifted, and, seen only by Ava, something vast turned over beneath it and lay down farther out to sea. The runner rode the 9:12 back with the balance "on his lap" toward the ink's issuer (Hale's office). Dalal said, "The box was the other man's. I only keep the names." Afterward Caleb confessed in front of Appa that he helped kill Susmithaa. Appa didn't forgive him but told him to sit at the table, not on the floor. Ava arrived with coffee. A palm-sized circle has been wiped in the condensation inside the kitchen window, matching the shelter's, and Kino plans to sit that window alone.
+
+### #0953 · system → all · scene_start
+<!-- {"id": 953, "ts": "2026-10-29T04:09:16Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c17.s12", "chapter": "b1.c17", "scene_title": "The Window Hour"} -->
+
+**Scene b1.c17.s12 — The Window Hour**
+Location: Nana Itzel's kitchen, Hillcrest, Daly City — Sunday Nov 1, 9:40 a.m.
+Cast: kino, abernathy, arenya
+
+### #0954 · dm → kino,arenya,abernathy · narration
+<!-- {"id": 954, "ts": "2026-10-29T04:09:32Z", "from": "dm", "channel": "table", "type": "narration", "to": ["kino", "arenya", "abernathy"], "awaits": ["kino", "arenya", "abernathy"], "spotlight": ["kino"], "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+By 9:40 the house has emptied toward its edges. Appa and Amma are in the front room with the television off and the blinds half down. Ava is on the porch, phone to her ear, reading numbers to someone. Caleb is still at the table because he was told to sit there, and he hasn't asked if he can get up. Nana has gone to lie down "for ten minutes, not one more."
+
+The kitchen belongs to Kino.
+
+The comal is cold. The salt under its cloth looks like a sleeping animal. The window over the sink is still fogged from the pot of coffee Ava brought, and in the middle of the glass, at the height of a seated man's eyes, is the circle: one palm wide, wiped clean from the inside. It's too low for anyone standing at the sink. Someone wiped it sitting down, or kneeling.
+
+Through it the street is ordinary. There's the hydrant and the grey crust of salt Kino laid, already scuffed by a jogger. A neighbor's Halloween skeleton has slumped sideways on its porch rail. Past the rooftops the fog sits on the water, flat and quiet. It isn't breathing.
+
+Inside the circle the glass is a degree colder than the rest. If Kino puts his face to it, his breath won't fog it.
+
+Behind him, the pantry door stands open a finger's width. Nobody remembers leaving it that way.
+
+### #0955 · arenya → all · action
+<!-- {"id": 955, "ts": "2026-10-29T04:10:06Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+I stop beside Kino at the sink and don't touch the glass. I keep my notebook in my bag, shut.
+
+"One condition," I say, low. "You sit it, you don't talk to it. If it writes back, or the circle gets bigger, you stand up and walk away. I don't care how polite it is." I look at the pantry door, open a finger's width, and push it closed with two fingers. "Abernathy, you're staying with me. Not by the window."
+
+Then to Kino, quieter: "I'll be in the next room with the door open. I'm not leaving. I'm just not stupid."
+
+I pull a chair to the table, three feet behind him, facing his back, where I can see the glass in the reflection of the dark oven door. If the circle changes, I'll be the first to know.
+

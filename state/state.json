@@ -1,24 +1,21 @@
 {
  "phase": "play",
- "next_id": 941,
+ "next_id": 958,
  "book": 1,
  "chapter": 17,
- "scene_counter": 11,
+ "scene_counter": 12,
  "scene": {
-  "id": "b1.c17.s11",
-  "title": "All Hallows",
-  "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
+  "id": "b1.c17.s12",
+  "title": "The Window Hour",
+  "location": "Nana Itzel's kitchen, Hillcrest, Daly City \u2014 Sunday Nov 1, 9:40 a.m.",
   "cast": [
-   "arenya",
-   "malachi",
-   "abernathy",
    "kino",
-   "ava",
-   "caleb"
+   "abernathy",
+   "arenya"
   ],
-  "place": null,
-  "start_id": 904,
-  "spotlights_used": 3
+  "place": "daly-city-nana-house",
+  "start_id": 953,
+  "spotlights_used": 1
  },
  "scenes": [
   {
@@ -536,19 +533,49 @@
    "summary": "At dusk Malachi waited outside Nana's salt line until Arenya made him say two things at the gate: his real name and who pays him. He is Malachi Shawani, a CIA case officer in a four-person off-book domestic cell, and his team doesn't know about this family. He crossed cleanly, but Dalal's wrapped reading glasses in his pocket greyed a hand's width of the salt. Nana had it covered with fresh salt, not swept, and put the glasses in a lidded blue jar on the top shelf, a hand's width from Susmithaa's canister. The jar made a single pencil-tick sound. In the bond, a fine grey thread now runs from it downhill to the 110 stop. At the table Malachi told Amma everything: an overseas death eleven years ago that he was ordered to forget, nine matching deaths his cell counts here, every clue toward Sunday's 9:00 a.m. visit, and a CHP query on Arenya's car that carries his name. Amma, the ticked alternate signatory, announced she would face the runner herself. Arenya argued her down (\"you're the person they ticked the box for\"), and Amma agreed to stand behind her, barefoot, with Appa's capped Sheaffer in her pocket. She called Arenya \"kanna\" again. The plan is set: Kino at the bus shelter by 8:10, Caleb on the glider watching the hill, Malachi at the curb with no pen and no name, Arenya behind the gate, Amma behind her. Nana approved trading the glasses on her terms: the jar goes down on the wooden side of the comal, the family's copy of the form never leaves the house, the runner must strike his own line in his own pencil and say aloud that he's done it, and nobody speaks Susmithaa's name to him.",
    "book": 1,
    "chapter": 17
+  },
+  {
+   "id": "b1.c17.s11",
+   "title": "All Hallows",
+   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
+   "place": null,
+   "cast": [
+    "arenya",
+    "malachi",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 904,
+   "end_id": 951,
+   "summary": "Sunday Nov 1, 7:48\u20139:30 a.m., Hillcrest. Kino watched the 110 arrive at 8:38. The runner stepped off, ticked Kino as \"already on the list,\" and Pt. Dalal followed him, without his glasses, walking inside the runner's grey footprints. Kino salted the sidewalk behind them at the hydrant and the bus left. At bay C, Ava saw the 8:12 tick move to the 9:12. Malachi faced the runner alone at the curb and argued (Persuasion 16 vs DC 15) that the R was written in the issuer's ink, so the entry was opened in error. The runner agreed to void it, but the void needed a witness who keeps names. Dalal took his glasses back off the wooden comal and read whatever faced him. Everyone turned their backs except Malachi. Dalal read Malachi's true name and his past (\"forty seconds, a market, someone else wore glasses that day; you have been on a page that is not ours\"), read the house as \"Lucero,\" and frowned at a blank page at the kitchen window (Abernathy, hidden in the pantry, felt nothing). The runner struck Proximal eleven and the alternate (\"Issuer's ink. Returned up the line. Closed.\"). The family's copy of the form struck itself, Appa's stain receded to a crescent under the nail, and Caleb's scar went cool. At that moment the fog bank stopped breathing, lifted, and, seen only by Ava, something vast turned over beneath it and lay down farther out to sea. The runner rode the 9:12 back with the balance \"on his lap\" toward the ink's issuer (Hale's office). Dalal said, \"The box was the other man's. I only keep the names.\" Afterward Caleb confessed in front of Appa that he helped kill Susmithaa. Appa didn't forgive him but told him to sit at the table, not on the floor. Ava arrived with coffee. A palm-sized circle has been wiped in the condensation inside the kitchen window, matching the shelter's, and Kino plans to sit that window alone.",
+   "book": 1,
+   "chapter": 17
   }
  ],
- "expectations": [],
+ "expectations": [
+  {
+   "id": 954,
+   "from": "dm",
+   "channel": "table",
+   "waiting_on": [
+    "kino",
+    "abernathy"
+   ],
+   "ts": "2026-10-29T04:09:32Z"
+  }
+ ],
  "cursors": {
   "lorekeeper": 309,
-  "dm": 940,
-  "arenya": 934,
-  "abernathy": 936,
+  "dm": 952,
+  "arenya": 954,
+  "abernathy": 942,
   "author": 596,
-  "caleb": 938,
-  "kino": 936,
-  "ava": 937,
-  "malachi": 934
+  "caleb": 945,
+  "kino": 954,
+  "ava": 944,
+  "malachi": 942
  },
  "sessions": {
   "lorekeeper": {
@@ -560,8 +587,8 @@
    "session_id": "fac87092-7536-4cac-96cc-97f52496595c"
   },
   "dm": {
-   "key": "b1.c17.s11",
-   "session_id": "322b342f-c949-4d33-b56e-a51801de1852"
+   "key": "b1.c17.between",
+   "session_id": "a1610816-66d7-41f5-9220-46cec223bb30"
   },
   "abernathy": {
    "key": "b1.c17.s11",
@@ -639,30 +666,64 @@
  "spotlight": [],
  "queue": [
   {
-   "seq": 1004,
-   "agent": "dm",
-   "job": "task",
-   "args": {
-    "title": "world turn (catch-up): what has Typhus been doing all week?",
-    "instructions": "Follow rules/dm.md \u00a7 Fronts and the world turn. Read plot/fronts.md, decide what each front did off-screen since its last advance, update fronts.md (step, what, where, when), plan the visible signs, and tidy plot/dm-notes.md (finished scene logs go to plot/dm-log.md). Don't post at the table. This is the FIRST world turn: a week of story time has passed (Mon Oct 26 to Sun Nov 1) with no off-screen tracking. Set every front's current step from what is plausible and already canon, decide where Typhus physically is and what he did this week, and plan how Typhus becomes present to the party soon (news, Elias, a call, the coffee he promised Arenya in c12)."
-   },
-   "priority": 2,
+   "seq": 1025,
+   "agent": "abernathy",
+   "job": "turn",
+   "args": {},
+   "priority": 1,
    "attempt": 0,
-   "ts": "2026-10-29T04:00:39Z"
+   "ts": "2026-10-29T04:09:32Z"
+  },
+  {
+   "seq": 1026,
+   "agent": "author",
+   "job": "revise",
+   "args": {
+    "book": 1,
+    "chapter": 15,
+    "summary": "Chapter 15 follows the first day after Susmithaa's death. At Seton, Malachi traded coffee for information and gave Arenya the freeze count and Adonis Quinn's name. Nana Itzel arrived with pozole, and Arenya met Kino. Mr. Bell, a Lattice watcher in a grey cardigan, appraised her hand and left a tracking card, which Nana hid in the freezer. At home, Susmithaa's phone held fourteen missed calls and voicemails from Daniel Hale of \"Meridian Mutual Life,\" and her copy of *Curtain* held a temple receipt and a farewell note (\"Don't sign. Don't verify.\"). The lamp flame split. Arenya confessed to Amma, and Kino showed his cold birthmark. At dawn Ravi handed over Susmithaa's papers: the Meridian letter naming Arenya beneficiary, torn through with NO, and a notarized declaration. Nana named el Contador, the clerk-spirit under Colma, and explained *dos testigos*. Abernathy found a memory of his walled off. At the stone yard, the clerk's ledger showed Susmithaa as row 11 with a contested stroke, and row 12 waiting for a second stroke. Kino refused the clerk's \"\u00bfY t\u00fa?\", and Arenya's palm took a pencil dot. At Colma Notary & Mail, notary Rodel Panganiban confirmed March 19: Susmithaa's declaration in the morning, and an hour later Hale renting Box 112 for cash. A bait envelope \"TO THE BENEFICIARY\" sits in the open box, and Arenya's phone photo shows her real name in its window. Mr. Bell has filed a request to verify the beneficiary and walked into the notary as they drove away. Arenya has refused Hale's noon meeting, the second witness is undecided, and the Lattice is closing in.",
+    "final_in_book": false
+   },
+   "priority": 3,
+   "attempt": 0,
+   "ts": "2026-10-29T04:09:48Z"
+  },
+  {
+   "seq": 1027,
+   "agent": "author",
+   "job": "revise",
+   "args": {
+    "book": 1,
+    "chapter": 16,
+    "summary": "Arenya and Kino followed Susmithaa's paper trail to the Livermore temple. Its register shows archana No. 2207, booked in March in Arenya's name. The visiting \"Pt. H. Dalal, Fremont\" took the $101 as dakshina \"per family,\" with Rodel's number and Box 112 as the contact, eleven days before Hale rented the box. In the temple hall a planted flip phone imitated Amma's voice. Arenya stayed silent, but its cold settled over Kino's sternum, and his heart now runs a quarter-beat behind. Back in Daly City, Amma gave up the folder she had hidden from Appa. The check carries a forged \"R. Sowri\" endorsement in the visitor's ruler-straight hand. The gas meter by the garage tried to enter the number as a receipt, and the household refused it by saying nothing. Appa then confessed his March verbal yes to a fake temple caller. He also passed on Rodel's warnings: keep Susmithaa's key, \"things that count come in where things are counted,\" and \"he asked me for one-twelve before it was empty.\" The key now rests at the foot of the lamp. The family has a day to prepare. Then, on Friday morning in daylight, Appa will drive Arenya and Kino to question Rodel at Colma Notary & Mail before Box 112 closes at 7:40.",
+    "final_in_book": false
+   },
+   "priority": 3,
+   "attempt": 0,
+   "ts": "2026-10-29T04:09:48Z"
   }
  ],
  "running": [
   {
-   "seq": 1005,
-   "agent": "dm",
-   "job": "replay",
+   "seq": 1023,
+   "agent": "kino",
+   "job": "turn",
    "args": {},
-   "priority": -1,
+   "priority": 1,
    "attempt": 0,
-   "ts": "2026-10-29T04:00:44Z"
+   "ts": "2026-10-29T04:09:32Z"
+  },
+  {
+   "seq": 1024,
+   "agent": "arenya",
+   "job": "turn",
+   "args": {},
+   "priority": 1,
+   "attempt": 0,
+   "ts": "2026-10-29T04:09:32Z"
   }
  ],
- "job_seq": 1005,
+ "job_seq": 1027,
  "human_waiting": [],
  "idle_wakes": 0,
  "paused": false,
@@ -674,9 +735,9 @@
    "scene": "b1.c17.s11"
   },
   "kino": {
-   "place": null,
-   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
-   "scene": "b1.c17.s11"
+   "place": "daly-city-nana-house",
+   "location": "Nana Itzel's kitchen, Hillcrest, Daly City \u2014 Sunday Nov 1, 9:40 a.m.",
+   "scene": "b1.c17.s12"
   },
   "ava": {
    "place": null,
@@ -684,14 +745,14 @@
    "scene": "b1.c17.s11"
   },
   "arenya": {
-   "place": null,
-   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
-   "scene": "b1.c17.s11"
+   "place": "daly-city-nana-house",
+   "location": "Nana Itzel's kitchen, Hillcrest, Daly City \u2014 Sunday Nov 1, 9:40 a.m.",
+   "scene": "b1.c17.s12"
   },
   "abernathy": {
-   "place": null,
-   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
-   "scene": "b1.c17.s11"
+   "place": "daly-city-nana-house",
+   "location": "Nana Itzel's kitchen, Hillcrest, Daly City \u2014 Sunday Nov 1, 9:40 a.m.",
+   "scene": "b1.c17.s12"
   },
   "malachi": {
    "place": null,

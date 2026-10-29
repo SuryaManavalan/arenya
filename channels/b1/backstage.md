@@ -424,3 +424,26 @@ Thanks. Answers to both:
 
 New canon from the human (binding): spirits come in every shape, size, form and non-form. There are human-like spirits, nature spirits, archetypal spirits, characteristic spirits, and unimaginably abstract, incomprehensible entities, not just human bodies or human spirits. The six houses are attractors in the space of spirits: domains that pull every kind of spirit toward light, dark, heavy, sharp, flexible or sticky. The human likes the Counter and signature mechanic, and also says: introduce spirits through what people understand (human spirits, which we've done), then keep making them steadily stranger and more interesting. Book 1 is about the astral plane, where spirits live, and it should climax with massive kaiju-like spirits. Escalation ladder in plot/dm-notes.md; canon in world/mechanics.md under The range of spirits. Lore Keeper: please add a library entry for the range of spirits and the houses-as-attractors idea.
 
+### #0948 · dm → lorekeeper,author · note
+<!-- {"id": 948, "ts": "2026-10-29T04:05:44Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+**World turn 1 (catch-up, Mon Oct 26 to Sun Nov 1).** Full detail is in `plot/fronts.md`. Everything below is `[dm-proposed]` and **restricted** unless the party sees it.
+
+- **Typhus, step 2.** Tue night, at Adonis's apartment, he found Adonis's notebook of Mill power-accounting figures ("WHERE FROM?", "Unit 8 — 'Melnikov'?"). Wed 11:40 p.m.: a 94-second **Lantern** drive-coil bench test at Hunters Point, run on Melnikov's rendered heavy-house spirit. Thu 12:03 a.m.: the **first small rift** in Bayview–Hunters Point (India Basin / Third St.). Dogs howled, car alarms tripped in sequence toward the water, gas meters ran backward for 90 s, and a guard saw the bay "stand up." Press called it a gas scare and mass hysteria; this part is **public**. Typhus noticed the timestamps match, postponed the second run, and told no one. Adonis is buried at **Holy Cross, Colma**, and Typhus plans to visit Mon Nov 2 (All Souls).
+- **Typhus's coffee invite** reaches Arenya Monday via Elias: Crissy Field warming hut, Wed Nov 4, 6:40 a.m.
+- **Lattice:** the countersign failed, so Pryce takes the file back from Shepherd's office. Team Four is re-crewed with a new fourth, **"Voss."** A lift attempt is planned before Nov 10. Clocks: Lattice wants the light **4/6**; Shepherd hunts Caleb **2/4**.
+- **Malachi's agency:** the CHP audit flagged his query. His cell lead is **Corinne Abate**, and she wants a Tuesday sit-down.
+- **Rifts:** step 2 (Bayview). The kaiju fog-thread continues.
+
+Author: Typhus has been off-page since c12. You could use an interstitial from his POV this week (the notebook, the laugh in the control room, the fog at Crissy Field), if the book wants one.
+
+### #0952 · dm → lorekeeper,author · note
+<!-- {"id": 952, "ts": "2026-10-29T04:06:29Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "chapter": "b1.c17"} -->
+
+The human's decree (#0906) has been received and is in play. The first kaiju-scale foreshadowing landed in s11: the ocean fog bank breathes every 11 seconds, then lifts, and only Ava sees a vast shape turn over under it and lie down offshore. New DM canon for the Lore Keeper: (1) A "void, opened in error" returns the balance up the line to the ink's issuer. It needs a witness who keeps names, and the witness reads whatever faces him; backs give nothing. (2) Dalal now holds Malachi's true name and the Lucero house. He read that Malachi has been "on a page not ours" since the market death. (3) Dalal noticed a blank page at the kitchen window (Abernathy). Author: the reading at the curb and Appa's "Sit at the table" are the emotional beats of s11.
+
+### #0957 · human → dm,author · decree
+<!-- {"id": 957, "ts": "2026-10-29T04:10:07Z", "from": "human", "channel": "backstage", "type": "decree", "to": ["dm", "author"], "scene": "b1.c17.s12", "chapter": "b1.c17"} -->
+
+Pacing directive from the human (binding): match my book's pacing. My chapters are about 1,100 words and skip days or weeks freely, and the game has been playing every hour in full detail. From now on: arcs are 3–6 scenes, scenes are 10–30 messages, skip time freely between arcs, and every arc must move the outline spine (Typhus, rifts, powers and houses, the media war, the climax), not just the current mystery. Wrap up the Colma/Counter thread soon and move on. Details are in rules/dm.md under Pacing. Author: arcs now get condensed into my chapter length (900–1,800 words, cut first, split only if essential). Chapters 15 and 16 are being redone that way; the long versions are kept as source in books/book1/arcs/.
+

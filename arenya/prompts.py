@@ -133,9 +133,20 @@ def wake_packet(st: dict, agent: str, role: str, job: str, args: dict, gear: dic
                  "§ Drafts, then update your MEMORY.md. Read other files only for a specific missing fact."]
     elif job == "revise":
         b, c = args["book"], args["chapter"]
-        body += ["## Job: revise chapter", f"Book {b}, Chapter {c} is finished. DM summary: {args['summary']}",
-                 f"Drafts: books/book{b}/drafts/c{c:02d}/. Write the finished chapter to `books/book{b}/chapters/c{c:02d}.md` "
-                 "following rules/author.md § Revision." + (" This is the book's final chapter." if args.get("final_in_book") else "")]
+        chap_dir = ROOT / f"books/book{b}/chapters"
+        nums = [int(p.stem[1:]) for p in chap_dir.glob("c*.md") if p.stem[1:].isdigit()]
+        nxt = max(nums, default=0) + 1
+        arc_src = ROOT / f"books/book{b}/arcs/arc-b{b}c{c:02d}.md"
+        body += ["## Job: condense an arc into book chapters",
+                 f"Arc b{b}.c{c:02d} (the DM's chapter {c}) is finished. DM summary: {args['summary']}",
+                 f"Sources: the scene drafts in books/book{b}/drafts/c{c:02d}/"
+                 + (f", and an earlier full-length revision at `{arc_src.relative_to(ROOT)}` (polished, but far too long)"
+                    if arc_src.exists() else "") + ".",
+                 f"Write book chapters starting at **Chapter {nxt}** (`books/book{b}/chapters/c{nxt:02d}.md`, then "
+                 f"c{nxt + 1:02d}… as needed), following rules/author.md § Revision. Each chapter is 900–1,800 words, in "
+                 "the human's chapter length and pacing (read two or three of c01–c14 first if you haven't recently). "
+                 "Cut hard, and split only if the essentials truly won't fit. Typically 2–4 chapters."
+                 + (" This arc ends the book." if args.get("final_in_book") else "")]
     elif job == "extract":
         s = args["scene"]
         body += ["## Job: extract canon", f"Scene {s['id']} \"{s['title']}\". DM summary: {s['summary']}", "",

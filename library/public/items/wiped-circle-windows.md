@@ -1,0 +1,20 @@
+---
+name: The Wiped Circles (shelter and kitchen window)
+type: item
+aliases: [palm-sized circle, the blank page at the window]
+status: provisional
+visibility: public
+first_seen: b1.c17.s11
+sources: ["b1.c17.s11 #0915", "#0941", "#0943", "#0945", "#0950"]
+related: [dalal-ji, abernathy, nana-itzel, hillcrest-fog-bank]
+---
+
+# The Wiped Circles
+
+- Sun 1 Nov ~8:10: a palm-sized circle wiped at eye height in the condensation on the 110 shelter glass, with nobody having been inside. [#0915]
+- Later, after breakfast: an identical clean circle inside **Nana's kitchen window**, at eye height, where nobody had stood. [#0950]
+- Dalal-ji, reading the house, frowned at the kitchen window: a **blank page** in his book that "shouldn't be." Abernathy was hidden in the pantry and felt nothing touch him. Malachi heard the frown; Arenya, Abernathy and Kino all flagged it. [#0941–#0945]
+- Kino will salt the sill and sit the window alone for an hour; Caleb offered to sit with him. [#0945, #0947]
+
+## Open questions
+- Who or what looks out of that window; whether it relates to Abernathy's walled-off memory, the Lady, or the fog-thing.

@@ -39,6 +39,12 @@ Carbon set, white over pink, folded in thirds:
 - Table theory (Arenya, Kino; unconfirmed): unsigned, the entry rolls ("balance carried forward") to the next name. The slip made Amma the backup line. [#0843, #0845]
 - Deadline: the runner is expected Sun 1 Nov, 9:00 a.m. Appa is to hold no pen. His Sheaffer sits in Nana's clay jar. [#0849, #0855, #0859]
 
+## Closed (b1.c17.s11, Sun 1 Nov ~8:47 a.m.)
+- [[the-runner]] struck the R line and the alternate aloud ("Opened in error. Issuer's ink. Returned up the line. Closed."). Afterwards the family's copy under Nana's pestle bore a grey stroke through the R and "L. SOWRI ✓" that nobody drew (it gave a *tk*). [#0941]
+- Effects: Amma's hand came out of her pocket empty; Appa's grey stain receded to a **crescent under the nail**; Caleb's scar went cool. [#0941]
+- Balance returned up the line to the issuer of the ink (Hale's office); runner carries it "on his lap" on the 9:12. [#0941]
+- Nana did not sweep the salt where the runner's toes stopped; she covered it. [#0950]
+
 ## Open questions
 - Who holds the book and the stub matching the torn corner? Who supplied Rohini in March?
 - What "closing" and "carried forward" really do.

@@ -1,6 +1,10 @@
 # Memory — author
 _Last updated: c17 s01 DRAFTED (drafts/c17/s01.md, ~2.7k words, Arenya POV, no insets). c16 revised earlier._
 
+## c17 s11 DRAFTED (drafts/c17/s11.md, ~3.3k words, Arenya POV, no insets)
+- Halloween (witch/Mazapanes), 2:17 tk, 7:48 setup; runner + blind Dalal in prints; Malachi's argument (issuer's ink), void needs witness; everyone backs turned except Malachi; Dalal reads Malachi (name withheld from reader), "Lucero", blank window page; strokes, Appa's thumb crescent, Caleb cool; fog stops/Ava sees thing turn over (told via legal pad); "The box was the other man's." Malachi apologizes to Appa; Caleb confesses, Appa "Not on the floor"; Ava arrives 9:20 "Siéntate, doctora"; palm circle in kitchen window; Kino sits it alone.
+- Open: my invented lines (Appa "draught", Ava "Clinical summary", bakery calendar); Arenya felt a "lack" at window (extrapolation).
+
 ## c17 s10 DRAFTED (drafts/c17/s10.md, ~3.4k words, Arenya POV, no insets)
 - Gate: Malachi Shawani, CIA case officer, off-book 4-person domestic cell, "own paper"; crosses clean; salt greys a hand's width (glasses, not him); blue lidded jar, "Tk"; fresh salt over grey (cover, don't sweep); jar on top shelf a hand's width from Susmithaa's canister; grey thread downhill to 110 stop. Pozole 6:41. Malachi's long account (11 yrs ago, forget order, nine deaths, CHP query w/ his name). Amma volunteers; Arenya "you're the person they ticked the box for"; Amma "Behind you", barefoot, capped Sheaffer in pocket, "kanna". Plan: Kino shelter 8:10, Caleb glider, Malachi curb (hat-brim signal), Arenya gate. Nana's terms: jar on comal wooden side, form stays, runner strikes own line + says it aloud, no Susmithaa name.
 - Open: Abernathy still owes the walled voice; Kino "Nana says yes first" order; trimmed table talk.
