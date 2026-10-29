@@ -66,6 +66,13 @@ The **cosmology** deepens book by book. Keep `library/restricted/cosmology/` as 
 planes or layers, how they connect, what lives where, and the rules of crossing. Mark which book
 each piece was introduced or revealed in, so the Author doesn't reveal the shape of the universe too early.
 
+## Places {#places}
+
+`library/places.yaml` is the gazetteer behind the human's map. Every location that matters (homes,
+death sites, rifts, facilities, spirit sites) gets an entry with real-world `lat`/`lon` (approximate
+is fine), `kind`, `visibility` and `sources`. Add one whenever a scene happens somewhere new or the
+DM asks. Rifts get `kind: rift`, with a note about how strong they are.
+
 ## Sources and authority
 
 Order of authority: **human decree/answer > human-written chapters > table play > DM proposals**.

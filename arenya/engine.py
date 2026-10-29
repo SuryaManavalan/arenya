@@ -175,7 +175,7 @@ def enqueue_locked(agent: str, job: str, args: dict | None = None, priority: int
 
 # --------------------------------------------------------------------------- scenes & chapters
 
-def scene_start(title: str, location: str, cast: list[str]) -> dict:
+def scene_start(title: str, location: str, cast: list[str], place: str | None = None) -> dict:
     agents = roster()
     cast = channels.expand_group(cast, agents)
     with state.locked() as st:
@@ -183,8 +183,10 @@ def scene_start(title: str, location: str, cast: list[str]) -> dict:
             raise PostError(f"scene {st['scene']['id']} is still open; end it first")
         st["scene_counter"] += 1
         sid = f"b{st['book']}.c{st['chapter']:02d}.s{st['scene_counter']:02d}"
-        st["scene"] = {"id": sid, "title": title, "location": location, "cast": cast,
+        st["scene"] = {"id": sid, "title": title, "location": location, "cast": cast, "place": place,
                        "start_id": st["next_id"], "spotlights_used": 0}
+        for a in cast:   # last known whereabouts, for the dashboard map
+            st.setdefault("locations", {})[a] = {"place": place, "location": location, "scene": sid}
         if st["phase"] != "play":
             st["phase"] = "play"
     system_post("table", "scene_start", f"**Scene {sid} — {title}**\nLocation: {location}\nCast: {', '.join(cast)}",
@@ -200,6 +202,7 @@ def scene_end(summary: str) -> dict:
     msg = system_post("table", "scene_end", f"**End of scene {scene['id']} — {scene['title']}**\n\n{summary}")
     with state.locked() as st:
         closed = {"id": scene["id"], "title": scene["title"], "location": scene["location"],
+                  "place": scene.get("place"),
                   "cast": scene["cast"], "start_id": scene["start_id"], "end_id": msg["id"],
                   "summary": summary, "book": st["book"], "chapter": st["chapter"]}
         st["scenes"].append(closed)

@@ -148,21 +148,60 @@ back. Losing them is a story, not an ending. Every other character can die.
 - Ability checks, saves, advantage/disadvantage, combat flow and conditions follow 5e unless overridden here.
 - Modern-day gear (phones, cars, firearms, money, the internet, police, consequences) follows real-world logic. The DM sets DCs and damage for it.
 
-## Spirit magic
-(to be filled during onboarding)
+## Spirit magic `[dm-proposed]`, pending the human's confirmation (from B1)
+- **Source.** A host's power belongs to their spirit. The host lends it a body and a will and points
+  it, and the spirit lends its house's nature. Meta mages borrow a channel through Vesper. What
+  they're actually using is rendered spirit.
+- **Prana is the currency.** 5e spell slots and similar resources (ki, sorcery points, pact slots)
+  are reskinned as **prana**: life force pointed upward. It recovers with a long rest, or with an
+  hour of breath and stillness for a short-rest class.
+- **Overdraw.** A host can keep going after their prana runs out. Each extra slot-level costs either a
+  level of **exhaustion** (drawn from the physical body) or **1d8 astral HP per slot level** (drawn
+  from the astral body). A deity-class spirit (Sahasrajyoti) can also be asked to *push*. When it
+  pushes, the effect is stronger, and the spirit gets a little more of the wheel (DM-run consequence).
+- **Where it works (Book 1).** Spirit powers work **fully in the bulk**. In the physical world they
+  work only **subtly** outside a rift: intuition, perception, luck, a lamp that brightens, fog that
+  thickens on cue, roughly cantrip-grade "coincidence". **Near a rift**, full effects bleed into the
+  physical. As the rifts spread through Book 1, so does physical magic.
+- **What it can't do (Book 1).** It can't bring back a destroyed astral body (that's death). It
+  can't create lasting matter. It can't touch time (that belongs to later books and to whatever
+  Abernathy was).
 
-## Classes → what they are in this world
-(to be filled: how 5e classes, levels and features map onto characters in this setting, or what replaces them)
+### The six houses: powers `[dm-proposed]`
+| house | archetype | in a fight (the bulk) | outside a fight |
+|---|---|---|---|
+| **Light** | revelation, radiance, warding | radiant force, wards, burning away illusion, healing | seeing what's true, being *seen* |
+| **Dark** | night, fog, dream, the underworld | concealment, fear, passage through hidden ways, dream-walk | hiding, knowing the land, dreams that mean things |
+| **Heavy** | gravity, mass, structure | crushing, pinning, immovability, shockwaves | endurance, structural sense (Yuri was an architect) |
+| **Sharp** | edges, precision, severance | cutting, piercing, severing bonds and links | clarity, speed of thought, finding the flaw |
+| **Flexible** | elasticity, adaptation | redirection, evasion, reshaping your astral form | adapting, slipping out of things |
+| **Sticky** | binding, magnetism, attraction | holds, tethers, pulls, nets | bonds between people and things; **containment** (the collection lattices are sticky-house tech) |
 
-## Escalation by book
+## Classes → what they are in this world `[dm-proposed]` (from B1)
+Every character uses a 5e class as a **chassis**, and the fiction says what it is:
+- **Spirit Host** = warlock chassis. The patron is your spirit, pact magic runs on prana, and
+  invocations are what your spirit teaches you. (Arenya.)
+- **Night Sentinel** = monk chassis. Ki is prana, and the host's spirit fights beside them. (Kino.)
+- **Meta Mage** = sorcerer chassis. The power comes from the Crown + Vesper, and metamagic is
+  firmware. (Caleb.)
+- **Squire-Spirit** = bard chassis. A lesser spirit that serves a host. (Abernathy.)
+- **Seer** = wizard chassis (Divination). Perception that opens into the bulk. (Ava.)
+- **Field Officer** = rogue chassis. A mundane human. (Malachi.)
+- **Levels** come from XP and story. **Ascent** comes only from story milestones.
+
+## Escalation by book `[dm-proposed]` from the outline; the human may correct it
 | book | what the world feels like | what becomes possible |
 |---|---|---|
-| 1 | (to be filled) | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
+| 1 Astral | Our world, nearly normal. The strange reads as illness, overdose, psychosis. By the end, the public has seen it and been told it's evil. | The bulk and spirit battles. Hosting. Meta mages. Physical magic near rifts. Spirits leaking through. |
+| 2 Cosmic | Four years on: a divided world that knows. Spirits are feared and regulated. Then the sky opens. | Matured powers in public. Space. Cosmic-scale spirits of stars and voids. Government programs (Malachi's). |
+| 3 Temporal | Exile into deep time. Myth-scale history. | Time travel (Abernathy). The Time Masters. Changing the past and paying for it. |
+| 4 Ethereal | A changed present, alien allies, a cult. Whispers of angels. | Ether bodies. Subtler possession. The void as a weapon. |
+| 5 Celestial | Angels are real. Temple-delving on far planets. | Embodiment by angels. Sacrifice and buffering (Abernathy's death). |
+| 6 Causal | Disembodied witness across thousands of years. The end of everything. | The causal body. Singularity. Speaking with the creator. Rebirth. |
 
-## House rules
-(to be filled)
+## House rules `[dm-proposed]`
+- **Fast rulings at the table.** Corrections go in `ooc` afterwards and never undo what happened.
+- **Psychosis shock:** an unprepared mind seeing a spirit makes a Wis save (DC 10 + spirit's size
+  tier). On a failure: frightened, or a short dissociative episode. It reads as a mental-health crisis.
+- **Ascent gates the bulk:** Ascent 3 or higher to fight there. Lower-Ascent characters can be carried
+  in to *witness* but can't act much beyond speaking (dreams count as witnessing).

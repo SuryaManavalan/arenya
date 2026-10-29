@@ -185,12 +185,13 @@ def build_server(ctx: TurnContext):
         @tool("scene_start", "Open a new scene (posts a scene header at the table).", {
             "type": "object",
             "properties": {"title": {"type": "string"}, "location": {"type": "string"},
-                           "cast": {**STR_LIST, "description": "Agent ids present (or 'party')."}},
+                           "cast": {**STR_LIST, "description": "Agent ids present (or 'party')."},
+                           "place": {"type": "string", "description": "Key from library/places.yaml (for the map). Omit if none fits."}},
             "required": ["title", "location", "cast"],
         })
         async def scene_start(args):
             try:
-                return ok(f"Scene {engine.scene_start(args['title'], args['location'], _list(args['cast']))['id']} open.")
+                return ok(f"Scene {engine.scene_start(args['title'], args['location'], _list(args['cast']), args.get('place'))['id']} open.")
             except engine.PostError as e:
                 return err(str(e))
         tools.append(scene_start)

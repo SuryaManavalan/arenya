@@ -1,0 +1,115 @@
+# Gazetteer: places with map coordinates. Maintained by the Lore Keeper (rules/lorekeeper.md § Places).
+# The DM passes a key from here as `place` to scene_start so the dashboard map can track the cast.
+# visibility: public | restricted (restricted = characters don't know it yet; the human always sees it)
+# kind: home | work | landmark | spirit | rift | facility | death-site | other
+places:
+  arenya-apartment:
+    name: Arenya's studio (the Mission)
+    lat: 37.7599
+    lon: -122.4148
+    kind: home
+    visibility: public
+    sources: [book1/c01]
+  tartine:
+    name: Tartine Bakery
+    aliases: [the bakery, Tartine]
+    lat: 37.7614
+    lon: -122.4241
+    kind: death-site
+    note: Yuri Melnikov froze and died here, staring at the corner table.
+    visibility: public
+    sources: [book1/c02, book1/c07]
+  dolores-park:
+    name: Dolores Park
+    lat: 37.7596
+    lon: -122.4269
+    kind: landmark
+    note: An elderly woman died slumped over in Dolores. Arenya's run ended here (c11).
+    visibility: public
+    sources: [book1/c02, book1/c11]
+  glen-park:
+    name: Glen Park
+    lat: 37.7340
+    lon: -122.4330
+    kind: death-site
+    note: A teenage victim died here.
+    visibility: public
+    sources: [book1/c02]
+  soma:
+    name: SoMa
+    lat: 37.7785
+    lon: -122.4056
+    kind: death-site
+    note: "'Another Sudden Death in SoMa — Third This Week'"
+    visibility: public
+    sources: [book1/c02]
+  lower-nob-hill:
+    name: Lower Nob Hill (launch-party bar)
+    lat: 37.7880
+    lon: -122.4140
+    kind: death-site
+    note: Adonis Quinn froze, enraged, and died on camera.
+    visibility: public
+    sources: [book1/c08]
+  sowri-family-home:
+    name: Sowri family home (Daly City)
+    aliases: [Daly City]
+    lat: 37.6879
+    lon: -122.4702
+    kind: home
+    visibility: public
+    sources: [book1/c03]
+  seton-medical:
+    name: Seton Medical Center (Daly City)
+    aliases: [the hospital]
+    lat: 37.6955
+    lon: -122.4720
+    kind: other
+    visibility: public
+    sources: [dm-proposed]
+  monolith-campus:
+    name: Monolith campus (Silicon Valley)
+    aliases: [Monolith, the campus]
+    lat: 37.4030
+    lon: -122.0480
+    kind: facility
+    visibility: public
+    sources: [book1/c09, book1/c12]
+  hunters-point-mill:
+    name: The Mill (beneath Monolith's Hunters Point facility)
+    aliases: [the Mill, Hunters Point]
+    lat: 37.7250
+    lon: -122.3700
+    kind: facility
+    note: Where captured spirits are rendered. DM-proposed location.
+    visibility: restricted
+    sources: [dm-proposed]
+  mount-tamalpais:
+    name: Mount Tamalpais — the Sleeping Lady
+    aliases: [Tam, the mountain, the Sleeping Lady]
+    lat: 37.9235
+    lon: -122.5965
+    kind: spirit
+    visibility: public
+    sources: [dm-proposed, interview round 2]
+  excelsior-balam-home:
+    name: Nana Itzel's house (the Excelsior)
+    lat: 37.7244
+    lon: -122.4272
+    kind: home
+    visibility: public
+    sources: [agents/kino]
+  inner-sunset-ava:
+    name: Ava's apartment (Inner Sunset)
+    lat: 37.7620
+    lon: -122.4660
+    kind: home
+    visibility: public
+    sources: [agents/ava]
+  uc-berkeley:
+    name: UC Berkeley (Ava's department)
+    lat: 37.8719
+    lon: -122.2585
+    kind: work
+    visibility: public
+    sources: [agents/ava]

@@ -1,23 +1,126 @@
 {
- "phase": "setup",
- "next_id": 1,
+ "phase": "play",
+ "next_id": 21,
  "book": 1,
  "chapter": 15,
- "scene_counter": 0,
+ "scene_counter": 1,
  "scene": null,
- "scenes": [],
- "expectations": [],
- "cursors": {},
- "sessions": {},
- "charges": {},
- "grants_used": {},
+ "scenes": [
+  {
+   "id": "b1.c15.s01",
+   "title": "A Woman Made of Lamps",
+   "location": "The bulk, above a garden in Daly City (Arenya, dreaming). Sunday night, 2:40 a.m.",
+   "cast": [
+    "arenya",
+    "abernathy"
+   ],
+   "start_id": 5,
+   "end_id": 20,
+   "summary": "In a shared dream in the bulk above her parents' Daly City garden, Arenya watches her aunt Susmithaa, the host of the Sowri line's light spirit, take the form of a woman made of lamps as a faceless four-man collection team draws a magnetic net that snuffs her flames. Abernathy fights at Susmithaa's side as her squire; his lantern strike fails and his light gutters, but he shields the single flame Arenya reaches for and holds. In that moment his voice slips briefly out of cockney into something old: \"keep it lit, child.\" Arenya tries to pin the man in the light grey jacket from her investigation wall and fails. She keeps only the words \"left pocket\", and his net's filament \"counts\" her, leaving a cold coin-sized spot on the inside of her right wrist. Susmithaa pours all her remaining light into Arenya's flame. The collection catches only ash, and her last words are a charge: something old is waking, the doors will open, keep it lit, go with all the light you can carry, and look after Abernathy (\"He'll say he's looking after you. He's lying\"). Abernathy is torn loose and bound to Arenya, and Susmithaa's body collapses by the curry-leaf tree. Arenya wakes at 3:19 a.m. with a warm, clenched fist; Abernathy is filling her kettle and warns her in private to hide the hand and leave the wrist mark alone. At 3:20 Amma calls: Susmithaa is dead at Seton, her window lamp went out with oil still in it, and a polite American in a suit reached the hospital before the family and asked whether Susmithaa had a niece.",
+   "book": 1,
+   "chapter": 15
+  }
+ ],
+ "expectations": [
+  {
+   "id": 2,
+   "from": "dm",
+   "channel": "human",
+   "waiting_on": [
+    "human"
+   ],
+   "ts": "2026-10-29T00:31:55Z"
+  }
+ ],
+ "cursors": {
+  "lorekeeper": 3,
+  "dm": 20,
+  "arenya": 14,
+  "abernathy": 17,
+  "author": 0
+ },
+ "sessions": {
+  "lorekeeper": {
+   "key": "b1.c15.between",
+   "session_id": "cb7b820a-698e-4f7e-bd7a-f8920572b932"
+  },
+  "arenya": {
+   "key": "b1.c15.s01",
+   "session_id": "026de4a0-bf33-49f2-9afb-b6e84619aed9"
+  },
+  "dm": {
+   "key": "b1.c15.s01",
+   "session_id": "ef3a1439-ef8d-4447-a09d-12ac29f89f9a"
+  },
+  "abernathy": {
+   "key": "b1.c15.s01",
+   "session_id": "60bbbd34-3748-447e-a427-9200f9772426"
+  }
+ },
+ "charges": {
+  "dm": {
+   "period": "b1.c15",
+   "left": 11
+  },
+  "author": {
+   "period": "b1.c15",
+   "left": 0
+  },
+  "lorekeeper": {
+   "period": "b1.c15",
+   "left": 3
+  },
+  "director": {
+   "period": "b1.c15",
+   "left": 3
+  },
+  "arenya": {
+   "period": "b1.c15",
+   "left": 2
+  },
+  "malachi": {
+   "period": "b1.c15",
+   "left": 1
+  },
+  "abernathy": {
+   "period": "b1.c15",
+   "left": 2
+  },
+  "kino": {
+   "period": "b1.c15",
+   "left": 1
+  },
+  "ava": {
+   "period": "b1.c15",
+   "left": 1
+  },
+  "caleb": {
+   "period": "b1.c15",
+   "left": 1
+  }
+ },
+ "grants_used": {
+  "b1.c15": 2
+ },
  "upshift": [],
  "spotlight": [],
  "queue": [],
- "running": [],
- "job_seq": 0,
- "human_waiting": [],
- "idle_wakes": 0,
+ "running": [
+  {
+   "seq": 19,
+   "agent": "dm",
+   "job": "turn",
+   "args": {},
+   "priority": 0,
+   "attempt": 0,
+   "ts": "2026-10-29T00:38:11Z"
+  }
+ ],
+ "job_seq": 19,
+ "human_waiting": [
+  2
+ ],
+ "idle_wakes": 1,
  "paused": false,
  "pause_reason": null
 }

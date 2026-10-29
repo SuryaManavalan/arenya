@@ -111,8 +111,8 @@ class Dispatcher:
                     else:
                         engine._resolve(st, a, None, pass_all=True)
                 return bool(st["queue"])
-            if st["human_waiting"]:
-                return False
+            if st["human_waiting"] and st["idle_wakes"] >= 1:
+                return False   # the DM already had its chance to keep play going while the human is away
             st["idle_wakes"] += 1
             if st["idle_wakes"] > settings()["idle_wakes_before_pause"]:
                 st["paused"] = True

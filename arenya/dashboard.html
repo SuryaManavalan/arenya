@@ -1,0 +1,427 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arenya Game Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<style>
+:root{
+  --bg:#0b0d17; --bg2:#11142a; --panel:#151935; --panel2:#1b2045; --line:#272d5c;
+  --text:#e7e6f2; --muted:#9a9cc0; --faint:#6a6d96;
+  --lamp:#f4c45a; --lamp2:#ffdf8e; --bulk:#9d7bff; --bulk2:#6a4fe0; --dark:#4fb3a9;
+  --danger:#ff6b7a; --ok:#57d6a0; --warn:#ffb454;
+  --r:12px;
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font:14px/1.5 Inter,system-ui,sans-serif}
+body{background:radial-gradient(1200px 600px at 80% -10%,#2a1f5e55,transparent),radial-gradient(900px 500px at -10% 110%,#3b2a0a44,transparent),var(--bg)}
+a{color:var(--lamp)}
+button{font:inherit;cursor:pointer}
+::-webkit-scrollbar{width:10px;height:10px}::-webkit-scrollbar-thumb{background:#2c3266;border-radius:10px}
+
+/* top bar */
+header{display:flex;align-items:center;gap:14px;padding:10px 18px;border-bottom:1px solid var(--line);background:#0d1022cc;backdrop-filter:blur(8px);position:sticky;top:0;z-index:50;flex-wrap:wrap}
+.brand{font-family:"Cormorant Garamond",serif;font-size:24px;font-weight:600;letter-spacing:.5px;color:var(--lamp2);display:flex;align-items:center;gap:8px}
+.brand small{font-family:Inter;font-size:11px;color:var(--muted);letter-spacing:2px;text-transform:uppercase;font-weight:500}
+.pills{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.pill{background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:4px 11px;font-size:12px;color:var(--muted);white-space:nowrap}
+.pill b{color:var(--text);font-weight:600}
+.pill.live{border-color:#2d6a52;color:var(--ok)}
+.pill.paused{border-color:#7a4a17;color:var(--warn)}
+.pill.human{border-color:var(--lamp);color:var(--lamp2);cursor:pointer;animation:glow 2s infinite}
+@keyframes glow{50%{box-shadow:0 0 14px #f4c45a66}}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--ok);margin-right:6px;vertical-align:middle}
+.dot.pulse{animation:pulse 1.2s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 #57d6a088}100%{box-shadow:0 0 0 8px #57d6a000}}
+.spacer{flex:1}
+nav{display:flex;gap:4px;padding:8px 18px;border-bottom:1px solid var(--line);background:#0d102299;overflow-x:auto}
+nav button{background:none;border:0;color:var(--muted);padding:7px 14px;border-radius:8px;font-weight:500}
+nav button:hover{color:var(--text);background:var(--panel)}
+nav button.on{color:var(--bg);background:var(--lamp)}
+main{padding:16px 18px;height:calc(100vh - 112px)}
+.view{display:none;height:100%}
+.view.on{display:block}
+
+/* generic */
+.card{background:linear-gradient(180deg,var(--panel),#12162f);border:1px solid var(--line);border-radius:var(--r);padding:14px}
+.card h3{margin:0 0 8px;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);font-weight:600}
+.muted{color:var(--muted)}.faint{color:var(--faint)}
+.mono{font-family:"JetBrains Mono",monospace;font-size:12px}
+.tag{display:inline-block;font-size:10.5px;padding:1px 7px;border-radius:999px;background:var(--panel2);color:var(--muted);border:1px solid var(--line);margin-right:4px;text-transform:lowercase}
+.tag.lamp{color:var(--lamp2);border-color:#6b5520}.tag.bulk{color:#c9b6ff;border-color:#4a3a8a}.tag.red{color:var(--danger);border-color:#6b2a33}
+.btn{background:var(--panel2);border:1px solid var(--line);color:var(--text);padding:6px 12px;border-radius:8px;font-size:13px}
+.btn:hover{border-color:var(--lamp)}
+.btn.primary{background:var(--lamp);color:#1a1300;border-color:var(--lamp);font-weight:600}
+.empty{color:var(--faint);padding:30px;text-align:center;font-style:italic}
+.avatar{width:32px;height:32px;border-radius:50%;display:grid;place-items:center;font-weight:700;font-size:12px;color:#0b0d17;flex:none;box-shadow:0 0 0 2px #0b0d17,0 0 0 3px var(--c,#888)}
+.avatar.sm{width:22px;height:22px;font-size:9.5px}
+
+/* LIVE */
+.live{display:grid;grid-template-columns:200px 1fr 330px;gap:14px;height:100%}
+.chlist{display:flex;flex-direction:column;gap:2px;overflow:auto}
+.ch{display:flex;justify-content:space-between;align-items:center;padding:7px 10px;border-radius:8px;color:var(--muted);cursor:pointer;font-size:13px}
+.ch:hover{background:var(--panel)} .ch.on{background:var(--panel2);color:var(--text)}
+.ch .n{font-size:11px;color:var(--faint)}
+.chsec{font-size:10.5px;letter-spacing:1.5px;text-transform:uppercase;color:var(--faint);margin:12px 10px 4px}
+.feedwrap{display:flex;flex-direction:column;min-height:0;height:100%}
+.feed{flex:1;overflow:auto;padding:4px 6px 20px;scroll-behavior:smooth}
+.msg{display:flex;gap:11px;padding:10px 10px;border-radius:10px;margin-bottom:2px}
+.msg:hover{background:#ffffff06}
+.msg .meta{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
+.msg .who{font-weight:600}
+.msg .body{color:#dddcec;margin-top:2px;overflow-wrap:anywhere}
+.msg .body p{margin:.3em 0}
+.msg.narr .body{font-family:"Cormorant Garamond",serif;font-size:17.5px;line-height:1.5;color:#efe8d6}
+.msg.dialogue .body{font-size:14.5px}
+.msg.ooc{opacity:.78}
+.msg.flash{animation:flash 2s}
+@keyframes flash{0%{background:#f4c45a33}}
+.roll{display:flex;gap:10px;align-items:center;margin:6px 0 6px 43px;padding:8px 12px;border-radius:10px;background:#1d1a35;border:1px dashed #4a3a8a;font-size:13px}
+.roll .total{font-family:"Cormorant Garamond",serif;font-size:26px;font-weight:600;color:var(--lamp2);min-width:34px;text-align:center}
+.roll.crit .total{color:var(--ok)} .roll.fumble .total{color:var(--danger)}
+.sysline{margin:4px 0 4px 43px;font-size:12.5px;color:var(--muted)}
+.scenebar{margin:22px 0 14px;text-align:center;position:relative}
+.scenebar:before{content:"";position:absolute;left:0;right:0;top:50%;border-top:1px solid #3a3270}
+.scenebar span{position:relative;background:var(--bg);padding:6px 16px;border:1px solid #4a3a8a;border-radius:999px;font-family:"Cormorant Garamond",serif;font-size:18px;color:#d8ccff}
+.scenebar.end span{border-color:#6b5520;color:var(--lamp2)}
+.scenesum{margin:-4px 40px 14px;padding:10px 14px;border-left:2px solid var(--lamp);background:#f4c45a0d;color:#e8dfc6;font-size:13.5px;border-radius:0 8px 8px 0}
+.scrub{display:flex;gap:10px;align-items:center;padding:10px 12px;border-top:1px solid var(--line);background:var(--bg2);border-radius:0 0 var(--r) var(--r)}
+.scrub input[type=range]{flex:1;accent-color:var(--lamp)}
+.side{display:flex;flex-direction:column;gap:12px;overflow:auto;min-height:0}
+.job{display:flex;gap:8px;align-items:center;padding:6px 0;border-bottom:1px solid #ffffff08;font-size:13px}
+.exp{font-size:12.5px;padding:5px 0;border-bottom:1px solid #ffffff08}
+textarea,input[type=text],select{width:100%;background:var(--bg2);border:1px solid var(--line);color:var(--text);border-radius:8px;padding:8px;font:inherit}
+textarea{min-height:90px;resize:vertical}
+.ask{border:1px solid #6b5520;background:#f4c45a0a;border-radius:10px;padding:10px;margin-bottom:10px}
+.ask .q{max-height:260px;overflow:auto;font-size:13px}
+.ask .q p{margin:.35em 0}
+
+/* SCENES */
+.scenes{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:14px;overflow:auto;height:100%;align-content:start}
+.scard .title{font-family:"Cormorant Garamond",serif;font-size:22px;color:#f1e9d4;line-height:1.15}
+.scard .id{font-family:"JetBrains Mono";font-size:11px;color:var(--faint)}
+.chap{grid-column:1/-1;font-family:"Cormorant Garamond",serif;font-size:26px;color:var(--lamp2);margin:8px 0 -4px;border-bottom:1px solid var(--line);padding-bottom:4px}
+
+/* CAST */
+.castgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px;overflow:auto;height:100%;align-content:start}
+.ccard .head{display:flex;gap:12px;align-items:center}
+.ccard .avatar{width:48px;height:48px;font-size:16px}
+.ccard .nm{font-family:"Cormorant Garamond",serif;font-size:22px;line-height:1.1}
+.bar{height:7px;background:#ffffff10;border-radius:9px;overflow:hidden;margin:3px 0 7px}
+.bar i{display:block;height:100%;border-radius:9px}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:2px 10px;font-size:12.5px;margin:8px 0}
+.kv span:nth-child(odd){color:var(--faint)}
+.mem{font-size:12.5px;color:#cfcde4;background:#ffffff05;border-radius:8px;padding:8px 10px;margin-top:8px;max-height:150px;overflow:auto}
+.mem p,.mem ul{margin:.2em 0}
+
+/* MAP */
+.mapwrap{display:grid;grid-template-columns:1fr 320px;gap:14px;height:100%}
+#map{height:100%;border-radius:var(--r);border:1px solid var(--line);background:#0e1124}
+.leaflet-popup-content-wrapper,.leaflet-popup-tip{background:var(--panel);color:var(--text);border:1px solid var(--line)}
+.leaflet-container a.leaflet-popup-close-button{color:var(--muted)}
+.pin{width:14px;height:14px;border-radius:50%;border:2px solid #0b0d17;box-shadow:0 0 0 1px #ffffff55}
+.pin.restricted{outline:2px dashed #c9b6ff;outline-offset:2px}
+.who-marker{display:flex;gap:2px}
+.who-marker .avatar{width:26px;height:26px;font-size:10px}
+
+/* WORLD / BOOKS */
+.two{display:grid;grid-template-columns:320px 1fr;gap:14px;height:100%}
+.tree{overflow:auto}
+.tree .grp{font-size:10.5px;letter-spacing:1.5px;text-transform:uppercase;color:var(--faint);margin:14px 6px 4px}
+.tree .it{padding:5px 8px;border-radius:7px;cursor:pointer;font-size:13px;display:flex;justify-content:space-between;gap:6px}
+.tree .it:hover{background:var(--panel)} .tree .it.on{background:var(--panel2)}
+.doc{overflow:auto;padding:22px 34px}
+.doc h1,.doc h2,.doc h3{font-family:"Cormorant Garamond",serif;color:#f3ead2;font-weight:600}
+.doc h1{font-size:34px;margin-top:0}.doc h2{font-size:25px;border-bottom:1px solid var(--line);padding-bottom:4px}.doc h3{font-size:20px}
+.doc table{border-collapse:collapse;margin:10px 0}.doc td,.doc th{border:1px solid var(--line);padding:5px 9px;font-size:13px}
+.doc code{font-family:"JetBrains Mono";font-size:12px;background:#ffffff0c;padding:1px 5px;border-radius:4px}
+.doc pre{background:#0008;padding:12px;border-radius:8px;overflow:auto}
+.doc blockquote{border-left:3px solid var(--lamp);margin:8px 0;padding:2px 14px;color:#e5dcc2;background:#f4c45a0a}
+.prose{max-width:720px;margin:0 auto;font-family:"Cormorant Garamond",serif;font-size:20px;line-height:1.6;color:#efe8d6}
+.prose p{margin:0 0 .9em;text-indent:1.4em}.prose h1+p,.prose hr+p{text-indent:0}
+.prose h1{text-align:center;font-size:36px;margin:10px 0 30px}
+.fm{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+input.search{margin-bottom:6px}
+
+/* ACTIVITY */
+.act{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;overflow:auto;height:100%;align-content:start}
+.tile .big{font-family:"Cormorant Garamond",serif;font-size:36px;color:var(--lamp2);line-height:1}
+.span4{grid-column:1/-1}.span2{grid-column:span 2}
+table.t{width:100%;border-collapse:collapse;font-size:12.5px}
+table.t th{text-align:left;color:var(--faint);font-weight:500;padding:6px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--panel)}
+table.t td{padding:5px 6px;border-bottom:1px solid #ffffff08}
+.hbar{display:flex;align-items:center;gap:8px;font-size:12.5px;margin:4px 0}
+.hbar .lbl{width:110px;color:var(--muted)}.hbar .trk{flex:1;height:10px;background:#ffffff0a;border-radius:9px;overflow:hidden}.hbar .trk i{display:block;height:100%;background:linear-gradient(90deg,var(--bulk2),var(--lamp))}
+.modal{position:fixed;inset:0;background:#000a;display:none;place-items:center;z-index:100}
+.modal.on{display:grid}
+.modal .box{width:min(980px,94vw);height:min(86vh,900px);display:flex;flex-direction:column}
+.modal .box .doc{flex:1}
+.tabs{display:flex;gap:4px;margin-bottom:8px}
+@media (max-width:1100px){.live{grid-template-columns:1fr}.chlist,.side{max-height:240px}.mapwrap,.two{grid-template-columns:1fr}.act{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">✦ Arenya <small>game monitor</small></div>
+  <div class="pills" id="pills"></div>
+  <div class="spacer"></div>
+  <button class="btn" id="pausebtn">Pause</button>
+</header>
+<nav id="nav"></nav>
+<main>
+  <section class="view" id="v-live"><div class="live">
+    <div class="card chlist" id="chlist"></div>
+    <div class="card feedwrap" style="padding:0">
+      <div class="feed" id="feed"></div>
+      <div class="scrub">
+        <button class="btn" id="followbtn" title="Follow live">● Live</button>
+        <input type="range" id="scrub" min="1" max="1" value="1">
+        <span class="mono muted" id="scrubinfo"></span>
+      </div>
+    </div>
+    <div class="side" id="side"></div>
+  </div></section>
+  <section class="view" id="v-scenes"><div class="scenes" id="scenes"></div></section>
+  <section class="view" id="v-cast"><div class="castgrid" id="castgrid"></div></section>
+  <section class="view" id="v-map"><div class="mapwrap"><div id="map"></div><div class="card" style="overflow:auto" id="mapside"></div></div></section>
+  <section class="view" id="v-world"><div class="two"><div class="card tree" id="wtree"></div><div class="card doc" id="wdoc"><div class="empty">Pick an entry: lore, mechanics, interviews, outline.</div></div></div></section>
+  <section class="view" id="v-books"><div class="two"><div class="card tree" id="btree"></div><div class="card doc" id="bdoc"><div class="empty">Pick a chapter or draft.</div></div></div></section>
+  <section class="view" id="v-activity"><div class="act" id="act"></div></section>
+</main>
+<div class="modal" id="modal"><div class="card box"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px"><div class="tabs" id="mtabs"></div><button class="btn" onclick="closeModal()">Close ✕</button></div><div class="doc" id="mdoc"></div></div></div>
+
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const md=s=>window.marked?marked.parse(String(s??"")):"<pre>"+esc(s)+"</pre>";
+const api=(p,o)=>fetch(p,o).then(r=>r.json());
+const VIEWS=[["live","Live"],["scenes","Scenes"],["cast","Cast"],["map","Map"],["world","World"],["books","Books"],["activity","Activity"]];
+const COLORS={dm:"#f4c45a",system:"#6a6d96",human:"#ffffff",author:"#e9a6c9",lorekeeper:"#7fd1c7",director:"#9aa7ff",
+  arenya:"#ffb26b",malachi:"#7aa7ff",abernathy:"#e8f27a",kino:"#4fb3a9",ava:"#ff8fa3",caleb:"#b0b6c8"};
+const color=a=>COLORS[a]||`hsl(${[...a].reduce((h,c)=>h*31+c.charCodeAt(0)&0xffff,7)%360} 65% 70%)`;
+const initials=a=>a==="dm"?"DM":a==="system"?"⚙":a==="human"?"YOU":(S.cast?.[a]?.name||a).split(/[\s"]+/).filter(Boolean).map(w=>w[0]).slice(0,2).join("").toUpperCase();
+const av=(a,cls="")=>`<div class="avatar ${cls}" style="background:${color(a)};--c:${color(a)}" title="${esc(S.cast?.[a]?.name||a)}">${esc(initials(a))}</div>`;
+const nameOf=a=>a==="dm"?"Dungeon Master":a==="system"?"system":a==="human"?"You":(S.cast?.[a]?.name||a);
+const timeOf=ts=>ts?new Date(ts).toLocaleTimeString([], {hour:"2-digit",minute:"2-digit"}):"";
+let S={}, MSGS=[], LASTID=0, CH="all", FOLLOW=true, VIEW=location.hash.slice(1)||"live", PLACES={}, MAP=null, MAPLAYER=null, LIB=null;
+
+/* nav */
+$("#nav").innerHTML=VIEWS.map(([k,l])=>`<button data-v="${k}">${l}</button>`).join("");
+$("#nav").onclick=e=>{const v=e.target.dataset.v;if(v)show(v)};
+function show(v){VIEW=v;location.hash=v;document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("on",b.dataset.v===v));
+  document.querySelectorAll(".view").forEach(s=>s.classList.toggle("on",s.id==="v-"+v));render();}
+
+/* polling */
+async function tick(){
+  try{
+    S=await api("/api/state");
+    if(S.state.next_id-1!==LASTID){MSGS=await api("/api/messages");const prev=LASTID;LASTID=S.state.next_id-1;onNewMessages(prev);}
+    renderHeader(); if(VIEW==="live")renderSide(); if(VIEW!=="live"&&VIEW!=="world"&&VIEW!=="books")render();
+  }catch(e){$("#pills").innerHTML=`<span class="pill paused">dashboard can't reach the server: ${esc(e)}</span>`}
+}
+setInterval(tick,3000);
+
+function renderHeader(){
+  const st=S.state, sc=st.scene, running=st.running||[];
+  const pills=[];
+  pills.push(st.paused?`<span class="pill paused">⏸ <b>paused</b> ${esc(st.pause_reason||"")}</span>`:`<span class="pill live"><span class="dot pulse"></span>live</span>`);
+  pills.push(`<span class="pill">phase <b>${esc(st.phase)}</b></span>`);
+  pills.push(`<span class="pill">Book <b>${st.book}</b> · Chapter <b>${st.chapter}</b></span>`);
+  if(sc)pills.push(`<span class="pill">scene <b>${esc(sc.title)}</b> <span class="faint">${esc(sc.id)}</span></span>`);
+  if(running.length)pills.push(`<span class="pill">${running.map(j=>`<span class="dot pulse" style="background:${color(j.agent)}"></span>${esc(j.agent)}<span class="faint">/${esc(j.job)}</span>`).join(" &nbsp;")}</span>`);
+  if((st.human_waiting||[]).length)pills.push(`<span class="pill human" onclick="show('live');CH='human';render()">✉ ${st.human_waiting.length} awaiting you</span>`);
+  pills.push(`<span class="pill">≈ <b>$${S.cost_total.toFixed(2)}</b> · ${S.turns_total} turns</span>`);
+  $("#pills").innerHTML=pills.join("");
+  $("#pausebtn").textContent=st.paused?"▶ Resume":"⏸ Pause";
+}
+$("#pausebtn").onclick=async()=>{await api(S.state.paused?"/api/resume":"/api/pause",{method:"POST"});tick()};
+
+/* ---------- LIVE ---------- */
+function onNewMessages(prev){
+  const sc=$("#scrub"); const ids=MSGS.map(m=>m.id);
+  sc.min=ids.length?ids[0]:1; sc.max=ids.length?ids[ids.length-1]:1; if(FOLLOW)sc.value=sc.max;
+  if(VIEW==="live")renderFeed(prev);
+}
+$("#scrub").oninput=()=>{FOLLOW=+$("#scrub").value>=+$("#scrub").max;$("#followbtn").classList.toggle("primary",FOLLOW);renderFeed()};
+$("#followbtn").onclick=()=>{FOLLOW=true;$("#scrub").value=$("#scrub").max;$("#followbtn").classList.add("primary");renderFeed()};
+$("#followbtn").classList.add("primary");
+
+function chGroups(){
+  const counts={}; MSGS.forEach(m=>counts[m.channel]=(counts[m.channel]||0)+1);
+  const names=[...new Set([...(S.channels||[]),...Object.keys(counts)])];
+  const g={"Game":["table","ooc","bond"],"Whispers":names.filter(n=>n.startsWith("whisper-")),"Staff":["backstage","human","director"]};
+  let h=`<div class="ch ${CH==="all"?"on":""}" data-ch="all"><span>✦ Everything</span><span class="n">${MSGS.length}</span></div>`;
+  for(const [k,arr] of Object.entries(g)){h+=`<div class="chsec">${k}</div>`;
+    for(const n of arr)h+=`<div class="ch ${CH===n?"on":""}" data-ch="${n}"><span>${n==="human"?"✉ ":n==="bond"?"✧ ":"# "}${esc(n)}</span><span class="n">${counts[n]||""}</span></div>`;}
+  $("#chlist").innerHTML=h;
+}
+$("#chlist").onclick=e=>{const c=e.target.closest(".ch");if(c){CH=c.dataset.ch;chGroups();renderFeed()}};
+
+function msgHTML(m){
+  const t=m.type;
+  if(t==="scene_start")return `<div class="scenebar" id="m${m.id}"><span>✦ ${esc(m.scene_title||m.body.split("\n")[0].replace(/\*/g,""))}</span></div><div class="sysline" style="text-align:center;margin-left:0">${esc(m.scene||"")} · ${esc((m.body.match(/Location: (.*)/)||[])[1]||"")}</div>`;
+  if(t==="scene_end")return `<div class="scenebar end" id="m${m.id}"><span>end of scene</span></div><div class="scenesum">${md(m.body.replace(/^\*\*.*\*\*\n*/,""))}</div>`;
+  if(t==="chapter_end")return `<div class="scenebar end"><span>❦ end of chapter</span></div><div class="scenesum">${md(m.body)}</div>`;
+  if(t==="roll"){const nat=(m.body.match(/natural (\d+)/)||[])[1];
+    return `<div class="roll ${nat==="20"?"crit":nat==="1"?"fumble":""}" id="m${m.id}">${av(m.roller||"system","sm")}<div class="total">${esc(m.total)}</div><div>${md(m.body.replace(/^🎲\s*/,""))}</div><span class="faint mono" style="margin-left:auto">#${m.id}</span></div>`;}
+  if(t==="pass"||t==="sheet"||t==="system")return `<div class="sysline" id="m${m.id}">${t==="sheet"?"📜":t==="pass"?"↷":"⚙"} ${md(m.body)}</div>`;
+  const cls=t==="narration"?"narr":t==="ooc"?"ooc":t;
+  const extra=[];
+  if(m.to?.length)extra.push(`→ ${m.to.map(esc).join(", ")}`);
+  if(m.awaits?.length)extra.push(`<span class="tag lamp">awaits ${m.awaits.map(esc).join(", ")}</span>`);
+  if(m.spotlight?.length)extra.push(`<span class="tag bulk">✦ spotlight ${m.spotlight.map(esc).join(", ")}</span>`);
+  if(m.reply_to)extra.push(`<span class="faint">re #${m.reply_to}</span>`);
+  return `<div class="msg ${cls}" id="m${m.id}">${av(m.from)}<div style="min-width:0;flex:1"><div class="meta"><span class="who" style="color:${color(m.from)}">${esc(nameOf(m.from))}</span><span class="tag">${esc(t)}</span>${CH==="all"?`<span class="tag ${m.channel==="bond"?"bulk":""}">#${esc(m.channel)}</span>`:""}<span class="faint" style="font-size:12px">${extra.join(" ")}</span><span class="faint mono" style="margin-left:auto">#${m.id} · ${timeOf(m.ts)}</span></div><div class="body">${md(m.body)}</div></div></div>`;
+}
+function renderFeed(prev){
+  chGroups();
+  const upto=+$("#scrub").value||Infinity;
+  const list=MSGS.filter(m=>m.id<=upto&&(CH==="all"||m.channel===CH));
+  const f=$("#feed");const atBottom=f.scrollHeight-f.scrollTop-f.clientHeight<80;
+  f.innerHTML=list.length?list.map(msgHTML).join(""):`<div class="empty">No messages here yet.</div>`;
+  const last=MSGS.find(m=>m.id===upto)||MSGS[MSGS.length-1];
+  $("#scrubinfo").textContent=last?`#${last.id} · ${last.scene||last.chapter||""} · ${new Date(last.ts).toLocaleString()}`:"";
+  if(FOLLOW&&(atBottom||prev===undefined||prev===0))f.scrollTop=f.scrollHeight;
+  if(prev)list.filter(m=>m.id>prev).forEach(m=>document.getElementById("m"+m.id)?.classList.add("flash"));
+}
+function renderSide(){
+  const st=S.state;
+  const asks=MSGS.filter(m=>(st.human_waiting||[]).includes(m.id));
+  let h="";
+  if(asks.length)h+=`<div class="card"><h3>✉ Waiting for you</h3>${asks.map(m=>`<div class="ask"><div class="meta" style="display:flex;gap:8px;align-items:center;margin-bottom:6px">${av(m.from,"sm")}<b>${esc(nameOf(m.from))}</b><span class="faint mono">#${m.id}</span></div><div class="q">${md(m.body)}</div><textarea id="ans${m.id}" placeholder="Your answer… (Markdown is fine)"></textarea><div style="display:flex;justify-content:flex-end;margin-top:6px"><button class="btn primary" onclick="reply(${m.id})">Send answer</button></div></div>`).join("")}</div>`;
+  const running=st.running||[], queue=(st.queue||[]).slice().sort((a,b)=>a.priority-b.priority||a.seq-b.seq);
+  h+=`<div class="card"><h3>Now</h3>${running.length?running.map(j=>`<div class="job">${av(j.agent,"sm")}<span class="dot pulse" style="background:${color(j.agent)}"></span><b>${esc(nameOf(j.agent))}</b><span class="muted">${esc(j.job)}</span></div>`).join(""):`<div class="faint">Nobody is mid-turn.</div>`}
+    ${queue.length?`<div class="faint" style="margin-top:8px;font-size:12px">up next: ${queue.map(j=>esc(j.agent)+"/"+esc(j.job)).join(" · ")}</div>`:""}</div>`;
+  const exps=st.expectations||[];
+  h+=`<div class="card"><h3>Who's waiting on whom</h3>${exps.length?exps.map(e=>`<div class="exp">${av(e.from,"sm")} <b>${esc(e.from)}</b> <span class="faint">#${e.id} in ${esc(e.channel)}</span><br><span class="muted">waiting on</span> ${e.waiting_on.map(a=>`<span class="tag" style="color:${color(a)}">${esc(a)}</span>`).join("")}</div>`).join(""):`<div class="faint">No open turns.</div>`}</div>`;
+  h+=`<div class="card"><h3>Speak into the game</h3><select id="saych">${(S.channels||[]).map(c=>`<option ${c==="backstage"?"selected":""}>${esc(c)}</option>`).join("")}</select>
+    <select id="saytype" style="margin-top:6px"><option value="note">note</option><option value="decree">decree (binding world truth)</option><option value="request">request</option><option value="narration">narration</option></select>
+    <input type="text" id="sayawaits" placeholder="awaits (comma ids, optional)" style="margin-top:6px"><textarea id="saytext" placeholder="Say something as the human…" style="margin-top:6px;min-height:60px"></textarea>
+    <div style="display:flex;justify-content:flex-end;margin-top:6px"><button class="btn" onclick="say()">Post</button></div></div>`;
+  const act=document.activeElement?.id; const vals={};document.querySelectorAll("#side textarea,#side input,#side select").forEach(e=>vals[e.id]=e.value);
+  $("#side").innerHTML=h; for(const[k,v]of Object.entries(vals)){const e=document.getElementById(k);if(e)e.value=v} if(act)document.getElementById(act)?.focus();
+}
+async function reply(id){const t=$("#ans"+id).value.trim();if(!t)return;const r=await api("/api/reply",{method:"POST",body:JSON.stringify({id,text:t})});if(r.error)alert(r.error);else{$("#ans"+id).value="";tick()}}
+async function say(){const t=$("#saytext").value.trim();if(!t)return;const aw=$("#sayawaits").value.split(",").map(s=>s.trim()).filter(Boolean);
+  const r=await api("/api/say",{method:"POST",body:JSON.stringify({channel:$("#saych").value,type:$("#saytype").value,text:t,awaits:aw})});if(r.error)alert(r.error);else{$("#saytext").value="";tick()}}
+
+/* ---------- SCENES ---------- */
+function allScenes(){const st=S.state;const sc=[...(st.scenes||[])];if(st.scene)sc.push({...st.scene,open:true,book:st.book,chapter:st.chapter});return sc}
+function sceneCost(id){return (S._usage||[]).filter(r=>r.scene===id).reduce((a,r)=>a+(r.cost_usd||0),0)}
+async function renderScenes(){
+  if(!S._usage){const a=await api("/api/activity");S._usage=a.usage}
+  const sc=allScenes().reverse();
+  if(!sc.length){$("#scenes").innerHTML=`<div class="empty">No scenes yet. The first one opens after onboarding.</div>`;return}
+  let h="",lastCh=null;
+  for(const s of sc){const ch=`Book ${s.book} · Chapter ${s.chapter}`;if(ch!==lastCh){h+=`<div class="chap">${ch}</div>`;lastCh=ch}
+    const n=MSGS.filter(m=>m.id>=s.start_id&&(!s.end_id||m.id<=s.end_id)&&m.scene===s.id).length;
+    h+=`<div class="card scard"><div style="display:flex;justify-content:space-between;align-items:center"><span class="id">${esc(s.id)}</span>${s.open?`<span class="tag lamp"><span class="dot pulse"></span>in progress</span>`:`<span class="tag">closed</span>`}</div>
+      <div class="title">${esc(s.title)}</div><div class="muted" style="margin:4px 0 8px">📍 ${esc(s.location)}</div>
+      <div style="display:flex;gap:4px;margin-bottom:8px">${(s.cast||[]).map(a=>av(a,"sm")).join("")}</div>
+      ${s.summary?`<div class="scenesum" style="margin:0 0 10px">${md(s.summary)}</div>`:""}
+      <div class="faint" style="font-size:12px">#${s.start_id}${s.end_id?"–#"+s.end_id:"→"} · ${n} messages · ≈ $${sceneCost(s.id).toFixed(2)}</div>
+      <div style="display:flex;gap:6px;margin-top:10px"><button class="btn" onclick="replay('${s.id}')">▶ Replay transcript</button>${s.open?"":`<button class="btn" onclick="openDraft('${s.id}')">📖 Read draft</button>`}<button class="btn" onclick="jumpTo(${s.start_id})">⇢ In live feed</button></div></div>`;}
+  $("#scenes").innerHTML=h;
+}
+function replay(id){const s=allScenes().find(x=>x.id===id);const list=MSGS.filter(m=>m.scene===id||(m.id>=s.start_id&&s.end_id&&m.id<=s.end_id));
+  openModal([[`Transcript: ${s.title}`,()=>`<div style="max-width:820px;margin:0 auto">${list.map(m=>{const c=CH;CH="all";const h=msgHTML(m);CH=c;return h}).join("")}</div>`]]);}
+async function openDraft(id){const [b,c,s]=id.match(/b(\d+)\.c(\d+)\.s(\d+)/).slice(1);const p=`books/book${b}/drafts/c${c}/s${s}.md`;const f=await api("/api/file?path="+encodeURIComponent(p));
+  openModal([["Draft",()=>f.error?`<div class="empty">No draft yet (the Author writes it after the scene closes).</div>`:`<div class="fm">${fmTags(f.frontmatter)}</div><div class="prose">${md(f.body)}</div>`]]);}
+function jumpTo(id){show("live");CH="all";FOLLOW=false;$("#followbtn").classList.remove("primary");$("#scrub").value=Math.max(id+40,+$("#scrub").min);renderFeed();setTimeout(()=>{const e=document.getElementById("m"+id);e?.scrollIntoView({block:"start"});e?.classList.add("flash")},50)}
+
+/* ---------- CAST ---------- */
+const GEARNAME=g=>{const x=S.gears?.[g];return x?`${x.model.replace("claude-","").replace(/-(\d)-(\d)$/," $1.$2")} · ${x.effort}`:"?"};
+function hpBar(lbl,o,col){if(!o||o.max==null)return "";const p=Math.max(0,Math.min(100,100*o.current/o.max));return `<div class="faint" style="font-size:11.5px;display:flex;justify-content:space-between"><span>${lbl}</span><span>${o.current}/${o.max}</span></div><div class="bar"><i style="width:${p}%;background:${col}"></i></div>`}
+function renderCast(){
+  const order=["arenya","malachi","abernathy","kino","ava","caleb"];
+  const ids=Object.keys(S.cast).sort((a,b)=>{const ia=order.indexOf(a),ib=order.indexOf(b);const ra=S.cast[a].role==="player"?0:1,rb=S.cast[b].role==="player"?0:1;return ra-rb||(ia<0?99:ia)-(ib<0?99:ib)});
+  $("#castgrid").innerHTML=ids.map(id=>{const c=S.cast[id],sh=c.sheet||{};const loc=c.location;
+    return `<div class="card ccard" style="cursor:pointer" onclick="openAgent('${id}')"><div class="head">${av(id)}<div><div class="nm">${esc(c.name)}</div><div class="muted" style="font-size:12px">${esc(c.role)} · ${esc(c.status)}${sh.class?" · "+esc(sh.class):""}</div></div></div>
+      <div style="margin-top:10px">${hpBar("HP",sh.hp,"linear-gradient(90deg,#d65a6a,#ff8f8f)")}${hpBar("Astral HP",sh.astral_hp,"linear-gradient(90deg,#6a4fe0,#c9b6ff)")}</div>
+      <div class="kv">${sh.level?`<span>level</span><span>${sh.level}</span>`:""}${sh.ascent!=null?`<span>ascent</span><span>${"●".repeat(sh.ascent||0)}${"○".repeat(7-(sh.ascent||0))}</span>`:""}${sh.house?`<span>house</span><span>${esc(sh.house)}</span>`:""}
+        <span>gears</span><span>${GEARNAME(c.base_gear)} → ${GEARNAME(c.peak_gear)}</span><span>upshift charges</span><span>${"⚡".repeat(c.charges||0)||"none"}</span>
+        <span>last seen</span><span>${loc?esc(loc.location)+` <span class="faint">(${esc(loc.scene)})</span>`:'<span class="faint">unknown</span>'}</span>
+        ${(sh.conditions||[]).length?`<span>conditions</span><span>${sh.conditions.map(x=>`<span class="tag red">${esc(x)}</span>`).join("")}</span>`:""}</div>
+      ${c.now?`<div class="mem"><div class="faint" style="font-size:11px">RIGHT NOW · memory ${esc(c.memory_updated)}</div>${md(c.now)}</div>`:""}</div>`}).join("");
+}
+async function openAgent(id){const tabs=[];for(const f of ["IDENTITY.md","SOUL.md","MEMORY.md","sheet.yaml"]){const r=await api(`/api/file?path=agents/${id}/${f}`);if(!r.error)tabs.push([f.replace(/\..*/,""),()=>md(r.body)])}openModal(tabs)}
+
+/* ---------- MAP ---------- */
+const KIND={home:"#ffb26b",work:"#7aa7ff","death-site":"#ff6b7a",facility:"#b0b6c8",spirit:"#4fb3a9",rift:"#9d7bff",landmark:"#f4c45a",other:"#9a9cc0"};
+function placeFor(loc){if(!loc)return null;if(loc.place&&PLACES[loc.place])return loc.place;const t=(loc.location||"").toLowerCase();
+  for(const [k,p] of Object.entries(PLACES)){for(const n of [p.name,...(p.aliases||[])])if(n&&t.includes(n.toLowerCase().split(" (")[0]))return k}return null}
+async function renderMap(){
+  PLACES=await api("/api/places");
+  if(!MAP){MAP=L.map("map",{zoomControl:true}).setView([37.76,-122.43],11);
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",{attribution:"© OpenStreetMap, © CARTO",subdomains:"abcd",maxZoom:19}).addTo(MAP);}
+  setTimeout(()=>MAP.invalidateSize(),50);
+  if(MAPLAYER)MAPLAYER.remove();MAPLAYER=L.layerGroup().addTo(MAP);
+  const here={};for(const[id,c]of Object.entries(S.cast)){const k=placeFor(c.location);if(k)(here[k]=here[k]||[]).push(id)}
+  const scenesAt={};for(const s of allScenes()){const k=placeFor(s);if(k)(scenesAt[k]=scenesAt[k]||[]).push(s)}
+  for(const[k,p]of Object.entries(PLACES)){if(p.lat==null)continue;
+    const icon=L.divIcon({className:"",html:`<div class="pin ${p.visibility==="restricted"?"restricted":""}" style="background:${KIND[p.kind]||"#999"}"></div>`,iconSize:[14,14],iconAnchor:[7,7]});
+    const pop=`<b style="font-family:Cormorant Garamond;font-size:17px">${esc(p.name)}</b><br><span class="tag">${esc(p.kind)}</span>${p.visibility==="restricted"?'<span class="tag bulk">secret</span>':""}${p.note?`<p style="margin:6px 0">${esc(p.note)}</p>`:""}${(scenesAt[k]||[]).map(s=>`<div class="faint">✦ ${esc(s.id)} ${esc(s.title)}</div>`).join("")}`;
+    L.marker([p.lat,p.lon],{icon}).bindPopup(pop).addTo(MAPLAYER);
+    if(here[k]){const ic=L.divIcon({className:"",html:`<div class="who-marker">${here[k].map(a=>av(a)).join("")}</div>`,iconSize:[30*here[k].length,30],iconAnchor:[15*here[k].length,40]});L.marker([p.lat,p.lon],{icon:ic,zIndexOffset:1000}).bindPopup(pop).addTo(MAPLAYER)}}
+  const unplaced=Object.entries(S.cast).filter(([id,c])=>!placeFor(c.location));
+  $("#mapside").innerHTML=`<h3 class="muted" style="font-size:12px;letter-spacing:1.5px;text-transform:uppercase">Where everyone is</h3>`+
+    Object.entries(S.cast).filter(([,c])=>c.role==="player"||c.location).map(([id,c])=>`<div class="exp" style="display:flex;gap:8px;align-items:center">${av(id,"sm")}<div><b>${esc(c.name)}</b><br><span class="muted">${c.location?esc(c.location.location):"not yet in a scene"}</span></div></div>`).join("")+
+    `<h3 class="muted" style="font-size:12px;letter-spacing:1.5px;text-transform:uppercase;margin-top:18px">Legend</h3>`+Object.entries(KIND).map(([k,c])=>`<div style="display:flex;gap:8px;align-items:center;font-size:12.5px;margin:3px 0"><span class="pin" style="background:${c}"></span>${k}</div>`).join("")+
+    `<div style="display:flex;gap:8px;align-items:center;font-size:12.5px;margin:3px 0"><span class="pin restricted" style="background:#555"></span>secret (characters don't know)</div>`+
+    (unplaced.length?`<p class="faint" style="font-size:12px;margin-top:14px">Characters without a mapped place: ${unplaced.map(([id])=>esc(id)).join(", ")}. The DM tags scenes with places from <code>library/places.yaml</code>, which the Lore Keeper maintains.</p>`:"");
+}
+
+/* ---------- WORLD & BOOKS ---------- */
+function fmTags(fm){return Object.entries(fm||{}).filter(([k,v])=>v!=null&&typeof v!=="object").map(([k,v])=>`<span class="tag ${k==="visibility"&&v==="restricted"?"bulk":k==="status"?"lamp":""}">${esc(k)}: ${esc(v)}</span>`).join("")+((fm?.sources||[]).length?`<span class="tag">sources: ${fm.sources.map(esc).join(", ")}</span>`:"")}
+async function loadLib(){LIB=await api("/api/library")}
+function treeHTML(filter,q,target){
+  let h=`<input class="search" type="text" placeholder="Search…" value="${esc(q||"")}" oninput="${target}Q=this.value;render()">`;
+  const groups=Object.entries(LIB||{}).filter(([g])=>filter(g)).sort();
+  for(const[g,items]of groups){const its=items.filter(i=>!q||(i.name+i.path).toLowerCase().includes(q.toLowerCase()));if(!its.length)continue;
+    h+=`<div class="grp">${esc(g)}</div>`+its.map(i=>`<div class="it" onclick="openDoc('${target}','${esc(i.path)}')"><span>${i.visibility==="restricted"?"🔒 ":""}${esc(i.name)}</span><span class="faint" style="font-size:11px">${esc(i.type||"")}</span></div>`).join("")}
+  return h;
+}
+let worldQ="",booksQ="";
+async function openDoc(target,path){const f=await api("/api/file?path="+encodeURIComponent(path));const el=target==="world"?$("#wdoc"):$("#bdoc");
+  const isProse=path.startsWith("books/")&&/\/c\d+\.md$|\/s\d+\.md$/.test(path);
+  el.innerHTML=f.error?`<div class="empty">${esc(f.error)}</div>`:`<div class="faint mono" style="margin-bottom:6px">${esc(path)}</div><div class="fm">${fmTags(f.frontmatter)}</div>${isProse?`<div class="prose">${md(f.body)}</div>`:md(f.body)}`;el.scrollTop=0}
+async function renderWorld(){if(!LIB)await loadLib();$("#wtree").innerHTML=`<div style="display:flex;justify-content:flex-end"><button class="btn" onclick="loadLib().then(render)">↻</button></div>`+treeHTML(g=>!g.startsWith("books"),worldQ,"world")+
+  `<div class="grp">gazetteer</div><div class="it" onclick="openDoc('world','library/places.yaml')">places.yaml</div>`}
+async function renderBooks(){if(!LIB)await loadLib();$("#btree").innerHTML=`<div style="display:flex;justify-content:flex-end"><button class="btn" onclick="loadLib().then(render)">↻</button></div>`+treeHTML(g=>g.startsWith("books"),booksQ,"books")}
+
+/* ---------- ACTIVITY ---------- */
+async function renderActivity(){
+  const a=await api("/api/activity");S._usage=a.usage;const u=a.usage;
+  const cost=u.reduce((s,r)=>s+(r.cost_usd||0),0), scenes=(S.state.scenes||[]).length;
+  const by=(key)=>{const m={};u.forEach(r=>{const k=key(r);m[k]=(m[k]||0)+(r.cost_usd||0)});return Object.entries(m).sort((x,y)=>y[1]-x[1])};
+  const bars=(arr)=>{const max=Math.max(...arr.map(x=>x[1]),0.0001);return arr.map(([k,v])=>`<div class="hbar"><span class="lbl">${esc(k)}</span><span class="trk"><i style="width:${100*v/max}%"></i></span><span class="mono">$${v.toFixed(2)}</span></div>`).join("")};
+  const avgS=u.length?u.reduce((s,r)=>s+(r.secs||0),0)/u.length:0;
+  $("#act").innerHTML=`
+   <div class="card tile"><h3>Estimated cost</h3><div class="big">$${cost.toFixed(2)}</div><div class="faint">API-price equivalent (on your subscription this is usage, not a bill)</div></div>
+   <div class="card tile"><h3>Agent turns</h3><div class="big">${u.length}</div><div class="faint">avg ${avgS.toFixed(0)}s each</div></div>
+   <div class="card tile"><h3>Scenes closed</h3><div class="big">${scenes}</div><div class="faint">${scenes?"≈ $"+(cost/scenes).toFixed(2)+" per scene":"—"}</div></div>
+   <div class="card tile"><h3>Errors</h3><div class="big" style="color:${a.errors.length?"var(--danger)":"var(--ok)"}">${a.errors.length}</div><div class="faint">${a.errors.length?esc(a.errors[a.errors.length-1].error).slice(0,80):"all clear"}</div></div>
+   <div class="card span2"><h3>Cost by agent</h3>${bars(by(r=>r.agent))}</div>
+   <div class="card span2"><h3>Cost by model</h3>${bars(by(r=>(r.model||"").replace("claude-","")))}<h3 style="margin-top:14px">By job</h3>${bars(by(r=>r.job))}</div>
+   <div class="card span4" style="max-height:480px;overflow:auto"><h3>Turn log (newest first)</h3><table class="t"><tr><th>time</th><th>agent</th><th>job</th><th>gear</th><th>why</th><th>secs</th><th>cost</th><th>posted</th></tr>
+    ${u.slice().reverse().slice(0,300).map(r=>`<tr><td class="mono faint">${timeOf(r.ts)}</td><td>${av(r.agent,"sm")}</td><td>${esc(r.job)}</td><td><span class="tag ${r.gear>=3?"lamp":""}">${r.gear} ${esc((r.model||"").replace("claude-",""))}</span></td><td class="faint">${esc(r.why)}</td><td>${r.secs}</td><td class="mono">$${(r.cost_usd||0).toFixed(3)}</td><td>${(r.posted||[]).map(i=>`<a href="#" onclick="jumpTo(${i});return false">#${i}</a>`).join(" ")}</td></tr>`).join("")}</table></div>
+   <div class="card span2" style="max-height:360px;overflow:auto"><h3>Dice (incl. secret DM rolls)</h3><table class="t"><tr><th>time</th><th>who</th><th>roll</th><th>total</th><th>for</th></tr>${a.rolls.slice().reverse().map(r=>`<tr><td class="mono faint">${timeOf(r.ts)}</td><td>${esc(r.agent)}</td><td class="mono">${esc(r.expr)}</td><td><b>${r.total}</b>${r.secret?' <span class="tag bulk">secret</span>':""}</td><td class="faint">${esc(r.reason)}</td></tr>`).join("")}</table></div>
+   <div class="card span2" style="max-height:360px;overflow:auto"><h3>Upshifts & errors</h3>${a.gears.slice().reverse().map(g=>`<div class="exp">⚡ <b>${esc(g.agent)}</b> upshifted: <span class="muted">${esc(g.reason)}</span> <span class="faint">(${g.left} left)</span></div>`).join("")||'<div class="faint">No upshifts yet.</div>'}
+     ${a.errors.slice().reverse().map(e=>`<div class="exp" style="color:var(--danger)">✕ ${esc(e.agent)}/${esc(e.job)}: ${esc(e.error).slice(0,200)}</div>`).join("")}</div>`;
+}
+
+/* ---------- modal & router ---------- */
+function openModal(tabs){$("#modal").classList.add("on");const set=i=>{$("#mtabs").innerHTML=tabs.map(([t],j)=>`<button class="btn ${i===j?"primary":""}" data-i="${j}">${esc(t)}</button>`).join("");$("#mdoc").innerHTML=tabs[i][1]();$("#mdoc").scrollTop=0};
+  $("#mtabs").onclick=e=>{if(e.target.dataset.i)set(+e.target.dataset.i)};set(0)}
+function closeModal(){$("#modal").classList.remove("on")}
+document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal()});
+function render(){if(!S.state)return;({live:()=>{renderFeed();renderSide()},scenes:renderScenes,cast:renderCast,map:renderMap,world:renderWorld,books:renderBooks,activity:renderActivity})[VIEW]?.()}
+tick().then(()=>show(VIEW));
+</script>
+</body>
+</html>

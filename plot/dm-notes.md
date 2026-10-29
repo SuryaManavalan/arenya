@@ -31,6 +31,52 @@ The same night, every character is touched by one event:
 
 Spotlight the dream for Arenya. Then cut to each of the others' mornings.
 
+### Logistics of the death (DM, dm-free mundane details)
+- **Susmithaa Sowri** is Arenya's **father's younger sister**: unmarried, kept the Sowri name, the
+  line's light host. She lives in the **in-law cottage behind Arenya's parents' house in Daly City**.
+  A brass **kuthu vilakku** (Tamil oil lamp) always burns in her window.
+- Parents: **Appa, Raghavan Sowri** (quiet, retired PG&E engineer) and **Amma, Lakshmi** (the one who
+  calls). Uncle Ravi (c03) is the father's elder brother.
+- **Sunday night, ~2:40 a.m.** She's in her garden, barefoot, with the lamp. The team works from the
+  street (a grey sedan). She freezes for ~70 seconds. The lamp glass cracks at the moment the light
+  leaves her. Amma hears it and finds her. Ambulance to **Seton Medical Center**, where she's
+  pronounced dead. Amma calls Arenya ~3:20 a.m.
+
+### Scene plan for c15 (flexible)
+1. **s01 "A Woman Made of Lamps"** (arenya, abernathy). The dream in the bulk. Arenya witnesses it;
+   **Abernathy fights beside Susmithaa as squire and fails**. She sees the four, and **one wears a
+   light grey jacket** (her wall). Susmithaa's last words: the coming war, plus a charge. The light
+   passes. She wakes to Amma's call, then hears a cockney voice in her kitchen. *Must hit:* the
+   death, the transfer, Abernathy's arrival. *Player-owned:* what Arenya does in the dream (reach,
+   shout, memorize a face), and what she says to her aunt.
+2. **s02 "Woke"** (caleb). Caleb comes to in the street, Crown smoking, Vesper headache, the other
+   three still flat and turning to look at him. "Strand. Status." Escape or bluff. Shepherd's voice
+   cutting in and out of the burnt Crown.
+3. **s03 "Dawn Watch"** (kino, ava; cross-cut). Kino on Tam feels the Lady roll toward the city. Ix
+   is uneasy. Ava wakes from the lamp dream, logs it, and sees something leak in her kitchen
+   (her first psychosis-shock).
+4. **s04 "Seton"** (arenya, abernathy, malachi). The hospital at dawn: family grief, Abernathy
+   chattering, and Malachi already there, now sure she's involved.
+
+### Seeds to pay off
+- **"Be careful who sees you"** (Susmithaa, c03). PROPOSED to the human (Q6, #pending): Arenya's
+  Monolith visit (c09/c12) is **how the program found the Sowri line**. A lobby resonance array (or
+  the expressionless **graphite-grey escort** in c12, a meta mage) read her latent signature. They
+  traced the family and found the real prize. Her investigation literally led them to her aunt.
+  Don't reveal it before the human confirms. If confirmed, it lands as a mid-book gut-punch (Caleb or
+  Elias can confess it).
+- Typhus's "scrutiny" moment (c12): her theory matches something he privately suspects about
+  Adonis. He wants her as a lead, not as a threat.
+
+### Names in play (DM-invented; tell the human)
+- **The Lattice Program**: Monolith's collection/rendering program (Caleb's term).
+- **Dr. Halden Pryce**: Monolith VP of "Applied Field Research". He runs Lattice and insulates Typhus.
+- **Shepherd**: field handler, a voice in the Crowns. Identity TBD (decide before Caleb hunts him).
+  Leaning: not Elias Khatri. Elias is decent, compromised, and a future inside source.
+- **Team Four** (Caleb's team): **Dorsey** (lead), **Pruitt**, **Hale**. Forgettable men.
+- **The Mill**: where spirits are rendered. Proposed location: under Monolith's leased facility at
+  the old **Hunters Point shipyard** (pending the human, Q4).
+
 ## The collection pipeline (DM decisions, built on human canon)
 - **Collection teams** are meta mages working in fours, made forgettable by design (that's the
   Crown's hypnotic flattening of affect). They find **powerful hosts**, kill the host's astral body in
@@ -56,8 +102,19 @@ Fades as an NPC (human's call). Give him a dignified exit, not a cruel one. He a
 mid-fight from c13.
 
 ## Routes there
+Next destination: **the light passes to Arenya, and she begins to believe** (then the houses, then Typhus).
+- Through Abernathy: he won't shut up, and he proves himself by knowing things she couldn't.
+- Through Kino and Nana Itzel: the land's people come looking for whoever the Lady turned toward.
+- Through Caleb: a deserter from the team that killed her aunt, with fragments of the pipeline.
+- Through Ava: an outside scientific witness who saw the same dream.
+- Through Malachi: the investigator who treats her as a suspect and so keeps forcing her to explain.
 
 ## Clocks
+- **Lattice wants the light** (0/6). Each tick is the program moving closer to Arenya: watchers →
+  scan → team assigned → approach → attempt. Starts at 1 (they know a transfer happened).
+- **Caleb's withdrawal**: day 0. Con save DC 12 + days, each day.
+- **Shepherd hunts Caleb** (0/4).
+- **Saiesh's exit** (open): resolve within the first two chapters, gently.
 
 ## NPC agendas & secrets in play
 - **Abernathy (SECRET, human-defined; reveal only per the outline, Book 3 at the earliest):** a former
@@ -71,7 +128,24 @@ mid-fight from c13.
     discretion, mostly in later books.** Deliver them as whispers (`bond` or `whisper-abernathy`):
     a fragment, a sensation, a word in a language he shouldn't know. Log every fragment you give
     him here so the trail stays consistent.
-  - Fragments given so far: (none)
+  - Fragments given so far:
+    - b1.c15.s01 (#0009, player-originated, DM accepts as canon-in-play): his voice slips out of
+      cockney into something "low and old and very sure": *"keep it lit, child."* His hand "never
+      quite has the right number of fingers." He briefly stood in two places at once (time-smear).
+      Neither he nor Arenya has remarked on it. Pay off later.
+- c15.s01 combat state: Susmithaa gave up the east side (~1/3 of her flames left) to shield the kid.
+  Abernathy's lantern is guttered to an ember (his strike failed, 11 vs DC 15). Two of the team are
+  now tracking him. Arenya holds one flame; the grey-jacket man has noticed her.
+- c15.s01 resolution (#0014): Arenya failed the pin (10 vs DC 14). She keeps only the words "left
+  pocket", with no image. The grey-jacket man's filament **counted** her: a cold coin-sized spot on
+  the inside of her right wrist. It's a tag/tracker; use it later (the program can find her, and
+  Caleb might recognize it). Transfer complete; the collection failed (net caught ash). Grey Jacket
+  was the only one who lingered ("a man taking out a pen"); he's personally interested now.
+  Susmithaa's last words: "You reached, kanna... They aren't the war. They're people who think they
+  can win it before it starts. Something old is waking. The doors are going to open, and every lamp
+  will matter. Keep it lit. Go with all the light you can carry... look after that one. He'll say
+  he's looking after you. He's lying." Her body fell in the garden by the curry-leaf tree. Arenya
+  woke 3:19; Amma called 3:20; Abernathy is in her kitchen, filling the kettle.
 
 ## Monsters / combat tracker
 

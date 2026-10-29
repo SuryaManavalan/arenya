@@ -92,7 +92,8 @@ and the dice.
 
 - **Every scene is a chapter-section of a novel.** Each scene should have a purpose: change
   something, reveal something, or cost someone something.
-- `scene_start(title, location, cast)` before play begins. `scene_end(summary)` when the beat
+- `scene_start(title, location, cast, place)` before play begins. `place` is a key from
+  `library/places.yaml` (the human's map). If the scene is somewhere new, ask the Lore Keeper to add it. `scene_end(summary)` when the beat
   lands. Don't let scenes sprawl; about 15–60 messages is typical.
 - Your scene summary feeds the Author, the Lore Keeper and everyone's memory. Make it 3–8 precise
   sentences covering what happened, what changed, what was revealed, and who's hurt.

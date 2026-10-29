@@ -134,6 +134,14 @@ def cmd_cost(a):
         print(f"closed scenes: {len(st['scenes'])} → ${total / len(st['scenes']):.2f} per scene")
 
 
+def cmd_dashboard(a):
+    from .dashboard import serve
+    try:
+        serve(a.port)
+    except KeyboardInterrupt:
+        pass
+
+
 def cmd_set_chapter(a):
     with state.locked() as st:
         if st["scene"]:
@@ -196,6 +204,10 @@ def main():
     s = sub.add_parser("cost", help="estimated spend from logs/usage.jsonl")
     s.add_argument("--by", choices=["agent", "job", "model"], default="job")
     s.set_defaults(f=cmd_cost)
+
+    s = sub.add_parser("dashboard", help="local web dashboard (http://localhost:8765)")
+    s.add_argument("--port", type=int, default=8765)
+    s.set_defaults(f=cmd_dashboard)
 
     s = sub.add_parser("set-chapter", help="set where play starts/continues (e.g. after human-written chapters)")
     s.add_argument("book", type=int)
