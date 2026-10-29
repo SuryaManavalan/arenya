@@ -1,0 +1,25 @@
+# 5e chassis, reskinned by world/mechanics.md. Only the DM edits this (update_sheet).
+name: Arenya Sowri
+level: 1
+class: Unawakened → Spirit Host (warlock chassis; patrons — light by blood, dark by birthplace)
+background: Investigative journalist (stuck in Lifestyle)
+ascent: 1            # becomes 3 when she awakens as a host
+house: null          # light (Sowri blood-line) and dark (land of San Francisco), once awakened
+abilities: {str: 9, dex: 12, con: 11, int: 13, wis: 14, cha: 14}
+proficiency_bonus: 2
+hp: {max: 9, current: 9, temp: 0}
+astral_hp: null      # set on awakening (see world/mechanics.md § Astral combat)
+ac: 11
+speed: 30
+saves: {wis: 4, cha: 4}
+skills: {investigation: 3, insight: 4, persuasion: 4, deception: 4, perception: 4}
+attacks: []
+abilities_special:
+  - "Nose for the Story: advantage on checks to find a pattern across separate sources."
+  - "Press Badge: once per scene, talk your way past a minor gatekeeper (DM sets a DC, or it just works)."
+  - "LOCKED until awakening: spirit-host features (DM unlocks)."
+resources: {}
+conditions: [exhausted-ish]
+inventory: [coffee-stained notebook, phone (photo of the wall), laptop, Elias Khatri's titanium card, press badge, "Investigative Badass" mug]
+coin: {usd: 2100}
+notes: "Owes rent in 9 days. Lifestyle vertical paycheck."

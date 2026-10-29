@@ -84,7 +84,7 @@ def wake_packet(st: dict, agent: str, role: str, job: str, args: dict, gear: dic
                                      "Post in that channel (or reply_to it), or call pass_turn."]), cursor
 
     body: list[str] = []
-    if new_session and job in ("turn", "onboard"):
+    if new_session and job in ("turn", "onboard", "task"):
         mem = _read(f"agents/{agent}/MEMORY.md")
         body += ["## Your MEMORY.md", mem or "(empty)", ""]
 
@@ -148,6 +148,8 @@ def wake_packet(st: dict, agent: str, role: str, job: str, args: dict, gear: dic
         s = args["scene"]
         body += ["## Job: memory upkeep", f"Scene {s['id']} \"{s['title']}\" just ended. DM summary: {s['summary']}",
                  f"Rewrite agents/{agent}/MEMORY.md following rules/common.md § Memory. Do not post anything."]
+    elif job == "task":
+        body += [f"## Job: {args['title']}", args["instructions"]]
     elif job == "turn":
         body += ["", "## Your move", "Act through your tools. Answer everything awaiting you (post in that channel, "
                  "reply_to it, or pass_turn). Then end your turn — no closing summary needed."]

@@ -29,6 +29,9 @@ STATIC_CHANNELS = {
                   "about": "In-character play. The game itself."},
     "ooc":       {"scope": "chapter", "post": ["dm", "player", "npc"],
                   "about": "Out-of-character table talk: rules questions, clarifications."},
+    # Abernathy is perceptible only to Arenya: their private line (the DM listens in).
+    "bond":      {"scope": "chapter", "post": ["dm", "id:arenya", "id:abernathy"],
+                  "about": "Arenya <-> Abernathy. Nobody else can perceive him."},
     "backstage": {"scope": "book", "post": ["dm", "author", "lorekeeper", "director"],
                   "about": "Staff coordination: lore queries, author notes, logistics."},
     "human":     {"scope": "book", "post": ["dm", "author", "lorekeeper", "director", "human"],

@@ -20,13 +20,26 @@ def cmd_run(a):
         print("\nstopped (in-flight jobs will be retried on next run)")
 
 
+SEED_LIBRARY = (
+    "Build the initial library from scratch, following rules/lorekeeper.md. Sources, in authority order: "
+    "world/interviews/ (the human's own answers: canon), books/book1/chapters/ (human-written: canon), "
+    "world/mechanics.md, plot/ (outline and DM notes: put secrets in library/restricted/), and every "
+    "agents/*/IDENTITY.md. Create entries for every named character, place, organization, house, spirit "
+    "and concept, plus timeline.md, canon-log.md and index.md. Characters' public entries hold only "
+    "what's known in-world; secrets go to restricted/. Don't post unless you find a contradiction.")
+
+
 def cmd_start(a):
+    interviewed = any((ROOT / "world/interviews").glob("20*.md"))
     with state.locked() as st:
         if st["phase"] != "setup":
             sys.exit(f"already started (phase: {st['phase']})")
         st["phase"] = "onboarding"
-        engine.enqueue(st, "dm", "onboard")
-    print("DM onboarding queued. Now: uv run arenya run")
+        if interviewed:
+            engine.enqueue(st, "lorekeeper", "task", {"title": "seed the library", "instructions": SEED_LIBRARY},
+                           priority=0)
+        engine.enqueue(st, "dm", "onboard", priority=1)
+    print(("Library seeding + " if interviewed else "") + "DM onboarding queued. Now: uv run arenya run")
 
 
 def cmd_status(a):

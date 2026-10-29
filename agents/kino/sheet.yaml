@@ -1,0 +1,27 @@
+name: Joaquín "Kino" Balam
+level: 3
+class: Night Sentinel (monk chassis — Way of Shadow; ki → prana)
+background: Park ranger; raised in a land-spirit line
+ascent: 3
+house: dark (land of San Francisco)
+abilities: {str: 12, dex: 16, con: 13, int: 10, wis: 15, cha: 8}
+proficiency_bonus: 2
+hp: {max: 22, current: 22, temp: 0}
+astral_hp: {max: 26, current: 26}
+ac: 15
+speed: 40
+saves: {str: 3, dex: 5}
+skills: {athletics: 3, stealth: 5, survival: 4, perception: 4, nature: 2}
+attacks:
+  - {name: "Unarmed strike / staff", to_hit: 5, damage: "1d6+3 bludgeoning"}
+  - {name: "Jaguar claw (astral)", to_hit: 5, damage: "1d6+3 slashing (dark)"}
+abilities_special:
+  - "Prana (ki) 3/rest: Flurry, Patient Defense, Step of the Wind."
+  - "Shadow Arts: spend 2 prana to cast darkness, pass without trace or silence."
+  - "Host of Ix: a night-jaguar sentinel. In the bulk, Ix fights beside him (DM-run)."
+  - "Mountain-sense: knows when the Sleeping Lady stirs."
+resources: {prana: {max: 3, current: 3}}
+conditions: []
+inventory: [ranger radio, headlamp, Nana's obsidian blade (ceremonial), truck keys]
+coin: {usd: 1400}
+notes: ""

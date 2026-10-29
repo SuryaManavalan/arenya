@@ -1,0 +1,27 @@
+name: Abernathy
+level: 3
+class: Squire-Spirit (bard chassis — College of Lore)
+background: Spirit of the Sowri light (so he says)
+ascent: null        # a spirit, without a full stack of bodies
+house: light (claimed)
+abilities: {str: 6, dex: 14, con: 10, int: 16, wis: 13, cha: 15}
+proficiency_bonus: 2
+hp: null            # no physical body; cannot be harmed physically
+astral_hp: {max: 24, current: 24}
+ac: 13
+speed: "drifts 30; can't leave Arenya's vicinity (≈ 1 mile) in the physical world"
+saves: {dex: 4, cha: 4}
+skills: {arcana: 7, history: 7, insight: 3, deception: 6, persuasion: 4, performance: 4}
+attacks:
+  - {name: "Lamp-flick (astral only)", to_hit: 4, damage: "1d8+2 radiant"}
+abilities_special:
+  - "Unperceived: only Arenya perceives him in the physical world. He can't touch or move physical things."
+  - "Squire's Word (Bardic Inspiration, d6, 2 per long rest): give a host a die to add to one roll."
+  - "Cutting Words (reaction): subtract a Bardic Inspiration die from an enemy's roll in the bulk."
+  - "Lore of the Line: knows a great deal about spirits, houses and hosts (half of it true)."
+  - "Jack of All Trades."
+resources: {inspiration: {max: 2, current: 2}}
+conditions: []
+inventory: []
+coin: {}
+notes: "Arrives in play when the light passes to Arenya."

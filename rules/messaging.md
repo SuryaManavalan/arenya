@@ -7,6 +7,7 @@
 | `table` | per chapter | dm, players, npcs | + staff | **The game.** In-character only. |
 | `ooc` | per chapter | dm, players, npcs | + staff | Out-of-character: rules questions, clarifying a scene, table logistics. |
 | `whisper-<id>` | per chapter | dm and that player/npc | + staff | Private: secret actions, visions, things only one character perceives. |
+| `bond` | per chapter | dm, arenya, abernathy | + staff | Abernathy and Arenya. **Only Arenya can perceive Abernathy.** In the physical world he speaks only here. In the bulk, he can act at the table. |
 | `backstage` | per book | dm, author, lorekeeper, director | staff | Staff coordination: lore queries, author notes, logistics. |
 | `human` | per book | staff + human | staff + human | Questions for the human, and their answers. |
 | `director` | per book | everyone | everyone | Requests to the Director: new agents, scripts, system problems. |

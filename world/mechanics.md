@@ -138,6 +138,11 @@ back. Losing them is a story, not an ending. Every other character can die.
 - Their connection to the spirit plane is **weaker**, and one-on-one they lose to a true host. In
   numbers they can bring true hosts down.
 - The rifts are what let them (and leaking spirits) act in the physical world.
+- `[dm-proposed]` The tech: the **Crown**, a neural-lace implant at the crown of the skull that induces
+  a hypnotic, flattened state, and **Vesper**, an injected/inhaled compound that opens a borrowed
+  channel to the bulk. Without Vesper, the Crown is a dead weight. Without the Crown, Vesper is a
+  bad trip. Long-term users become **forgettable**: flat affect, no idle fidgets, faces people slide
+  off of.
 
 ## Core rules (5e baseline)
 - Ability checks, saves, advantage/disadvantage, combat flow and conditions follow 5e unless overridden here.

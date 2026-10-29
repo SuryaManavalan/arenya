@@ -102,3 +102,28 @@ players must do everything they can to revive them, because they're the main cha
 
 **Q7. The love of her life.** *"I think it will inevitably be Malachi, but as God."* (SECRET; see
 `plot/dm-notes.md`.)
+
+## Round 3 — the opening
+
+**Q1. The party.** The DM chooses. → Arenya, Malachi, Abernathy, plus the DM's picks: the passed-over
+champion, Ava, and a freed meta mage. Saiesh and the rest are DM-voiced NPCs.
+
+**Q2. Susmithaa's death.** Arenya **witnesses it in a dream**, in the style of Critical Role
+campaign 2's dream sequences.
+
+**Q3. The assassins.** They collect **powerful spirits** for the new esoteric cybernetic technology,
+which (very simply) **grinds powerful spirits down into usable physical and astral power**. The
+easiest way to find powerful spirits, for now, is through powerful hosts. There may be more powerful
+spirits tied to nature, earth, science and higher realms that aren't knowable yet.
+
+**Q4. Malachi.** Actually **CIA**. Later, when the esoteric and magical comes into the open, he
+creates the government organization that works on it (Book 2, perhaps).
+
+**Q5. Abernathy's voice.** A weird **cockney accent that almost seems fake or forced**, a bit jarring
+and annoying. **Only Arenya can perceive him.**
+
+**Q6. Railroading.** Book endings and beginnings must be hit. Major plot points should be hit as
+much as possible.
+
+**Addendum (Abernathy).** His past before serving the lineage is **blurry even to him**. He'll start
+to remember later, through events the DM throws at the party in future books, at the DM's discretion.

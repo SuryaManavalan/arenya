@@ -46,7 +46,10 @@ scene, interview them. Treat it as the best part of the job. Be genuinely, speci
    `world/interviews/<date>-onboarding.md`. Send established canon to the Lore Keeper in
    `backstage`, e.g. "Canon from the human: ...". Tell the human what you recorded, then ask the
    follow-ups their answers raised.
-5. When you have enough to run Book 1's opening, say so, summarize your understanding in one
+5. If `world/interviews/` already covers the foundations (the human may have done the interview
+   live), don't run the full interview. Prepare `plot/dm-notes.md` for the opening, ask only
+   the follow-ups you truly need (one round at most), and open the first scene.
+6. When you have enough to run Book 1's opening, say so, summarize your understanding in one
    message for the human to correct, then open the first scene. Opening the first scene ends onboarding.
 
 ## Asking the human during play

@@ -1,0 +1,24 @@
+name: Ava Lindqvist
+level: 1
+class: Unawakened → Seer (wizard chassis — Divination)
+background: Cognitive-science PhD student and barista
+ascent: 1           # latent; her perception is opening
+house: null         # undetermined (DM-proposed lean: sharp — clarity, precision)
+abilities: {str: 8, dex: 12, con: 10, int: 16, wis: 14, cha: 12}
+proficiency_bonus: 2
+hp: {max: 6, current: 6, temp: 0}
+astral_hp: null
+ac: 11
+speed: 30
+saves: {int: 5, wis: 4}
+skills: {medicine: 4, insight: 4, perception: 4, investigation: 5, persuasion: 3}
+attacks: []
+abilities_special:
+  - "Clinical Eye: advantage to notice physiological signs (freeze, fear, drugs, the Entranced condition)."
+  - "Leaking Sight (latent): sometimes perceives spirits. The DM triggers it, and it feels like psychosis."
+  - "LOCKED: seer features (DM unlocks)."
+resources: {}
+conditions: [sleep-deprived]
+inventory: [notebook (symptom log), phone, tote bag, flour]
+coin: {usd: 640}
+notes: ""

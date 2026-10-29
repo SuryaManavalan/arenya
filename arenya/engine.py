@@ -279,6 +279,8 @@ def pick_gear(st: dict, agent: str, job: str) -> tuple[int, str]:
     role = role_of(agent)
     cfg = settings()["roles"][role]
     pinned = settings().get("job_gears", {}).get(job)
+    if job == "task":
+        pinned = None
     if pinned is not None:
         return pinned, f"{job} job"
     if agent in st["spotlight"]:

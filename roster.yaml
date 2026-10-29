@@ -18,8 +18,28 @@ agents:
     role: director
     name: The Director
     status: active
-  # Player characters get added here once Book 1's opening chapters are imported, e.g.
-  # kael:
-  #   role: player
-  #   name: Kael Varn
-  #   status: active
+
+  arenya:
+    role: player
+    name: Arenya Sowri
+    status: active
+  malachi:
+    role: player
+    name: Malachi Shawani
+    status: active
+  abernathy:
+    role: player
+    name: Abernathy
+    status: active
+  kino:
+    role: player
+    name: Joaquín "Kino" Balam
+    status: active
+  ava:
+    role: player
+    name: Ava Lindqvist
+    status: active
+  caleb:
+    role: player
+    name: Caleb Strand
+    status: active
