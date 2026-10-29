@@ -122,6 +122,7 @@ textarea{min-height:90px;resize:vertical}
 /* MAP */
 .mapwrap{display:grid;grid-template-columns:1fr 320px;gap:14px;height:100%}
 #map{height:100%;border-radius:var(--r);border:1px solid var(--line);background:#0e1124}
+.darktiles{filter:invert(1) hue-rotate(200deg) brightness(.85) contrast(.9) saturate(.6)}
 .leaflet-popup-content-wrapper,.leaflet-popup-tip{background:var(--panel);color:var(--text);border:1px solid var(--line)}
 .leaflet-container a.leaflet-popup-close-button{color:var(--muted)}
 .pin{width:14px;height:14px;border-radius:50%;border:2px solid #0b0d17;box-shadow:0 0 0 1px #ffffff55}
@@ -358,7 +359,8 @@ function placeFor(loc){if(!loc)return null;if(loc.place&&PLACES[loc.place])retur
 async function renderMap(){
   PLACES=await api("/api/places");
   if(!MAP){MAP=L.map("map",{zoomControl:true}).setView([37.76,-122.43],11);
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",{attribution:"© OpenStreetMap, © CARTO",subdomains:"abcd",maxZoom:19}).addTo(MAP);}
+    // Free, keyless OpenStreetMap tiles, darkened with a CSS filter (.darktiles) to match the theme.
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"© OpenStreetMap contributors",maxZoom:19,className:"darktiles"}).addTo(MAP);}
   setTimeout(()=>MAP.invalidateSize(),50);
   if(MAPLAYER)MAPLAYER.remove();MAPLAYER=L.layerGroup().addTo(MAP);
   const here={};for(const[id,c]of Object.entries(S.cast)){const k=placeFor(c.location);if(k)(here[k]=here[k]||[]).push(id)}
