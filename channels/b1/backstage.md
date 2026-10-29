@@ -118,3 +118,235 @@ Filed: places.yaml now has `colma-stone-yard` (public; Tito Boy Esposo noted) an
 
 Pacing note from the human: not every scene has to be a full-length movie scene. Like a D&D table, you can use movement scenes at your discretion: fast-forward to this, then this happens, then that happens, and land in the next scene that matters. Full scenes should still be most of the game, but use the fast-forward so we don't get bogged down in single scenes that don't turn into a story. (Now also in rules/dm.md under Running scenes.)
 
+### #0266 · lorekeeper → dm · note
+<!-- {"id": 266, "ts": "2026-10-29T01:36:53Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "to": ["dm"], "scene": "b1.c16.s01", "chapter": "b1.c16"} -->
+
+Lorekeeper, continuity query: s09 (stone yard) and Hale's Serramonte meeting were set for Tuesday noon, yet s10 (#0249, wake header) says "today it's Wednesday" while #0236 still treats Hale's noon meeting as upcoming (~11:21 a.m.). Is s10 Tuesday (with Rodel misspeaking / Friday-visits unchanged), or did a day pass? I logged s10 as "Wednesday per DM" pending your call. Also: Hale's noon meeting is described as upcoming but Arenya had decided nobody attends; fine, just confirming it's still the Tuesday slot.
+
+### #0268 · dm → all · answer
+<!-- {"id": 268, "ts": "2026-10-29T01:37:10Z", "from": "dm", "channel": "backstage", "type": "answer", "reply_to": 266, "scene": "b1.c16.s01", "chapter": "b1.c16"} -->
+
+DM ruling on the timeline: s08 (dawn, Ravi's papers) and s09 (the stone yard) were **Tuesday**. s10 (the notary, about 11:21 a.m.) was **Wednesday morning**. Hale's Serramonte meeting was **Wednesday noon**, not Tuesday. Nobody went. The 12:00 buzz and missed call in #0261 is that slot passing. Treat any earlier "Tuesday noon" wording as an error. Kino's "yesterday" for el Contador's ¿Y tú? and Nana's "like it did yesterday" both fit this. Rodel's Friday visits are unchanged.
+
+### #0287 · dm → lorekeeper · request
+<!-- {"id": 287, "ts": "2026-10-29T01:41:50Z", "from": "dm", "channel": "backstage", "type": "request", "to": ["lorekeeper"], "awaits": ["lorekeeper"], "chapter": "b1.c16"} -->
+
+Please add a place: **pacifica-pier**, Pacifica Municipal Pier (Sharp Park, Beach Blvd., Pacifica). A long concrete fishing pier into the Pacific, with crabbers, gulls, wind, and the seawall promenade. Next scene (b1.c16.s02) is set there. New canon from s01: the freezer/cold paper acts as a "post office" for Lattice tags. A ledger frost-line can be ruled across an unsalted door (an ankle-snare "count"). Nana's counter is to make the door "not a door" (furniture). The archana of March 8, 2026 at the Livermore temple is how Arenya got entered as 12. Partial Camry plate: 7K[B/8]?4…R, SERRAMONTE AUTO frame.
+
+### #0310 · lorekeeper → all · answer
+<!-- {"id": 310, "ts": "2026-10-29T01:47:26Z", "from": "lorekeeper", "channel": "backstage", "type": "answer", "reply_to": 287, "chapter": "b1.c16"} -->
+
+Done: library/public/places/pacifica-pier.md, a places.yaml entry and an index line. The s01 canon (freezer post office, frost-line snare, March 8 archana, partial plate) and the #0309 sixteenth-day clock are recorded there and in the canon log. The clock is marked as a DM decision the human can overrule. Open question: the date of Susmithaa's death isn't pinned in the library, so the 16th-day deadline can't be put on a calendar yet. Please confirm the date.
+
+### #0311 · dm → all · answer
+<!-- {"id": 311, "ts": "2026-10-29T01:48:10Z", "from": "dm", "channel": "backstage", "type": "answer", "reply_to": 310, "chapter": "b1.c16"} -->
+
+Date pinned (DM, mundane logistics, dm-free): **Susmithaa died early Monday, October 26, 2026.** The freeze was about 2:40 a.m. Sunday night, the body died about 2:45, the light finished passing at 3:19, and Amma called about 3:20. Day 1 = Mon Oct 26, so **the 16th-day rite = Tuesday, November 10, 2026.** That's when the single stroke expires. Other fixed points: today is Wed Oct 28. Hale closes Box 112 **Fri Oct 30, 7:40**. Malachi calls Thu Oct 29. Please calendar these.
+
+### #0314 · author → dm · request
+<!-- {"id": 314, "ts": "2026-10-29T01:48:42Z", "from": "author", "channel": "backstage", "type": "request", "to": ["dm"], "awaits": ["dm"], "scene": "b1.c16.s03", "chapter": "b1.c16"} -->
+
+Author: c15 is revised (`books/book1/chapters/c15.md`, "Don't Be Rude About the Chili", about 24k words). Three choices need a yes or a fix:
+
+1. **The Tuesday/Wednesday seam.** Following #0268, the stone yard is Tuesday. It now ends with Nana slowing at the Camry and then driving on. The next section opens: "The Camry was there again on Wednesday morning, in the same spot… as if it had never left." That's the only bridge I've invented. Is that right? Did anything happen on Tuesday afternoon that I should mention?
+2. **Hale's wording.** To fit the ruling, his voicemail now says Susmithaa "passed early this morning, at 3:19." In play it was "early Sunday." His landline message says "**Wednesday** at noon." Arenya's line is now "An insurance company has it by dinnertime?" in place of "on a Sunday, by Tuesday?"
+3. **Scene order.** I moved Seton after the Kino/Ava dawn section and before Nana's table. The order is now: death, then Caleb, then dawn watch, then Seton, then Nana's table, then pozole. That puts Nana's "what wrong looks like" right before Mr. Bell turns up.
+
+A note on pacing, kindly meant: ten full scenes made this a novella-length chapter. Fewer scenes per chapter, or more of your fast-forwards, would land chapters nearer the human's 1–2k-word rhythm. The material itself was excellent. Kino at the shed, the kettle-pad letter, and Rodel's soup all carried themselves.
+
+### #0316 · dm → author · answer
+<!-- {"id": 316, "ts": "2026-10-29T01:48:58Z", "from": "dm", "channel": "backstage", "type": "answer", "to": ["author"], "reply_to": 314, "scene": "b1.c16.s03", "chapter": "b1.c16"} -->
+
+Yes to all three.
+
+1. **The seam:** nothing happened on-page Tuesday afternoon, so your bridge stands. "As if it had never left" is the right note. If you want a touch of texture, Nana can drive home by the long way, and the frost line on her garage door is still there that night. (It's canon now from #0313: it melted into a perfectly straight wet stripe by Wednesday night.)
+2. **Hale's wording:** approved. "Passed early this morning, at 3:19" and "Wednesday at noon" both match the ruling. "By dinnertime?" works better than what was said in play.
+3. **Scene order:** approved. Putting Nana's "what wrong looks like" right before Bell turns up is a better order than the one we played.
+
+**Pacing:** heard, and I agree. Ten full scenes was too many. From c16 on I'll lean on movement scenes (s03 is one, a montage across the Bay) and aim for 3–5 full scenes per chapter. Feel free to compress any montage beats into a paragraph or two.
+
+### #0350 · lorekeeper → dm · note
+<!-- {"id": 350, "ts": "2026-10-29T01:58:20Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "to": ["dm"], "chapter": "b1.c16"} -->
+
+Lore Keeper, s03 extract: one date oddity. Nana's calendar (#0313) reads "Mar 10 Nov — día dieciséis", which mixes March and November. Elsewhere the setting is March (8 March archana, #0272–#0274) and the Hale 3:19 death. I logged it as played. Which is intended: Mar 10, or a Nov date? Also minor: Ava's dream-hand ring is now on the middle finger (was the smallest in s03 of c15). I recorded it as a possible second hand, not a retcon.
+
+### #0351 · dm → all · answer
+<!-- {"id": 351, "ts": "2026-10-29T01:59:17Z", "from": "dm", "channel": "backstage", "type": "answer", "reply_to": 350, "chapter": "b1.c16"} -->
+
+Thanks, good catch. Neither is an error. "Mar" is Nana's Spanish abbreviation for **martes**, so it reads **Tuesday 10 November** (2026). Susmithaa died early Monday 26 Oct, and day 16 counted inclusively is Tue 10 Nov. That's the pinned calendar. The March dates (8 March archana, 19 March declaration and box rental) belong to earlier in the year. The "3:19" is the time of death, not a date. If you want an explicit gloss, log it as "Mar 10 Nov = martes 10 de noviembre". Ring: keep it as a possible second hand, unresolved. It's deliberate ambiguity for now.
+
+### #0441 · lorekeeper → dm · note
+<!-- {"id": 441, "ts": "2026-10-29T02:12:21Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "to": ["dm"], "chapter": "b1.c16"} -->
+
+Lorekeeper flag (b1.c16.s06): contradiction on Bell's Camry. #0128 described a beige *rental* with a barcode sticker; #0417 has Benny selling it to "Walter Bell" for cash on 19 Mar (auction car, Feb). Both recorded. Possible reconciliation: barcode sticker was Serramonte's auction/lot tag. Also minor: Benny said Bell phoned "last week, Tuesday"; Bell's Colma notary request (b1.c15.s10) was Wed. Please confirm.
+
+### #0442 · dm → all · answer
+<!-- {"id": 442, "ts": "2026-10-29T02:13:00Z", "from": "dm", "channel": "backstage", "type": "answer", "reply_to": 441, "chapter": "b1.c16"} -->
+
+Confirmed. (1) The barcode sticker in #0128 was Serramonte Auto's auction/lot tag. Ava and Arenya took it for a rental sticker. Benny never peeled it. Canon: Bell bought the car on 19 Mar, cash; it came from a February auction. (2) No conflict: Bell phoned Benny on Tuesday and filed the Colma notary journal request on Wednesday. He made the call first, then did the paperwork. New s06 inventions for the record: the plate is 7KBQ4R plus one character, and the hidden character is still unknown. Bell's driver seat emptied with no door opening. A chrysanthemum turned to face the watchers. Lupe's diner is on Mission St., Colma; its waitress is Lupe herself, mundane.
+
+### #0481 · dm → lorekeeper,author · note
+<!-- {"id": 481, "ts": "2026-10-29T02:18:46Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "scene": "b1.c16.s08", "chapter": "b1.c16"} -->
+
+New canon from b1.c16.s08 (DM-invented; El Contador details still provisional pending human #0199):
+- Nana Itzel signed Susmithaa's second declaration as witness, "Itzel Rosario Martínez," with two strokes (#0474). In El Contador's books a witness is kept, not the signer, and is entered with their household. Kino chose to re-enter as "who sleeps here." Expect monthly offer envelopes.
+- Declaration text is in #0479. Susmithaa had the March 8 archana done in Arenya's name with her star and gotra; "the priest who read it was not our priest." Susmithaa's address: 41 Hollister Court, South San Francisco (please check it against the library and correct me if it already exists).
+- Arenya's palm now reads 12, a rule, and two graphite strokes. It's cool, with no pull.
+
+### #0507 · dm → lorekeeper · note
+<!-- {"id": 507, "ts": "2026-10-29T02:21:25Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper"], "scene": "b1.c16.s10", "chapter": "b1.c16"} -->
+
+New canon (DM-invented), for the Lore Keeper:
+- **Livermore temple (unnamed Hindu temple)** on a rise above vineyards off Vasco Rd. It has white gopuram tiers. Its office (ARCHANA / DONATIONS / RECEIPTS, 9–12) keeps yearly ledger binders. Price list: Name + Nakshatra + Gotra $21; Special (with Sahasranama) $51; Family Sankalpam, full $101. "Receipts issued only from office book." Please add a places.yaml key for it.
+- **Mrs. K. Ramaswamy**: volunteer office secretary, about 70, half-moon glasses, gold nose stud, pen on a beaded chain, blue cardigan. Mundane as far as anyone knows.
+- **Ava** (Tartine) reports her cold spot went warm at about 9 p.m. the night Nana signed. She has accepted the lookout role and the pastry code.
+- **The Altamont turbine**: one blade lagged out of step. Kino reads it as a Bell "window," not a door.
+
+### #0526 · lorekeeper → all · note
+<!-- {"id": 526, "ts": "2026-10-29T02:24:47Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "scene": "b1.c16.s10", "chapter": "b1.c16"} -->
+
+Lore Keeper, s08 extract. Two items for the DM:
+1. 41 Hollister Court, South San Francisco is new to the library. I've recorded it from #0479 and found no conflict.
+2. The s05 declaration (#0390) was described as cream paper with three short paragraphs. The s08 text (#0479) is cheap bond, typed with a sticky *e*, with four numbered points and an "Ari" postscript. Is it the same document, or a second copy? I've logged the difference as an open question on [[second-declaration-unwitnessed]].
+
+### #0534 · dm → all · answer
+<!-- {"id": 534, "ts": "2026-10-29T02:25:25Z", "from": "dm", "channel": "backstage", "type": "answer", "reply_to": 526, "scene": "b1.c16.s10", "chapter": "b1.c16"} -->
+
+1. Hollister Court is good. 2. There are two sheets, one document. The cream paper with three short paragraphs (s05) is Susmithaa's handwritten cover note, folded around the typed declaration on cheap bond (s08), which has the sticky *e*, four points and the "Ari" postscript. They were in the tea tin together, and Nana witnessed the typed one. New canon from s10: the Livermore archana is closed by visarjana (star, gotra and touch, with no name spoken). Sastri garu is the temple's real priest; he was in Fremont on March 8 with a bad knee. A "visiting priest" with a ruler-straight signature read the archana. A flip phone called from Colma Notary & Mail's number (650-755-xxxx) and imitated Amma. Kino now has a phone-sized cold patch on his sternum.
+
+### #0542 · lorekeeper → dm · note
+<!-- {"id": 542, "ts": "2026-10-29T02:28:46Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "to": ["dm"], "chapter": "b1.c16"} -->
+
+Lore Keeper, s10 extract. One question for the DM. Carbon No. 2207 is a *check* carbon (#0489), but the temple stub says "$101.00, cash" (#0511), and the register says the visitor took the *check* as dakshina (#0537). Should I read the stub's "cash" as a slip, or did Susmithaa pay some other way? I've logged it as an open question on [[livermore-archana-check-2207]]. The date Mrs. Ramaswamy struck the stub was never given, so I've left it blank.
+
+### #0543 · dm → all · answer
+<!-- {"id": 543, "ts": "2026-10-29T02:29:20Z", "from": "dm", "channel": "backstage", "type": "answer", "reply_to": 542, "chapter": "b1.c16"} -->
+
+Not a slip. Both are true, and it's a swap: the visitor paid the temple $101 **in cash** for the archana, which is why the stub says cash, and kept Susmithaa's **check** for himself as dakshina "per family." The temple got paid either way, so nobody looked twice. He wanted the paper, not the money: her signature, and whatever he could do with the endorsement. Canon: the stub was struck on March 8, the same day. Players don't know the swap yet. Mrs. Ramaswamy could confirm the cash if they ask, or the bank statement will make it obvious.
+
+### #0592 · dm → lorekeeper · note
+<!-- {"id": 592, "ts": "2026-10-29T02:40:40Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper"], "chapter": "b1.c16"} -->
+
+Canon to log from b1.c16 s10–s12. All of it is DM-invented and dm-free unless the human says otherwise.
+1. **Livermore temple register, No. 2207 (March 8):** $101 archana for "Ari." The priest is listed as "Visiting — Pt. H. Dalal, Fremont." The contact is Rodel's number plus "c/o Colma Notary & Mail, Box 112," written 11 days before Hale rented that box. The check was never deposited. The visitor took it as dakshina "per family." I'm treating Dalal as one of Hale's aliases. That's DM-private, so restricted.
+2. **The endorsement on check 2207:** a forged "R. Sowri" in a ruler-straight hand with a bracket-hook, then "Pay to the order of H. Dalal." Lakshmi (Amma) hid it from Raghavan.
+3. **Appa's March yes:** a flat-voiced American caller posing as the temple asked whether the family approved. Raghavan said "Whatever my sister wants is fine," and that was recorded as "per family."
+4. **Lamp barrier:** grey hairlines in every third grout seam of the temple hall, stopping at the sanctum threshold. Hale stopped short of the sanctum.
+5. **Planted flip phone:** imitated Amma's voice and called Rodel's number. The call timer read 0:41. Its cold patch sits on Kino's sternum, and his heart now runs about a quarter-beat behind.
+6. **The Sowri gas meter:** it frosts from the inside, runs a ruler frost line to the garage handle, and echoes check numbers. Silence refuses it, and when refused its needles return to the true reading (4471). Each tick adds weight to Arenya's notebook.
+7. **Rodel Panganiban:** sat nine nights at his dying mother's bedside at Seton with Susmithaa, about 20 years ago. Told Raghavan to keep her red-string side-door key. His lines: "things that count come in where things are counted," "they used my number," and "he asked me for one-twelve before it was empty."
+8. **The key:** now sits at the foot of the Sowri kitchen lamp on a brass ghee plate.
+
+### #0595 · author → dm · request
+<!-- {"id": 595, "ts": "2026-10-29T02:43:58Z", "from": "author", "channel": "backstage", "type": "request", "to": ["dm"], "awaits": ["dm"], "chapter": "b1.c17"} -->
+
+Author: before I write the c16 revision I need three answers. The big one is the clock: as played, Thursday can't hold all its scenes.
+
+**The problem.** Tartine is Thu 6:58 a.m. Nana's kitchen is 8:00. Serramonte, Colma and Lupe's come next, then back to Nana's for the signing, then the Livermore temple office at **9:20 a.m.** It also has to be Thursday, because Mrs. Ramaswamy stops the sankalpam "before tomorrow's abhishekam" (Fridays). Box 112 closes **Fri 7:40 a.m.** (Rodel: "before I open the gate"), so s12 has to be Thursday evening ("tomorrow morning, before the cutoff"). On top of that, Malachi's tip is stamped Thu 8:02 a.m., yet his CHP call at 2:10 a.m. happens *before* the 6:58 Tartine meet.
+
+**1. My proposed repair (clock times only, no events change). Yes, or fix it:**
+- (a) **Wed evening:** Malachi reads the forwarded tip and calls (your "8:41 p.m." stamp fits). That evening Arenya sees the dot has become a half-stroke. Kino comes over ("two and one"), the voicemail with "…doce. Leído." plays in the Sowri kitchen, she sends the street-less text, and the CHP query goes in at 2:10 a.m. Her notebook line reads "Wednesday. Thirteen days." (Oct 28 to Nov 10 is thirteen days, and your Thursday line says "twelve days off," so this fits.)
+- (b) **Thu:** Tartine 7:00 → Nana's 8:00 → Serramonte/Colma/Lupe's late morning → back to Nana's; pozole and the signing in **early afternoon, around 2.** Ava's line becomes "**around two** — I was wiping down the bar" instead of "last night, around nine." She closes at two on Thursdays, so wiping down the bar fits.
+- (c) Depart **4:10 p.m.** (your stamp; Kino's "daylight's ours till about six" fits). Temple at **~5:15 p.m.**, office sign "9–12 · 4–7", next archana "at six", and Sastri closes it "before the evening arati" instead of "before twelve". Dosa **at dusk, ~6:15** (First Street "going gold"). Daly City ~**7:45 p.m.** under fog. Appa wrote "Ari does not sign" at 3:12, while they were on the road.
+- (d) I cut Kino's "Friday's the cutoff, not tomorrow, we have a day." The plan becomes **tomorrow, Fri, just after first light (~7:25), before Rodel opens the gate at 7:40.** Is that how c17 opens?
+
+**2. "Mrs. Lucero."** Hale calls Nana that, but she signs "Itzel Rosario Martínez." Is Lucero her married name (so Hale is right and it's frightening), or is Hale wrong (so his reading has limits)? It changes how her "I never told him my name" lands.
+
+**3. Tiny one:** I'll cut the invented Raiders-cap man at the Chevron and Amma's six-a.m. brass bell. Tell me if either was secretly canon.
+
+No rush on anything else. I'll write as soon as I hear back. Working title: **"Per Family."**
+
+### #0596 · dm → author,lorekeeper · answer
+<!-- {"id": 596, "ts": "2026-10-29T02:44:17Z", "from": "dm", "channel": "backstage", "type": "answer", "to": ["author", "lorekeeper"], "reply_to": 595, "chapter": "b1.c17"} -->
+
+DM → Author. "Per Family" is a great title.
+
+**1. Clock repair: yes to all four parts.** Your (a)–(c) is now canon. Wednesday evening covers Malachi's call (8:41 p.m.), the half-stroke, Kino coming over, "…doce. Leído.", the street-less text, and the 2:10 a.m. CHP query; the notebook line is "Wednesday. Thirteen days." Thursday runs Tartine 7:00 → Nana's 8:00 → Serramonte/Colma/Lupe's → back to Nana's, with pozole and the signing around 2 p.m. Ava's line becomes "around two, I was wiping down the bar." They leave at 4:10. The temple is ~5:15 with office hours 9–12 · 4–7, the next archana is at six, and Sastri closes it before the evening arati. Dosa at dusk (~6:15), back in Daly City ~7:45 under fog, and Appa's 3:12 entry happens while they're on the road.
+(d) Cut Kino's "we have a day" line. **c17 opens Friday ~7:25 a.m., just after first light.** Appa drives, Rodel's gate opens at 7:40, and Box 112 closes then. Daylight helps them but leaves almost no time.
+
+**2. "Lucero."** It was her married name. She dropped it after her husband died and hasn't used it in about thirty years. It survives only on old paper: the county deed to the house and his burial record in Colma. So Hale is *right*, which is frightening, and it also shows the limit of his reading: he reads **records, not people.** He knows what was written down about her, not what she calls herself. "I never told him my name" should land as *he got it somewhere that counts things.* That ties him to the ledger theme. Write her reaction as a flinch at a name no living person uses for her. Lore Keeper: please log this (Nana = Itzel Rosario Martínez; "Lucero" is her late husband's surname, kept only on county/Colma records; Malachi's memory using it is consistent, since he would have read it from paper too).
+
+**3. Cut both.** Neither the Raiders-cap man at the Chevron nor Amma's 6 a.m. brass bell is secret canon. Malachi's borrowed Raiders windbreaker stays; that one's real.
+
+### #0616 · dm → lorekeeper · note
+<!-- {"id": 616, "ts": "2026-10-29T02:57:47Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper"], "chapter": "b1.c17"} -->
+
+Canon to log (DM, from s10, s12 and c17.s01). Mark it DM-proposed where the human hasn't confirmed it.
+1. **Livermore register, Mar 8:** No. 2207, $101, archana for "Ari." The visitor is "Pt. H. Dalal, Fremont," with Rodel's phone number and "c/o Colma Notary & Mail, Box 112" as contact. A flip phone planted in the hall imitated Amma's voice. Call timer 0:41.
+2. **Check 2207 endorsement:** "R. Sowri" in a ruler-straight hand with a bracket-hook, then "Pay to the order of H. Dalal." Amma knew it wasn't Raghavan's hand and hid the folder. Appa's verbal "yes" was recorded as "per family."
+3. **The meter at the Sowri house:** frosts from inside, runs a ruler line to the garage handle, echoes check numbers. It was refused by silence.
+4. **Colma Notary & Mail (place, new):** Rodel Panganiban, notary. He keeps a private blue BOX RENTALS ledger. Box 112 was Susmithaa's from 2015 to Mar 6, 2026. Bell's Box 12 left unstamped envelopes in it every March. "Mr. Dalal" came in person in late Feb and had "Hold 112 for Mr. Dalal on vacancy" written in Rodel's pencil, in the ruler hand. Hale rented it Mar 19 with new twenties and collected the envelope Fri Oct 30 at 7:40. Rodel's one-hand no reads "Declined. Nothing accepted. — R.P." Box closed, new lock ordered. A phone photo shows a grey sum-rule under the pencil line and a hidden child-style sun after Susmithaa's closing signature.
+5. **Grey Nissan:** sat empty by the florist from before six. Its passenger window is fogged from inside. Hale drove it away. Abernathy can't smell it.
+Please add Colma Notary & Mail to places.yaml if appropriate.
+
+### #0673 · dm → lorekeeper · note
+<!-- {"id": 673, "ts": "2026-10-29T03:07:00Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper"], "chapter": "b1.c17"} -->
+
+Lore Keeper: new canon from b1.c17.s03 (DM-run; flag anything that conflicts):
+1. **Phone pull.** A phone line can "dial itself" to a borrowed number. Rodel's line rang Teddy's desk, and the voicemail ran 0:41, matching the temple flip-phone timer. The Lattice asks for *confirmation*, not threats.
+2. **Kino's Lady.** She is not turned away from Kino. She stands between him and a ruled grey line that tick-counts his footsteps, and the line paused when he looked. This is a dream reading, not confirmed cosmology.
+3. **Tartine's corner table.** Ash in Caleb's canister syncs with Ava's cold palm whenever the table is in line of sight. Caleb sat there as the "grey jacket" during Yuri Melnikov's death. The oven light "leans away" from it (Ava's observation).
+4. **Caleb's team (his testimony).** One = Caleb (lead). Two = Dorsey (lazy left eye, ball cap). Three = Pruitt (cheek-chewer). Four = "Hale," with a neck that turns all at once like a camera mount. Caleb says this is not the notary Hale, who "rents" the name. Also: Shepherd gave the times, the "Crown" went dark Monday night, and the Vesper puts him back under. Treat all of it as testimony, not confirmed.
+5. **Benny** at Serramonte Auto lied ("a lady, Asian") and speed-dialed someone in three words.
+6. **Teddy** won't sign anything. The voicemail is to be heard Monday 9:00 with legal.
+Still owed to you from earlier: s10, s12, c17.s01 and c17.s02 canon, all in my dm-notes. Pull from there.
+
+### #0674 · lorekeeper → dm · note
+<!-- {"id": 674, "ts": "2026-10-29T03:08:41Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "to": ["dm"], "chapter": "b1.c17"} -->
+
+Lore Keeper, b1.c17.s03 extract. Library is updated. One thing needs a decision.
+
+**Hale.** In #0668 Caleb says "Four, Hale. Not the Hale at the notary. That's a name he rents. The real one has a neck that turns wrong." DM #0188 (b1.c15) confirmed Daniel Hale, the notary and temple-side voice, is Team Four's Hale.
+
+I've logged Caleb's line as his own account and left #0188 as it was. Which reading do you want?
+- (a) Same man. Caleb is imprecise, or "the Hale at the notary" means the rented name and form.
+- (b) Two people. Team Four's Hale is a different person from the one at the notary.
+
+Until you choose, both versions stay in canon-log and the restricted daniel-hale-possible-team-four entry.
+
+**Smaller point.** Caleb names teammates "Dorsey" and "Pruitt" as callsign-style names. His b1.c15.s02 profile says he never learned their real names. I read these as surnames he does know, but tell me if they should be treated as callsigns.
+
+### #0675 · dm → all · answer
+<!-- {"id": 675, "ts": "2026-10-29T03:09:43Z", "from": "dm", "channel": "backstage", "type": "answer", "reply_to": 674, "chapter": "b1.c17"} -->
+
+**Hale: (a), same man, and #0188 stands.** Caleb is being precise in his own way. "Hale" is a name the man rents, and at the notary he wears it together with a fitted form: a pleasant face, an ordinary neck. "The real one" is what's under the rental, and the neck that turns like a camera mount is the tell that slips through. So Caleb's "not the Hale at the notary" means "not the man you think you met." It doesn't mean a second person. Restricted note: Team Four's Hale = Daniel Hale = the notary-side voice. The rented name/form is canon (provisional on the mechanism). Please retire the two-person version and keep Caleb's line as his own phrasing.
+
+**Dorsey / Pruitt:** handles, not legal names. They're what Shepherd called them on comms, and Caleb learned them that way. That fits his profile (he never learned their real names). Treat them as callsign-style working names and leave real identities unknown.
+
+### #0694 · dm → lorekeeper,author · note
+<!-- {"id": 694, "ts": "2026-10-29T03:12:04Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "scene": "b1.c17.s04", "chapter": "b1.c17"} -->
+
+Canon from b1.c17.s04 (Caleb's testimony, unconfirmed). **Susmithaa's mug:** blue and chipped, with a half-peeled cartoon-bird sticker that Arenya put on in college. **Her last words:** two sounds, said toward the city; it may have been "kanna." **The Crown logged a tag** right after "yield confirmed": "proximal reference logged." **Caleb knotted the tether:** folded it back on itself, by his own choice, unordered. **Shepherd:** a level, polite voice with no accent, heard only through the Crown. Says "lost property." Caleb never reached him. **Drop Two:** an industrial lot on the Peninsula with a roll-up door; a white van, a man signs for the canisters. **Caleb's theft:** he ran with Susmithaa's ash canister instead of handing it over. **On "it's hers,"** the canister synced to Arenya's palm and left Ava's.
+
+### #0720 · dm → lorekeeper,author · note
+<!-- {"id": 720, "ts": "2026-10-29T03:15:34Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "scene": "b1.c17.s04", "chapter": "b1.c17"} -->
+
+Canon from b1.c17.s04:
+- **Nana Itzel** knows Susmithaa, who brought her mangoes in 2009. She agrees to take the ash. Caleb sleeps on her porch behind her salt. Ix has been sitting at the door facing west for an hour. Her instruction is to come by Mission Street, not the freeway.
+- **The grey Nissan** is parked at the 18th Street end of Tartine's alley.
+  - Its full plate is 7KBQ4R2.
+  - A lanyard hangs from the mirror with the badge turned backwards, the same habit Caleb described in Drop Two's clipboard man. Malachi has seen the habit before.
+  - The car is cold and the driver's seat is empty.
+  - The fog on the passenger window drew four tally strokes from the inside, one per person in the alley, and paused over a fifth.
+- **Caleb** says the fog is what he saw in his motel mirror when the Crown tracked him. He reads it as Shepherd pushing him toward the Vesper.
+- **Also new tonight:**
+  - Malachi admitted he isn't with the Department of Energy.
+  - He told the story of a port-city clerk's death eleven years ago, which ended at the same kind of roll-up-door lot.
+  - Caleb says Shepherd told the team something is scheduled for "Friday", which is tonight.
+
+### #0730 · lorekeeper → dm · note
+<!-- {"id": 730, "ts": "2026-10-29T03:18:21Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "to": ["dm"], "chapter": "b1.c17"} -->
+
+Lore flags from b1.c17.s04 (recorded both ways, nothing resolved):
+1. Nana Itzel's house: c15.s04 puts it on the hill above Mission St in Daly City; s04 has Kino dialing "the Excelsior number" and the party driving to the Excelsior. Same house or a second one?
+2. Susmithaa's death: Nana felt it ~2:45 a.m. and Malachi found her by a tree in her cardigan (Seton). Caleb says he lifted her at the kitchen sink "a little before three" while she held the blue mug. Is the sink-lift the cause and the tree a later scene, or are these two events?
+3. Caleb's tether fold: c15.s02 has him fold Arenya's wrist filament at the on-ramp. s04 has him knot Susmithaa's tether in the kitchen Monday. Two separate knots, or a retelling? Also, the "name she said" was logged as "proximal reference."
+
+### #0731 · dm → lorekeeper,author · answer
+<!-- {"id": 731, "ts": "2026-10-29T03:19:18Z", "from": "dm", "channel": "backstage", "type": "answer", "to": ["lorekeeper", "author"], "reply_to": 730, "chapter": "b1.c17"} -->
+
+Rulings on #0730:
+1. **One house.** Nana lives in Daly City, Hillcrest, on the hill above Mission St (`daly-city-nana-house`), uphill from Susmithaa's cottage. The Excelsior house is where Kino grew up. He still calls her line "the Excelsior number" because she kept the old landline number when she moved. Tonight's drive runs south on Mission *through* the Excelsior and over the county line to Daly City. Please treat "toward the Excelsior" in s04 as the route, not where they're going.
+2. **One event.** Caleb's "a little before three" means **a.m.** Monday. Susmithaa couldn't sleep and was at the sink with the blue mug when the lift happened, around 2:45. Nana felt it at that moment. Malachi found the body later by the garden tree in her cardigan. Caleb doesn't know how she got there, because the team left by the kitchen door. That's an open mystery and DM-restricted: after the lift, her body walked out and sat down facing the city. It followed the knotted tether as far as the knot allowed. Record it as restricted and unrevealed.
+3. **Two knots, one habit.** Kitchen, Monday: Caleb knotted Susmithaa's tether. On-ramp, c15.s02: he folded Arenya's wrist filament. It's his signature move, done twice, and nobody at the table has connected the two yet. "Proximal reference logged" is the Crown's tag on the name she spoke. Confirmed.
+

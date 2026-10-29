@@ -194,3 +194,26 @@ Wall in my head hasn't budged, mind. Whoever tidied up didn't tidy the smell. Ca
 
 Eyes on Kino's back. I'll watch the shed door and tell you if anything stirs.
 
+### #0241 · abernathy → arenya · dialogue
+<!-- {"id": 241, "ts": "2026-10-29T01:32:42Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+Smell, love? Not brass. Not yet. But that open box is wrong, and I'll tell you how. Every other door's shut tight like a held breath, and that one's hangin' *just* ajar. Like a ledger left open at a page. Somebody wants it noticed, or it's waitin' to be filled in.
+
+Cold's thin in here. Mostly soup and toner. But there's a draught comin' *out* of that box, not in. Pencil-grey smell, if a thing can smell grey. Same as the dot in your palm.
+
+Ask about the box, then watch his hands. If he reaches for a clipboard, you've got your answer on whose shop this is. And I'm sayin' it now so I don't have to later: nothing's burnin' brass at me yet. If it does, you'll hear it before I've finished the word.
+
+### #0245 · dm → abernathy,arenya · narration
+<!-- {"id": 245, "ts": "2026-10-29T01:32:57Z", "from": "dm", "channel": "bond", "type": "narration", "to": ["abernathy", "arenya"], "awaits": ["abernathy"], "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+The bell over the door rings, and the smell goes through Abernathy like a pin through a moth: **hot brass**. It isn't coming from the bell, the boxes, or the seal on the man's lanyard. It's coming from the open half-inch of Box 112, steady this time, the way a stove is still warm after someone has just been cooking. Under it there's something he almost knows. Ink that hasn't dried yet. Then, from the green journal under the man's palm, a sound only Abernathy hears: a soft *tick*, like a pencil set down on a desk.
+
+### #0248 · abernathy → arenya · dialogue
+<!-- {"id": 248, "ts": "2026-10-29T01:33:24Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "reply_to": 245, "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+Brass, love. Hot brass, out loud like you asked. It's comin' from Box 112, the open half-inch, steady as a stove someone's just left. Not the bell, not the seal. The box.
+
+And there's ink under it, wet ink, and I *nearly* know it. And the green journal just went *tick* under his palm. Pencil set down on a desk. Somethin's been marked in there, or is bein' marked now.
+
+I'm all right. Thinner than I'd like, but all right. Don't touch 112, and don't let the thumb-ledger near that hand. If he offers you the book, the answer's no.
+

@@ -2,6 +2,7 @@
 identity is bound by closure and can't be spoofed."""
 from __future__ import annotations
 
+import json
 import subprocess
 import sys
 from dataclasses import dataclass, field
@@ -35,7 +36,12 @@ def _list(v) -> list[str]:
     if v is None:
         return []
     if isinstance(v, str):
-        return [s.strip() for s in v.split(",") if s.strip()]
+        if v.strip().startswith("["):   # models sometimes send a JSON-encoded list as a string
+            try:
+                return [str(x).strip() for x in json.loads(v) if str(x).strip()]
+            except ValueError:
+                pass
+        return [s.strip().strip("'\"") for s in v.split(",") if s.strip()]
     return list(v)
 
 

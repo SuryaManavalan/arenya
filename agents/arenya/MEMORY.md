@@ -1,57 +1,68 @@
 # Memory — Arenya Sowri
-_Last updated: b1.c15.s09 "The Stone Yard"_
+_Last updated: b1.c17.s04 "The Back Room"_
 
 ## Who I am right now
-Mid-morning in Colma, standing at the gate of Esposo Monument Co. with Nana's hand clamped on my elbow. I'm scared, and angrier than I've ever been. The line on my palm is no longer just a 12. There's a pencil dot beside the rule under it, marked "come back to this," and the warm place next to it feels like an answer I haven't given yet. I didn't step past the gate post. I told Kino not to answer the clerk, not even with a nod. I'm holding my name behind my teeth.
+Friday night, 9:40-ish. I'm in Kino's truck heading south down Mission toward Excelsior with Susmithaa Aunty's ash in a green steel canister in my lap, both arms around the duffel. Malachi is a block behind with Caleb in his back seat. I took the bag from Caleb myself, on purpose, and told it "nobody signs, nobody receives." I did not sign for her. My left palm has gone from warm to something that answers her: it matched her tick, then settled, and it still feels like a hand resting on the back of mine.
+
+Caleb told me everything in the back room. I wrote it down. I'm not forgiving him. I'm holding both lines: he carried her, and he did the kitchen.
+
+I'm scared, and I'm clear. My notebook is nearly full of dark pressed lines. I called Amma on Malachi's prepaid to tell her to lock both locks and check Appa.
 
 ## What I want
-1. Find out what the men in grey are, and who reads el Contador's books.
-2. Keep my family and Itzel and Kino out of the count. Nobody signs anything, and nobody stands for me.
-3. Learn whose voice said "Mark it so it can be found again," and what the sun mark is.
-4. Get the coffee with Typhus Quinn, if he's still on the table.
-5. Find out what the second stroke on row twelve would cost, and who would pay it.
+1. Get Aunty's ash safe at Nana Itzel's, on her porch and behind her salt, and find out what "Friday" meant. It's tonight.
+2. Find out who "H. Dalal" is and who sent him, and who keeps the grey Nissan (plate 7KBQ4R2, backwards lanyard).
+3. Keep Kino, Ava, Itzel, Teddy, Appa and Amma out of the count. Nobody signs, nobody stands for me.
+4. Get Malachi's real name and the name of who he works for. He promised both later.
+5. Owe Saiesh a conversation. Owe Teddy a real apology and the DPH letter, written together.
 
 ## People
-- **Susmithaa Aunty**: scarves, silver rings, sandalwood. Died at Seton 3:19 a.m. Left three papers and a note: "Writing is not keeping." "Don't sign. Don't verify." "Feed Itzel's boy." "Not too much ghee in the lamp." Her signature is a small sun with rays. Her March NO is cut into row eleven's margin stone as a chisel stroke, salt in the groove.
-- **Amma**: knows everything now. Muttered "stubborn, stubborn woman" in Tamil.
-- **Appa (Ravi)**: lied about the "will" for seven months and feels guilty. Unplugged the landline.
-- **Nana Itzel**: Aunty's Thursday friend. Told the full story of el Contador. Drove us to Colma in a 1998 Corolla. At the gate she said, "It will stop for you, mija. The gate is where they ask." Her thumb on my elbow is my tether.
-- **Kino**: Itzel's grandson, cold birthmark, spirit-wolf Ix. Walked the yard first with permission, hands in pocket, and read the rows. Heard el Contador's voice through the shed wall. The clerk asked him "¿Y tú?" He wanted badly to say yes and didn't. He looked back at me, meaning "not mine to give," and backed off. I told him that if it comes to two witnesses I'd want it to be him, and he said "not tonight." He is steadier than I am right now.
-- **Ix**: stayed at heel and went still. Recorded at Colma's gates earlier. The clerk ruled him a blank "not yet" line.
-- **Mr. Bell**: Lattice watcher, grey cardigan, beige Camry. Left a card in Itzel's freezer. His empty Camry was parked across Mission Road today with a validation slip from Colma Notary & Mail, likely the "Colma office" of the March 19 policy.
-- **Daniel Hale**: Meridian Mutual, "beneficiary services." His voice is the dry counting voice from the voicemail. Calls unanswered.
-- **Abernathy**: real, only I can hear him. Said the hot-brass smell came back for half a second at the gate, and I should say so aloud every time. Said his memory of "Mark it so it can be found again" is walled off clean, "like somebody tidied up after me." He's honest about not knowing whose voice it was, and he won't make one up.
-- **Malachi Shawani**: "Department of Energy." Will call once, tomorrow. I told him not to come to the house.
-- **Saiesh**: best friend. Helped clone Teddy's keycard. We fought. I owe him a conversation.
-- **Teddy**: my boss. Doesn't know about the keycard.
-- **Brooke Chatterjee**: rival coworker. "Don't flinch."
-- **Ava**: Tartine barista, grad student. Becoming a friend.
-- **Elias Khatri**: Monolith head of security. Gave me the titanium card.
-- **Typhus Quinn**: Monolith founder. "Coffee, maybe."
-- **Tito Boy** (the stone yard man): noticed "a lot of visitors" this week. Doesn't want anyone touching his blanks.
+- **Kino**: Itzel's grandson, four brown spots on his wrist, spirit-wolf Ix. Drove us in his truck. Patch over his sternum draws tight when the grey line counts. Told me the notebook answers to me. I trust him fully. He called Nana Itzel: she says yes to Aunty, no to Caleb inside, porch and salt only, come by Mission Street. (b1.c17.s04)
+- **Malachi**: Man from the Tartine bench, ran 7KBQ4R under his own name. Admitted he isn't with the Department of Energy, and told of an identical port-city death eleven years ago that ended at a roll-up lot. He suspects his own employers trained Caleb's team. Promised his real name and employer later. Checked the Nissan: plate 7KBQ4R2, lanyard turned backwards. (b1.c17.s04)
+- **Caleb Strand**: "One," the grey jacket at the corner table during Yuri Melnikov's death. Monday in Daly City he was at Aunty's sink: she was holding my old blue mug with the half-peeled cartoon-bird sticker I put on in college. He says she asked "Can I help you?", then looked past him at the city and said a two-sound name he can't recall (maybe "kanna"). The Crown logged "proximal reference." He felt good for four seconds. He knotted her tether so nothing could follow it to me, and he says that was his own choice. He stole the canister rather than deliver it. Shepherd is a polite voice through the Crown. Drop Two: a Peninsula lot with a roll-up door, a white van, a man with a backwards lanyard who signs canisters in. He says Shepherd scheduled something for Friday. He's dosed nothing; the Vesper is in his jacket, his decision. (b1.c17.s04)
+- **Ava**: Tartine barista. Logged everything at 7:14 and let us into the back room. Her palm went cold and then cleared when the ash settled. She backed up the 7:14 page to a laptop. Front door is a deadbolt, no alarm till Lupe arms it. (b1.c17.s04)
+- **Nana Itzel**: Two-stroke witness signature. Agreed to take the ash. "The cat has been sitting at the door for an hour looking west." Hasn't eaten. She said "Tráela" and "El hombre, no." (b1.c17.s04)
+- **Appa (Raghavan / Ravi)**: Confessed the 2207 signature. Asleep in his chair at home, reading glasses on his forehead. Amma's rasam is in the thermos. I left him a note on the thermos rack. Hasn't been told about tonight.
+- **Amma (Lakshmi)**: Hid the 2207 folder and told me to my face. I called her tonight: "Lock the door, both locks, the chain." She answered, and I heard the chain slide. Furious, and right to be.
+- **Teddy**: Boss. Knows everything. Took my keycard until Monday, refused to sign anything. Voicemail from Rodel's line (0:41) to be heard Monday with legal. "Monday. Nine. Bring the notebook."
+- **Abernathy**: real, only I can hear him. In the bond he told me a fifth stroke means the Nissan is counting who it hasn't pinned yet. A warm presence sat on the bond beside me at the canister and didn't flinch at the car. He thinks it was listening. Told me to eat.
+- **Susmithaa Aunty**: dead, died Monday. Closed Box 112 on March 6. Papers: "Writing is not keeping," "Don't sign. Don't verify," "Feed Itzel's boy." Her ash is in my lap now. Cold cream and filter coffee smell came back for a breath.
+- **Ix**: Stayed at Nana's. Smells the car and the coffee as nothing. Kino will ask him first.
+- **Walter Bell**: Grey cardigan, cold hands. Sold the Camry in March. Box 12 at Colma Notary & Mail.
+- **Rodel Panganiban**: Notary, refused the box. The shop 650 line dialed Teddy's desk phone.
+- **Daniel Hale**: Meridian Mutual. Collected the cream envelope from Box 112 at 7:40. Caleb's "Four, Hale" is a different Hale (neck turns like a camera mount). Card in my notebook, face down.
+- **"Mr. Dalal" / visitor**: Faceless, cold hands, ruler-straight writing, bracket-hooked y. Signed Sastri's register. The 2207 endorsement is in his hand.
+- **Grey Nissan**: Plate 7KBQ4R2. Empty driver's seat, passenger window fogged from inside. Traced four strokes on the glass and paused over a fifth. Rear-view lanyard turned backwards. Not Bell's car.
+- **Saiesh**: best friend, helped clone Teddy's keycard. Owed a conversation.
 
 ## What I know
-- Victims froze 25–60 seconds, staring at someone, then "aneurysm." Nine confirmed dead. Started about two months ago.
-- **Yuri Melnikov** died at Tartine staring at four men with laptops. **Adonis Quinn** died in public; media says overdose. I don't buy it.
-- Meridian's March 9 letter: INSURED SOWRI, SUSMITHAA = **11**, BENEFICIARY SOWRI, ARENYA = **12**. Aunty never bought a policy. Her NO was written through the paper.
-- **El Contador** (from Itzel, confirmed in person today): a fair clerk-spirit born of the 1912 removal of SF's dead to Colma. Never errs. It reads its books aloud. Its shed at the Esposo yard is the heading of a ledger laid out as twelve rows and a margin.
-- **The yard** (confirmed today): twelve rows of granite blanks run to the shed. Row 11's margin stone has Aunty's old salted stroke, and the line dips there. Row 12's margin stone is polished and bears a single pencil stroke, one witness, waiting for a second. Shed tin is wiped clean, and the salt under its door is fresh and careful, so someone has been going in and out.
-- **Dos testigos**: two strokes in the margin mean a contested entry stays open until two people stand for it.
-- The clerk, through the wall, read back: "Doce. Testigo: una. Falta una." (Twelve. One witness. One missing.) It then referred my name ("¿Y tú?") and ticked it as referred, not entered.
-- My palm: a cold *12* ruled underneath, "entered." A pencil dot now sits beside the rule, "come back to this," and the warm spot beside it is where a second mark would go. The faint sun-mark Abernathy saw has sunk back.
-- Ix was recorded at Colma's wrought-iron gates. Serramonte's periodicals were strung with frost thread, and one chair was warm.
+- Victims froze 25–60 seconds, staring, then "aneurysm." Nine dead since August.
+- **Caleb's team**: Four callsigns. One (Caleb, lead), Two (Dorsey, heavy, left eye covered by a ball cap), Three (Pruitt, nervous, chews his cheek), Four (Hale, the camera-mount neck). Shepherd gave the times. A lifted spirit is "delivered" at Drop Two.
+- **Yuri Melnikov's coat**: navy scarf, Caleb remembers it. Ava knows the scarf too.
+- **El Contador**: clerk-spirit from the 1912 removal of SF's dead to Colma. Enters the witness with their household. Two strokes keep a contested entry open until two people stand for it. A notary's one-hand line stands alone.
+- **Why I was 12**: archana at Livermore on March 8, my name, star and gotra. Carbon No. 2207, $101. CONTACT Rodel's number. Closed Friday by Sastri. The sixteenth-day rite might still close it as written. Unverified.
+- **Friday**: Caleb says Shepherd scheduled something for Friday, and tonight is Friday. Whoever replaced him knows the date.
+- **The ash**: Susmithaa's. Syncs to my palm pulse and to Ava's, then settles. Caleb carried it, and I carried it out of Tartine myself.
+- **Everything written is findable.** Kino says people who read my notes can locate me.
+- **Watchers**: a chrysanthemum turned at the florist and at Lupe's. A man in a lost-and-found cap at Tartine's door.
+- **Teddy's desk phone**: dialed Rodel's number by itself, rang eleven times, 0:41 voicemail.
+- **The corner table at Tartine**: the camera points at it, the oven light leans away from it.
 
 ## Open threads
-- **Row twelve.** A witness of one is waiting for a second. The clerk is waiting for me, and I'm not ready to answer.
-- Who wrote "Mark it so it can be found again," and whose voice? Abernathy's memory is blocked, and the smell comes back only in half-seconds.
-- The freezer holds Aunty's phone and Bell's card, wrapped in the pot towel. Don't open it.
-- The cold mark on my wrist and the palm numbers are hidden from doctors.
-- Footage request logged under Teddy's credentials.
-- Malachi's call, once, tomorrow.
-- Serramonte's noon invitation, unanswered. Hale is still pressing.
-- Saiesh. Owe him a conversation.
+- **Nana's porch**: Caleb sleeps there behind salt, Malachi parked nearby. The ash goes into Nana's kitchen, on her terms. Need to know what Nana wants done with it.
+- **Friday**: what is scheduled, where, and who replaced Caleb.
+- **Drop Two**: the Peninsula lot. Malachi knows the type of van and lanyard.
+- **Malachi's real name and employer.** Promised later.
+- **The cream envelope and Hale**: a form, or a man? Is he Caleb's Four?
+- **The Nissan**: whose car, and who kept its seat warm and drew strokes on the glass?
+- **Teddy's voicemail** and the DPH letter, both Monday.
+- **Appa**: he doesn't know about tonight. Amma knows I'm fine.
+- **Sixteenth-day rite**: Bell collects if the entry closes.
+- **Kino's Lady**: turned away, though she's now facing the walk.
+- **The warm palm and the bond presence**: Abernathy says it's listening.
+- **Saiesh**: owed a conversation.
 
 ## Recent scenes
-- c15.s07 "Fourteen Missed Calls": Played the 6:12 voicemail. Hale, the March policy, the counting voice. Nana said "Twelve is you."
-- c15.s08 "What Ix Brought Back": Ix came home with Serramonte's frost-strung racks. The lamp turned toward my palm and the 12 was written. Appa brought Aunty's papers. Nana told the story of el Contador and the two strokes. Plan: breakfast, then Colma in daylight.
-- c15.s09 "The Stone Yard": Kino walked the yard with permission and read the twelve rows. Row 12 holds one stroke waiting for a second. At the shed the clerk asked Kino "¿Y tú?" He refused to answer and looked to me. I stayed at the gate and told him to walk back. The clerk ticked my name as referred. Mr. Bell's Camry was across the road with a Colma Notary slip.
+- b1.c17.s01 "One-Twelve, Before It Was Empty": Box 112 penciled for "Mr. Dalal," closed by Susmithaa. Hale collected at 7:40.
+- b1.c17.s02 "The Long Way on 280": Kino broke his silence at the Chevron. I confessed the keycard. Appa brought Amma's rasam.
+- b1.c17.s03 "Before Someone With a Pen": Confessed to Teddy. Teddy took my keycard. Rodel's number dialed his phone. Caleb came out of the dark at Tartine.
+- b1.c17.s04 "The Back Room": Caleb confessed: the mug, the tether, "proximal reference," Friday, Drop Two. The ash settled under my hand. Malachi named the Peninsula lot. Nana said yes on her terms. We left past a Nissan that drew four strokes on its glass. The ash rode in my lap down Mission.

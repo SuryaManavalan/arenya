@@ -17,4 +17,5 @@ Susmithaa's Agatha Christie (*Curtain*) was shelved upside down among seven year
 - Falls open at chapter 17: a pink carbon temple receipt, Shiva-Vishnu Temple, Livermore, *Archana, 1 — $11.00*, dated the second Sunday of March (three days after her warning to Ravi); name line "S. Sowri", nakshatra written as **Arenya's** birth star. [#0140]
 - Back, fountain-pen note: *"Ari — The lamp knows who. Itzel knows the rest. Don't let them count you. Keep your hands still until you can't. Then don't. — S. (Not too much sugar. I know.)"* Last line in fresher ink, added later. [#0140]
 - "Ari" is Susmithaa's childhood name for Arenya (unused since she was nine). [#0141]
+- **b1.c16.s01:** Nana's parish calendar fixed the date: the second Sunday of March is **8 March** (red), the day before the 9 March Meridian letter. An archana is a name and star "said into a room"; this is how Arenya was entered as 12. [#0272, #0273]
 - Amma now holds the receipt. When Arenya's hand closed on it, her palm's heat vanished for a heartbeat, returned stronger, and the lamp flame split in two for one second. [#0140, #0143]

@@ -3,6 +3,13 @@
 # visibility: public | restricted (restricted = characters don't know it yet; the human always sees it)
 # kind: home | work | landmark | spirit | rift | facility | death-site | other
 places:
+  pacifica-pier:
+    name: Pacifica Municipal Pier (Sharp Park)
+    lat: 37.6296
+    lon: -122.4968
+    kind: public
+    visibility: public
+    sources: ["b1.c16.s02 #0287"]
   arenya-apartment:
     name: Arenya's studio (the Mission)
     lat: 37.7599
@@ -94,6 +101,41 @@ places:
     visibility: public
     note: Working headstone yard (chain-link fence, uncut granite blanks, in-use polishing shed). Owner Tito Boy Esposo, ~60, mundane. Public face only; the back tin shed is restricted, see colma-ledger-shed.
     sources: ["b1.c15.s09 #0214"]
+  colma-notary-and-mail:
+    name: Colma Notary & Mail (Box 112)
+    aliases: [the notary]
+    lat: 37.6838
+    lon: -122.4595
+    kind: other
+    visibility: public
+    note: Strip-mall notary two doors from Flores de la Paz, across Mission Road from the stone yard. Susmithaa's 19 March declaration notarized here; Box 112 "Meridian Mutual Services" with bait envelope. Likely the "Colma office" Hale claimed.
+    sources: ["b1.c15.s10 #0243", "b1.c15.s10 #0249"]
+  serramonte-auto:
+    name: Serramonte Auto (Serramonte Blvd., Daly City/Colma line)
+    aliases: [Benny's lot]
+    lat: 37.6700
+    lon: -122.4690
+    kind: other
+    visibility: public
+    note: Used-car lot with Polaroid corkboard; Bell's "WALT 3/19 4:51 PM CASH" photo has a frost ruled line (a window). Beaded tally-mark strip at the office door.
+    sources: ["b1.c16.s06 #0406", "b1.c16.s06 #0414"]
+  lupes-diner:
+    name: Lupe's Diner (Mission St., Colma)
+    aliases: [Lupe's]
+    lat: 37.6805
+    lon: -122.4590
+    kind: other
+    visibility: public
+    note: Ordinary diner near a florist; Bell's prepaid third coffee and "3 COF." guest check; kitchen exit to alley and cemetery road. Approximate location.
+    sources: ["b1.c16.s07 #0444", "b1.c16.s07 #0453"]
+  lupes-diner:
+    name: Lupe's (diner, Colma)
+    lat: 37.6830
+    lon: -122.4600
+    kind: other
+    visibility: public
+    note: Yellow-lit diner half a block from the monument yard; a third coffee was poured for an unseen "friend" whose steam bent.
+    sources: ["b1.c16.s06 #0438"]
   colma-ledger-shed:
     name: El Contador's ledger shed (back of the stone yard)
     aliases: [the tin shed]
@@ -165,3 +207,17 @@ places:
     kind: work
     visibility: public
     sources: [agents/ava]
+  livermore-temple-office:
+    name: Livermore Temple Office (archana/donations/receipts)
+    lat: 37.6400
+    lon: -121.7300
+    kind: temple
+    visibility: public
+    sources: ["b1.c16.s09 #0500"]
+  sri-ganesh-tiffin:
+    name: Sri Ganesh Tiffin (South Indian lunch counter, First St)
+    lat: 37.6819
+    lon: -121.7680
+    kind: restaurant
+    visibility: public
+    sources: ["b1.c16.s11 #0545"]

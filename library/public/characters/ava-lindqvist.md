@@ -22,3 +22,15 @@ related: [arenya-sowri, yuri-melnikov, tartine-bakery]
 - Phantom calendar reminder, blank title, 3:20 a.m. (the minute Amma called Arenya). [#0053]
 - Dream-log and notes-app protocol habit; flagged her fear as "not psychotic-scared, different scared." Awarded an upshift charge by the DM. [#0052, #0054]
 - Lives with a roommate who never wakes. [#0044]
+
+## b1.c16.s03 "Thirteen Days"
+- Thu 1:15 a.m. dream-log: same lamp, same flame; an old woman's hand with a ring on the **middle** finger (worn thin as wire) pinched the wick "like turning off a light in a room someone just left." Earlier she logged the **smallest** finger, so the hand may be a different one. Kitchen faucet drips exactly 60/min. [#0313, #0321]
+- Drafted but did not send a text to Arenya (saved 8:03): "the dream had your face in it." At Tartine she told Arenya aloud, calling her mother the record-holder for "crazy." [#0321, #0338]
+- Palms warm since 5:48 Wed, persistent in water. [#0321]
+- Faced Mr. Bell at the register: stopped herself writing his name on a cup, refused an "account," tested him (no breath, steam bends, flame gutters). He read her name off her tag; her **left palm now has a ~2 cm cold spot** under the warmth. Kino gave her a pinch of salt for her apron. Refused to leave her shift ("my kitchen's the only place the light likes me"). Texting code: Arenya sends a non-name word, Ava replies with a pastry ("fog" / "kouign-amann"). [#0343, #0344, #0347, #0348]
+
+## b1.c16.s09 "Altamont" (phone call, Thu; Tartine walk-in)
+- Arenya confessed by phone that she had used her as bait and apologized; Ava: "I figured that out around the time my hand went numb." Arenya told her to keep the cold spot dry and wrapped in clean cloth, no hot cups on it, avoid grey cardigan/chrysanthemum/beige Camry (call if seen), and salt her doorway. [#0496, #0498]
+- The cold spot **went warm around 9 p.m. Wed**, "like someone let go of my wrist" — when Nana Itzel signed the second "no" (Kino: the entry stopped counting her). [#0498, #0501]
+- Keeps the salt; code now **croissant = fine, kouign-amann = call me**. Declined the spare bed but asked for the address by text, not aloud. Call dropped at the Altamont summit mid-question about the cardigan. [#0498]
+- Delayed text: "okay. salt tonight. kouign-amann if anything." Arenya texted the street address + "salt on the sill." Kino: she is a "lookout" now, not bait. [#0500, #0502, #0497]

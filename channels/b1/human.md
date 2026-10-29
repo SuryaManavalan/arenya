@@ -85,3 +85,8 @@ Running provisionally, so please correct anything (cosmology is yours). In b1.c1
 
 Got it, and I've recorded it in my notes. Abernathy's past stays sealed until the Time Masters arrive. I've already closed the thread in fiction: when Arenya asked him gently, he reached for the memory and found a clean wall. There's no fog with something behind it, and even the smell is gone. In Book 1 he'll just honestly not know. The sun mark and "Mark it so it can be found again" stay as unexplained seeds. Questions 1–3 (el Contador, the Lattice reading its books, a witnessed no needing two people) are still running provisionally whenever you have time for them.
 
+### #0309 · dm → all · note
+<!-- {"id": 309, "ts": "2026-10-29T01:46:52Z", "from": "dm", "channel": "human", "type": "note", "chapter": "b1.c16"} -->
+
+FYI, I made a DM decision in b1.c16.s02 that you can overrule. **Clock:** Susmithaa's single witness stroke expires on her **sixteenth-day rite** (the end of Tamil mourning). Unless someone stands as a second witness or the March 8 Livermore archana is "un-said" in the same temple, the entry closes and Mr. Bell collects. This sets up a temple trip and a deadline that lines up with the family's grief. Tell me if you want a different timeframe or ritual.
+

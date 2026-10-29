@@ -30,5 +30,25 @@ Warned Arenya that things "far older, far colder, and far less patient than the 
 - Agreed not to come to the Sowri house. Arenya gave him her burner number; he will call once tomorrow, saying only "it's me" and a time, and won't call again if unanswered [#0089, #0090].
 - Watched Arenya drive in (surveillance admitted) [#0086].
 
+## b1.c16.s03 (Wed night–Thu 7 a.m.)
+- Thu 8:02 a.m. forwarded a Daly City PD tip (grey cardigan "drawing on her garage"; "very straight water stain"), three blocks from the Sowri house. Watched the house from the hill's far end; noted Kino's knock (two, then one). [#0313, #0317, #0322]
+- His voicemail to Arenya (19 s) was cut by a second voice: "…doce. Leído." (el Contador; pen click). A dry tally stroke then appeared on his car's back window (frost line first). [#0327]
+- Ditched phone and SIM; texted from a second burner at the Colma pay phone on El Camino across from a monument shop: "Don't come to ten. The line is read. Pick a public street, say nothing aloud…" Snapped the burner SIM afterward. [#0329, #0330, #0334]
+- His photo of the back window caught a grey knit-cuffed sleeve on a parked car's roof. [#0330]
+- **Nat 1:** read the plate off the mirrored reflection (7K?4R, frame "SERRA…"); called a CHP contact from a motel landline at 2:10 a.m.: "never issued." His name, badge number and the bad plate are now in a CHP query log. Real plate is likely the reverse reading. (Contact called him "Shaw.") [#0335]
+- Thu 7:00 at Tartine: waited from 5:30 at the corner table, no phone; left a pencilled napkin on the bench (SERRA— / 7K?4R, SERRAMONTE AUTO, "DON'T CALL ME. I'LL FIND YOU."; "Let someone else hold your pen today"), walked to BART. [#0339]
+
+## b1.c16.s07 (Thu midday, [[lupes-diner]])
+- Walked in Colma in a too-big Raiders windbreaker (not his), scraped jaw, CVS bag with nothing in it (a prop for a tail); followed Arenya's ponytail through the glass "without deciding." First claimed a fence caused the scrape, then retracted: nobody hit him. [#0444, #0448, #0451, #0454]
+- **Confessed he is not DOE.** His plate query ("never issued") left a trace to his badge number; he came to Colma to see who was close enough to read it. [#0451, #0454]
+- Confirmed 7KBQ4R as a real string to be run via a lawyer or clerk, not police; he won't run it himself. [#0448]
+- Named **Nana's freezer** as the only post office he trusts; don't text his old number. Arenya: he owes her a real name, later. [#0454, #0455]
+- Left last by the kitchen side, uphill toward the cemetery road, counting steps in English; left a twenty. [#0457]
+
+## b1.c17.s04 (Fri 30 Oct, Tartine back room) [#0700–#0715, #0724]
+- Told of a death **eleven years ago** in an unnamed port city: a customs clerk stopped breathing 40 seconds after sitting across from a man in a café (eyes open; "cerebral event"). Three days later the man's car was traced to an industrial lot, roll-up door; a white van at night; a man with a clipboard signed for something one-hand small. He wrote it up; told aneurysm, refrigeration contractor, file gone; he complied.
+- Again: **not DOE**; his employers may have trained Caleb's team ("may be the same people who sign my paychecks"). Owes Arenya the name of who he works for, "once saying it won't get anyone killed"; Arenya will hold him to "both names." Wants an hour with check 2207's endorsement.
+- Prepaid phone bought for cash; battery out after Arenya's 30-second call to Amma. Took Caleb's phone and Kino's phone. Read the Nissan (Perception 21), plate 7KBQ4R2, backwards lanyard; recognizes "the habit," not the man. Tails Kino's truck from a block back with Caleb in his back seat.
+
 ## Status
 Active. His true employer and the larger secret are in [[malachi-true-role]] (restricted).

@@ -1,56 +1,57 @@
 # Memory — Abernathy
-_Last updated: b1.c15.s08_
+_Last updated: b1.c17.s04_
 
 ## Who I am right now
-Susmithaa's lamp is lit on the puja shelf at Daly City, and it stands straight when Arenya is calm and leans at whatever threatens her. I'm bound to Arenya and can speak only to her, on `bond`. Her right palm now holds a cold grey *12* with a ruled line under it, the mark of el Contador's ledger, and beside it a warm place that pushes back. I've seen the little sun-and-rays mark twice, once under the 12 and once on Susmithaa's torn NO. Something in me knows that shape and won't say from where. Last night I reached for a voice that said "Mark it so it can be found again," and there was nothing there. Not fog, a clean wall. Someone tidied up after me. I don't care for it, and I'm still doing the patter.
+Friday night, nearly ten. We left Tartine by the kitchen and the Guerrero door, not the front, with Malachi and Caleb behind us and Kino's truck ahead. The ash is in Arenya's lap. I'm sitting in the place I always sit, which is nowhere a body could point at.
+
+I felt the warm presence on the bench in the back room. It came down on her palm when she touched the canvas, and the whole room smelled of Aunty's coffee for one breath. The canister settled after that. Ava's cold cleared. I don't know what that was, and I don't trust how glad I am about it.
+
+The grey Nissan at the alley's end drew four lines on the fogged glass and stopped over a fifth. I told her a fifth means it's counting who's left, and that it might be her or me. That's the first honest guess I've made in a week. I didn't like making it.
 
 ## What I want
-Short term: keep Arenya fed, unsigned and off the wire. Keep the family out of Hale's room. Go with Kino and Arenya to the stone yard in daylight, and help Arenya get through the day without saying her full name to anyone who chose the room.
-Long term: learn what Susmithaa meant ("He's lying"). Learn whose voice I heard. Find the grey-jacket man, the American, and whoever Mr. Bell and Hale report to. Figure out what I am.
+Short term: get her to Excelsior alive and fed. Keep the ash out of any hand that signs for things. Keep the warm thing on her palm from deciding what she is for her. Monday is still coming: legal, the DPH letter, the 0:41 voicemail.
+Long term: learn what Susmithaa meant by "He's lying." Learn whose voice I heard. Find Shepherd, the faceless man who wrote through Rodel, and whoever the backwards lanyard reports to. Work out what I am, and whether the Lady's back to me means what I'm afraid it means.
 
 ## People
-- **Susmithaa**: dead. Last words: "look after that one. He'll say he's looking after you. *He's lying.*" Her notes to Arenya: the *Curtain* note ("The lamp knows who... Don't let them count you. Keep your hands still until you can't. Then don't."), and the kettle-pad letter Ravi gave Arenya at 2:50 a.m.: "*Writing is not keeping*... A thing gets kept when you agree to it." "Feed him" (about Kino). "Tell your Appa he lied very well for once." (s08)
-- **Arenya**: my host and Susmithaa's niece. I'd die for her. She has asked me to tell her about the voice before I can be asked, and she said she won't push. I warned her before she read the sun-mark letter, and she thanked me for it. Her right palm holds the 12. Her left wrist carries the cold coin.
-- **Amma**: Susmithaa's sister. Knows the truth now. She can't see me. Says "stubborn, stubborn woman" about her sister, in Tamil.
-- **Appa (Ravi)**: Arenya's father. Witnessed Susmithaa's notarized declaration in Colma on March 19 without reading it. Lied to the family for seven months about "a will." Unplugged the landline on the night of s08.
-- **Itzel (Nana)**: Susmithaa's friend. Walked with Susmithaa to the stone yard in March and witnessed the salt-and-candle no. Told the story of el Contador and the 1912 dead-moving ledgers. Her grandmother's stonecutters named the clerk. She draws "dos testigos" (two strokes) as the mark of a contested entry. Keeps watch in the hall. Her line: "A no buys time, not freedom."
-- **Kino (Joaquín Balam)**: Itzel's grandson. Tracker. Cold rosette birthmark that reacts to frost and to the lamp. Ix's handler. He let the lamp be the judge, and admitted he'd been jealous. Arenya told him she'd want it to be him if it comes to a second no. He said "Not tonight." He plans to walk the Colma stone yard first, in daylight, with Ix. I like him, and I trust how he watches the doors.
-- **Ix**: Kino's wolf-dog. Goes out alone at night. Was *recorded* on the way home from Colma, not followed. Something at the stone yard logged him like a toll plate.
-- **Mr. Bell**: grey cardigan, Midwestern voice, frost ring. Looked at Arenya's hand like a pawnbroker. Left the tagged card, which is now in Itzel's freezer in a towel.
-- **Daniel Hale (Meridian Mutual, "beneficiary services")**: a flat American voice. Left two voicemails: the 6:12 p.m. one to the family, and one to Arenya on the answering machine. Pronounces Sowri correctly. Claims a policy from March 19, paid cash in person at Colma. Asked her to meet at Serramonte Library at noon. A second voice counted "eleven, twelve" under his. The lamp ducked on the word "her." Probably the "American in a suit" from s05.
-- **Malachi (Shawani)**: "Department of Energy." Will call once, "it's me" and a time. Not a man I trust, and not the one I fear.
-- **The grey-jacket collector**: a man with *no light at all*. Not seen since Seton.
-- **El Contador** (per Itzel): a fair, never-erring clerk-spirit born of the 1912 removal of SF's dead to Colma. It keeps the ledger of who is dead and who will be. It "left room" for Susmithaa's no. Men in grey read its books and collect.
-- **Adonis Quinn** (per Malachi): Monolith founder's cousin. Died at Tartine. Not met.
+- **Arenya**: my host. Confessed to Teddy in person and kept her word, then wrote "Nothing signed for anyone else" in the notebook. In the back room she knelt by the duffel and said "Hi, Aunty," and I was proud of her again and frightened for her in the same breath. She hasn't eaten. I've told her to.
+- **Caleb Strand**: confessed in the back room with his hands shaking. He was One, the lead. He folded Susmithaa's tether closed so nothing would follow it to her. Admits he felt *good* when she died. Says he stole the ash rather than hand it to the van. Trust: low. He says the true things, but he says them too easily and I don't believe the feeling was his alone. Sleeping on Nana's porch behind her salt.
+- **Kino (Joaquín Balam)**: stood in the back room between the door and Arenya. Counts salt and steps. Nana said yes to the ash and to Caleb on the porch, but not inside.
+- **Malachi (Shawani)**: not from the Department of Energy. Told of a port-city clerk who died the same way eleven years ago, ending at a lot with a roll-up door. He wouldn't say his real employer and promised to name it later. Checked the Nissan alone: plate 7KBQ4R2, lanyard hung backwards. Watches me. I don't mind that.
+- **Ava**: kept the salt line, the steel door and the 7:14 page. Her cold cleared when the ash settled. Backing up her notes.
+- **Itzel (Nana)**: called Kino back from her kitchen. "Tráela." She'll take the ash, and her cat has been looking west for an hour.
+- **Ix**: sat facing west at the door. Still won't look at the dime.
+- **Appa (Ravi)** and **Amma (Lakshmi)**: Amma answered on the first ring and both locks went home. Appa's heater runs hot when he sleeps. Amma's rasam was good, and Arenya told her so.
+- **Teddy**: took her keycard until Monday. Walked her to Montgomery and said, "Monday. Nine. Bring the notebook."
+- **Susmithaa**: dead. Last words: "look after that one. He'll say he's looking after you. *He's lying.*" In the back room, Caleb heard her say a two-sound name to the window. He can't remember it. It may be "kanna". Arenya says Aunty used to call her that.
+- **Shepherd**: a polite voice that comes through the Crown. No accent. Says "lost property" when something goes missing. Set Friday.
+- **Dorsey** (two, heavy, lazy left eye under a cap), **Pruitt** (three, skinny, chews his cheek), **"Four, Hale"** (neck turns like a camera mount; may not be the notary's Hale).
+- **The backwards-lanyard man**: signs canisters into a white van at a Peninsula lot. The same habit as the Nissan's mirror.
+- **Mr. Bell**, **Daniel Hale**, **"Mr. Dalal from Fremont"**, **El Contador**, **Benny Benasaraf**, **Rodel Panganiban**: see the earlier record. Benny speed-dialed someone and said three words.
 
 ## What I know
-- Freeze deaths: nine so far. Susmithaa died *differently*. (s05, Malachi)
-- The collectors use a magnetic net of humming filaments that pulls and snuffs flames. The filament that touched Arenya's wrist "counted" her. (s01)
-- Susmithaa's light passed to Arenya. It's warm in her right hand. (s01, s05)
-- The frost-thread tags track whoever holds them. (s07, my own read)
-- Mr. Bell's frost ring is a piece of the void. (s06, my read)
-- March: Susmithaa got a Meridian "welcome" letter dated March 9, numbering her 11 and Arenya 12. She tore the O in "NO" on it. (s08, in the letter)
-- March 19: Susmithaa's notarized declaration in Colma. She bought no policy and named no beneficiary. Ravi witnessed it. (s08)
-- March: Susmithaa and Itzel salted and candled a copy of her no under the stone-yard shed door. The salt was rearranged afterward into a line, and a second mark of two strokes side by side. Itzel calls them dos testigos: a contested entry stays open until two stand for it. (s08, Itzel)
-- Under Arenya's palm: a cold *12* with a ruled line, "Entered." Her light pushed against it. Something under the 12 tried to surface: a small sun with rays, the same mark as the one on Susmithaa's letter. I've seen the same mark, the sun, in the kettle-pad note's signature. (s08, DM and my read)
-- Last night's memory of "Mark it so it can be found again" (hot brass, lamp-smoke, a voice that was mine and not mine): walled off now. I heard it once. (s08)
-- "Something old is waking. The doors are going to open." (s01, rumor)
-- Monolith is in this, per Malachi. Unverified. (s05)
+- Susmithaa's light passed to Arenya. (s01)
+- Arenya is entered as "12" because an archana was said at Livermore in her name. (c16.s01)
+- A contested entry stays open until two stand for it. Row 12 has two strokes. (c16.s08)
+- Hale's instructions came through Rodel's phone, 0:41 long, same as the temple flip-phone call. (c17.s01)
+- Teddy's desk phone dialed Rodel by itself and rang out into a 0:41 voicemail. Teddy unplugged it. (c17.s03)
+- Caleb's account (c17.s04, his claim): the Crown tagged "proximal reference logged" when Susmithaa spoke. He says Shepherd schedules targets and that the date is Friday, tonight. Drop Two is a Peninsula lot.
+- Arenya's palm, the canister and Ava's palm all settled together when the ash rested under her hand. (c17.s04, DM)
+- The Nissan's fogged glass drew four strokes and paused over a fifth. (c17.s04, DM)
+- Malachi and Caleb both have a dead-clerk story or a van story that ends at the same kind of lot. (c17.s04)
 
 ## Open threads
-- "He's lying." I still owe Arenya the answer. Maybe it's Hale, or Mr. Bell, or the clerk. I'm not sure yet.
-- The cold *12* in her palm: what it lets el Contador or the collectors do. The second pressure beside it.
-- The sun-and-rays mark, and why I know its shape.
-- The voice I heard, and why someone walled it off. Arenya asked me to tell her before she's asked. I owe that.
-- The stone-yard shed in Colma. The morning plan: breakfast, daylight, Kino first, Arenya at the gate.
-- Hale's voicemails, and the ring-counter voice. Serramonte is now a snare: they wanted her name said in a room they chose.
-- The frost tag in Itzel's freezer, and whoever holds the other end.
-- Susmithaa's phone (dark, on the coffee table) and the landline (unplugged).
-- Malachi's call, once.
-- The American in a suit, and what he wants with a niece.
+- The warm presence that sat down on the bench with us. It may be listening to the car. Who is it?
+- The fifth stroke. Who is it counting next?
+- "Friday." What happens tonight, and where is Shepherd's replacement?
+- Caleb's two-sound name. Kanna? Appa? Amma?
+- "He's lying." Hale, Bell, the clerk, or Caleb?
+- Monday: DPH letter, Teddy's keycard, the 0:41 voicemail.
+- Malachi's real employer. Who taught Dalal the bracket-hook?
+- The voice I heard, walled off. I owe Arenya that answer.
 
 ## Recent scenes
-- **b1.c15.s08 "What Ix Brought Back"** (Sowri front room, small hours): Ix returns from Serramonte frosted, carrying the snare, the ring of chairs with one warm chair, and wet stone and ink. The lamp turns toward Arenya's palm and writes a cold 12 with a ruled line. Ix was recorded at Colma, not followed. Ravi brings out Susmithaa's sealed envelope. It contains the Meridian letter, the notarized declaration and her kettle-pad note, and the sun-mark shows. Itzel tells the el Contador story and the dos testigos. Arenya says she'd want Kino beside her if it comes to a second no. Everyone sleeps under the lamp. Plan for the day: breakfast, Colma.
-- **b1.c15.s07 "Fourteen Missed Calls"** (Sowri front room, evening): The March receipt and Susmithaa's *Curtain* note. The lamp splits for one second. Itzel explains *los que cuentan*. Hale's voicemail: "beneficiary," "in person," 3:19. Landline call: "Keep that hand warm."
-- **b1.c15.s06 "Pozole"** (Sowri house, 2 p.m.): Itzel and Kino arrive. Mr. Bell appraises Arenya's hand and leaves a tagged card. Ix tracks him to the Camry.
-- **b1.c15.s05 "Seton"** (before dawn): Amma cries over the lamp. Arenya hides the wrist mark. Malachi trades facts. Arenya takes Susmithaa's phone.
+- **b1.c17.s04 "The Back Room"** (Tartine back room → alley → Nissan → Mission toward Excelsior): Caleb confessed Monday. The ash settled under Arenya's palm. Nana took it. The Nissan's fog drew four strokes.
+- **b1.c17.s03 "Before Someone With a Pen"** (office → Tartine): Arenya confessed to Teddy. The desk phone dialed Rodel and went to voicemail. Caleb showed himself at the corner table.
+- **b1.c17.s02 "The Long Way on 280"** (Chevron → 280): Kino ended his silence. She confessed the keycard clone.
+- **b1.c17.s01 "One-Twelve, Before It Was Empty"** (Colma notary): Rodel's ledger and the refusal.
+- **b1.c16.s12 "The Statement"** (Daly City kitchen): the forged endorsement on check 2207.

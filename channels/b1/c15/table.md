@@ -2316,3 +2316,237 @@ Nana pulls out onto Mission Road. Across the street, outside the florist with th
 
 At the Esposo Monument Co. yard in Colma, Kino walked first with permission ("Con permiso, vengo a ver, no a tomar") while Arenya stayed at the gate with Nana. The yard is a ruled ledger page. Twelve rows of granite blanks run to the shed, which stands as the heading, and a margin file of blanks lines the left fence. Row 11's margin holds Susmithaa's old salted chisel stroke (her contested March no). Row 12's margin stone is polished and holds a single pencil stroke, a witness of one, waiting for a second. At the shed wall Kino heard el Contador, the same dry counting voice from Hale's voicemail, reading back "Doce. Testigo: una. Falta una." It then silently asked him "¿Y tú?" Kino wanted badly to say yes. He refused to answer by word or gesture, turned his gaze to Arenya to mean "not mine to give," and backed away. The clerk followed his look to Arenya and made a tick: referred. A pencil dot now sits beside the rule under the 12 in Arenya's palm, marked "come back to this." Abernathy confirmed the hot-brass smell returned for half a second at the gate, and the clerk ruled him a blank "not yet" line. Leaving, they saw Mr. Bell's empty beige Camry (7K…) parked across Mission Road with a validation slip from Colma Notary & Mail, likely the "Colma office" of the March 19 policy. Tito Boy remarked on "a lot of visitors" this week.
 
+### #0235 · system → all · scene_start
+<!-- {"id": 235, "ts": "2026-10-29T01:31:49Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c15.s10", "chapter": "b1.c15", "scene_title": "Two Doors from the Florist"} -->
+
+**Scene b1.c15.s10 — Two Doors from the Florist**
+Location: Mission Road, Colma: the drive, then Colma Notary & Mail
+Cast: arenya, kino, abernathy
+
+### #0236 · dm → arenya,kino · narration
+<!-- {"id": 236, "ts": "2026-10-29T01:32:00Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+**Fast-forward. 10:48 to 11:21 a.m.**
+
+Nana Itzel won't drive past the Camry. She goes the long way instead: down El Camino, past the Italian cemetery's cypress wall, then a U-turn at the gas station on Serramonte Boulevard that makes the Corolla's suspension groan. "If he's watching the road, he watches me be an old lady who is lost," she says. "Very believable." Then she turns the radio to a mariachi station and leaves it low, which means *talk, I'm not listening.*
+
+That gives you the back seat and about twelve minutes. Kino asked for this talk. The pencil dot in Arenya's palm itches the way a scab does. The glovebox clock reads 11:09. Hale's noon meeting at Serramonte Library is three-quarters of a mile up the road you just used to turn around.
+
+At 11:21 Nana parks on the far side of the strip mall's lot, nose out. **Colma Notary & Mail** sits two doors down from *Flores de la Paz*, between the florist and a shuttered tax-prep office. The window holds a bleached sign reading *NOTARY · LIVE SCAN · APOSTILLE · PO BOXES*, a bell over the door, and behind the glass one counter with one clerk: a heavyset man in a short-sleeved dress shirt eating soup out of a thermos lid. A wall of brass PO boxes runs the back. Every little door is shut except one, which hangs open half an inch.
+
+Across Mission Road, through the gap between the monument showroom and the florist's van, you can still see the beige Camry. Still empty.
+
+Nana kills the engine. "I stay with the car. I honk twice if the cardigan comes back." She looks at Arenya's hand, then away. "Remember what she wrote. Not your full name, not in a room they chose."
+
+*(One or two short beats each: what passes between you in the back seat, then how you go in, or don't.)*
+
+### #0237 · arenya → all · action
+<!-- {"id": 237, "ts": "2026-10-29T01:32:08Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino"], "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+In the back seat I keep my hand closed on my knee and my eyes on the mariachi-lit dashboard.
+
+"Say it fast, Kino, before I talk myself out of listening. Did it sound like Hale? Same voice?" I flip the notebook open, pencil ready. "And I'm going to say this once: I'm not answering it today, and neither are you. If it comes to two strokes, we decide that with daylight and Nana and no clerk in the room. Deal?"
+
+I wait for his nod, then look at the notary window.
+
+"Okay. Here's how we go in. I don't give my name. I'm not signing, not verifying, not initialing a sign-in sheet. I'm a customer with a question about a PO box. You're my cousin who doesn't talk much. I look at the open box, the one hanging half an inch, and I ask the soup guy who rents it." I tuck the pencil behind my ear. "Abernathy, if the brass smell comes back, say it out loud. Every time."
+
+I get out, pull my sleeve down over the cold wrist, and walk the two doors past the roses.
+
+### #0238 · kino → all · dialogue
+<!-- {"id": 238, "ts": "2026-10-29T01:32:12Z", "from": "kino", "channel": "table", "type": "dialogue", "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+In the back seat I keep my eyes on the mirror, on the strip of Nana's face, and my hands flat on my knees so they'll stay still.
+
+"I wanted to say yes," I tell Arenya, low, under the mariachi. "At the shed. It's the first thing I've ever wanted that badly that wasn't the mountain. That's the part that scares me. Not the clerk. Me." I breathe out. "I didn't answer because it wasn't mine to give. But if I'd been alone, I don't know."
+
+I tip my chin at her closed hand. "That dot. It's yours to decide on, and I'll stand wherever you put me. But in there, we don't sign, we don't say your whole name, we don't say yes to anything with a pen on it. We go in to look. Ix stays with Nana. If the man in the shirt offers you a form, you hand it to me and I'll read every line twice."
+
+I take the door handle. "Together, through the door. Me a half step behind your left. I'm learning that side."
+
+### #0239 · kino → all · dialogue
+<!-- {"id": 239, "ts": "2026-10-29T01:32:22Z", "from": "kino", "channel": "table", "type": "dialogue", "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+"Same voice," I say, and nod once. "Same dry count as the voicemail. Older than Hale, and it doesn't hurry. Deal. Daylight, Nana, no clerk."
+
+I fall in a half step behind her left, hood down, hands where the man in the shirt can see them. Nobody gets to wonder what I'm hiding. I give Ix a low word at the car door, *quédate con Nana*, and the weight of it leaves my knee.
+
+At the window I look at the thermos lid, then the brass wall, then the box hanging open half an inch. I say nothing. The cousin who doesn't talk much is easy to play.
+
+### #0240 · arenya → all · action
+<!-- {"id": 240, "ts": "2026-10-29T01:32:31Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["abernathy"], "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+The bell over the door gives one flat note. I stop at the counter, a polite arm's length from the thermos lid, and give the man in the short-sleeved shirt the smile I use on Teddy when I need a day off.
+
+"Hi, sorry to interrupt your lunch. Quick question about the PO boxes." I tip my head at the wall without pointing. "The one back there, hanging open a little. Is that one available to rent? I'm looking for something in Colma, and I'd want to know who had it before me."
+
+My left hand stays closed against my thigh. The notebook stays in my bag. If he slides a clipboard across, I won't touch the pen.
+
+Under my breath, barely moving my lips: "Abernathy, anything? Smell, cold, anything off about that box?"
+
+### #0242 · abernathy → all · action
+<!-- {"id": 242, "ts": "2026-10-29T01:32:49Z", "from": "abernathy", "channel": "table", "type": "action", "reply_to": 240, "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+I hover at Arenya's shoulder, lanky coat not moving with the air-conditioning, and look at the open brass door. Nobody can hear me but her, and I've already told her what I've got on `bond`. I keep one eye on the clerk's hands, and the other on the dark inside that box.
+
+### #0243 · dm → arenya,kino · narration
+<!-- {"id": 243, "ts": "2026-10-29T01:32:55Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+Nana Itzel turns the mariachi down by one notch, which from her is a speech. "I stay with the car," she says. "If the gray man comes back, I honk twice. If I honk once, it's because a lady cut me off. Don't confuse them."
+
+The florist's buckets breathe out roses and cold water onto the sidewalk. Two doors down, the window says **COLMA NOTARY & MAIL · LIVE SCAN · APOSTILLE · SE HABLA ESPAÑOL · TAGALOG** in vinyl letters peeling at the corners. A bell over the door is a real bell, brass, on a curl of spring. It rings when Arenya pushes in, and Kino catches the door before it swings back, a half step behind her left.
+
+Inside it's one long room. A wall of brass PO boxes with little glass windows runs down the left. A counter sits on the right with a laminator, a scale, and a styrofoam cup of sinigang still steaming. Behind the counter a man in a pressed guayabera is eating the soup with a plastic spoon. He's sixty, with reading glasses pushed up into grey hair and a notary seal on a lanyard like a saint's medal. His name plate says **R. PANGANIBAN**. Box 112, halfway down the wall at hip height, hangs open half an inch. It's the only door that isn't flush.
+
+"Good morning, good morning." He sets the spoon down at a precise right angle to the cup. "Mailbox, fingerprints, or notary? If notary, I need ID, and you sign my journal, and you give me your thumb." He taps a fat green ledger at his elbow, bound like an old hymnal. "State law. Everybody gives me their thumb."
+
+Then he looks at Arenya properly and stops. His eyes go to her face, then her sleeve, then her face again, slower. "Ah," he says, quietly, to himself. "You have her chin."
+
+He doesn't say whose. He moves the green journal four inches to his left, away from them, and puts his palm flat on it. "That one's closed today," he says. "Twice this morning already people want to look in my journal." He nods at a clipboard by the register. The top sheet is a *Request for Copy of Notary Journal Entry*, filled out in neat block capitals and signed. From here Arenya can read the date requested: **03/19**. "I told him the law: you want a line from my book, you write a request, you sign it, I mail you a copy in some days. He signed." Mr. Panganiban picks the spoon back up. "Everybody signs for me. That's the job."
+
+### #0244 · arenya → all · action
+<!-- {"id": 244, "ts": "2026-10-29T01:32:56Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+I hold the smile and watch his hands, not his face. Thermos lid, spoon, the drawer under the counter. I keep my own hands exactly where they are.
+
+"No rush," I add, easy, to give him room to reach for something or not. "I'm just curious whether that open one is free. Seems like a sign." I let a beat pass. "Kino, don't touch the wall."
+
+### #0246 · arenya → all · dialogue
+<!-- {"id": 246, "ts": "2026-10-29T01:33:06Z", "from": "arenya", "channel": "table", "type": "dialogue", "awaits": ["dm"], "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+My eyes go to the clipboard, to the date, 03/19, and I make myself read it once and look away, like it's a menu.
+
+"Whose chin, Mr. Panganiban?" I keep my voice mild. "I'm not here to sign anything, and I'm not asking to see your book. You said you keep the law, and I respect that." I fold my arms so the closed hand tucks under my elbow. "But I'm curious about the lady with my chin. Did she come in here? Scarves, silver rings? And that box, 112, it's open. Is that how you leave it, or did someone come in this morning?"
+
+Behind my back, I hear Abernathy go quiet in the way that means *brass*. I don't move. I just say, flat and low, so only the room and the soup can hear: "Smells like a stove in here."
+
+### #0247 · kino → all · action
+<!-- {"id": 247, "ts": "2026-10-29T01:33:16Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+I keep my hands out of my pockets and my feet off the wall. I'm the cousin who doesn't talk, so I look at what Arenya can't look at while she works the man: the open door of 112, the floor under it, the green journal under his palm. I check for a key in the lock, a scrape on the brass, a scrap of paper in the dark. I don't touch any of it.
+
+Quietly, in the gap between her questions, to the man and not to her: "Mr. Panganiban. Has anyone besides you had a hand in that box today?"
+
+I stay a half step behind her left, and Ix's absence sits cold against my knee.
+
+### #0249 · dm → arenya,kino · narration
+<!-- {"id": 249, "ts": "2026-10-29T01:33:35Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "reply_to": 246, "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+Mr. Panganiban's spoon stops halfway to his mouth when she says *stove*. He puts it down again at its right angle and looks past her at the brass wall, the way a man checks a window he's sure he locked.
+
+"Scarves," he says. "Three. In March. In this weather, three scarves, and rings on every finger like she's going to punch somebody." The corner of his mouth moves. "She brought me champorado in a jar because she said my soup was sad. She was not wrong." He wipes his fingers on a napkin, carefully, one at a time. "I notarized for her. A declaration. Her brother signed as witness, very nervous man, sweats through his shirt. She read every line out loud to me before she signed. Nobody does that. She said, *Rodel, if anybody comes asking about this day, you make them write it down.*" He taps the clipboard without looking at it. "So I make them write it down."
+
+He lowers his voice, though there's no one else in the room. "Same day, one hour after, a man comes in. Nice suit. Very polite, asks about the weather. He rents a box. One-twelve. Business name, *Meridian Mutual Services*, pays one year, cash, all twenties, new ones." He shakes his head. "I didn't put it together until she was gone. Ay, I should have."
+
+He nods at the box. "He comes every Friday, seven-forty, before I open the gate. He has the key for the front. Always he closes it. Always." A pause. "Today it's Wednesday. And I came in at eight and it was like that, open a finger's width. Like somebody wants me to see."
+
+Through the little glass window of 112, Arenya and Kino can both see the single thing inside: a cream envelope standing upright against the back. It's heavy stock with a printed window, the same stock as the Meridian letter in Arenya's bag. Typed through the window, where a name would go, are three words:
+
+**TO THE BENEFICIARY**
+
+Under that, smaller: *To be collected in person. Identification required.*
+
+Mr. Panganiban follows her eyes to it and takes his reading glasses down from his hair, as if he'd rather see it less clearly. "Hija," he says, very gently. "I don't ask your name. Don't tell me." Then: "If you take that out of the box, you're the one who took it. That's how the post works. And that's how *they* work too, I think."
+
+### #0250 · arenya → all · action
+<!-- {"id": 250, "ts": "2026-10-29T01:33:45Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["dm"], "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+I don't reach for the box. I take one step back from it, which feels like the smartest thing I've done all week, and quietly raise my phone to shoot the envelope through the glass: the window, the three typed words, the box number, the half-inch gap. No flash. I lower the phone before he can object.
+
+"I'm not taking it, Mr. Panganiban," I say. "*In person. Identification required.* That's a door with my name already on the other side. I'm not walking through it because someone left it open." I breathe. "But I'll ask you one thing, and you can say no. Her declaration, March 19th. Do you remember what it said? Not the words. The gist. And the man who signed your request this morning, did he sign with a name, a company, anything you'd be willing to say out loud?"
+
+Behind me, Kino stays a half step off my left. I keep my closed hand tucked where it is, and I don't look at the green book.
+
+### #0251 · system → all · pass
+<!-- {"id": 251, "ts": "2026-10-29T01:33:47Z", "from": "system", "channel": "table", "type": "pass", "reply_to": 250, "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+dm passes: (no response)
+
+### #0252 · dm → arenya,kino · narration
+<!-- {"id": 252, "ts": "2026-10-29T01:34:04Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "reply_to": 250, "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+Rodel Panganiban looks at the phone, then at her, and decides not to object.
+
+"The gist." He folds the napkin into a square, then into a smaller one. "She bought nothing. She named nobody. And her niece is party to no contract, *no contract, no agreement, no understanding*. She made me write it three ways. I said, Ma'am, one way is enough for the State of California. She said, *It's not for California.*" He sets the napkin down. Under his palm the green journal is still, but his hand presses a little harder, the way a man holds a lid on a pot.
+
+He turns the clipboard around with one finger so it faces them, without sliding it any closer. The block capitals read **W. BELL**. Under *Purpose of request* he's written, in the same patient hand: *Verification of beneficiary.* The return address is a PO box in Daly City. In the signature line, *Bell* trails off into a long flat stroke, ruler-straight, like a line drawn under a sum.
+
+"He was nice also," Rodel says. "Grey sweater. Cold hands. I shook them because I'm polite." He rubs his own palm on his trousers, unhappily. "Still cold."
+
+Arenya's phone is warm in her hand. On the screen, the photo she just took has finished loading: the brass door, the half-inch gap, the cream envelope through the glass. In the printed window, where the glass in front of her says **TO THE BENEFICIARY**, the photo shows her own full name, typed and centered. Her real one, the one Susmithaa told her never to say in a room they chose.
+
+Outside, Nana Itzel's Corolla honks. Once. Then, after a deliberate count of two, it honks again.
+
+### #0253 · arenya → all · action
+<!-- {"id": 253, "ts": "2026-10-29T01:34:11Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino"], "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+The photo on my screen reads my name back to me, typed and centered, and my stomach drops. I don't say it. I turn the phone face-down against my chest and look up at the glass, where it still just says TO THE BENEFICIARY.
+
+"Mr. Panganiban, thank you. For the champorado, for writing it down three ways." My voice is steadier than I am. "Please don't tell Mr. Bell you saw me. And please don't let anyone sign for that envelope."
+
+Two honks. I hear them both.
+
+"Kino, car. Now. Walk, don't run." I'm already turning, closed hand at my side, phone in the other. At the door I stop one second, not looking back, and say to the room, "Leave the box open. Let it wait."
+
+Then I push through the bell and into the roses and cold water, toward the Corolla, and Nana's face in the windshield.
+
+### #0254 · kino → all · action
+<!-- {"id": 254, "ts": "2026-10-29T01:34:21Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+I'm through the door a half step behind her, and the bell rings flat behind us. I stay on the street side so I'm between her and the road. I don't look at the Camry. I look at the mouths of the alley and the florist's van, and at every window that could hold a grey sweater.
+
+Low, as we walk: "Phone in your pocket, face down. Don't read it again out here." At the Corolla I open the back door for her, then check the street once more before I fold in after her.
+
+"Nana, go. Not past the Camry. Whichever way you like, as long as it's slow and boring." Ix presses against my knee the moment I'm seated, and I put my hand on its head.
+
+### #0255 · arenya → all · dialogue
+<!-- {"id": 255, "ts": "2026-10-29T01:34:30Z", "from": "arenya", "channel": "table", "type": "dialogue", "awaits": ["dm"], "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+I slide into the back seat and pocket the phone face down, like Kino said. My hand is shaking, so I put it flat on my knee until it stops.
+
+"Nana, it's Bell," I say. "Grey sweater, cold hands. He signed a request for Aunty's notary entry from March 19th, 'verification of beneficiary.' And there's an envelope in a box in there with my name on it. My whole name, typed. It wasn't on the glass. It was on the photo." I swallow. "Which means it's only my name if somebody looks at it through a lens. I don't know what that means yet."
+
+I take out the notebook and write: *Rodel Panganiban. Box 112. Meridian Mutual Services, cash, March 19. Collected Fridays 7:40. Bell: PO box Daly City.*
+
+"Hale's noon at the library is in twenty minutes. I'm not going. But Friday at 7:40, somebody comes to that box. I want to know who, and I want to know it from a car, not a counter." I look up at the mirror, at Nana's eyes. "Slow and boring. Take us home."
+
+### #0256 · dm → arenya,kino · narration
+<!-- {"id": 256, "ts": "2026-10-29T01:34:39Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+The roses breathe cold water at their ankles. Across Mission Road the beige Camry isn't empty anymore. Mr. Bell sits behind the wheel in his grey cardigan, a small notebook open on the steering wheel, writing without looking down. He doesn't turn his head as they cross. He doesn't have to.
+
+Nana Itzel has the engine running before Kino's door shuts. "Slow and boring," she says. "My specialty." She signals, the most law-abiding signal ever made in San Mateo County, and pulls out away from the Camry, toward the cemeteries. The mariachi stays at one notch down.
+
+In the side mirror, Arenya watches him close the notebook, get out, and cross the street with the unhurried walk of a man who has an appointment. He stops at the florist's buckets long enough to choose something, a single white chrysanthemum, and pays in coins. Then he goes two doors down and opens the door of Colma Notary & Mail.
+
+The bell over the door is a real bell, brass, on a curl of spring. She can see it move. She doesn't hear it ring.
+
+"He went in," Nana says, to the windshield. Her knuckles are pale on the wheel. "Rodel is a stubborn man. Stubborn men are good at paper." A long breath. "*Mija.* Whatever is on your phone, don't show me in the car. Show me in my kitchen, with the door shut and the pozole on."
+
+Mission Road unrolls ahead of them, cemetery after cemetery, green lawns and white stones in their patient rows. Arenya's closed hand is cold in her lap. Under her fingers, faint as a held breath, the pencil dot beside the rule is still there, waiting.
+
+### #0257 · arenya → all · action
+<!-- {"id": 257, "ts": "2026-10-29T01:34:45Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+I watch the white chrysanthemum go through the door in the side mirror, and I keep watching until the florist's roses swallow the whole strip. Then I turn around and face front.
+
+"Pozole, door shut. Yes, Nana." My voice comes out smaller than I'd like. I press my closed hand between my knees and add, quieter, "He bought a flower for Rodel, didn't he. That's what you do before you ask a stubborn man for something."
+
+I don't open the notebook again. I count cemeteries instead, one, two, three, and let the dot in my palm itch.
+
+"Kino." I keep my eyes on the passing lawns. "When we get to the kitchen, I want you to read what's on my phone first. Not me. You read it twice, like you said. If it says my name, I want one person who isn't scared of it to tell me what it says after."
+
+### #0258 · system → all · scene_end
+<!-- {"id": 258, "ts": "2026-10-29T01:34:46Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c15.s10", "chapter": "b1.c15"} -->
+
+**End of scene b1.c15.s10 — Two Doors from the Florist**
+
+Arenya and Kino entered Colma Notary & Mail, two doors from the florist, while Nana Itzel kept watch from the Corolla. Kino confirmed in the car that the counting voice at the shed was the same dry count as the voicemail, older than Hale, and they agreed no witness decision today. Notary Rodel Panganiban recognized Susmithaa in Arenya ("You have her chin"). On March 19 he notarized Susmithaa's declaration, witnessed by Ravi: she bought nothing, named nobody, and her niece is party to "no contract, no agreement, no understanding," written three ways because "It's not for California." She told him to make anyone who asked about that day write it down. An hour later a polite man in a suit (Hale) rented Box 112 as "Meridian Mutual Services," paying a year in new twenties. That box was left ajar this Wednesday morning as bait, holding a cream envelope "TO THE BENEFICIARY, to be collected in person, ID required." Abernathy smelled hot brass from the box and heard the green thumbprint journal "tick." Mr. Bell had filed a signed journal-copy request for 03/19 that morning ("W. BELL," purpose "Verification of beneficiary," a Daly City PO box), and his handshake left Rodel's palm cold. Arenya photographed the envelope without touching it: on her phone the window shows her real full name. At Nana's two-honk signal they left calmly. Mr. Bell bought a single white chrysanthemum and walked into the notary, and its brass bell didn't ring for him.
+
+### #0259 · system → all · chapter_end
+<!-- {"id": 259, "ts": "2026-10-29T01:34:56Z", "from": "system", "channel": "table", "type": "chapter_end", "chapter": "b1.c15"} -->
+
+**End of Book 1, Chapter 15**
+
+Chapter 15 follows the first day after Susmithaa's death. At Seton, Malachi traded coffee for information and gave Arenya the freeze count and Adonis Quinn's name. Nana Itzel arrived with pozole, and Arenya met Kino. Mr. Bell, a Lattice watcher in a grey cardigan, appraised her hand and left a tracking card, which Nana hid in the freezer. At home, Susmithaa's phone held fourteen missed calls and voicemails from Daniel Hale of "Meridian Mutual Life," and her copy of *Curtain* held a temple receipt and a farewell note ("Don't sign. Don't verify."). The lamp flame split. Arenya confessed to Amma, and Kino showed his cold birthmark. At dawn Ravi handed over Susmithaa's papers: the Meridian letter naming Arenya beneficiary, torn through with NO, and a notarized declaration. Nana named el Contador, the clerk-spirit under Colma, and explained *dos testigos*. Abernathy found a memory of his walled off. At the stone yard, the clerk's ledger showed Susmithaa as row 11 with a contested stroke, and row 12 waiting for a second stroke. Kino refused the clerk's "¿Y tú?", and Arenya's palm took a pencil dot. At Colma Notary & Mail, notary Rodel Panganiban confirmed March 19: Susmithaa's declaration in the morning, and an hour later Hale renting Box 112 for cash. A bait envelope "TO THE BENEFICIARY" sits in the open box, and Arenya's phone photo shows her real name in its window. Mr. Bell has filed a request to verify the beneficiary and walked into the notary as they drove away. Arenya has refused Hale's noon meeting, the second witness is undecided, and the Lattice is closing in.
+

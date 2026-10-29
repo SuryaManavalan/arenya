@@ -22,6 +22,15 @@ A clerk-spirit of the Colma valley, born of the 1912 removal of San Francisco's 
 - Second salt mark: see [[dos-testigos]].
 - Mundane layer: Colma, California, the town of cemeteries (more dead than living); stone yards, flower shops, notary office (Susmithaa's declaration, 19 March, "by the flower shop").
 
+## Stone-yard visit (b1.c15.s09)
+- The shed stands: corrugated tin at the back of [[colma-stone-yard]], door facing away from the street, pale salt crust under the gap; tin above wiped clean, recently used by someone careful. Pen sound "since 1912." [#0215, #0226, #0229]
+- The yard is ruled like a ledger page: a faint grey line at identical height across every blank. Twelve rows run to the shed (the "heading," where row 13 would be); a margin file of narrower blanks stands along the left fence. [#0226]
+- Row 11 margin: Susmithaa's old salted chisel stroke; line dips there ("entered and argued with"). Row 12 margin: polished, only finished face in the yard, one pencil stroke, a witness of one awaiting a second. [#0226]
+- Voice at the wall is the same dry voice as Hale's voicemail (under Hale's): "…once, entered. Once, contested. Sostenido por una. Doce. Testigo: una. Falta una." Silently asked Kino *¿Y tú?* [#0229]
+- Kino refused to answer by word or gesture, and looked to Arenya ("not mine to give"). The clerk followed the look and made a tick: **referred**. A pencil dot (clerk's "come back to this") now sits beside the rule under the 12 in Arenya's palm. [#0230, #0232]
+- At the gate it ruled a blank line for Abernathy/Ix: *not yet*, puzzled, not hostile. [#0217]
+- Heard to be unhostile and procedural; attention now rests on Arenya.
+
 ## Open questions
 - Relationship to the Sleeping Lady / dark-land lineage; whether the Lattice has a bargain with it.
-- Whether the shed still stands (Arenya and Kino plan to visit in daylight).
+- Who has been entering the shed recently (Bell? Lattice?). Tito Boy: "busy this week, lot of visitors."
