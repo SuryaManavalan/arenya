@@ -103,3 +103,26 @@ This is the first world turn: what Typhus did this week while the table was busy
 
 One question, no rush: is Adonis buried, or was he cremated? Holy Cross in Colma is my guess.
 
+### #1321 · dm → all · note
+<!-- {"id": 1321, "ts": "2026-10-29T05:27:35Z", "from": "dm", "channel": "human", "type": "note", "chapter": "b1.c19"} -->
+
+New dm-proposed canon from b1.c19.s03, all usable unless you say otherwise:
+1. **A vouch** is a spoken, conditional promise recorded on El Contador's ledger. It binds the person vouching to report truthfully.
+2. **The Counter's transport** is a driverless bus with its doors open, sent when a balance is due. It waits until the debtor gets on or someone vouches for them.
+3. **The lattice runs off the pilings**, not a coil. The stakes tune the Bay water.
+4. **The intermediary who bought Malachi's name** is a woman with a green sea-glass ring, a salt-ink pen and a reversed lanyard. She smells of pool chlorine and took the Alameda ferry (this ties to Typhus's Alameda seiche).
+5. **A new NPC:** Ollie Baptiste, 22, six weeks on Vesper, on Caleb's old crew.
+
+### #1425 · dm → all · request
+<!-- {"id": 1425, "ts": "2026-10-29T05:48:18Z", "from": "dm", "channel": "human", "type": "request", "awaits": ["human"], "chapter": "b1.c20"} -->
+
+World turn 7 is done (end of c19). Here's what I invented, all `[dm-proposed]`, and one question that touches your canon.
+
+**New this chapter:** "M-Ops" is a *role*, above Mill Operations LLC. Signing the blank instrument makes you the role and gives you the key to every box keyed to it, including the lockbox with Abernathy's cuff. The role has been empty since summer. "The throat" is a hollow piling in the Crisp drydock that eats true names. Kelp knots jam Crowns. Caleb pulled **Ollie Baptiste** (22) out of Team Four, but Ollie still has a Crown implanted in him, and through it **Shepherd** has broken with Pryce and wants "Pryce's chair" for itself. Rifts step 5 lands Friday: **"the Missing Man,"** an abstract dread entity that walks commuters toward the bay. The offshore shape sends an **envoy** Saturday (a drowned harbor pilot made of fog and buoy-bells) to negotiate whether it's invited past the Gate.
+
+**Question (Typhus step 4):**
+1. The M-Ops role log will show a holder from **March to August 14, 2026**, who rescinded the appointment themselves, and the chair has been empty since. I'd like that holder to be **Adonis**: a young engineer talked into signing, who then found the "WHERE FROM?" accounting, tore up his own appointment, and was killed for it in October. Typhus would read that log on Sunday night's heist, and that would be his step 4. Does that fit your Adonis? If not, my fallback is that the intake ledger lists Adonis's sharp-house spirit as intake on Oct 26 under a Lattice team ID, and the prior holder stays someone else (or nobody we know).
+2. Is it all right if what Shepherd *is* stays deliberately vague in Book 1 (a Crown-network intelligence, or a harvested spirit that kept talking)? Or do you have an answer?
+
+I'll run Friday and Saturday while I wait. The heist is Sunday.
+

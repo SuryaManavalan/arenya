@@ -20,6 +20,24 @@ places:
     note: Small café hut with picnic deck on the bay shore at the Golden Gate end of the Crissy Field promenade; Mason St. runs behind it. Typhus's habitual dawn run. Scene b1.c19.s01 "The Coffee" (Wed Nov 4, 6:22 a.m.).
     visibility: public
     sources: ["b1.c19.s01 #1242"]
+  colma-110-stop:
+    name: SamTrans 110 stop, El Camino Real (Colma cemetery wall)
+    aliases: [the 110 stop]
+    lat: 37.6770
+    lon: -122.4570
+    kind: landmark
+    note: Plexiglass shelter with a personal-injury-lawyer ad, east side of El Camino beside a mile of cemetery wall; chained iron gate (chain hung loose). Counter's driverless collection bus idled opposite. Scene b1.c19.s03, Wed Nov 4, 7:00-7:19 p.m. Coordinates approximate.
+    visibility: public
+    sources: ["b1.c19.s03 #1308, #1312, #1318"]
+  drydock-pump-house-crisp:
+    name: Old drydock pump house off Crisp Ave (Hunters Point)
+    aliases: [the pump house, Thursday site]
+    lat: 37.7270
+    lon: -122.3650
+    kind: facility
+    note: Named by Hale as the Thursday (Nov 5) lattice site. South roll-up door (Team Four, 9:30); lattice live 9:41, powered off the pilings; apron held by Strand's old crew. Unverified as of s03. Coordinates approximate.
+    visibility: public
+    sources: ["b1.c19.s03 #1315"]
   pacifica-pier:
     name: Pacifica Municipal Pier (Sharp Park)
     lat: 37.6296

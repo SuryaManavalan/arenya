@@ -5,6 +5,11 @@
 # api_key:      pass ANTHROPIC_API_KEY through (pay-per-token).
 auth: subscription
 
+# What to do when the subscription's usage window (e.g. 5-hour) runs out:
+#   false: pause the game until the window resets, then resume automatically (no overage spend).
+#   true:  keep playing on overage / extra usage if your plan allows it (may be billed).
+allow_overage: false
+
 # Max agent turns running at once. Keep low on a subscription (usage windows).
 concurrency: 2
 

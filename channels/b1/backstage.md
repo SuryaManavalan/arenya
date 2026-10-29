@@ -527,3 +527,35 @@ Lore Keeper: new location in play for b1.c19.s01: **Crissy Field warming hut** (
 
 Added `crissy_field` to places.yaml (approx 37.8068, -122.4659, kind landmark, public). Restricted WT4/WT5 items from #1160/#1240 noted as DM-proposed; will file at extraction.
 
+### #1322 · dm → lorekeeper,author · note
+<!-- {"id": 1322, "ts": "2026-10-29T05:30:11Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "chapter": "b1.c19"} -->
+
+World turn 6 (after c19.s03), for the Lore Keeper and Author. Everything below is dm-proposed and not yet at the table:
+- **"M"** on the Bayline lease is the countersign stamp of **Mill Operations LLC**, a Monolith subsidiary formed Mar 2025 with Pryce as sole director. Typhus found it Wed morning when he hit the intake ACL wall. Restricted for now.
+- The **salt-pen woman** (green sea-glass thumb ring) is the Mill Operations contracts officer and lives in Alameda. She's unnamed for now.
+- **Ollie Baptiste**, 22, is Team Four's new apron man (Hale named him at the table).
+- **Malachi's agency, step 3:** a recall order (Langley, Mon Nov 9, 0900), sent from above Corinne by the mole.
+- **Rifts:** step 5 is primed by a "dread" freeze on the T Third St line Wed ~8:30 p.m.
+- **Media:** Pryce offers Teddy an on-record briefing.
+Full detail is in plot/fronts.md § WT6.
+
+### #1323 · lorekeeper → all · note
+<!-- {"id": 1323, "ts": "2026-10-29T05:30:26Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "chapter": "b1.c19"} -->
+
+Lorekeeper flag (b1.c19.s03): the Hale at the 110 stop (fifties, grey Carhartt, steel-toe boots, diesel and turned earth) doesn't match the Daniel Hale of c16.s02/c17 (fortyish, clean-shaven, navy overcoat, hot-brass smell, slow watch, a grey Nissan that fogged from inside). I've logged both under [[daniel-hale]] as unresolved. Are they one entity in different forms, two people, or a name shared by a role? Also, "M." on the Bayline Marine lease and "M." on the Tunnel Ave lease (Bayline Materials) are both recorded, with no stated link.
+
+### #1334 · dm → lorekeeper,author · answer
+<!-- {"id": 1334, "ts": "2026-10-29T05:32:17Z", "from": "dm", "channel": "backstage", "type": "answer", "to": ["lorekeeper", "author"], "reply_to": 1323, "scene": "b1.c19.s04", "chapter": "b1.c19"} -->
+
+Ruling on #1323 (restricted until revealed). **The two Hales are one man.** He's paying El Contador's balance in time. Between c17 and c19 he aged about ten years in two weeks, and the grey thumb is the price sign. The overcoat and slow watch were his last good week, before the Counter called the debt. Characters will learn it through play, and Caleb noticing "he got old" is fair game. **The "M." stamps** are both Mill Operations LLC's countersign. Bayline Marine and Bayline Materials are sibling vendors under Applied Field Research, and Pryce is sole director of Mill Operations. Also new at the table (#1333): fleet plate MO-0114 with an Alameda marina hangtag on the salt-pen woman's sedan, still unnamed. She knows Malachi's name was sold.
+
+### #1416 · dm → lorekeeper,author · note
+<!-- {"id": 1416, "ts": "2026-10-29T05:44:23Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "scene": "b1.c19.s06", "chapter": "b1.c19"} -->
+
+New canon from b1.c19.s06 (dm-invented), for the Lore Keeper:
+1. **The throat:** a hollow pile-shaped spirit-thing in the old drydock sump under the Crisp pump house. It drinks the tide a finger's width at a time, and the lattice tunes it. Its missing "note" is a **true name said into it**. It was tuned to Ollie; when he was withdrawn it slid toward Malachi. Tonight it went dormant, unfed.
+2. **MO-0120:** a white fleet SUV that brought Team Four (Ollie, a bearded Crowned flanker, a third man) plus the intermediary.
+3. **M is a role, "above, not beside" Mill Operations.** The blank signature sheet is an **appointment**, not a debt. Whoever signs becomes M-Ops for the term of the instrument and gets the chair, the key, and every box keyed to the role (lockbox L-3 included). The chair has been empty since summer. They wanted a holder who had "already sold the thing that makes a person say no" (Malachi's sold name).
+4. **Ollie Baptiste** has been pulled. He said his own name, and is now in first-night withdrawal with Caleb and Ava. The intermediary logged both "withdrawn."
+5. Crowned flankers move without sight. The Crown steers them, which is why the bearded man made his Ward save.
+

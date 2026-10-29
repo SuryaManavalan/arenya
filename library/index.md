@@ -27,6 +27,8 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[sastri-garu]] — Livermore's real priest; closed the archana (public, provisional)
 - [[amma-sowri]] — Lakshmi, Arenya's mother; hid the bank statement (public, provisional)
 - [[dalal-ji]] — Fremont "pandit" in black socks; "I keep names"; endorsee of check 2207; s07 kitchen (public, provisional)
+- [[voss-lattice-runner]] — Crissy Field jogger with a Crown; Hale's "we're burned" (public, provisional)
+- [[ollie-baptiste]] — 22, six weeks on Vesper, told "focus"; apron Thursday (public, provisional)
 - minor-characters — Teddy, Marla, Galina, Fatima, etc. (public)
 - abernathy-true-nature — ex-Time Master (restricted)
 - malachi-true-role — CIA; Book 6 secret (restricted)
@@ -47,6 +49,8 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[livermore-temple-office]] — temple archana/receipts office; b1.c16.s09 arrival (public, provisional)
 - [[sowri-family-home]] — Daly City house; gas-meter "receipt," b1.c16.s12 (public, provisional)
 - [[san-bruno-satsang]] — Amma's temple in a converted Lutheran church; b1.c17.s07 (public, provisional)
+- [[crissy-field-warming-hut]] — Typhus's dawn-run hut; b1.c19.s01 coffee (public, provisional)
+- [[drydock-pump-house-crisp]] — Hale's Thursday lattice site, Hunters Point; c19.s03 (public, provisional)
 - [[sri-ganesh-tiffin]] — Livermore dosa counter; s11 "paper dosa" truce (public, provisional)
 
 ## Factions
@@ -66,6 +70,7 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[range-of-spirits]] — every shape/size/non-form; houses as attractors; B1 kaiju climax (public)
 
 ## Creatures / spirits
+- [[the-throat]] — hollow lattice-tuned pile in the drydock sump; missing note is a true name; c19.s06 (public, provisional)
 - [[el-contador-rumor]] — Colma's clerk-spirit, folk version (public, provisional)
 - el-contador — full account, written no, Lattice reading its books (restricted)
 - dos-testigos — contested-entry mark; the next "no" takes two (restricted)
@@ -79,6 +84,7 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - master-cosmology — books, concurrency (restricted)
 
 ## Items
+- [[mo-0120-suv]] — white Mill fleet SUV carrying Team Four and the intermediary; c19.s06 (public, provisional)
 - [[susmithaa-brass-lamp]] — cracked-chimney lamp, warm to Arenya (public)
 - [[bell-1912-dime]] — Bell's "spent marker" dime, sweats; window onto them (public, provisional)
 - [[crown-fragment-hatband]] — Bell's memory-smoothing frost ring (public, provisional)
@@ -101,8 +107,16 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[dalal-glasses-blue-jar]] — Dalal's wrapped glasses in Nana's blue jar; grey thread to the 110 stop; Nana's trade terms; s10 (public, provisional)
 - [[wiped-circle-windows]] — palm-sized circles in the shelter and Nana's kitchen window; Dalal's "blank page"; s11 (public, provisional)
 - [[rodel-landline-message]] — Mon 11:58 tape: Dalal sold a page to a grey suit, then bought oranges; in Nana's freezer; b1.c18.s01 (public, provisional)
+- [[intake-exception-0001]] — Mill's unclassifiable intake, 9:14 p.m. Tue; lockboxed; likely Abernathy's cuff; c19.s01 (public, provisional)
 - [[porter-ledger-page]] — copperplate "Porter" page opened by stake 2's line; Abernathy's lost brass cuff; b1.c18.s05 (public, provisional)
 - [[meridian-mutual-policy]] — the supposed policy / Susmithaa's "door"; s16.s01: "c/o" line, 8 March archana (public, provisional)
+
+- [[hale-pink-carbon-invitation]] — "H" pink carbon offering the Thursday lift site; Colma 110 stop, 7 p.m.; c19.s02 (public, provisional)
+- [[oranges-for-the-sowri-household]] — anonymous crate refused by Rodel, every fruit facing the door; c19.s02 (public, provisional)
+
+- [[counter-collection-bus]] — driverless collection bus; waited nine days for Hale; returns if site false; c19.s03 (public, provisional)
+- [[mo-0114-sedan]] — Mill Operations fleet sedan, Alameda hangtag; wrote SOLD in salt; c19.s04 (public, provisional)
+- [[malachi-name-lease]] — Bayline lease, asset paid in water rights, guarantor AFR "M."; sea-glass-ring intermediary; c19.s03 (public, provisional)
 
 ## History & events
 - [[freezing-deaths]] — the cluster (public)
@@ -119,4 +133,5 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[our-lady-of-mercy-daly-city]] — Nana's parish (public, provisional)
 
 ## Culture & concepts
+- [[m-ops-appointment]] — M is a role above Mill Ops; the blank sheet is an appointment; c19.s06 (public, provisional)
 - [[the-bulk-term]] — kanna, Renny, etc. (public)

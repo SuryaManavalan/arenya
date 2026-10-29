@@ -48,5 +48,10 @@ Arenya has his blurry face on her (former) wall: the grey-jacketed man at the Ta
 - Shepherd's line "only texts when he's already somewhere"; Monday 2:51 it said ON SITE, Shepherd parked at the bottom of her street. [#0766, #0772]
 - Laid down his two unopened Vesper packs ("I don't want to feel right. I want to feel it"); Kino put them under the clay comal. Recognized "R. Sowri" on Monday's clipboard top sheet and thought it was Arenya; it is her father. Stays at Nana's with Ix. [#0776, #0783, #0790]
 
+## b1.c19.s02 "Wednesday" (Wed 4 Nov, provisional) [#1292, #1300-#1303]
+- Told Malachi the van in order (panel, level voice, Hale's "walk it off, Voss, we're burned," camera slipped); plate partial 8ZK-41; did not see the driver's face. Said aloud he would announce any dose first.
+- Failed the day's withdrawal Con save (4 vs DC 13). Hands cold to the second knuckle, fine tremor "like a wire with current"; palm burns pale at the edges. Until next long rest: disadvantage on Dex/steady-hand tasks (no driving), **advantage on Perception for anything out of step with the eleven**. Malachi drives. Withdrawal day 0 per sheet.
+- Colma plan: stays in the car at the curb, in earshot; Hale knows his walk.
+
 ## Status
 Joins the party after b1.c15, when his Crown implant burns out. Currently (end s02) alone in the culvert, hunted by the program. His role in the killings: [[collection-program]] and [[meta-mages]] (restricted).

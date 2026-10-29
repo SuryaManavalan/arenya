@@ -24,5 +24,8 @@ Bus-sized, heaped woman of oyster shell, eelgrass hair and grey clay (the old so
 
 - **b1.c18.s05 (Tue 3 Nov, 7:51 p.m.):** with all three stakes pulled she is "looser, not free": under Kino's two fingers the water pushed against the current once, "like a hand closing over a hand"; rust reek thinned to plain salt. Kino: "Falta lo demás" ("the rest is still owed"). Survey rod still stands and reads one line. [#1234, #1235]
 
+- **b1.c19.s04 (Wed 4 Nov, 8:53–8:58 p.m., Second piling):** Mill crew came to re-drive three new stakes at slack (8:56). Voice of mud-suck: "I am what is left of her while the rest is owed." Said that nailed she would hold their song Thursday; loose she goes "to the one who reads her" (Arenya). "Choose for me. I am tired of men choosing." [#1333] Kino *asked*, offering his door rather than an order; she: "You asked. Nobody asks." Her price: Kino drives **his own pulled stake (#2)** into **Nana's door-sill**, so she is "held by a house and not a ledger", keeps no song for them, keeps his salt and bowl, waits for the sea. He accepted; salt throw spoiled the first nail (Survival 14 vs DC 13), the maul rang dead, rime climbed the stake. She leaned on the ruled stroke on his forearm "like a cat," said "Held," and promised to be **at the creek mouth** when he drives it ("Go home before the ebb"). She withdrew toward Sunnydale and the culvert up toward the Sunset. Kino is now her **keeper**; her inch is still owed; he must walk her to the sea. [#1338, #1341, #1344, #1346]
+
 ## Open questions
+- Will the stake-in-the-sill hold against the Mill's ledger? Cost of keepership (unstated).
 - What the Mill is exactly; who "tore" Abernathy's page; the link to the fog bank and the offshore shape.

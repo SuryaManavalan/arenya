@@ -20,5 +20,7 @@ Wet bull-kelp rope tied in a careful knot, found 6:58 a.m. Tue Nov 3 on Ava's we
 
 - **b1.c18.s05:** in Ava's coat pocket it ticked once at Second piling as a soft *tock* to her alone (#1196). At the car at ~7:55 p.m., after the stakes were pulled, it ticked **four** times, not three (#1235). Meaning unstated (a fourth stake? the cuff? a new line owed?).
 
+- **b1.c19.s04 (Wed 4 Nov, 8:58 p.m.):** after the foghorn counted **twelve**, Ava found a **fifth knot** that wasn't there at dinner (checked under the dome light). [#1346]
+
 ## Open questions
 - Sender (tide-woman, a friend, or someone dressing the sea's knot); Abernathy's workplace link.

@@ -10,3 +10,13 @@ The DM grants malachi 1 upshift charge(s): "Tell whoever paid in water rights th
 
 The DM grants arenya 1 upshift charge(s): The laundromat confession. She admits she likes being right, and it's the most honest beat of the book so far. (now 3).
 
+### #1319 · system → all · system
+<!-- {"id": 1319, "ts": "2026-10-29T05:27:23Z", "from": "system", "channel": "ooc", "type": "system", "scene": "b1.c19.s03", "chapter": "b1.c19"} -->
+
+The DM grants caleb 1 upshift charge(s): Rolling down the window with shaking hands and asking Hale for the kid, not for himself. (now 3).
+
+### #1347 · system → all · system
+<!-- {"id": 1347, "ts": "2026-10-29T05:34:12Z", "from": "system", "channel": "ooc", "type": "system", "scene": "b1.c19.s04", "chapter": "b1.c19"} -->
+
+The DM grants kino 1 upshift charge(s): Asked the tide instead of ordering it, and paid with his own evidence and his own house. The best moment of the night. (now 3).
+

@@ -39,7 +39,9 @@ def _is_play(job: dict) -> bool:
 
 
 class RateLimited(Exception):
-    pass
+    def __init__(self, info=None):
+        super().__init__(info)
+        self.resets_at = getattr(info, "resets_at", None)
 
 
 class Dispatcher:
@@ -85,8 +87,17 @@ class Dispatcher:
                     self.say(f"!! {job['agent']}/{job['job']} crashed: {t.exception()!r}")
 
     async def _wait_resume(self) -> None:
-        while state.load()["paused"]:
-            await asyncio.sleep(3)
+        while True:
+            st = state.load()
+            if not st["paused"]:
+                return
+            if st.get("resume_at") and time.time() >= st["resume_at"]:
+                with state.locked() as s:
+                    s["paused"], s["pause_reason"], s["resume_at"] = False, None, None
+                    s["idle_wakes"] = 0
+                self.say("usage window reset; resuming")
+                return
+            await asyncio.sleep(15)
 
     def _launch(self) -> None:
         busy = {j["agent"] for j in self.tasks.values()}
@@ -197,14 +208,20 @@ class Dispatcher:
                         elif isinstance(b, TextBlock) and b.text.strip() and self.verbose:
                             self.say(f"  {agent} ⋯ {b.text.strip()[:160]}")
                 elif isinstance(msg, RateLimitEvent) and msg.rate_limit_info.status == "rejected":
-                    raise RateLimited(msg.rate_limit_info)
+                    info = msg.rate_limit_info
+                    on_overage = (info.raw or {}).get("isUsingOverage") or (info.raw or {}).get("overageInUse")
+                    if not (on_overage and settings().get("allow_overage")):
+                        raise RateLimited(info)
                 elif isinstance(msg, ResultMessage):
                     result = msg
             if result and result.is_error and (result.api_error_status == 429
                                                or "rate" in " ".join(result.errors or []).lower()):
                 raise RateLimited(result.errors)
         except RateLimited as e:
-            self._retry(job, gr["n"], f"rate limited: {e}")
+            if e.resets_at:
+                self._sleep_until_reset(job, e.resets_at)
+            else:
+                self._retry(job, gr["n"], f"rate limited: {e}")
             return
         except Exception as e:  # noqa: BLE001 — a bad turn must never kill the game
             engine.log("errors", {"agent": agent, "job": kind, "error": repr(e), "tb": traceback.format_exc()})
@@ -245,6 +262,20 @@ class Dispatcher:
             st["running"] = [j for j in st["running"] if j["seq"] != job["seq"]]
             if then:
                 engine.enqueue(st, job["agent"], then[0], then[1], priority=-1)
+
+    def _sleep_until_reset(self, job: dict, resets_at: float) -> None:
+        """Usage window exhausted: requeue the job untouched and pause the game until the window resets."""
+        when = time.strftime("%a %H:%M", time.localtime(resets_at))
+        with state.locked() as st:
+            st["running"] = [j for j in st["running"] if j["seq"] != job["seq"]]
+            st["queue"].insert(0, {**job, "attempt": 0})
+            already = st["paused"] and st.get("resume_at")
+            st["paused"] = True
+            st["resume_at"] = max(resets_at + 60, st.get("resume_at") or 0)
+            st["pause_reason"] = f"usage window exhausted, auto-resume at {when}"
+        if not already:
+            self.say(f"!! usage window exhausted; pausing until {when}")
+            engine.notify_human(f"usage limit hit; game paused, auto-resumes {when} (allow_overage=false)")
 
     def _retry(self, job: dict, gear_n: int, why: str, downshift: bool = True) -> None:
         backoff = settings()["rate_limit_backoff_s"]

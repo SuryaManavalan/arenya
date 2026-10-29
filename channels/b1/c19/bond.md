@@ -90,3 +90,86 @@ Two more, since you're counting. That carbon from "H": it was pressed hard enoug
 
 You're keeping me in front of nothing tonight. Fine, your Ladyship. But I'm riding your shoulder at the piling, and if the clerk's lamp swings round, I'm telling you first. Now eat the other half of that burrito.
 
+### #1328 · abernathy → arenya · dialogue
+<!-- {"id": 1328, "ts": "2026-10-29T05:31:16Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c19.s04", "chapter": "b1.c19"} -->
+
+Right, love, quick and quiet, 'cause I've only got the one mouth and it's only for you.
+
+The clerk's lamp: still pointed at his own page, reading to the lads. It'll turn when he gets to a name he doesn't like. I'll say "turn" the second it does. If it comes your way, you don't step in it, and you don't look at the page. Pages look back.
+
+The thing on the water... *(my edges stutter, two of me for a frame)* ...it's not borrowed, guv. Borrowed things have a seam, and I can't find one. It's got the tide-woman's patience and none of her manners, and it's facing *you*, not the stakes. Which is the bit I don't like. Something's already read your name tonight.
+
+Don't go down the mud. Whatever it wants, let it ask from the water.
+
+And your Ladyship? You said you're bad at only watching. Tonight, be bad at it from behind the tailgate. 8:56. I'm on your shoulder.
+
+### #1353 · abernathy → arenya · dialogue
+<!-- {"id": 1353, "ts": "2026-10-29T05:35:35Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c19.s05", "chapter": "b1.c19"} -->
+
+Oi. Yeah. Still here, love. Bit cold round the edges, that's all, like a hand left out of the blanket. Don't fuss.
+
+Listen. That cuff's mine. I can feel it in the drawer the way you feel a tooth that's been pulled. Ask him where it's kept and who holds the key, but ask it plain, no heat. Engineers go quiet when you lean on 'em.
+
+And Arenya. When you've done with the call, eat something. Sleep. I know. I'm a hypocrite. I'll tell you about Porter after, I promise. Properly.
+
+### #1363 · abernathy → arenya · dialogue
+<!-- {"id": 1363, "ts": "2026-10-29T05:36:44Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c19.s05", "chapter": "b1.c19"} -->
+
+Colder than the room. Yeah. It would be, wouldn't it.
+
+Right. Straight, since you're owed it. When he said "L-3, under the rack console," something in me went *there*, quick as a hand to a pocket. I know that kind of box. I don't know how I know. Don't like it.
+
+Tonight, guv. Keep your back to walls. If any light finds you, say my name, not yours. Daft, but I'd hear it.
+
+Oh, and you ate toast. Good girl. I'm proud, and I'm still cold.
+
+### #1372 · dm → abernathy · narration
+<!-- {"id": 1372, "ts": "2026-10-29T05:38:04Z", "from": "dm", "channel": "bond", "type": "narration", "to": ["abernathy"], "scene": "b1.c19.s06", "chapter": "b1.c19"} -->
+
+Abernathy: as Arenya's phone lights up, you feel the box. It's three miles north, inside the Mill. Nothing about the feeling is like hearing. It's closer to a coat being lifted off a hook that has your shape pressed into it. For a moment you're cold in two places at once.
+
+### #1376 · abernathy → arenya · dialogue
+<!-- {"id": 1376, "ts": "2026-10-29T05:38:28Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c19.s06", "chapter": "b1.c19"} -->
+
+Deal's good, love. Say it and I'll hear it.
+
+Now listen, 'cause I'm not gonna dress this up. That box, I felt it just now. Three mile off and it's like someone lifting a coat off a peg with my shape in it. I'm cold in two places. I don't like it and I'm not gonna pretend I do.
+
+But you stay on the apron. The cuff's been in that box since Tuesday and it'll keep ten minutes. Ollie won't. Keep your back to the Transit, keep your feet off that pen's side of the glass, and breathe. Oh, and when you've a spare minute, there's a flask in Ava's bag and you've had nothing since the toast. Yeah, I counted.
+
+### #1384 · abernathy → arenya · dialogue
+<!-- {"id": 1384, "ts": "2026-10-29T05:39:31Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c19.s06", "chapter": "b1.c19"} -->
+
+Oi, that note under the door, love. Don't like it. It's a held breath, that is, and it ain't finished.
+
+Headlights early and sitting means they're counting us. Keep the Lamp low, listening only, like you said. A lit Lamp's a lantern in a window.
+
+And I'll tell you straight, that tag on the puck says "role access," and my gut went to the same pocket it went to for the box. I don't know why. Don't ask me yet. Just watch the car.
+
+### #1393 · abernathy → arenya · dialogue
+<!-- {"id": 1393, "ts": "2026-10-29T05:40:31Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c19.s06", "chapter": "b1.c19"} -->
+
+That's your lad, love, left side, two fingers to the nape. Caleb talks, you keep the Lamp banked. Don't burn Ward on a maybe.
+
+One thing, and I'm saying it plain because Kino's got the throat right: that building's tuned to every pitch but one, and the missing one is a name. A name, Arenya. Whoever's not in the room when it's said is who it's waiting on. Nobody says anything into that door. Not Ollie's, not yours, not mine.
+
+And if you hear a voice use a short name of mine tonight, don't answer it for me.
+
+### #1404 · abernathy → arenya · dialogue
+<!-- {"id": 1404, "ts": "2026-10-29T05:42:43Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c19.s06", "chapter": "b1.c19"} -->
+
+Good girl, that's a proper wall. Hold it, love, and keep your own name behind your teeth.
+
+She said "Mr. Shawani" into the dark on purpose. That throat's sliding across coats looking for one that fits, and she's hanging his on the peg for it. Tell him to keep his mouth shut and his hands in his pockets. Not a signature, not a nod, not an answer.
+
+And watch your light. You're running warm and you've not eaten. Ten seconds of glare, then break line of sight and move. Don't stand in it.
+
+### #1418 · abernathy → arenya · dialogue
+<!-- {"id": 1418, "ts": "2026-10-29T05:44:38Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c19.s06", "chapter": "b1.c19"} -->
+
+Well done, love. Ate the toast, now you're asking for food out loud. I'm framing it.
+
+Now the bit I'm not enjoying. "A chair, and whoever signs is the key." When she said it, the coat on the peg went warm. Not cold, warm. That cuff's been hung on a hook that was cut to fit somebody, and I'm not sure it's me. I'll tell you the rest when I've got it. I don't have it yet, and I won't give you a guess dressed up as a fact.
+
+Sit down. Eat. Let Ava write it all.
+

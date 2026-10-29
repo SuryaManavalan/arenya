@@ -17,4 +17,5 @@ About fifty, reading glasses on a cord, rain shell; Malachi's contact/handler at
 - His old pre-agency file was pinged from a terminal with their own agency's access. [#1179]
 - Offered extraction (flight, new badge) or the girl's name; Malachi refused, calling Arenya his "access agent"; Corinne believed him. [#1174, #1179]
 - Deadline: product (yard, lease, faces) by Tue Nov 10 (same day as Livermore) or she pulls him. New contact: pencilled napkin number; stop using the 703 line. [#1179]
+- b1.c19.s03: Hale says the sold name became an asset in a Bayline lease; see [[malachi-name-lease]].
 - Told Caleb: "A wall is for keeping track of people who might come back. Don't." [#1179]

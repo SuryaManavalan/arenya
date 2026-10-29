@@ -46,6 +46,12 @@ Voice on Susmithaa's phone voicemail (6:12 p.m., Monday) and the Sowri landline 
 - On 19 Mar at Rodel's counter, queued behind Susmithaa and Appa with a mailbox key, he lent Appa a pen cap-first; Appa wrote the "R" in his ink (source of "SIGNATORY ON FILE: R. SOWRI"). See [[appa-pen-and-grey-stain]]. Rented Box 112 an hour later (consistent with the 59-minute figure).
 - Leather-soled prints size 10–11 and a ruled grey-dust line at the Sowri house are attributed to "whoever polite is" (Malachi).
 
+## b1.c19.s03, the 110 stop (#1312–#1318)
+- Wed 4 Nov ~7:05 p.m. Appeared on the bench: fifties, grey-seamed Carhartt, steel-toed boots worn through, weathered van-driver's face; smells of turned earth and diesel; dry boots despite coming through the chained cemetery gate. Caleb recognized him as the van voice ("keep your head down, son"); Caleb's identification of him as his old Team Four leader, who "ran collections," is stated in play. (Note: this body differs from the "fortyish, navy overcoat" Hale of c16; see open questions.)
+- Owed the Counter an overdue balance; its bus waited nine days ([[counter-collection-bus]]). Wants Malachi's word, not name, to El Contador.
+- Gave the Thursday site ([[drydock-pump-house-crisp]]), the name lease ([[malachi-name-lease]]), and admitted he wrote the card knowing the apron would be taken; asked Caleb to pull [[ollie-baptiste]]. Left through the cemetery without a light; looped the gate chain closed.
+
 ## Open questions
+- Two bodies/ages: c16 Hale (fortyish, clean-shaven, brass smell, slow watch) vs c19.s03 Hale (fifties, diesel/earth). Possibly two different men, a "form," or Caleb's Hale is a different "Hale." Flagged to DM.
 - Real name or alias; whether he is the counting voice or its handler; whether Meridian Mutual exists.
 - Whether Susmithaa really bought the policy, or "a door" in Nana's phrasing refers to something else (see [[meridian-mutual-policy]]).

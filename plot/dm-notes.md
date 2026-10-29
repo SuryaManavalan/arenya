@@ -6,103 +6,88 @@ Working document, not a log. Finished scene notes go to `plot/dm-log.md`. Fronts
 Book beginnings and endings: **must** hit. Major plot points: hit as much as possible. Everything in
 between belongs to the players and the dice.
 
-## Chapter 19 plan: "Slack Water" (Wed Nov 4 → Fri Nov 6). Arc goal: **Typhus step 3, then the lift attempt**
-Pacing decree (#0957): 3–5 scenes, cut hard. Decree #1009: every arc needs a bulk or action set piece.
-Chapter 18 is archived in dm-log (s01–s05).
+## Chapter 20 plan: "The Chair" (Fri Nov 6 → Mon Nov 9 dawn). Arc goal: **Typhus step 4** via the L-3 heist
+Pacing: 4–5 scenes, cut hard. Set pieces: the envoy (inhuman negotiation, bulk) and the box heist (timed, Missing Man as hazard).
 
-**Party state (start c19):** Arenya 9/9 HP, 26/26 AHP, ~1/2 prana (she spent 1 on Lamp-Eyes; a short rest restores it). Her sheet is still blocked by a YAML error (director #1020), so play from here. Frostbite mark on her wrist. Kino at full AHP except his permanent ruled line; carries stake #2. Abernathy 20/24 AHP (4 cold from s05); cuff lost. Caleb: palms iron-burned (−1 on Sleight/Athletics with his hands until healed, dm-proposed). Ava holds the kelp letter (4 ticks). Stakes: three, held by the party (they're evidence: stamped with Bayline's small ruled box).
+**Party state (Thu 9:26 p.m.):** Arenya spent (Ward of a Thousand Lights); she gets a long rest Thu night, so she's full by Friday. Her sheet is still blocked by YAML (director #1020). She carries the Lamp, Typhus's card and Elias's line. Kino: ruled forearm; keeper of the slack-water spirit, owed "the inch." Abernathy 20/24 AHP; the cuff's hook went *warm* at "chair." **Caleb:** tremor (day 4); Persuasion win; Con save each dawn (DC 12 + days). **Ollie Baptiste** is with the party in first-night withdrawal, **with a Crown still seated at his occipital ridge.** Malachi is "withdrawn," not collateral, for now. Ava: kelp **6/7**, log +3:00.
 
-- **s01 THE COFFEE (Wed 6:22–7:10 a.m., Crissy Field warming hut). MUST LAND. Upshift.** Typhus is early in the Rivian, with two coffees and **five pages** (Lantern trace; Alameda 11-s seiche; Adonis's "WHERE FROM?"/"Unit 8 — 'Melnikov'?"; "Mon 17:03"; **"Tue 19:46"**, the coil cooling as the stakes came out). Foghorns sound on the 11-s breath. A knotted kelp strand lies on the hut step (only Ava knows the knot). Pryce's watchers: Voss as the jogger (Crown under her headband, chipped red polish), a white Sprinter on Mason St. with an array ("fog-sensor survey"). Orders: observe and tag. Caleb's scar warms if he's within a block. **Step 3:** if Arenya gives him the link, he believes her because of page 5. Seed #0027: "Security flags repeat faces; you were in the lobby system from September." Set piece options: spot and shake the tag (Perception/Stealth, or Arenya's dark: Night's Mark the Crown), or a bulk glance from the Sprinter's array that Abernathy can blind. If Voss tags her, Lattice gets a location fix and the lift goes earlier (Wed night).
-- **s02 "Wednesday" (movement):** Teddy 7:10 ("second piece Friday; Monolith comms asked about your sources"); the aggregator's "San Francisco's Bay Is Acting Strange"; Corinne's 5:58 text to the napkin number ("asked for the access agent's name"); Rodel's oranges call; **Hale's carbon in Nana's mailbox ~11 a.m.** ("Thursday, after the low water. I can tell you where. I need you to tell El Contador I helped."). Caltrain clocks run fast (the Mill drinks hurry). Decide: stop the **Wed 8:56 p.m. re-staking**? Meet Hale? Go for the cuff?
-- **s03 options (player choice; each is a set piece):**
-  - **(a) Re-staking at Second piling, Wed 8:56 p.m.:** two trucks, the clerk with his handlight, iron stakes. It's watched now. Sabotage, stand-off, or bulk defense of the tide-woman. Win: she stays loose and the kelp keeps tick 4 (or gets 5). Lose: she's re-pinned and the letter drops to 3.
-  - **(b) Hale:** meet the drowning man (Colma 110 stop?). He sells the lift plan for a word to El Contador. Insight to tell whether he's bait (he's half-bait: Pryce lets him "defect" to steer them; Hale doesn't know it).
-  - **(c) INTAKE EXCEPTION 0001:** the cuff is bagged in a lockbox in the Mill's upper-floor Lantern control room. A heist into Typhus's own building, possibly with Typhus's or Elias's help after the coffee. Probably c20 material; seed it here.
-- **s04 THE LIFT (Thu Nov 5, after the 9:41 p.m. low water): BIG SET PIECE.** Team Four (Dorsey, Pruitt, Voss, Hale) and a Unit 8 containment lattice. Goal: separate Arenya in the bulk off the Lady's ground. If Hale's tip is used, the party picks the ground and it's an ambush or rescue. If not, they're baited to the shore. Lattice clock 4→5 whether it fails or succeeds partially. Rifts step 5 can break out as chaos cover (abstract entities: a **spirit of panic** in the Bayview flats, or the heavy-house thing under the shipyard turning over). Caleb vs his old team: Vesper in his pocket ("If I reach for it, say my name"). Shepherd 3→4 if he's in Crown range.
-- Chapter end after s04 or s05 (fallout: Typhus hits Pryce's ACL wall and asks Elias who holds the key).
+### s01 FRIDAY (movement, ~3 a.m. → evening). Deliver in one or two posts, with a quick beat each:
+- **~3:10 a.m., wherever Ollie sleeps:** Ollie sits up, eyes flat: *"Four. Report."* Then, at Caleb: *"You took one of mine. I don't want him back. I want the one who took my office away. Bring me Pryce's chair and I'll let go of the boy."* (Shepherd 4/4: it found them, and it's bargaining.) Caleb's scar burns. A Crown removal is a later mini-adventure (Nana? Ava's clinical hands plus Arenya's light?).
+- **6 a.m., Malachi:** gov creds dead. **~11 a.m., Corinne** in person: AFR/Monolith is the contractor; the agency sponsor is a redacted deputy billet in her own chain (agency step 4). "Don't go Monday. Copy the notebook. Keep the access agent off every page."
+- **Thu 9:44 p.m. (on waking), Typhus text:** *"Watched. Nobody carried. The box asked for someone at 21:41. Nobody answered. — T."*
+- **12:15 p.m., Teddy:** Pryce named her off-record ("exploiting her grief"). "Give me one thing he can't call a seep." Deadline tonight.
+- **5:41 p.m., the Missing Man** (rifts step 5) on the T line: 60 people walk toward the water. If the party is on the shoreline or the T, it's a live hazard (Wis DC 13; Lamp light makes people *remember*). If not, it's the news, and Ava's oven light goes dark for 11 s.
+- Hale is cut loose, with no Crown and a grey hand. He may call Malachi. Inés Arriaga (the intermediary) is suspended and may surface.
 
-**s01 live state (#1255):** Typhus has laid out all five pages and seeded #0027 (badge history pulled Sat by "somebody else"). Voss is stretching at the hut steps, 3rd pass, foot by the kelp knot, Perception DC 14 to read her. **Sweep clock: 2 more sweeps before the Sprinter locks the Lamp** (fewer if Voss gets a good look). Abernathy can blind it (cost TBD: suggest 1d6 astral cold + he's "noticed" by the array). Caleb's scar flared hot (whisper #1256). If the Lamp is tagged, the lift moves to Wed night.
-**#1269:** Step 3 LANDED ("somebody took something out of my machine"; Bayline is a vendor under Applied Field Research; Melnikov, a Dogpatch machinist who died in Aug; there's no Unit 8 on Typhus's drawings). Voss's Crown read **Malachi's sold true name** (a compass-needle turn), so Malachi is now the one tagged, which feeds agency step 3. The kelp knot squealed her Crown (dm-proposed: offshore kelp jams Crowns). The van beam moved to Voss and is off the Lamp; the sweep clock is paused at 2.
-**#1275–1281:** Voss turned away (Malachi's Insight: she's a hired runner, and her handler was angry at *her*). Caleb heard "walk it off, Voss, we're burned" and IDs the voice as **Hale** (accepted). Caleb slipped the rear cam, so Shepherd holds at 3. The van left: **the Lamp was NOT tagged**, so the lift stays Thu. Typhus gave Arenya a card with his number and **Elias's personal line**, and seeded **INTAKE EXCEPTION 0001** (lockbox, Lantern control room, two floors above the coil), which is the c20 heist. Open question to Arenya: shut the coil down, or does the eater find another mouth? (Truth: the Mill renders without the coil; the coil is a downstream customer. Shutting it down slows the drinking a little and tips off Pryce.) End s01 after the replies.
+### s02 THE ENVOY (Sat Nov 7). Seventh knot ~5:50 a.m. Slack water ~12:20 p.m., Ocean Beach / Sutro Baths ruins
+- The letter is complete and the envoy comes "to call properly": a drowned harbor pilot of fog and buoy-bells who speaks in tide tables. It's addressed to Ava (she saw it). It asks **who is calling** it. It won't cross the Gate uninvited. It calls the throat "the mouth that eats what it doesn't ask for." It knows the Lady by an older name and won't say it.
+- Make it a real negotiation with stakes: what does the party promise, and to whom? An invitation now = a kaiju ally at the climax, at a price. A refusal = it stays outside, and it's hostile if the throat feeds. Partway is fine. Bulk-side, Abernathy can speak at the table.
+- **Sat ~7 p.m., Typhus calls:** L-3 moves to the Drop Two vault **Sun 11:40 p.m.** in Bayline truck D2-04 (Dorsey and Pruitt riding). "I can put you in the building at eleven. I can't open it. Nobody can. I want to see what's in it and the log of who held that chair."
 
-## Next destination
-**Typhus step 3 at the coffee → step 4 seeded** (the ACL wall, Elias, Adonis's notebook "Unit 8"). Then the Mill heist (c20) as the route to proof of Adonis's killer. Routes to step 4:
-- Arenya and Typhus as uneasy allies, with the cuff heist in his building.
-- Elias finds the ACL key holder: Pryce.
-- Caleb's testimony: he knows who on Team Four did Adonis, or that it was a "colleague."
-- Hale's ledger: El Contador's books list who killed whom (Adonis is in the Colma book as a "passerby's kin").
+### s03–s04 THE BOX (Sun Nov 8, 11:00 p.m. → ~12:10 a.m., the Mill / Lantern control room, or the truck en route). TIMED HEIST
+- **Routes:** (a) inside with Typhus's badges, Elias at the door, Hollis on the console: get L-3 out or read its role log before 11:40; (b) hit the truck on Innes/Third (a chase); (c) the bulk route: the Mill's upper floor seen from the astral side, with the intake throat, the rendering, and spirits in pens. Make (c) available and dangerous.
+- **Opening the box:** only "M-Ops" opens it. Answers the table might find: Abernathy (the cuff was cut for a role, and his livery recognizes it), Shepherd's offer (it knows the Crown-side keys), signing the blank (a terrible price), or taking the whole box. Don't pre-solve it.
+- **Hazards:** the Missing Man walks the shoreline at the Mill (the short-fed rendering drinks dread); Pruitt's Crown knows Caleb's face; Pryce's array; the Lantern coil tastes Arenya's light (WT4: it *charges*).
+- **Step 4 lands** when Typhus reads who held M-Ops March–Aug 14 (rescinded by the holder) beside the box's contents and the intake ledger. **Pending human answer: was Adonis the prior holder?** Fallback: the intake ledger lists Adonis's spirit (sharp house) as intake, Oct 26, signed by an AFR team ID.
+- Typhus's reaction is furious, then cold (step 4). Hold step 5 (embraces it) for a later arc.
+
+### s05 (optional) fallout, Mon Nov 9 dawn: Malachi's 0900 recall (agency step 5), the Crown out of Ollie or not, day 16 tomorrow. Chapter end.
+
+## Next destination after c20
+Typhus step 5 (he embraces it as destiny; the media war begins), the throat's next Thursday Nov 12, day 16 Tue Nov 10 (Susmithaa's entry closes; Livermore un-saying), Lattice 6/6 if the chair gets filled.
 
 ## Clocks
-- **Tue Nov 10:** day 16. Susmithaa's stroke expires; the entry closes in dispute. Hale owes his balance. Corinne's product deadline. Livermore un-saying (Sastri, Mrs. Ramaswamy).
-- **Lattice wants the light: 4/6.** The attempt is **Thu Nov 5 after 9:41 p.m. low water** (earlier if Voss tags Arenya at the coffee).
-- **Shepherd hunts Caleb: 3/4** ("near the water"). At 4/4 the Crowns find the door.
-- **Rifts: step 4** (hurry; spreading via Caltrain clocks). Step 5 next (abstract entities), possibly at the lift.
-- **Kelp letter: 4/7 ticks.** At 7 the offshore envoy comes "to call properly." Re-staking costs a tick.
-- **Typhus: step 2 → 3 at the coffee.**
-- **Malachi's agency: step 2, pressed.** Recall if he gives Corinne nothing by Fri.
-- **Media: step 3** (national). Teddy wants a second piece Friday.
-- **Caleb's withdrawal** (Con save DC 12 + days, daily). Failed Wed Nov 4 (rolled 4 vs DC 13). Effect: tremor, disadvantage on Dex and steady-hand tasks until long rest, plus advantage on Perception for anything off the eleven-second beat (dm-proposed). Failures from here should escalate (exhaustion, Vesper craving).
-- **Bayline lease:** guarantor Applied Field Research, signature stamped "M." (Melnikov? Monolith?) Found by Malachi in c19.s02.
-- **Rodel's oranges:** every fruit faces the door. It's an El Contador-style "receipt" or a summons. Pay it off at Colma or later.
-- **Tonight's split:** Malachi at Colma (Hale, 7 p.m.), Caleb in the car. Arenya, Kino, Ava at Second piling (8:56). Arenya calls Typhus's second number at 9.
+- **Sun Nov 8, 11:40 p.m.:** L-3 moves to Drop Two vault.
+- **Mon Nov 9, 0900:** Malachi's recall (AWOL by noon).
+- **Tue Nov 10:** day 16. Susmithaa's stroke expires; entry closes in dispute. Livermore un-saying (Sastri, Mrs. Ramaswamy). Pryce's deadline for Dalal to find a signer.
+- **Thu Nov 12:** the throat's next Thursday (Crisp drydock).
+- **Lattice wants the light: 5/6.** **Shepherd hunts Caleb: 4/4 (found; bargaining via Ollie).**
+- **Rifts: step 5** (the Missing Man). **Kelp: 6/7 → 7 Sat dawn.**
+- **Typhus: step 3 → 4 at the box.** **Agency: step 4.** **Media: step 3** (Pryce in the lane).
+- **Caleb's withdrawal:** Con save DC 12 + days, daily. **Ollie's withdrawal:** day 1 Fri; worse than Caleb's, plus the Crown.
 
 ## Open threads (DM-side)
-- The cuff = INTAKE EXCEPTION 0001 (won't render: "no source"). **Porter** is unexplained (#0207 seal: no Time Master fragments in Book 1. Abernathy honestly doesn't know).
-- The rod at Second piling still stands, reading one line. "The rest is still owed" to the tide-woman.
-- Who's the D2 clerk? (Unnamed; he reads ledger-lines with his light. A Bayline man, half El Contador's kind of clerk.)
-- Dalal owns Malachi's true name and sold it to Pryce (for Mill intake-ledger access). He won't sell the Lucero house (he fears the Lady).
-- The mole in Malachi's agency who pinged his old file.
-- Who wore the glasses in the market eleven years ago? Malachi is on an older ledger. Keep it soft.
-- Abernathy's blankness has been noticed by Dalal. The fifth stroke is unfinished.
-- Price signs: Kino's forearm, Arenya's wrist, Appa's crescent, Caleb's palms, Abernathy's cold.
-- The notebook wants to be a ledger (Arenya as scribe).
-- The household is entered as a witness, so monthly offer envelopes are due.
-- Bell's Box 12, Benny's call, the Nissan's fifth stroke, the landline's rings.
+- **M-Ops:** a role above Mill Operations; an appointment by signature; held March–Aug 14, 2026 (holder redacted, rescinded by the holder). Empty since. Pryce wants a signer whose "no" is sold. The cuff's "hook" went warm at "chair": it was perhaps cut for the role (keep it soft; #0207 seal).
+- **The throat** (twelfth piling, Crisp drydock sump): eats true names; tuned by the stakes; unfed until Nov 12.
+- **Shepherd:** broken from Pryce; wants the chair (revenge). What it is stays soft.
+- **Inés Arriaga** (DM-private name): suspended intermediary; has the instrument's text. A possible ally.
+- **Hale:** cut loose; bus gone; grey hand. He might come to the party.
+- **Pruitt** (bearded flanker) logged Caleb's face.
+- Slack-water spirit: family; owed "the inch." Kino keeps it.
+- Porter (unexplained, #0207). Rodel's oranges. Dalal (ledger access; now Pryce's chair-finder; won't sell the Lucero house).
+- Price signs: Kino's forearm, Arenya's wrist, Appa's crescent, Caleb's palms, Abernathy's cold, Hale's grey hand, Ollie's Crown.
+- "Be careful who sees you" (#0027): Arenya's Monolith visit led the program to the Sowri line. Elias or Caleb confesses. Elias is the natural confessor at the heist.
 - Saiesh: a gentle, dignified exit (human's call). Still mid-fight from c13.
-- Grant budget: check game_status at c19 start.
+- Tell the human: kelp jams Crowns (dm-proposed); M-Ops; the throat; the Missing Man; the envoy; Ollie.
 
-## Seeds to pay off
-- **"Be careful who sees you"** `[approved #0027, restricted]`: Arenya's Monolith visit (c09/c12) is how the program found the Sowri line. A mid-book gut-punch, confessed by Caleb or Elias. **It starts surfacing at the coffee.** Her old keycard pinged the lobby reader twice on Sat.
-- Typhus's c12 "scrutiny": her theory matches what he privately suspects. He has Adonis's notebook.
-- Ash canister: the Lamp (Susmithaa's last ember). "Kanna" is unconfirmed to Arenya.
-
-## Names in play (DM-invented; human told via #0002/#0027)
-- **Lattice Program; Dr. Halden Pryce; Shepherd; Team Four** (Dorsey, Pruitt, Hale, Voss); **the Mill; Drop Two**.
-- **Lantern** coil; **Corinne Abate**; **Holy Cross, Colma**; Adonis's notebook; "Unit 8"; **Hollis Wen**; the **Heron Thing** ("the Candlestick Man" online).
-- c18: **Bayline Remediation & Survey LLC**; the tide-woman; **Porter** (name only); INTAKE EXCEPTION 0001 (WT5).
+## Names in play (DM-invented)
+Lattice Program; Dr. Halden Pryce; Shepherd; Team Four (Dorsey, Pruitt, Hale, Voss, Ollie Baptiste); the Mill; Drop Two; Lantern; Corinne Abate; Hollis Wen; Heron Thing; Bayline; Porter; INTAKE EXCEPTION 0001; Mill Operations LLC; **M-Ops**; the throat; **the Missing Man**; Inés Arriaga (private).
 
 ## The collection pipeline (DM decisions on human canon)
-- Teams of four meta mages (Crown-flattened, forgettable) kill a host's astral body in the bulk and catch the freed spirit in a containment lattice. The Mill renders spirits into power for the drive program and into **Vesper**. Every dose is part of a spirit. It also drinks the tide (via ledger-pen stakes) and the city's hurry.
-- Victims were hosts (Melnikov: heavy house). Collection is clumsy.
-- **Adonis**: a latent sharp-house host who found the Mill accounting and recognized his killer, a Monolith colleague. *Typhus doesn't know.*
-- **Susmithaa**: a deity-class light spirit. The lift failed when the bloodline passed Sahasrajyoti to Arenya. The program wants Arenya, now awake.
+- Teams of four Crowned meta mages kill a host's astral body in the bulk and catch the freed spirit in a containment lattice. The Mill renders spirits into drive power and **Vesper**. It drinks the tide (stakes), hurry and dread. The throat at Crisp eats true names.
+- Adonis: a latent sharp-house host who found the Mill accounting and recognized his killer, a Monolith colleague. *Typhus doesn't know.*
+- Susmithaa: a deity-class light spirit; Arenya inherited it and is now awake.
 
 ## NPC agendas & secrets
-- **Abernathy (SECRET `[human]`):** a former **Time Master**, in hiding, stripped of body and causal body. Sealed until Time Masters come into play (#0207): no fragments in Book 1. His honest answer is "I don't know." (Porter and the livery have already surfaced. Don't add more.)
-- **Elias Khatri:** decent, compromised. Pryce knows he's a leak and keeps him in place.
-- **Pryce:** managing Typhus; buys names; sets the lift for Thu.
-- **Hale:** drowning. He's half a real defector, half Pryce's steer.
-- **Typhus:** five pages, wants to be told he's wrong. He won't be.
+- **Abernathy (SECRET `[human]`):** a former Time Master in hiding. Sealed (#0207): no fragments in Book 1.
+- **Typhus:** step 3; knows Pryce holds the key; will open the building Sunday. Calm in a way that frightens Elias.
+- **Pryce:** sole director of Mill Operations; lost Team Four; hunting a signer; moving the box; in the press.
+- **Elias:** frightened, decent; he'll confess "be careful who sees you" if pushed.
 
-## Book 1 spirit escalation `[human]`: introduce, then widen
-1. Human-shaped (done). 2. Nature/place (done: the heron, the tide-woman). 3. Archetypal/characteristic (done: hurry on 101). → **4. Abstract, psychosis-like (next: at the lift or after).** 5. **Kaiju-scale** over the Bay: the Lady rising, a heavy-house leviathan under the shipyard, the offshore shape. The fog-bank breathing is the thread (#0906).
+## Book 1 spirit escalation `[human]`
+1. Human-shaped. 2. Nature/place. 3. Archetypal (hurry). 4. Abstract (**the Missing Man, live Fri**). 5. **Kaiju-scale** over the Bay: the Lady rising, a heavy-house leviathan under the shipyard, the offshore shape (#0906; its envoy Sat).
 
 ## Series-level secrets (human-defined; never reveal early)
-- The books are concurrent, stacked in the bulk (nested clocks). Never state it before Book 6.
+- The books are concurrent, stacked in the bulk (nested clocks). Never before Book 6.
 - Arenya's great love is **Malachi, "but as God"** (*Causal*). Seed softly.
-- Typhus: an accelerationist, not evil. He discovers the rifts, is terrified, then embraces it as destiny. Defeated and locked up at the end of Book 1, warning he was protecting Earth (**must hit**). The void angel contacts him in Book 2.
+- Typhus: an accelerationist, not evil. Defeated and locked up at the end of Book 1, warning he protected Earth (**must hit**). The void angel contacts him in Book 2.
 
 ## Calendar
-- Death: Mon Oct 26, 2026. Lantern test Wed Oct 28, 11:40 p.m. Bayview rift Thu Oct 29, 12:03 a.m.
-- Mon Nov 2: All Souls; Arenya awakens; the heron.
-- Tue Nov 3: pho shop; hurry 5:40; stakes 7:40–7:51.
-- **Wed Nov 4:** coffee 6:40 a.m.; Teddy's piece at 6 a.m.; Hale's carbon ~11 a.m.; re-staking 8:56 p.m. low water.
-- **Thu Nov 5:** the lift, after the 9:41 p.m. low water.
-- Fri Nov 6: Teddy's second piece; Corinne's soft deadline.
-- **Tue Nov 10: day 16.**
+- Death: Mon Oct 26. Lantern test Wed Oct 28. Bayview rift Thu Oct 29. Awakening Mon Nov 2.
+- Thu Nov 5: the lift fails at Crisp. **Fri Nov 6:** the Missing Man 5:41 p.m.; Teddy's piece; Corinne. **Sat Nov 7:** seventh knot; envoy ~12:20. **Sun Nov 8:** box moves 11:40 p.m. **Mon Nov 9:** recall. **Tue Nov 10:** day 16. **Thu Nov 12:** the throat.
 
 ## Monsters / combat tracker
-(empty)
+- **The Missing Man** (abstract): no HP to hit; dread aura 60 ft (Wis DC 13, incapacitated, walk toward water; repeat save each turn). Banished by deliberate noticing: three successful "name what you forgot" beats, or Lamp light that restores memory (each use banishes it from a 30 ft radius for a minute).
 
 ## Deviations from the outline (and why)
 (none yet)
