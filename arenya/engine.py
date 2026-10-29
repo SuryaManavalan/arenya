@@ -25,6 +25,12 @@ DM_TYPES = AGENT_TYPES | {"narration", "ruling"}
 HUMAN_TYPES = AGENT_TYPES | {"narration", "ruling", "decree"}
 SYSTEM_TYPES = {"roll", "sheet", "pass", "scene_start", "scene_end", "chapter_end", "system"}
 
+WORLD_TURN = {"title": "world turn: advance the fronts",
+              "instructions": "Follow rules/dm.md § Fronts and the world turn. Read plot/fronts.md, decide what each "
+                              "front did off-screen since its last advance, update fronts.md (step, what, where, when), "
+                              "plan the visible signs, and tidy plot/dm-notes.md (finished scene logs go to plot/dm-log.md). "
+                              "Don't post at the table."}
+
 PRIORITY = {"dm": 0, "player": 1, "npc": 1, "director": 2, "lorekeeper": 3, "author": 4}
 
 
@@ -209,6 +215,9 @@ def scene_end(summary: str) -> dict:
         st["scene"] = None
         st["spotlight"] = []
         enqueue(st, "author", "draft", {"scene": closed})
+        in_chapter = sum(1 for s in st["scenes"] if s["book"] == st["book"] and s["chapter"] == st["chapter"])
+        if in_chapter % 3 == 0:
+            enqueue(st, "dm", "task", WORLD_TURN, priority=2)
         enqueue(st, "lorekeeper", "extract", {"scene": closed})
         for a in dict.fromkeys(["dm", *closed["cast"]]):
             enqueue(st, a, "reflect", {"scene": closed})
@@ -225,6 +234,7 @@ def chapter_end(summary: str, next_book: bool = False) -> dict:
     with state.locked() as st:
         enqueue(st, "author", "revise", {"book": done["book"], "chapter": done["chapter"],
                                          "summary": summary, "final_in_book": next_book})
+        enqueue(st, "dm", "task", WORLD_TURN, priority=2)
         if next_book:
             st["book"] += 1
             st["chapter"] = 1

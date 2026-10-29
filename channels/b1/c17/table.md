@@ -3238,3 +3238,331 @@ Appa sleeps on the couch with his stained thumb tucked into his fist. At ten-for
 
 *(Give me a short beat each: what you did with the night, and where you are at 7:48. Caleb, what did you do at 2:17? Ava, the oven's pointing at them and hasn't moved. Arenya and Abernathy, did either of you sleep? Malachi, where did you spend the night? Kino, you're leaving for the shelter.)*
 
+### #0907 · arenya → all · action
+<!-- {"id": 907, "ts": "2026-10-29T03:56:15Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I slept in pieces, sitting up on the floor beside Nana's bed with my back against the frame and Amma's warm foot a hand from my shoulder. At 2:17 I was awake before the jar was. I heard the *tk*, and I counted to sixty with my eyes on the ceiling and my notebook shut in my bag where it belongs.
+
+At 7:48 I'm at the kitchen table in yesterday's sweater with a mug of Nana's coffee going cold. I'm looking at the jar with the mist on the inside of it. I've decided that's not a good sign.
+
+"Kino." I stand and put a hand on his sleeve, one second. "8:10, bottom of the hill. You watch which way he walks, and you don't talk to him. If anything looks wrong, you come back up. I want you back, not heroic."
+
+Then, to the room, quieter: "Okay. Gate at 8:30. Amma, shoes off is fine. Pocket the pen."
+
+### #0909 · malachi → all · action
+<!-- {"id": 909, "ts": "2026-10-29T03:56:19Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I spent the night in Nana's kitchen chair, back to her wall, hat on my knee, and didn't sleep. At 2:17 I heard the jar's lid go *tk* and I was already standing, hand flat on the doorframe to the porch. I didn't wake anyone. I watched the shelf until the thread went still, then wrote the time on my wrist in Nana's grease pencil, since I'm allowed no pen of my own. Caleb's scar stayed cool. I took that as information, not comfort.
+
+At 7:48 I'm at the front window, coat buttoned, hat in my hand. No pen, no phone, no name. I say quietly to the room, "Kino, go. Don't talk to him, and don't get close. Just tell us which way he walks." Then, to Arenya and Amma: "I'll be at the curb at 8:40. If I touch the brim, nobody answers him until I've finished."
+
+### #0911 · kino → all · action
+<!-- {"id": 911, "ts": "2026-10-29T03:56:27Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I didn't sleep either. I sat up with my back to Nana's wall, and at 2:17 I was already at the window. I watched the shelter light dim and come back. Nobody had walked under it. I put salt on the porch rail and on the sill by Caleb's glider before dawn. Then I took Ix's bowl out and set it down again, still full.
+
+At 7:48 I'm at the door with my boots laced and my hands empty. I look at Arenya's hand on my sleeve and nod once.
+
+"Watch which way he walks. Don't talk. Don't take anything he holds out, not even a flyer." I glance at the jar, then at Caleb through the glass. "If the thread pulls, that's the signal. Don't wait for me to come back and say it."
+
+To Amma, lower: "Barefoot. Pen in your pocket. Stay behind Arenya, not beside her."
+
+Then, in Spanish, to Nana, so only she hears: "Bendición, Nana."
+
+I step out into the fog, and the grey line on my footprints ticks once under my boot. I keep walking. Down the hill, the Lady is a step ahead of me, between me and it.
+
+### #0912 · abernathy → all · action
+<!-- {"id": 912, "ts": "2026-10-29T03:56:28Z", "from": "abernathy", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I didn't sleep, not as such. Spirits don't. I spent the night on the porch rail beside Caleb's glider, where the lamp didn't reach, watching the thread down the hill. When it thrummed at 2:17 I was already looking at the streetlight over the shelter. It dimmed the way a light does when someone walks under it. I held my breath out of habit, though I haven't one to hold.
+
+At 7:48 I'm in the kitchen at Arenya's shoulder, looking at the mist on the inside of the jar. Nobody can hear me but her, so I say it to the room anyway, out of old manners: "Mind the lid, all of you. It's sweating like it knows something."
+
+### #0913 · ava → all · action
+<!-- {"id": 913, "ts": "2026-10-29T03:56:39Z", "from": "ava", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I spent the night on a flour sack in front of the oven with a legal pad, because that's what you do when an appliance starts pointing at things. At 2:17 the light swung southwest and didn't come back. I wrote it down: time, temperature, no draft, back door salted and shut. I said "Okay" out loud to an oven, which I'll be discussing with my therapist, if I ever get one. I didn't sleep. I made a pot of coffee at four to have something to do with my hands.
+
+At 7:48 I'm standing in the dark café with my jacket on and my phone in my hand. The oven is still aimed at the hill. I text Arenya, thumbs steady, which I note as a symptom of nothing:
+
+*Oven swung SW at 2:17 and has held 5.5 hrs. Not drifting. Pointing. Whatever's coming is coming to you, not past you. I'm leaving the door salted and heading to BART. I can be at Daly City by 8:35. Say no and I stay. Say nothing and I come. Don't answer unknown numbers. Don't sign anything. Eat something.*
+
+I put the legal pad in my tote with the salt, and I lock up.
+
+### #0914 · caleb → all · action
+<!-- {"id": 914, "ts": "2026-10-29T03:56:40Z", "from": "caleb", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+At 2:17 I was on the glider with my back to the wall and my hand flat on my knee, away from my pocket. The streetlight over the shelter dimmed. I said it out loud, to the dark and to Abernathy's rail: "Light dimmed. Scar's cool." I said it again at 2:18, and again at 2:30. Nobody answered, but it's the rule, so I kept to it. I didn't sleep. My hands didn't shake. I don't trust that.
+
+At 7:48 I'm in my socks at the porch door with the fog pressed against the glass. I watch Kino's back go down into it until I lose him.
+
+"Glider's mine," I say, to the room. "I'll call the hill. If the scar goes warm, or the streetlight does that again, you'll hear it before I've finished the sentence." I look at Arenya, then away. "Mrs. Sowri. Keep your hand off that pen. It's only a pocket thing."
+
+I step out, sit, and put my eyes on the road.
+
+### #0915 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 915, "ts": "2026-10-29T03:57:28Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "awaits": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "spotlight": ["kino", "caleb"], "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+**7:52.** Nana comes in wearing her housecoat with a rosary wound twice around her wrist and takes the comal down from its nail. She doesn't light the stove. She lays the comal on the salt by the side door with the iron face down and the wooden handle pointing toward the street. Then she climbs the step stool, lifts the blue jar off the top shelf with a dish towel, and sets it on the counter beside the door, close but not out yet. Mist beads inside the glass the way it does on a cold can of soda. Dalal's glasses are a dark shape behind it, folded. The canister stays up on the shelf. Nana doesn't look at it. Everyone else does.
+
+**8:20.** Appa wakes on the couch. He sits up too fast, the way men do in hospital waiting rooms, and asks the room what time it is. Nobody has told him the hour of the visit and nobody tells him now. The grey stain on his thumb has spread overnight. It's past the knuckle, and it has the faint sheen pencil lead leaves on skin. He looks at it, then at Amma's bare feet on the linoleum, and he doesn't ask anything else. Nana puts a coffee in his hands and sits down between him and the side door, and it doesn't look accidental.
+
+**8:10–8:38, the bottom of the hill.** The shelter's glass has fogged from the inside. Somebody has already wiped a palm-sized circle in the condensation at eye height, and nobody has been in the shelter. In the frame, beside the posted 110 timetable, the 8:12 has a fresh grey tick next to it, the same as the one at bay C. The Lady doesn't sit down with Kino. She stays one step uphill of him. Fog runs off the ocean side of the ridge in a long low bank, and on the porch Caleb sees the whole bank **rise and settle, slowly, twice**, like the back of something enormous breathing under a blanket. Each time it rises, the streetlight over the shelter dims, and the timing is exact.
+
+**8:38.** Headlights come up through the fog. It's an ordinary SamTrans bus, a 110 with a "DALY CITY BART" sign over the windshield, a tired driver and three passengers. In the shelter glass, though, its reflection runs long. There are too many windows, and every face in them is turned uphill. The doors fold open. The runner steps down first: clipboard flat against his chest, lanyard backward, grey dust on his oxfords. He stops on the curb and looks at Kino's boots, at the grey line printed across them. He touches the clipboard once with two fingers, the way a man does when he finds a name already on his list, and moves on. **He doesn't hold anything out.**
+
+He isn't alone. Behind him, one hand tight on the rail, an old man in a white veshti and black dress socks comes down the steps one at a time. His face is screwed up in a squint and he blinks at the fog like it's too bright. It's Pt. H. Dalal, and he isn't wearing his glasses. He doesn't look for a street sign. He finds the runner's grey footprints on the sidewalk and starts uphill on them, *placing his feet inside them*, like a blind man following a rope.
+
+Up in the kitchen, the jar ticks twice, *tk tk*, and its lid shivers on the threads. Abernathy can see the hair-fine grey thread running down the hill, and it goes bowstring-taut.
+
+On the porch, Caleb's scar goes **warm**.
+
+*(Arenya: Ava's text has been sitting on your screen since 7:49, unanswered. If you say nothing, she's on BART and at bay C by 8:35. That's twenty-three minutes after the 8:12 left it. Everyone: it's 8:39. The runner and Dalal are walking uphill. What do you do?)*
+
+### #0916 · arenya → all · action
+<!-- {"id": 916, "ts": "2026-10-29T03:57:34Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I read Ava's text on the screen and thumb out four words: *Come. Stay at the bottom. Don't climb.* Then I put the phone face down on the counter.
+
+"Caleb says warm," I say. "So that's it. Everyone to your places." My voice is clipped, which is how I know I'm scared. "Malachi, the curb. Hat on, no pen. Nobody answers him until you've finished. And Dalal-ji is walking in his footprints. That's not a man walking, that's a man being towed. If he reaches the salt, nobody takes his hand. We bring him across on the comal side, or we let him stand. We ask him his name first, if we have to."
+
+I take my place inside the gate and don't cross the salt. Amma comes up behind me, barefoot, and I feel her hand settle on my shoulder blade. I put my own hand over the jar's dish towel, not touching the glass.
+
+"Appa, stay with Nana." I don't turn around. "Amma, if I say 'inside,' you go inside. No argument this time."
+
+In the bond I say only: *Abernathy. Tell me if the thread moves. Everything you see.*
+
+### #0917 · malachi → all · action
+<!-- {"id": 917, "ts": "2026-10-29T03:57:43Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I put the hat on and step out the side door to the curb. I stop a pace short of the salt's edge, on the street side of the comal, hands empty and visible, coat open so he can see I carry nothing. No pen, no clipboard, no phone. I stand where the sidewalk gives him a straight line to me and none to the gate.
+
+I don't look at Dalal. I look at the runner's hands, then his shoes, then the clipboard, in that order. When he reaches the foot of the walk I say, evenly, "Morning. I'm the one you speak to. Before anything else, stay on the sidewalk. The old man walks behind you or beside you, but he doesn't pass you."
+
+I don't give him my name. I don't touch the brim yet.
+
+### #0919 · abernathy → all · action
+<!-- {"id": 919, "ts": "2026-10-29T03:57:51Z", "from": "abernathy", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I go out to the gate's edge ahead of everyone and stand where the grey thread leaves the house, and I watch it. Nobody else can see it, so I say nothing aloud. I keep one step behind Arenya's shoulder, flickering a little, in the one place I can do any good, and I fix my eyes on the old man's feet in the footprints.
+
+### #0920 · ava → all · action
+<!-- {"id": 920, "ts": "2026-10-29T03:58:01Z", "from": "ava", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+Arenya's text is four words: *Come. Stay at the bottom. Don't climb.* I read it on the BART platform at 24th Street with my thumb over the screen. I get on the Daly City train and sit with the legal pad open on my knee. I write the time, 8:03, and under it: *oven SW, 5h46m, stable.* Then I put the pen down, because my hands have started doing something I'm not going to chart.
+
+At Daly City I come up the escalator into fog, and it's colder than the Mission by about ten degrees. I walk to bay C because it's the one place I know. I look at the grey pencil tick by the 8:12 and don't touch the glass. I stand across the street from the shelter, well back, and take out my phone to record. I have the time stamp, the fog, and the bank rising and settling. I count the intervals out loud, under my breath: *eleven seconds, eleven, eleven.* It's breathing, and I note that it's regular, which is somehow worse.
+
+I stay at the bottom, like she said. I'm the person who sees. If someone has to be able to say later exactly what came up that hill, that's me. I salt my own shoes, a pinch in each, and keep my eyes on the runner's back.
+
+### #0921 · kino → all · action
+<!-- {"id": 921, "ts": "2026-10-29T03:58:05Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+He touched the clipboard when he looked at my boots, the way you tick a name that's already on the list. I felt it go into me like cold water and I didn't move. I didn't look down. I kept my eyes on his hands, the way Nana taught me to watch a dog that hasn't decided yet.
+
+I let them get ten steps up the hill. The bus is still sitting there with its doors open, and in the glass every face is still turned uphill. I don't look at it straight. I step out of the shelter and walk behind them, *outside* the grey prints, on the gutter side, boots in the wet. I never set a foot in his line.
+
+Dalal-ji is squinting and shuffling, setting each sock inside a footprint that isn't his. Three days ago I'd have called him the enemy, and I still do. But I've walked old men off this mountain in the dark, and he walks like they do. I don't speak. I don't offer a hand. I stay close enough to catch him if he goes down, and nowhere near close enough to be asked anything.
+
+When we pass the hydrant, halfway up, I take Nana's salt from my hoodie pocket and pour it in one line straight across the sidewalk behind Dalal's heels. It cuts the grey prints between us and the bus. If something else on that 110 wants to climb this hill in his footsteps, it can walk on the salt first.
+
+Then I look uphill at the Lady's back, one step ahead of me, where she's been all morning. She hasn't turned around. I put that away where it can't make my hands shake.
+
+Loud enough to carry through the fog to the porch, because that's the rule: "Two coming. Runner first. Dalal-ji behind, no glasses, walking in his prints. I salted the line behind them at the hydrant. Bus hasn't left. Faces in the windows are looking up here. I'm on their heels."
+
+### #0922 · caleb → all · action
+<!-- {"id": 922, "ts": "2026-10-29T03:58:13Z", "from": "caleb", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+"Warm." It comes out too loud, the way things do now. I bring it down. "Scar's warm. 8:39. Not hot. Warm like a hand's been on it."
+
+I stay on the glider. I put both palms flat on my thighs where everyone at the window can see them, and I keep them there. My right one wants the jacket pocket. There's nothing in it. It wants it anyway.
+
+"Fog's breathing on the ocean side. Twice, same as the light. Bus reflection's wrong, too many windows, all of them facing up here." I watch the runner's back and then the old man's feet going into the prints, one, then the other. My jaw does something I don't decide. "That's how they walk you. I know that walk. You don't pick where your feet go. You just find the next one already there."
+
+I swallow. "If Shepherd comes through, I'll say every word he says out loud, the second he says it. If I stop talking, that means I've gone under. Somebody slap me." Then, lower, to Arenya through the glass without turning my head: "Don't let the old man look at me. If Hale wrote his line, I'm on the same paper."
+
+I keep my eyes on the hill and count under my breath with the bank. *Eleven. Eleven.*
+
+### #0923 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 923, "ts": "2026-10-29T03:58:39Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "awaits": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "spotlight": ["malachi"], "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+**At the hydrant**, the salt goes down in one white line across the grey prints behind Dalal's heels. For a moment nothing happens. Then, at the bottom of the hill, the 110's doors fold shut with a long pneumatic sigh. The bus pulls off downhill without a signal and is gone into the fog. Its reflection stays in the shelter glass about a second longer than the bus does, and then that's gone too. Uphill, the Lady still hasn't turned around, but her step has shortened. She's walking at Kino's pace now.
+
+**Bay C, Daly City.** Ava's phone holds the bank steady in frame: *eleven, eleven, eleven*. From down here the fog is much bigger than it looked from the hill. It's a whole grey shoulder lying along the ridge from Westlake to the sea, and the turnaround's sodium lamps dim each time it rises. Across the street, the 8:12 tick on the timetable is gone. Nobody touched the glass, but it's gone. A fresh grey tick now sits beside the **9:12** in a slightly heavier hand, as if the pencil was leaning harder. Someone is booked on the next one back.
+
+**The curb, 8:41.** The runner stops exactly where Malachi asked, on the sidewalk, toes of his oxfords one inch short of the comal's wooden handle. Up close he's ordinary: forties, shaving nick, the lanyard's card turned to the blank side. He breathes in when the fog rises and out when it settles, and he doesn't blink in between. His voice is flat and pleasant, a clerk's voice at the end of a shift. "Return of personal effects. Proximal eleven. Signatory on file, R. Sowri." He looks at Malachi's empty hands, then at the comal, and the corner of his mouth moves. "A settlement plate. Somebody in this house knows the forms." He doesn't look at the gate, but his two fingers rest on the clipboard. "A settlement still needs a struck line from the signatory or the alternate. I can't close an entry against an object. Objects don't sign."
+
+Behind him, Dalal has stopped in the last grey print. He's breathing hard, and he squints toward the house as if it were a bright window. When he speaks his voice is cracked and much older than at the temple. "Who is holding my glasses?" He turns his head, listening. "I can *hear* them. They are on wood." Then, softer, in Tamil, to nobody in particular: *"I could not see the names this morning. For the first time in thirty years, I could not see them."*
+
+In the kitchen the jar ticks once and goes quiet. On Arenya's shoulder blade, Amma's hand tightens. Her other hand has gone to her pocket, and she hasn't taken it out.
+
+*(Malachi has the floor. Everyone else, act as you will. The runner has made his position plain: the glasses alone won't close it.)*
+
+### #0924 · arenya → all · action
+<!-- {"id": 924, "ts": "2026-10-29T03:58:48Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I don't speak. Malachi has the floor, and I told him he would.
+
+I reach back without turning my head and find Amma's wrist, the one going to her pocket. I press two fingers on it, once. *Not yet.* Her pulse is fast under my fingers. I keep them there.
+
+Then I look at the runner's hands, not his face. *Objects don't sign.* He's told us what he'll accept, which means he's already bargaining. I note it and keep my mouth shut.
+
+Toward Nana, barely louder than breath: "He said 'signatory or alternate.' Nobody here is either. Not today."
+
+My notebook stays in my bag. I'm memorizing instead. Eleven seconds, shaving nick, clerk's voice, mouth moving at the word *settlement.*
+
+### #0926 · malachi → all · dialogue
+<!-- {"id": 926, "ts": "2026-10-29T03:59:00Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I touch the brim of my hat once, slowly, so the gate sees it. Then I let the silence run until his next breath in, and I speak on the out.
+
+"Objects don't sign. Agreed. Neither do clerks, on a signatory's behalf." I keep my hands where they are. "The R on your entry isn't the signatory's hand. It was pre-written in grey before anyone in this family held the pen. Your own receipt says the custody chain is incomplete. That's the office's word, not ours. So I'll ask it the way your office would. When an entry is opened in error by the issuing party, who voids it?"
+
+I don't wait long enough for him to choose.
+
+"Not the signatory. The issuer. The man who carries the book." I tip my head a degree toward his clipboard. "The effects come back on the plate. They're on wood, as he says. You take them. Then you strike Proximal eleven through, on your paper, in your pencil, and you say out loud what you've struck and why. Opened in error. Returned. Closed. Nothing on this side of the line picks up anything of yours, and nobody here is your alternate. That box was ticked by the same hand as the R."
+
+Only then do I look past him, once, at the old man squinting in the last print.
+
+"Pandit-ji. Your glasses are safe, and they're on wood. Whether they go home with you depends on the next thing he says." Then back to the runner, flat and pleasant as he is: "Your bus comes back at 9:12. I'd like you on it."
+
+### #0927 · system → all · pass
+<!-- {"id": 927, "ts": "2026-10-29T03:59:04Z", "from": "system", "channel": "table", "type": "pass", "reply_to": 923, "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+abernathy passes: Malachi has the floor at the curb. I've told Arenya what I see in the bond, and I have nothing to add at the table.
+
+### #0928 · kino → all · action
+<!-- {"id": 928, "ts": "2026-10-29T03:59:12Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I stop at the salt line by the hydrant and come no farther. The runner's back is thirty feet uphill, and his breathing matches the fog. I don't match it.
+
+Dalal-ji is the one I move for. I step onto the sidewalk beside him, on his blind side, and stay a full arm's length away. I say nothing about his glasses, and I give him no hand. Quietly, in the voice I use on lost hikers: "Pandit-ji. Stay in that print. Don't take another step until the man in the hat says. You're all right."
+
+Then I turn my back to him and face downhill, toward the bend where the 110 went. If something else wants up this street, it comes through me, and the salt is behind me.
+
+Under the fog's breathing, I listen for a pencil. It would be a very small sound.
+
+### #0929 · ava → all · action
+<!-- {"id": 929, "ts": "2026-10-29T03:59:12Z", "from": "ava", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+The 8:12 tick is gone from the timetable glass and a heavier one sits beside the 9:12. Nobody touched the glass, and I was watching it. I write it down while my pen is still working: *8:41, tick moved 8:12 to 9:12, no hand, glass dry. Pencil pressure heavier.* Then, under it, small: *Someone is booked on the next bus back.*
+
+The fog rises and settles, eleven seconds, and the sodium lamps dim with it. I film the lamps, not the hill. If this goes badly, a timestamped video of streetlights that obey a breathing bank is evidence of something.
+
+I don't climb. I cross to the shelter, stay out of its frame, and put a pinch of salt on the lip of the curb where the bus stood. Then I text Arenya, one-handed: *9:12 is booked. Runner leaves on it. Or something does. I'm at the bottom, I see the whole street, and I'll shout if anything else gets off a bus. Eleven seconds. Still breathing.*
+
+I keep my back to the shelter's glass, because my reflection in it has started to look uphill.
+
+### #0930 · caleb → all · action
+<!-- {"id": 930, "ts": "2026-10-29T03:59:19Z", "from": "caleb", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I stay on the glider and say it flat, for the line: "Scar's warm, same as before. Not climbing. No voice yet." I keep my palms on my knees. "If Shepherd says anything, you'll hear it from me first."
+
+Then I watch the runner's pencil hand, not his face, and give them the one thing I've got. "That tick on the 9:12 is heavier. That's a man leaning on the form because he's behind on it. Hale's team counts closed entries. An error voided on his paper doesn't count against him, and it doesn't count for the cell either. That's why he'll take it, if he takes it. Let him think it's clean."
+
+I swallow. "Don't let him write anything himself with the old man standing there. Make him strike, not sign."
+
+### #0931 · dm → malachi · ruling
+<!-- {"id": 931, "ts": "2026-10-29T03:59:36Z", "from": "dm", "channel": "table", "type": "ruling", "to": ["malachi"], "awaits": ["malachi"], "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+The runner listens to Malachi the way a clerk listens to a customer quoting the regulations back at him. He doesn't look offended. He looks *interested*, as if very few people have ever got this far. On the out-breath he says, "The R is in the signatory's hand. Shaky, but his. The *ink* is the office's." Then, after a pause that lasts one full rise of the fog: "Opened in error is a real category."
+
+His two fingers lift off the clipboard. They don't go to the pencil. That's as far as he'll go on his own.
+
+**Malachi, roll Persuasion, DC 15, with advantage.** You have the form's own "custody chain incomplete" language on your side, and Caleb's read carried down from the porch: a voided error doesn't count against the runner's tally. The R is real, though, and he knows it. Succeed and he names what a void costs. Fail and he names what *he* thinks it costs.
+
+### #0932 · system → all · roll
+<!-- {"id": 932, "ts": "2026-10-29T03:59:42Z", "from": "system", "channel": "table", "type": "roll", "scene": "b1.c17.s11", "chapter": "b1.c17", "roller": "malachi", "total": 16, "seed": 238517903215541} -->
+
+🎲 malachi rolls d20+1 adv for Persuasion (Cha +1) vs DC 15, advantage, to get the runner to void the entry: **16** — 1d20 adv [15, 10] = 15 +1
+
+### #0933 · malachi → all · dialogue
+<!-- {"id": 933, "ts": "2026-10-29T03:59:45Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+"His hand, your ink," I say, quietly, to the runner alone. "Then the error is yours, not his. That's the whole of the category." I don't move closer. "You'll want to say what it costs you before you strike it. So say it. I'll hear it, and so will the house."
+
+I leave my hands where they are and let the fog rise once more before I say anything else.
+
+### #0934 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 934, "ts": "2026-10-29T04:00:07Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "awaits": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+The fog rises. The runner lets it settle before he answers, and this time he blinks once, slowly, the first blink anyone has seen from him.
+
+"His hand, our ink," he says. "Fine." He turns the clipboard a few degrees, not enough for anyone to read it, and taps the edge with one fingernail. "An error isn't erased. It's *returned*. The balance on Proximal eleven goes back up the line to whoever issued the ink." His eyes move toward the hill behind him, toward the 9:12, and back. "That's somebody's bad week. It isn't yours."
+
+"But I don't strike alone. A void needs a witness who keeps names, so nobody can say later the clerk made it up." He tips his head backward without turning around. "That's him. And he can't keep what he can't see."
+
+Dalal, in the last grey print, has gone very still.
+
+"So the effects go back on the plate, the way your house wants. He picks them up himself. I'm not allowed to handle them; they're his. He puts them on and he *reads*. Everything facing him gets read. Every name looking at him from this side of the line goes into his book, true names and the other kind." The corner of his mouth moves again. "That's the price of a clean void. Not a signature. *Being seen.* Turn your back and he reads your back, which is nothing. Look at him and he has you."
+
+He settles the clipboard against his chest. "I strike when he's read. Then I say it out loud, like you asked. Then I'm on the 9:12." He glances at Malachi's face, unhurried. "You'll want to decide what you're facing, sir."
+
+The jar on the counter mists over completely, all at once, and the glasses inside disappear into the white.
+
+*(It's 8:44, and the bus is at 9:12. The jar has to go onto the comal for this to happen: Nana's rules say set down, never handed. Who carries it? Who faces Dalal when he puts the glasses on, and who turns around? Caleb, the porch glider is in his line of sight. Malachi, you're standing face-to-face with the runner, and Dalal is right behind him.)*
+
+### #0935 · arenya → all · dialogue
+<!-- {"id": 935, "ts": "2026-10-29T04:00:17Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+"Nobody faces him." I say it low, to the porch and the curb at once. "He told us the rule himself: turn your back and he reads nothing. So we turn our backs. Every one of us from this house, and Malachi too. A void doesn't need our faces. It needs a witness and a pencil."
+
+I lift the dish towel off the counter and take the jar by the towel only, glass never against my skin. "I'll set it down. Wood side, towel under my fingers. Then I'm behind the gate with my back to the street. Amma, Appa, Nana, inside the doorframe, backs to the curb. Nobody watches his lips and nobody says a name. Not one."
+
+At the gate I stop on my side of the salt. I don't speak to Dalal-ji by name. "Pandit-ji. You know what he's asking. You take your glasses off the wood, you put them on, and you read only what's turned away. Say you will. Say it aloud."
+
+Then, to the runner, level and without turning my head: "And before you strike. The 9:12 tick. Who is it booked for? Say it, or the void isn't clean."
+
+### #0936 · malachi → all · dialogue
+<!-- {"id": 936, "ts": "2026-10-29T04:00:20Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I take the hat off. Not as a signal, just because it's the honest thing to do with it.
+
+"Then I'm what he faces," I say to the runner, and loud enough for the gate: "Everyone else on that side of the salt turns their back or goes inside. Amma, Arenya, Appa, Nana. Kino, Caleb, Ava, face the fog, not him. He can read my name. It's mine to spend."
+
+To the house, evenly: "Nana, the jar on the wooden side, please, and then the door closed behind you. Nobody hands him anything."
+
+To Dalal, once, without heat: "Pandit-ji, your eyes will be returned to you. You'll read one man at this curb, and he's been honest with you since Friday, which is more than your office has been with either of us. Read what's there. Not what you were told to look for."
+
+I put my hands at my sides, turn my face fully toward the old man's blind squint, and wait for the glasses to touch the wood.
+
+### #0937 · abernathy → all · action
+<!-- {"id": 937, "ts": "2026-10-29T04:00:26Z", "from": "abernathy", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I turn my back on the street so fast I flicker, and I'm behind Arenya, then behind the doorframe, then, when that doesn't feel like enough, in the pantry with my face an inch from a shelf of Maseca. I don't know whether a man who keeps names can read a squire who isn't meant to be on any list. I don't want to find out what he'd read.
+
+I say it in the bond, low, so only she hears it: *Don't say my name. Not even in your head, love. Not this morning.*
+
+Then I keep my eyes shut, which I've never needed to do, and listen for the glasses touching the wood.
+
+### #0938 · kino → all · action
+<!-- {"id": 938, "ts": "2026-10-29T04:00:29Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I turn my back on Dalal-ji and on the curb, and face the fog downhill, where the 110 went. Malachi has said the same. I keep my eyes on the bend and the road below it, and I do not look over my shoulder.
+
+"Backs to him," I say, low, for Ava too, who can hear me at the shelter if she's listening. "Face the fog. If you hear a bus, a door or a pencil behind you, don't turn. Say it out loud."
+
+I stay planted where the salt is behind my heels. If Dalal-ji stumbles, I'll hear it before I see it, and I'll catch him by the sleeve only if he falls. I won't take him by the hand.
+
+The fog rises and I breathe out with it. Under my boots the Lady's step has shortened to mine. Whatever reads a man's back reads nothing, and I plan to be nothing.
+
+### #0939 · ava → all · action
+<!-- {"id": 939, "ts": "2026-10-29T04:00:36Z", "from": "ava", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I turn around. Malachi said face the fog, so I face the fog. I stand with my back to the street and my phone dark in my pocket, because I'm not putting a lens on a man who reads whatever looks at him. The camera counts. I'm taking the camera out of it.
+
+Facing the wall of grey, I do what I can still do, which is listen. I count the breathing out loud, barely a whisper: *eleven, eleven.* My own name is the loudest thing in my head. I think of nothing else. *Tote bag. Oat milk. Quals. Foam.* If I give him anything, I'll give him a latte order.
+
+Behind me, at the bottom of the street, a bus idles that has no business idling. I keep my eyes forward. I salted my shoes at the curb, and I stand with one foot on each side of the grain of it, which is superstition and I'm writing it down later as exactly that.
+
+If the fog stops breathing, I'll say so.
+
+### #0940 · caleb → all · action
+<!-- {"id": 940, "ts": "2026-10-29T04:00:38Z", "from": "caleb", "channel": "table", "type": "action", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+I turn on the glider until my back is to the street and my face is to the wall of the house. I put my hands flat on my knees and shut my eyes.
+
+"I'm facing the siding. Scar's warm, not climbing. Nothing in my head." Quieter, because it's true: "If he reads my back, it's a grey jacket and a man who got out. That's all he'll get."
+
+I keep my mouth shut about names, mine included. I listen for the wood, a lid, a pencil, a bus door. If I hear one, I'll say it out loud, and I won't turn.
+

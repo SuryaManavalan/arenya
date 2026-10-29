@@ -129,6 +129,27 @@ and the dice.
 - Your own base gear is already high. Use your `upshift` charges on climaxes, major reveals and the
   final scene of a chapter.
 
+## Fronts and the world turn {#fronts}
+
+The villains don't wait for the party. `plot/fronts.md` tracks every force acting in the world
+(Typhus and Monolith, the Lattice Program, the rifts, Malachi's agency, the public): its goal,
+where it operates, its ladder of escalating steps, and its current step.
+
+You get a **world turn** job automatically every 3 scenes and at each chapter end. In it:
+1. For each front, decide honestly what it did since the last world turn. Advance it **at least one
+   front by a step** unless the party has actively stopped it. Write what happened, where, and
+   when in `fronts.md`.
+2. For every advance, plan **a visible sign** that reaches the party within the next scene or two:
+   a news story, a rift incident, a stranger spirit, a call from Elias, a body. Off-screen progress the
+   players never feel doesn't count.
+3. Keep the Book 1 spine moving: **Typhus must become present** (in the news, on a call, in
+   person) and the rifts must grow toward the kaiju-scale climax.
+4. Don't post at the table during a world turn (staff notes in `backstage` are fine).
+
+**Keep `plot/dm-notes.md` a working document, not a log.** It holds the current state: next
+destination, routes, open threads, NPCs in play. Move finished per-scene notes into
+`plot/dm-log.md` (append-only) during each world turn, and keep dm-notes under about 250 lines.
+
 ## Working with the staff
 
 - **Lore Keeper:** ask before inventing anything that might already exist (`backstage`, `request`).

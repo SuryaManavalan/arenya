@@ -4,6 +4,13 @@
 Book beginnings and endings: **must** hit. Major plot points: hit as much as possible. Everything in
 between belongs to the players and the dice.
 
+## Live: b1.c17.s11 "All Hallows" (Sun 7:48–8:39 a.m.)
+- Comal on the salt by the side door, iron face down, wooden handle toward the street. The jar is on the counter by the door. Appa is awake, and his grey stain now runs past the knuckle. Nana is seated between him and the door.
+- 8:38: the runner steps off the 110, checks Kino's grey-lined boots against his list ("already on it"), and offers nothing. **Dalal came too**, without his glasses, squinting, and walks uphill *inside the runner's footprints*. The jar ticked twice, the thread went taut, and Caleb's scar went warm.
+- **Kaiju foreshadowing (per decree #0906):** the ocean fog bank rises and settles like something breathing, and the shelter streetlight dims in time with it. The bus's reflection runs long, too many windows, every face turned uphill. Keep it growing across c17–c18 toward the Book 1 climax.
+- The runner's reaction to the trade is still undecided. Leaning: he doesn't take the glasses himself. They're **Dalal's** to reclaim, and Dalal can only pick them up if he "sees" the house (his eyes are the price). The runner still needs a stroke from someone. A struck line by Dalal on the runner's clipboard might close the R. Sowri entry → carry-forward lands on Dalal's own name?
+- Ava: if Arenya doesn't answer, she's at bay C at 8:35, after the bus has gone. Something should be waiting at the turnaround for her.
+
 ## Live: b1.c17.s10 "Hat in Hand" (Sat 6:20–7 p.m., Nana's)
 - Malachi crossed the salt. Dalal's glasses (in the handkerchief) greyed a hand's width of the line, which is now covered with fresh salt, not swept. The glasses are in the blue jar on the top shelf, a hand's width from Susmithaa's canister. The jar made a "tk" sound (a pencil checking a line).
 - Bond: a fine grey thread runs from the jar downhill to the 110 stop. Abernathy says not to cut it.

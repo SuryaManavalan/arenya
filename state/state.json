@@ -1,6 +1,6 @@
 {
  "phase": "play",
- "next_id": 907,
+ "next_id": 941,
  "book": 1,
  "chapter": 17,
  "scene_counter": 11,
@@ -18,7 +18,7 @@
   ],
   "place": null,
   "start_id": 904,
-  "spotlights_used": 0
+  "spotlights_used": 3
  },
  "scenes": [
   {
@@ -538,32 +538,17 @@
    "chapter": 17
   }
  ],
- "expectations": [
-  {
-   "id": 905,
-   "from": "dm",
-   "channel": "table",
-   "waiting_on": [
-    "arenya",
-    "malachi",
-    "abernathy",
-    "kino",
-    "ava",
-    "caleb"
-   ],
-   "ts": "2026-10-29T03:56:08Z"
-  }
- ],
+ "expectations": [],
  "cursors": {
   "lorekeeper": 309,
-  "dm": 902,
-  "arenya": 905,
-  "abernathy": 889,
+  "dm": 940,
+  "arenya": 934,
+  "abernathy": 936,
   "author": 596,
-  "caleb": 896,
-  "kino": 894,
-  "ava": 867,
-  "malachi": 905
+  "caleb": 938,
+  "kino": 936,
+  "ava": 937,
+  "malachi": 934
  },
  "sessions": {
   "lorekeeper": {
@@ -571,32 +556,32 @@
    "session_id": "f5a97980-7f49-4aec-b89b-b152bf01037f"
   },
   "arenya": {
-   "key": "b1.c17.s10",
-   "session_id": "45303fb7-57b2-493a-90e4-23e7539c9165"
+   "key": "b1.c17.s11",
+   "session_id": "fac87092-7536-4cac-96cc-97f52496595c"
   },
   "dm": {
-   "key": "b1.c17.between",
-   "session_id": "56654a7f-5ce0-42fc-a491-75d338502e08"
+   "key": "b1.c17.s11",
+   "session_id": "322b342f-c949-4d33-b56e-a51801de1852"
   },
   "abernathy": {
-   "key": "b1.c17.s10",
-   "session_id": "99942d4c-5d67-4016-9d5a-b97e4aa22b8a"
+   "key": "b1.c17.s11",
+   "session_id": "d10ea450-4f1c-457d-a4bb-fc5834546461"
   },
   "caleb": {
-   "key": "b1.c17.s10",
-   "session_id": "4597702d-6ed0-4452-89d6-0f257016b116"
+   "key": "b1.c17.s11",
+   "session_id": "2357c19c-9fef-44bc-af27-3470f6f4773d"
   },
   "kino": {
-   "key": "b1.c17.s10",
-   "session_id": "babdf9c7-6ff0-47c2-aee2-a5ebe5e58faa"
+   "key": "b1.c17.s11",
+   "session_id": "30c8406a-46d1-4106-a2e5-0911c577d43b"
   },
   "ava": {
-   "key": "b1.c17.s09",
-   "session_id": "0cf377c6-278d-4251-838b-7af45c8e76ff"
+   "key": "b1.c17.s11",
+   "session_id": "51a35e0a-b085-4e3a-8b36-f26ac25b89e3"
   },
   "malachi": {
-   "key": "b1.c17.s10",
-   "session_id": "40d822eb-367c-4c87-b61c-f98a28b440cf"
+   "key": "b1.c17.s11",
+   "session_id": "7228c900-0c09-4146-9f98-2f7efdf7f18e"
   },
   "author": {
    "key": "b1.c17.between",
@@ -606,7 +591,7 @@
  "charges": {
   "dm": {
    "period": "b1.c17",
-   "left": 18
+   "left": 16
   },
   "author": {
    "period": "b1.c17",
@@ -654,63 +639,30 @@
  "spotlight": [],
  "queue": [
   {
-   "seq": 974,
-   "agent": "abernathy",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
+   "seq": 1004,
+   "agent": "dm",
+   "job": "task",
+   "args": {
+    "title": "world turn (catch-up): what has Typhus been doing all week?",
+    "instructions": "Follow rules/dm.md \u00a7 Fronts and the world turn. Read plot/fronts.md, decide what each front did off-screen since its last advance, update fronts.md (step, what, where, when), plan the visible signs, and tidy plot/dm-notes.md (finished scene logs go to plot/dm-log.md). Don't post at the table. This is the FIRST world turn: a week of story time has passed (Mon Oct 26 to Sun Nov 1) with no off-screen tracking. Set every front's current step from what is plausible and already canon, decide where Typhus physically is and what he did this week, and plan how Typhus becomes present to the party soon (news, Elias, a call, the coffee he promised Arenya in c12)."
+   },
+   "priority": 2,
    "attempt": 0,
-   "ts": "2026-10-29T03:56:08Z"
-  },
-  {
-   "seq": 975,
-   "agent": "kino",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
-   "attempt": 0,
-   "ts": "2026-10-29T03:56:08Z"
-  },
-  {
-   "seq": 976,
-   "agent": "ava",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
-   "attempt": 0,
-   "ts": "2026-10-29T03:56:08Z"
-  },
-  {
-   "seq": 977,
-   "agent": "caleb",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
-   "attempt": 0,
-   "ts": "2026-10-29T03:56:08Z"
+   "ts": "2026-10-29T04:00:39Z"
   }
  ],
  "running": [
   {
-   "seq": 972,
-   "agent": "arenya",
-   "job": "turn",
+   "seq": 1005,
+   "agent": "dm",
+   "job": "replay",
    "args": {},
-   "priority": 1,
+   "priority": -1,
    "attempt": 0,
-   "ts": "2026-10-29T03:56:08Z"
-  },
-  {
-   "seq": 973,
-   "agent": "malachi",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
-   "attempt": 0,
-   "ts": "2026-10-29T03:56:08Z"
+   "ts": "2026-10-29T04:00:44Z"
   }
  ],
- "job_seq": 977,
+ "job_seq": 1005,
  "human_waiting": [],
  "idle_wakes": 0,
  "paused": false,

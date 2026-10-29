@@ -163,3 +163,47 @@ So: tell Nana quiet, which you've done, good girl. Don't cut it. Cutting a threa
 
 And, er. That voice I heard, the walled-off one. I haven't forgotten I owe you it. Not tonight. After he's finished talking.
 
+### #0908 · arenya → all · note
+<!-- {"id": 908, "ts": "2026-10-29T03:56:16Z", "from": "arenya", "channel": "bond", "type": "note", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+You awake? The thread went *tk* at 2:17. You said you'd tell me what you heard about the 110 once Malachi was done. He's done. Say it now, before nine.
+
+### #0910 · abernathy → all · dialogue
+<!-- {"id": 910, "ts": "2026-10-29T03:56:27Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "reply_to": 908, "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+Awake, love. Don't think I've ever managed the other thing.
+
+Right. Straight, no patter, because you've earned it and there's an hour left.
+
+The 110 is *familiar*, guv. Not "I've seen the route map" familiar. When the trolley woman said "pink transfer," something in me went the way your stomach goes on a lift that drops a floor too fast. Like I'd *known* a man who asked for that, and I wasn't scared of him the way I'm meant to be. I was scared of being *recognised* by him. That's the bit I don't like.
+
+The voice I heard, back in the bond when the copy said "Kanna?", there was another one, under it. Walled off. I couldn't get a word of it, only that it was *patient* and that it knew my name before I'd given it. Not "Abernathy." Something shorter. I can't hear it now. I'm not hiding it, I just can't reach it.
+
+That's all of it. I don't know what I am. I don't know why a bus makes me flinch. If that's not good enough to stand a curb on, say so now.
+
+The thread's still taut. Leave it be. And drink the coffee, it's the only warm thing you've got coming.
+
+### #0918 · abernathy → all · dialogue
+<!-- {"id": 918, "ts": "2026-10-29T03:57:51Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+Thread's bowstring, love. Running straight down the hill and it's not pulling at the jar, it's pulling at *Dalal*. He's walking the line like a man on a washing line. The jar's the anchor, the old boy's the weight.
+
+Two things. The fog bank breathing, twice, and each time the shelter light dims. That's not the runner's doing. Something's listening to him come up. Keep your voice low.
+
+And the runner touched his clipboard when he saw Kino's boots, like he'd found a name already on his list. Kino's on it. Might be you are too. Don't give him yours.
+
+I'm on your left shoulder. If the thread goes slack or sings, you'll hear me say "now."
+
+### #0925 · abernathy → all · dialogue
+<!-- {"id": 925, "ts": "2026-10-29T03:58:57Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+Listen, love. Three things, quick.
+
+One: "Objects don't sign." He's told us the glasses aren't the trade, they're the *opening*. He wants us to offer a person. Don't. Malachi's already got that.
+
+Two: the thread to the jar has gone loose since the bus left. Not slack, *loose*, like whoever held the far end let out line to see where we'd run. I don't like it.
+
+Three: the 9:12 tick. Somebody's booked on the way back. Could be him. Could be Dalal. Could be one of us. Ask who the tick is *for* before anyone says yes to anything.
+
+I'm right here.
+
