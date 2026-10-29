@@ -20,3 +20,8 @@ The DM grants kino 1 upshift charge(s): Breaking his silence about the Lady turn
 
 The DM grants arenya 1 upshift charge(s): Confessed to Teddy plainly, wrote it first, made "sorry" come last. The chapter's turning point. (now 3).
 
+### #0784 · dm → arenya · ooc
+<!-- {"id": 784, "ts": "2026-10-29T03:25:53Z", "from": "dm", "channel": "ooc", "type": "ooc", "to": ["arenya"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+Small continuity note: canon has Susmithaa as Appa's younger sister, unmarried, so her name is **Susmithaa Sowri**, not Rajagopalan. I'll treat what you said at the kitchen door in #0738 as "Susmithaa Sowri." No need to fix anything in play.
+

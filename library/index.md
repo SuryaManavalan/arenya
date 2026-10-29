@@ -26,6 +26,7 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[mrs-ramaswamy]] — Livermore temple office secretary, K.R. (public, provisional)
 - [[sastri-garu]] — Livermore's real priest; closed the archana (public, provisional)
 - [[amma-sowri]] — Lakshmi, Arenya's mother; hid the bank statement (public, provisional)
+- [[dalal-ji]] — Fremont "pandit" in black socks; "I keep names"; endorsee of check 2207; s07 kitchen (public, provisional)
 - minor-characters — Teddy, Marla, Galina, Fatima, etc. (public)
 - abernathy-true-nature — ex-Time Master (restricted)
 - malachi-true-role — CIA; Book 6 secret (restricted)
@@ -45,6 +46,7 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[seton-medical-center]] — Daly City hospital; Susmithaa's death, Malachi meeting (public)
 - [[livermore-temple-office]] — temple archana/receipts office; b1.c16.s09 arrival (public, provisional)
 - [[sowri-family-home]] — Daly City house; gas-meter "receipt," b1.c16.s12 (public, provisional)
+- [[san-bruno-satsang]] — Amma's temple in a converted Lutheran church; b1.c17.s07 (public, provisional)
 - [[sri-ganesh-tiffin]] — Livermore dosa counter; s11 "paper dosa" truce (public, provisional)
 
 ## Factions
@@ -88,6 +90,13 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[grey-nissan-7kbq4r2]] — fog-from-inside car, backwards lanyard, four tally strokes (public, provisional)
 - titanium Khatri card noted under [[elias-khatri]]
 
+- [[appa-pen-and-grey-stain]] — borrowed pen "R," grey stain, NEXT OF KIN envelope; s06 (public, provisional)
+- [[pink-archana-slip-lakshmi]] — "PAID ✓" archana slip in Amma's Clark, Sat 10/31; s07 (public, provisional)
+- [[lost-property-notice-sunday]] — Shepherd's 11:14 PM text naming R. Sowri, Sun 11/1 (public, provisional)
+- [[nana-salt-line]] — Nana's ward rules: salt stops walkers, not talkers; clay vs metal; s08 opening rite (public, provisional)
+- [[custody-receipt-proximal-11]] — the opened R. SOWRI envelope: c/o LUCERO, I., pencil R, L. SOWRI ✓; s08 (public, provisional)
+- [[the-runner]] — Shepherd's-crook curb-vigil man, no car, bus 110; Caleb's account s08; s09 scouting: pink transfer, bay C prints, "8:12" (public, provisional)
+- [[dalal-glasses-blue-jar]] — Dalal's wrapped glasses in Nana's blue jar; grey thread to the 110 stop; Nana's trade terms; s10 (public, provisional)
 - [[meridian-mutual-policy]] — the supposed policy / Susmithaa's "door"; s16.s01: "c/o" line, 8 March archana (public, provisional)
 
 ## History & events

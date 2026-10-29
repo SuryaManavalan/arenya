@@ -10,6 +10,7 @@ related: [malachi-shawani, series-secrets]
 
 # Malachi — true role
 
+- **REVEALED in-world b1.c17.s10 (#0875, #0878):** the CIA employer and the not-DOE fact are now public (see [[malachi-shawani]]). What remains restricted is the deeper Book 6 secret.
 - Actually **CIA**, a case officer on a quiet domestic analysis cell tracking "unexplained cerebral deaths"; the Department of Energy line is a cover [human; IDENTITY].
 - Years of field work abroad; pulled home when deaths matched a pattern he'd once seen overseas and was told to forget [IDENTITY].
 - Susmithaa was on his watch-list [dm-notes]. He initially suspects Arenya, later allies [outline].

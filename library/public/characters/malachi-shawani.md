@@ -50,5 +50,12 @@ Warned Arenya that things "far older, far colder, and far less patient than the 
 - Again: **not DOE**; his employers may have trained Caleb's team ("may be the same people who sign my paychecks"). Owes Arenya the name of who he works for, "once saying it won't get anyone killed"; Arenya will hold him to "both names." Wants an hour with check 2207's endorsement.
 - Prepaid phone bought for cash; battery out after Arenya's 30-second call to Amma. Took Caleb's phone and Kino's phone. Read the Nissan (Perception 21), plate 7KBQ4R2, backwards lanyard; recognizes "the habit," not the man. Tails Kino's truck from a block back with Caleb in his back seat.
 
+## b1.c17.s10 "Hat in Hand" (Sat 31 Oct, dusk, Nana's gate) [#0872–#0901]
+- Waited outside the salt, hat in both hands, until asked. Gave the two things Arenya demanded: **Malachi Shawani** is his real name (passport, a file); employer is the **Central Intelligence Agency, Operations**: a case officer detached to a small domestic cell (four people) "never meant to exist on paper." The DOE card was the cell's; it is on the dashboard of a car he's not returning to. [#0875, #0878]
+- His team knows he is off the grid "working a lead"; they do **not** know he has told a civilian family. Price of the invitation (agreed to Arenya): his team hears nothing of this family from him or anyone he can reach. [#0878, #0880, #0881]
+- Told Amma: he was not there when Susmithaa died; read of her afterward in a file with a number for a name. Eleven-years-ago account repeated (told to forget by one line on his report); nine deaths counted by his cell; full 9:00 a.m. clue list; and that his CHP plate query on Arenya's car is on record under his name, so that is how his agency would find the door. [#0881, #0891]
+- Crossed the salt without touching it, yet a hand's width went grey from what he carried (Dalal's glasses); gave them to Nana in the knotted handkerchief, unopened. See [[nana-salt-line]]. Hat left on porch rail then carried in; waited to sit until Amma did. [#0882, #0883, #0886]
+- Plan role: at the curb Sunday outside the salt, **no pen, no name**; says Amma "isn't available" if L. Sowri is asked and makes the runner state his actions aloud. Proposed signal: touch hat brim or remove hat = whole line listens, nobody answers until he finishes; if stuck, "I'll consult" and step back across the salt. Nobody says the Sowri names within the runner's hearing. [#0891, #0894, #0899]
+
 ## Status
 Active. His true employer and the larger secret are in [[malachi-true-role]] (restricted).

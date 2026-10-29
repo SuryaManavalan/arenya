@@ -43,5 +43,10 @@ Arenya has his blurry face on her (former) wall: the grey-jacketed man at the Ta
 - Surrendered phone (battery out, Malachi). Rides with Malachi, hands visible, a pace behind his left shoulder. Nana Itzel: porch only, behind her salt. Arenya: "I'm not forgiving you… Both lines stay."
 - Dorsey/Pruitt: Team vehicles are grey Corollas, plain plates; Pruitt wipes glass with his sleeve.
 
+## b1.c17.s05 "Behind Her Salt" (Fri night–Sat 31 Oct, provisional)
+- Crossed Nana's salt on her word; sat on the glider, hands on knees, "Blue" (the mug) as his anchor. His scar warmed before the lamps went out. Described "Can I help you?" as exactly how Susmithaa said it. [#0743, #0749, #0759]
+- Shepherd's line "only texts when he's already somewhere"; Monday 2:51 it said ON SITE, Shepherd parked at the bottom of her street. [#0766, #0772]
+- Laid down his two unopened Vesper packs ("I don't want to feel right. I want to feel it"); Kino put them under the clay comal. Recognized "R. Sowri" on Monday's clipboard top sheet and thought it was Arenya; it is her father. Stays at Nana's with Ix. [#0776, #0783, #0790]
+
 ## Status
 Joins the party after b1.c15, when his Crown implant burns out. Currently (end s02) alone in the culvert, hunted by the program. His role in the killings: [[collection-program]] and [[meta-mages]] (restricted).

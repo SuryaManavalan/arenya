@@ -101,6 +101,17 @@ with XP.
 falls, they're **Lost** (not dead), and the other characters must do everything they can to bring them
 back. Losing them is a story, not an ending. Every other character can die.
 
+## The range of spirits `[human]` (from B1)
+- Spirits come in **every shape, size and form, or none**: human-like spirits; **nature** spirits
+  (trees, fog, tides, mountains); **archetypal** spirits (the Clerk, the Mother, the Threshold);
+  **characteristic** spirits (heat, rust, hurry, a city's pride); and **unimaginably abstract**
+  entities that no human sense can hold. Some are tiny and local. Some are as large as a coastline.
+- **The six houses are attractors in the space of spirits.** Light, dark, heavy, sharp, flexible and
+  sticky are domains that pull spirits of every kind toward them. A spirit's house is the shape of
+  its pull, not its body. A tide spirit and a grief spirit can both be heavy.
+- Bigger and stranger spirits are harder to perceive. To an ordinary mind, the large ones are
+  indistinguishable from psychosis.
+
 ## Spirits, houses and hosts `[human]` (from B1)
 - **Spirits** are metaphysical entities that emerge from the archetypal properties of physical
   reality, anthropomorphized. They live in the astral plane.

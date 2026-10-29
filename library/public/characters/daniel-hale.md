@@ -42,6 +42,10 @@ Voice on Susmithaa's phone voicemail (6:12 p.m., Monday) and the Sowri landline 
 ## b1.c17.s02 theory (#0619, #0622)
 - Arenya and Kino conclude Hale may be a "form" the visitor fills when he needs a hand: the Nissan fogged from inside with no one breathing, and he emerged "poured into the coat" at 7:40. He knew their window because Rodel's book (written through Rodel) told him. Unconfirmed theory.
 
+## b1.c17.s06 (via Appa, #0798)
+- On 19 Mar at Rodel's counter, queued behind Susmithaa and Appa with a mailbox key, he lent Appa a pen cap-first; Appa wrote the "R" in his ink (source of "SIGNATORY ON FILE: R. SOWRI"). See [[appa-pen-and-grey-stain]]. Rented Box 112 an hour later (consistent with the 59-minute figure).
+- Leather-soled prints size 10–11 and a ruled grey-dust line at the Sowri house are attributed to "whoever polite is" (Malachi).
+
 ## Open questions
 - Real name or alias; whether he is the counting voice or its handler; whether Meridian Mutual exists.
 - Whether Susmithaa really bought the policy, or "a door" in Nana's phrasing refers to something else (see [[meridian-mutual-policy]]).

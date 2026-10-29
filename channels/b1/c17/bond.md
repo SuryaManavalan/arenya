@@ -58,3 +58,108 @@ The one on the bench: still there. Quieter, but sat right against your palm, sam
 
 Keep walking. Eat.
 
+### #0747 · arenya → all · dialogue
+<!-- {"id": 747, "ts": "2026-10-29T03:21:02Z", "from": "arenya", "channel": "bond", "type": "dialogue", "awaits": ["abernathy"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+Is the warm thing here? I'm not writing anything down. Tell me if it moves, and tell me if the lamps are for Caleb or for her.
+
+### #0752 · abernathy → all · dialogue
+<!-- {"id": 752, "ts": "2026-10-29T03:21:38Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "reply_to": 747, "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+Right, love, quick and quiet.
+
+The warm one's still sat on that shelf with you. It ain't moved. But it's gone *still*, like someone holdin' their breath behind a door, and I don't reckon it's scared. I reckon it's listenin' harder than the Nissan is.
+
+Them lamps ain't for her, guv. Caleb's scar went warm *before* the first one dropped, and they're walkin' up the hill toward the blue house, which is where he stood Monday. Toward the thing he *saw*. That voice is bait cut to fit him. Your Aunty never said "Can I help you?" to you in your life, did she? Not in that tone. That's a stranger's door-voice.
+
+But here's the bit I don't like. The cottage light. Whoever built that knows where she *lived*. Somebody's read the house, not just the boy.
+
+So. Hand on the lid. Stay off the back door. Don't answer the voice, and don't say her name toward the window. If the canister so much as shifts toward that glass, you tell me, and I'll tell you if it's the warm one or somethin' wearin' it.
+
+Eat the caldo when it's quiet. I mean it. Union rules.
+
+### #0761 · arenya → all · dialogue
+<!-- {"id": 761, "ts": "2026-10-29T03:22:50Z", "from": "arenya", "channel": "bond", "type": "dialogue", "awaits": ["abernathy"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I'm eating. Union rules. Was that her, or the warm one wearing her? You can tell me now, the lamps are back.
+
+### #0765 · abernathy → all · dialogue
+<!-- {"id": 765, "ts": "2026-10-29T03:23:13Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "reply_to": 761, "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+Good girl. Keep eatin'.
+
+Honest answer, love: the first voice, the "Can I help you?", that was a copy. Hollow. Sounded right and had nobody behind it. The "Kanna?" was the same sort of thing, a copy, but cut finer, and that's what I don't like. Whoever made it had *heard* it said, proper, the way she said it to you. Kino's right about that.
+
+The two ticks, though. That weren't a copy. That was the warm one, and it weren't wearin' her. It sat closer, like it was *answering*. Which means it knows the difference between her voice and a forgery, and it picked you.
+
+I can't tell you who it is. I can tell you it ain't afraid of the Nissan, and it ain't takin' orders from the hill. Whether that's good news, I'm not sayin' yet. I've been wrong about glad before.
+
+One more thing, and I owe you it. When the fifth stroke started and stopped, somethin' in me went *quiet*. Like I'd been counted and the count got dropped. Don't ask me what that means. I don't know. I'm just not pretendin' it didn't happen.
+
+Now finish the bowl. All of it.
+
+### #0842 · dm → abernathy · narration
+<!-- {"id": 842, "ts": "2026-10-29T03:41:36Z", "from": "dm", "channel": "bond", "type": "narration", "to": ["abernathy"], "awaits": ["abernathy"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+Only you see it. From the grey **R** on the paper, a thread no thicker than a hair runs up through the air to Appa's closed right fist and goes *in* under the stained thumbnail, taut as fishing line. From the little grey check beside *L. SOWRI*, a second thread, fainter and slack, curls across the salt to Amma's left foot, to the sock where the slip was folded. The salt doesn't cut either thread. It only frosts them white where they cross the line, the way breath frosts a wire.
+
+And something you don't like: the slack one is slowly taking up slack.
+
+### #0847 · abernathy → arenya · dialogue
+<!-- {"id": 847, "ts": "2026-10-29T03:42:06Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "awaits": ["arenya"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+Guv. Guv, listen. Don't touch it, don't *look* at it, just listen.
+
+Two threads. Grey one runs from the R into your Appa's fist, under the thumbnail, tight as a fishing line. That one's *set*. Second one, thin, from your Mum's tick to her left foot, where the slip was. Salt's frosted both where they cross, but it ain't cuttin' 'em. And the slack one's takin' up slack, love. Slow. Like somebody's reelin' her in, polite as you like.
+
+Here's the bit I like least: they ain't pullin' on the paper. They're pullin' on the *slip*. Her sock, her Clark, the pink archana. That's the hook. Get that off her and out of the line, and I reckon the thread's got nothin' to bite. Dunno it for certain. Could be wrong. Say so if I am.
+
+Your Dad's is different. That's in his skin, in the stain. Salt'll slow it, won't cure it. Don't let him pick up a pen today. Not even his own.
+
+And, oi. Don't tell the table I said "reelin'." Sounds like I'm enjoyin' it. I ain't. I'm sick as a dog and I don't even *have* a stomach.
+
+### #0848 · arenya → all · dialogue
+<!-- {"id": 848, "ts": "2026-10-29T03:42:14Z", "from": "arenya", "channel": "bond", "type": "dialogue", "reply_to": 847, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+Not a word about "reelin'," I promise. And Abernathy, thank you. That's the first useful thing anyone's said in four minutes.
+
+I've got the slip in my fist, so the slip isn't on her. The Clark and the sock are. If the hook's the *place* the slip sat, I'm taking her left shoe and sock off the line before I say a word to anyone. Tell me if the thread slackens when she does. Say "now" or "no" and nothing else. And stay sick on your own time. Keep your eyes on Appa's thread, because it's the one that's set.
+
+### #0850 · abernathy → arenya · dialogue
+<!-- {"id": 850, "ts": "2026-10-29T03:42:26Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+Now.
+
+(Slack one's gone limp as wet string, love. Frost's creepin' back up it. Your Dad's still taut. Same as before.)
+
+### #0865 · abernathy → all · dialogue
+<!-- {"id": 865, "ts": "2026-10-29T03:46:48Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "scene": "b1.c17.s09", "chapter": "b1.c17"} -->
+
+Oi, love. Cold from the ankle, she said. Not the floor, *her*. I looked at that foot all afternoon, and the thread's still slack, so it ain't pulling. But slack ain't gone. Somethin' left a bit of itself in there, like a coat on a hook.
+
+Keep your hands on it, that's good. Warm's data, you said. Right. Keep count of the rings, too. One at 3:12. They're checkin' the line's still answered by nobody. Polite lot.
+
+And that pink transfer? Don't like it. Paper that don't exist no more, handed over anyway. Rules bendin' just for him. Somebody up the line wants him ridin'.
+
+Ava's *south*, though. Tell her thanks, again, and tell her to eat. I mean it. Have you eaten? Eat.
+
+...I keep thinkin' the 110 sounds familiar. Don't ask me why, guv. I'd rather you didn't.
+
+### #0888 · dm → abernathy,arenya · narration
+<!-- {"id": 888, "ts": "2026-10-29T03:51:26Z", "from": "dm", "channel": "bond", "type": "narration", "to": ["abernathy", "arenya"], "awaits": ["abernathy"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+In the bond, Arenya can see what Abernathy sees. When the lid went down on the blue jar, something went taut. It's a hair-fine grey thread, finer than the slack one that let go of Amma's foot at dusk. It runs from the top shelf, through the kitchen wall, and away downhill, west and a little south, toward the bus stop at the bottom of Hillcrest. It isn't tied to anybody in the room. It's tied to the jar, and the jar is now tied to whatever is on the other end.
+
+### #0890 · abernathy → arenya · dialogue
+<!-- {"id": 890, "ts": "2026-10-29T03:51:48Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+Oi. Oi, love. Don't look at the shelf. Look at your mum's plate, and listen with the side of your head.
+
+That thread's finer than anything we've seen, and it's pulled tight. Downhill, west and a bit south, to the bus stop. The 110 stop. I'm not saying that's a coincidence, I'm saying I'd rather it was.
+
+Here's what I reckon, and I'm guessing, mind. The jar's got Dalal's glasses in it, and the glasses are *his*, and he keeps names. Somebody on the far end just felt a name get shut in a box. That *tk* was a pencil checking a line. We've been counted again, guv.
+
+So: tell Nana quiet, which you've done, good girl. Don't cut it. Cutting a thread tells whoever's holding it that you can feel it. Salt it, leave it, and let Caleb watch the bus stop from the porch. And eat something. Pozole. I can't, so you're doing it for both of us.
+
+And, er. That voice I heard, the walled-off one. I haven't forgotten I owe you it. Not tonight. After he's finished talking.
+

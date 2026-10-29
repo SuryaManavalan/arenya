@@ -127,3 +127,14 @@ much as possible.
 
 **Addendum (Abernathy).** His past before serving the lineage is **blurry even to him**. He'll start
 to remember later, through events the DM throws at the party in future books, at the DM's discretion.
+
+## During play (after b1.c17.s10): the range of spirits
+The human likes the Counter and signature mechanic, and adds:
+- **Spirits come in all shapes, sizes, forms, non-forms, abstract forms**, up to incomprehensible
+  entities: not just human-bodied or human spirits, but **nature spirits, archetypal spirits,
+  characteristic spirits**, and unimaginably abstract kinds.
+- **The six houses are like attractors in the space of spirits**: domains that pull spirits of every
+  kind toward light, dark, heavy, sharp, flexible or sticky.
+- Introduce spirits through what people already understand (human spirits), then **steadily make them
+  stranger and more interesting**. Book 1 is all about the **astral plane, where spirits live**, and
+  it should **climax with massive, kaiju-like spirits**.

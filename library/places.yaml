@@ -184,7 +184,7 @@ places:
     kind: home
     note: Stucco house; scene b1.c15.s04. Supersedes the Excelsior pin as her residence per the table (Kino was raised in the Excelsior).
     visibility: public
-    sources: ["b1.c15.s04 #0059"]
+    sources: ["b1.c15.s04 #0059", "b1.c17.s05 #0733"]
   susmithaa-cottage:
     name: Susmithaa's cottage (behind the blue house, Hillcrest, Daly City)
     lat: 37.6885
@@ -221,3 +221,10 @@ places:
     kind: restaurant
     visibility: public
     sources: ["b1.c16.s11 #0545"]
+  san-bruno-satsang:
+    name: Sri Venkateswara Satsang (Amma's temple, converted Lutheran church off El Camino Real, San Bruno)
+    lat: 37.6305
+    lon: -122.4110
+    kind: temple
+    visibility: public
+    sources: ["b1.c17.s07 #0808", "b1.c17.s07 #0809"]

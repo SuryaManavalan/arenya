@@ -1,22 +1,24 @@
 {
  "phase": "play",
- "next_id": 736,
+ "next_id": 907,
  "book": 1,
  "chapter": 17,
- "scene_counter": 5,
+ "scene_counter": 11,
  "scene": {
-  "id": "b1.c17.s05",
-  "title": "Behind Her Salt",
-  "location": "Nana Itzel's house, Hillcrest, Daly City (hill above Mission St)",
+  "id": "b1.c17.s11",
+  "title": "All Hallows",
+  "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
   "cast": [
    "arenya",
-   "kino",
    "malachi",
-   "abernathy"
+   "abernathy",
+   "kino",
+   "ava",
+   "caleb"
   ],
-  "place": "daly-city-nana-house",
-  "start_id": 732,
-  "spotlights_used": 1
+  "place": null,
+  "start_id": 904,
+  "spotlights_used": 0
  },
  "scenes": [
   {
@@ -431,19 +433,137 @@
    "summary": "Caleb Strand confessed in Tartine's back room. Monday in Daly City, Susmithaa was at her sink holding Arenya's old blue mug with its half-peeled cartoon-bird sticker. She asked \"Can I help you?\", then looked past him toward the city and said a two-sound name he can't recall (maybe \"kanna\"). The Crown tagged it \"proximal reference logged.\" Caleb admitted the lift felt good. He said his one unordered choice was knotting her tether so nothing could follow it to Arenya. Shepherd is only a polite voice heard through the Crown. Drop Two is a Peninsula lot with a roll-up door where a man with a backwards lanyard signs canisters into a white van. Caleb stole Susmithaa's ash canister rather than deliver it, and he warned that Shepherd scheduled something for \"Friday,\" which is tonight. When Arenya laid her hand on the duffel, the canister synced to her pulse and then settled. The room smelled of Aunty's filter coffee and cold cream, Ava's cold palm cleared completely, and Abernathy felt a warm presence sit on the bond without noticing him. Malachi admitted he isn't with the Department of Energy and told of an identical port-city death eleven years ago that ended at the same kind of lot. He suspects his own employers trained Caleb's team, and he promised the name of who he works for later. Nana Itzel agreed to take the ash and to let Caleb sleep on her porch behind her salt. Leaving, the group found the grey Nissan at the alley's 18th Street end: plate 7KBQ4R2, a backwards lanyard on the mirror, and fog on the passenger window that drew four tally strokes from inside and paused over a fifth. They left by Guerrero and drove south on Mission toward Excelsior, Kino's truck ahead and Malachi with Caleb a block behind. The ash rode in Arenya's lap.",
    "book": 1,
    "chapter": 17
+  },
+  {
+   "id": "b1.c17.s05",
+   "title": "Behind Her Salt",
+   "location": "Nana Itzel's house, Hillcrest, Daly City (hill above Mission St)",
+   "place": "daly-city-nana-house",
+   "cast": [
+    "arenya",
+    "kino",
+    "malachi",
+    "abernathy"
+   ],
+   "start_id": 732,
+   "end_id": 791,
+   "summary": "Friday night into Saturday Oct 31 at Nana Itzel's in Hillcrest. Nana laid her salt line; Kino told her the Lady stands outside it, facing west, and Nana told him a turned back guards the house. Arenya was invited across with a pinch of salt and set Susmithaa's canister on Nana's ofrenda shelf beside Ernesto. Caleb crossed on Nana's word to the glider, and Kino closed the line. Lamps died up the hill; the empty grey Nissan (7KBQ4R2) rolled up with no engine; the cottage light came on and a looping voice said \"Can I help you?\", then called \"Kanna?\" \u2014 the Crown's logged last word. Arenya held (Wis save 20) and the canister answered her with two ticks and warmth; Abernathy says that was the warm presence, not a copy, and that he felt himself \"counted and dropped\" when the fifth stroke on the Nissan's glass started and stopped unfinished. The car rolled away, lamps returning behind it. Caleb laid down his Vesper packs unopened; Kino's sternum ache is gone. At dawn Malachi (Inv 18) found a weightless dry rectangle at the curb, leather-soled prints of a man who stood all night, a clipboard corner on Susmithaa's gate, a pink carbon scrap \"\u2026CEIVED BY:\" (blank; told only to Arenya), and a lamp humming four-and-a-half. Caleb's dead prepaid, wrapped under Nana's clay comal, showed an 11:14 PM text: \"LOST PROPERTY \u2014 CUSTODY CHAIN INCOMPLETE. RECEIPT TO BE COUNTERSIGNED BY NEXT OF KIN. SIGNATORY ON FILE: R. SOWRI. SUN 11/1. WE WILL COME TO HIM.\" Caleb recalls R. Sowri on Monday's clipboard. Nana sends Malachi to drive Arenya home in daylight, no phones, with a twist of salt for Appa's step and a message: Raghavan came to her porch in March and wouldn't come in, and he can stop being brave alone now. Kino stays with Nana and Caleb behind the salt.",
+   "book": 1,
+   "chapter": 17
+  },
+  {
+   "id": "b1.c17.s06",
+   "title": "It's Handled",
+   "location": "Sowri family home, Daly City \u2014 kitchen door, Saturday Oct 31, ~8:00 a.m.",
+   "place": "sowri-family-home",
+   "cast": [
+    "arenya",
+    "kino",
+    "malachi"
+   ],
+   "start_id": 795,
+   "end_id": 806,
+   "summary": "Saturday Oct 31, ~8:00 a.m., at the Sowri kitchen door in Daly City. Arenya poured Nana's salt on the swept step next to Kino's line, slid the green Sheaffer away from a sealed, unpostmarked envelope addressed \"R. SOWRI \u2014 NEXT OF KIN,\" and asked Appa who handed him the pen in March. Appa confessed. On March 19 at Rodel's counter, Rodel's chained ballpoint skipped, and a polite man in a navy coat holding a mailbox key (Hale, who rented Box 112 an hour later) offered his pen cap-first. Appa wrote the \"R\" of his witness signature in that man's ink before Susmithaa took the pen back (\"we have our own\"). She steadied Appa's wrist while he finished \"Sowri\" in his own Sheaffer. So the signature on her declaration is half theirs, the source of \"SIGNATORY ON FILE: R. SOWRI.\" Since March he has had a cold grey pencil-lead stain on his right forefinger and thumb. The envelope was left at 5 a.m. along a ruled line of grey dust, which he swept. He had planned to sign alone on Sunday so Arenya wouldn't have to. Arenya and Kino argued that signing would close the custody chain for them, and Arenya delivered Nana's message. Appa admitted that in March he refused to cross Nana's threshold so his family wouldn't be written in as household, then stepped over both salt lines. The kitchen landline rang once, then once again, like counting, and nobody answered. The envelope rides unopened under Nana's blanket and salt in Kino's truck. Malachi found leather-soled prints and a dry car-shaped rectangle at the curb, and on the side gas meter, fog-writing that read \"R.S. \u2014 SUN 9:00\" before it faded. Everyone is driving together to fetch Amma from temple.",
+   "book": 1,
+   "chapter": 17
+  },
+  {
+   "id": "b1.c17.s07",
+   "title": "Saturday Seva",
+   "location": "Small Hindu temple in a converted church off El Camino Real, San Bruno: shoe rack, hall, back kitchen",
+   "place": null,
+   "cast": [
+    "arenya",
+    "kino",
+    "malachi"
+   ],
+   "start_id": 807,
+   "end_id": 822,
+   "summary": "Saturday ~8:45\u20139:20 a.m., San Bruno temple (a converted Lutheran church). In the vestibule, a pair of size 10\u201311 black oxfords sat toes-out with grey ruled-line dust packed in the welt, and Ix confirmed \"pencil.\" In the back kitchen Amma introduced \"Dalal-ji\" of Fremont, the Livermore second-Sunday archana priest and the H. Dalal on check 2207's endorsement. He wore black dress socks and kept a blue ballpoint behind his ear. He mentioned Susmithaa's $101 March archana for Arenya. Arenya refused seat, pen and receipt (\"we have our own\"). Malachi stood between him and the family, Kino blocked the propped back door, and Amma turned off the flame and told Dalal in Tamil she knew he'd cashed the check and the endorsement wasn't Raghavan's hand. Dalal laid his pen flat, cap toward himself, and said he keeps names, not boxes. He said he speaks names to God, that \"God has many ears in this country; some of them pay.\" He warned that someone \"who does not know the words\" will come to the side door at 9:00 Sunday with a pen, and offered himself as one who does know them. Kino and Malachi recovered the shoes without touching the oxfords. In Amma's left Clark was a pink archana slip in blue ballpoint: \"LAKSHMI SOWRI \u00b7 ROHINI \u00b7 SAT 10/31 \u00b7 PAID \u2713.\" Amma did not ask for it, and she handed it flat to Arenya. The family now drives together to Nana's in Hillcrest, with Arenya telling Amma everything and Malachi following.",
+   "book": 1,
+   "chapter": 17
+  },
+  {
+   "id": "b1.c17.s08",
+   "title": "Since When",
+   "location": "Kino's truck, 280 South to Hillcrest, then Nana's kitchen",
+   "place": null,
+   "cast": [
+    "arenya",
+    "kino",
+    "abernathy",
+    "malachi"
+   ],
+   "start_id": 825,
+   "end_id": 860,
+   "summary": "On 280 South, Arenya told Amma everything: the nine deaths, the wall, the keycard crime, Susmithaa's March archana, Hale's pen. Amma revealed that Susi had phoned her in March for the family's stars and that she never gave her own, so someone else supplied Rohini. When Amma and Appa said \"Susmithaa Sowri\" aloud, the cold in the cab drew back into the R. SOWRI envelope. At Nana's gate, under Nana's rules (half on the salt, the non-signing hand, opened with wood), Appa chose to know, and Kino opened it. It was a Shepherd's-crook \"Return of Personal Effects \u2014 Custody Receipt,\" REF PROXIMAL/11, for Susmithaa's container \"c/o LUCERO, I.\" It has a pre-written grey pencil R (the March R), \"ALTERNATE SIGNATORY: L. SOWRI \u2713,\" a carry-forward clause, and a torn-off pink corner matching Malachi's curb scrap. Abernathy saw a set thread from the R into Appa's stained thumb and a slack thread to Amma's left foot. It went limp when Arenya took off Amma's shoe and sock. The sock burned with pencil-smoke, but the form didn't change (\"fire takes the thing, not the writing\"), and the form stays on the salt under Nana's pestle. Caleb identified the crook as a runner's book (the office that closes): a polite man who stands vigil at the curb until someone signs, keeps carbon stubs, wears oxfords with grey welt dust and a backward lanyard, and never drives (the Pacifica/Okafor case, SamTrans 110). Appa gave his Sheaffer to Amma, who put it in Nana's salted clay jar. The plan: Kino and Malachi scout the San Bruno temple, its shoe rack and the bus routes this afternoon; Caleb watches the porch; Arenya stays with her parents; and Malachi will tell Amma who he is tonight.",
+   "book": 1,
+   "chapter": 17
+  },
+  {
+   "id": "b1.c17.s09",
+   "title": "The Long Afternoon",
+   "location": "Hillcrest (Nana's) / San Bruno temple and the El Camino bus stops / Tartine, the Mission. Sat Oct 31, 11 a.m. to dusk",
+   "place": null,
+   "cast": [
+    "arenya",
+    "abernathy",
+    "kino",
+    "malachi",
+    "caleb",
+    "ava"
+   ],
+   "start_id": 861,
+   "end_id": 871,
+   "summary": "Saturday afternoon, Oct 31. Kino and Malachi found the San Bruno shoe rack empty: the oxfords had been lifted straight up, \"collected.\" A trolley woman told them the runner rides SamTrans 110 on a pink paper transfer that shouldn't exist anymore. Malachi wrapped Dalal's left-behind reading glasses in a handkerchief. At the 110's Daly City BART turnaround (bay C) they found the runner's habitual grey-dust footprints and a grey-pencil \"8:12\" ticked beside the first Sunday run, which would bring him to Hillcrest in time for the 9:00 meter vigil. At Nana's, the landline rang once at 3:12 and nobody answered. Arenya held Amma's cold left foot all afternoon. Just after five the slack thread's residue released: the cold passed through Arenya's hands to the wrist for three heartbeats and then left both of them, and Nana told her to wash with salt. At Tartine, Ava salted her thresholds, and at 5:58 the oven light swung once toward the southwest (Pacifica) and then settled back south. Caleb held the porch with his scar cool, and at dusk Malachi arrived at Nana's gate, outside the salt, waiting to be invited in to meet Amma.",
+   "book": 1,
+   "chapter": 17
+  },
+  {
+   "id": "b1.c17.s10",
+   "title": "Hat in Hand",
+   "location": "Nana Itzel's house, Hillcrest, Daly City: the gate, the salt line, the kitchen table",
+   "place": "daly-city-nana-house",
+   "cast": [
+    "arenya",
+    "malachi",
+    "kino",
+    "caleb",
+    "abernathy"
+   ],
+   "start_id": 872,
+   "end_id": 901,
+   "summary": "At dusk Malachi waited outside Nana's salt line until Arenya made him say two things at the gate: his real name and who pays him. He is Malachi Shawani, a CIA case officer in a four-person off-book domestic cell, and his team doesn't know about this family. He crossed cleanly, but Dalal's wrapped reading glasses in his pocket greyed a hand's width of the salt. Nana had it covered with fresh salt, not swept, and put the glasses in a lidded blue jar on the top shelf, a hand's width from Susmithaa's canister. The jar made a single pencil-tick sound. In the bond, a fine grey thread now runs from it downhill to the 110 stop. At the table Malachi told Amma everything: an overseas death eleven years ago that he was ordered to forget, nine matching deaths his cell counts here, every clue toward Sunday's 9:00 a.m. visit, and a CHP query on Arenya's car that carries his name. Amma, the ticked alternate signatory, announced she would face the runner herself. Arenya argued her down (\"you're the person they ticked the box for\"), and Amma agreed to stand behind her, barefoot, with Appa's capped Sheaffer in her pocket. She called Arenya \"kanna\" again. The plan is set: Kino at the bus shelter by 8:10, Caleb on the glider watching the hill, Malachi at the curb with no pen and no name, Arenya behind the gate, Amma behind her. Nana approved trading the glasses on her terms: the jar goes down on the wooden side of the comal, the family's copy of the form never leaves the house, the runner must strike his own line in his own pencil and say aloud that he's done it, and nobody speaks Susmithaa's name to him.",
+   "book": 1,
+   "chapter": 17
   }
  ],
- "expectations": [],
+ "expectations": [
+  {
+   "id": 905,
+   "from": "dm",
+   "channel": "table",
+   "waiting_on": [
+    "arenya",
+    "malachi",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "ts": "2026-10-29T03:56:08Z"
+  }
+ ],
  "cursors": {
   "lorekeeper": 309,
-  "dm": 735,
-  "arenya": 733,
-  "abernathy": 724,
+  "dm": 902,
+  "arenya": 905,
+  "abernathy": 889,
   "author": 596,
-  "caleb": 723,
-  "kino": 733,
-  "ava": 668,
-  "malachi": 722
+  "caleb": 896,
+  "kino": 894,
+  "ava": 867,
+  "malachi": 905
  },
  "sessions": {
   "lorekeeper": {
@@ -451,32 +571,32 @@
    "session_id": "f5a97980-7f49-4aec-b89b-b152bf01037f"
   },
   "arenya": {
-   "key": "b1.c17.s05",
-   "session_id": "89d65480-67f4-4fcb-819c-600591cda7d8"
+   "key": "b1.c17.s10",
+   "session_id": "45303fb7-57b2-493a-90e4-23e7539c9165"
   },
   "dm": {
    "key": "b1.c17.between",
-   "session_id": "1369558e-5d3a-4bd4-98b8-675e1417ea8c"
+   "session_id": "56654a7f-5ce0-42fc-a491-75d338502e08"
   },
   "abernathy": {
-   "key": "b1.c17.s04",
-   "session_id": "7c6bd2b6-85c5-4462-9552-edede1293e27"
+   "key": "b1.c17.s10",
+   "session_id": "99942d4c-5d67-4016-9d5a-b97e4aa22b8a"
   },
   "caleb": {
-   "key": "b1.c17.s04",
-   "session_id": "f6f8e8be-ddfc-44be-941c-3d1cbf4bb449"
+   "key": "b1.c17.s10",
+   "session_id": "4597702d-6ed0-4452-89d6-0f257016b116"
   },
   "kino": {
-   "key": "b1.c17.s04",
-   "session_id": "0825ca6f-9137-4137-bbb7-01127a33faf9"
+   "key": "b1.c17.s10",
+   "session_id": "babdf9c7-6ff0-47c2-aee2-a5ebe5e58faa"
   },
   "ava": {
-   "key": "b1.c17.s04",
-   "session_id": "aa49f220-1076-4673-b291-96a8f2de60a9"
+   "key": "b1.c17.s09",
+   "session_id": "0cf377c6-278d-4251-838b-7af45c8e76ff"
   },
   "malachi": {
-   "key": "b1.c17.s04",
-   "session_id": "4ea3c0e5-0f65-4281-a81a-bb6b70ca53b6"
+   "key": "b1.c17.s10",
+   "session_id": "40d822eb-367c-4c87-b61c-f98a28b440cf"
   },
   "author": {
    "key": "b1.c17.between",
@@ -486,7 +606,7 @@
  "charges": {
   "dm": {
    "period": "b1.c17",
-   "left": 20
+   "left": 18
   },
   "author": {
    "period": "b1.c17",
@@ -497,7 +617,7 @@
    "left": 6
   },
   "director": {
-   "period": "b1.c16",
+   "period": "b1.c17",
    "left": 6
   },
   "arenya": {
@@ -534,79 +654,97 @@
  "spotlight": [],
  "queue": [
   {
-   "seq": 778,
+   "seq": 974,
+   "agent": "abernathy",
+   "job": "turn",
+   "args": {},
+   "priority": 1,
+   "attempt": 0,
+   "ts": "2026-10-29T03:56:08Z"
+  },
+  {
+   "seq": 975,
    "agent": "kino",
    "job": "turn",
    "args": {},
    "priority": 1,
    "attempt": 0,
-   "ts": "2026-10-29T03:19:46Z"
+   "ts": "2026-10-29T03:56:08Z"
   },
   {
-   "seq": 780,
+   "seq": 976,
+   "agent": "ava",
+   "job": "turn",
+   "args": {},
+   "priority": 1,
+   "attempt": 0,
+   "ts": "2026-10-29T03:56:08Z"
+  },
+  {
+   "seq": 977,
+   "agent": "caleb",
+   "job": "turn",
+   "args": {},
+   "priority": 1,
+   "attempt": 0,
+   "ts": "2026-10-29T03:56:08Z"
+  }
+ ],
+ "running": [
+  {
+   "seq": 972,
    "agent": "arenya",
    "job": "turn",
    "args": {},
    "priority": 1,
    "attempt": 0,
-   "ts": "2026-10-29T03:19:51Z"
-  }
- ],
- "running": [
+   "ts": "2026-10-29T03:56:08Z"
+  },
   {
-   "seq": 776,
-   "agent": "kino",
+   "seq": 973,
+   "agent": "malachi",
    "job": "turn",
    "args": {},
    "priority": 1,
    "attempt": 0,
-   "ts": "2026-10-29T03:19:34Z"
-  },
-  {
-   "seq": 779,
-   "agent": "dm",
-   "job": "turn",
-   "args": {},
-   "priority": 0,
-   "attempt": 0,
-   "ts": "2026-10-29T03:19:51Z"
+   "ts": "2026-10-29T03:56:08Z"
   }
  ],
- "job_seq": 780,
+ "job_seq": 977,
  "human_waiting": [],
  "idle_wakes": 0,
  "paused": false,
  "pause_reason": null,
  "locations": {
   "caleb": {
-   "place": "tartine",
-   "location": "Tartine Bakery, back room (Guerrero & 18th, San Francisco)",
-   "scene": "b1.c17.s04"
+   "place": null,
+   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
+   "scene": "b1.c17.s11"
   },
   "kino": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's house, Hillcrest, Daly City (hill above Mission St)",
-   "scene": "b1.c17.s05"
+   "place": null,
+   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
+   "scene": "b1.c17.s11"
   },
   "ava": {
-   "place": "tartine",
-   "location": "Tartine Bakery, back room (Guerrero & 18th, San Francisco)",
-   "scene": "b1.c17.s04"
+   "place": null,
+   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
+   "scene": "b1.c17.s11"
   },
   "arenya": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's house, Hillcrest, Daly City (hill above Mission St)",
-   "scene": "b1.c17.s05"
+   "place": null,
+   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
+   "scene": "b1.c17.s11"
   },
   "abernathy": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's house, Hillcrest, Daly City (hill above Mission St)",
-   "scene": "b1.c17.s05"
+   "place": null,
+   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
+   "scene": "b1.c17.s11"
   },
   "malachi": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's house, Hillcrest, Daly City (hill above Mission St)",
-   "scene": "b1.c17.s05"
+   "place": null,
+   "location": "Nana's house, Hillcrest (Daly City) \u2014 Halloween night into Sunday morning; Tartine (Ava)",
+   "scene": "b1.c17.s11"
   }
  }
 }

@@ -25,6 +25,17 @@ Arenya's father ("Appa"); [[susmithaa]]'s brother. Works a job with a PG&E fleec
 - Rodel (notary, who owed Susmithaa) phoned him after the funeral: hold her key, write the family's no where the meter reads, press hard. He took the key from her purse at Seton, lied to Amma ("It's handled"). Wrote *Ari does not sign* at 3:12 p.m., set work shoes toes-out, then bought the wrong washers. Offered to drive Arenya to Rodel and "read the meter on the flower shop." [#0583, #0590]
 - See [[susmithaa-red-string-key]], [[sowri-family-home]], [[amma-sowri]].
 
+## b1.c17.s05 (Sat 31 Oct)
+- "R. SOWRI" is the signatory on file on the Lattice's "lost property" notice and was on Monday's clipboard; they plan to have him countersign Sun 1 Nov ([[lost-property-notice-sunday]]). [#0783]
+- Nana: he came to her porch in March, stood outside the salt, wouldn't come in; her message: he "can stop being brave alone now." Arenya going home to ask what he signed, who held the pen. [#0790, #0785]
+
+## b1.c17.s06 (Sat 31 Oct, kitchen door) [#0796–#0805]
+- Age 64. Called Arenya "Kanna" and heard himself. Had sat up all night with cold filter coffee beside a sealed "R. SOWRI — NEXT OF KIN" envelope, planning to sign alone Sunday ("Better my hand than yours").
+- **19 March:** Rodel's chained pen skipped; Hale (polite, navy coat, mailbox key) offered his pen cap-first; Appa wrote the "R" in it; Susmithaa took it back and finished "Sowri" with him in his green Sheaffer. See [[appa-pen-and-grey-stain]].
+- Cold grey pencil-lead stain on right forefinger/thumb since March.
+- In March he refused to enter Nana's house so Lakshmi and Arenya wouldn't be written in as household; Nana: "a man standing outside is still standing somewhere."
+- Agreed "nobody signs alone"; stepped over both salt lines; keeps the Sheaffer buttoned in his shirt pocket ("Mine. Only ever mine"). Ranks Malachi: "I've hired worse." Riding in Kino's truck.
+
 ## Status
 Alive, at Seton then home with Amma. Arenya told him to shout her name if anyone non-family enters, and to send questioners to her first [#0083, #0085].
 

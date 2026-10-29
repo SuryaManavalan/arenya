@@ -1474,3 +1474,1767 @@ I come up the walk and take the bowl from Nana with both hands. It's heavier tha
 
 I walk to the far end of the porch, to the gap by the glider, and crouch there with the bowl on my knee. I don't close it yet. Over my shoulder I call to the car, not loud: "Malachi. Bring him up. Hands where she can see them." Then, quieter, to Nana: "He goes in first. Then I close it. Then nobody opens it till the sun's up. Not for any voice. Not even mine."
 
+### #0736 · kino → all · dialogue
+<!-- {"id": 736, "ts": "2026-10-29T03:20:01Z", "from": "kino", "channel": "table", "type": "dialogue", "awaits": ["arenya"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+"Nana, she's on the street side because she asked to be. She hasn't stepped over without leave." I stand and turn to the old woman. "She's with me. Beside me. Not behind."
+
+I look at Arenya. "Kitchen door, carry her yourself. Nana will break the line for you. Won't you, Nana?" I wait for the nod, then step to the salt and scuff a hand's width of it aside with the toe of my boot, a doorway for one person. "Walk where I walk. Don't touch the jamb. Say her name going in, so the house knows who's coming."
+
+I stay at the gap, bowl on my knee, and wait for her to cross before I close the white behind her heel.
+
+### #0737 · dm → kino,arenya,malachi,abernathy · narration
+<!-- {"id": 737, "ts": "2026-10-29T03:20:08Z", "from": "dm", "channel": "table", "type": "narration", "to": ["kino", "arenya", "malachi", "abernathy"], "awaits": ["malachi", "arenya"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+For a while Nana says nothing. The candle in its jar leans once, though there is no wind, and then stands straight again.
+
+She comes down the porch to where Kino is crouched and puts her hand flat on top of his head, the way you would with a boy of six. She holds it there. "Ashamed," she says, as if she's tasting the word and doesn't like it. "Of her back. Ay, mijo. A woman who turns her back on the street is guarding the house. Who taught you to read it the other way? Not me." She takes her hand away. "Good. She's outside. Then we don't need to be brave out there, only careful in here."
+
+Then she turns to Arenya, who is still standing on the street side of the line. "You're standing where a guest stands. That was right." She bends, takes a pinch of salt from Kino's bowl, and drops it onto the pavement at Arenya's feet, a small white star. "Now you're invited. Kitchen door. Carry her yourself, she'd want that. Mind the third step." Something passes over her face, not quite a smile. "She tripped on it in 2009 with a whole box of mangoes and didn't drop one."
+
+Down at the curb, Malachi's back door is still shut. In the rear window Caleb's face is pale in the candlelight. He's looking at the gap by the glider and the blankets laid on it, and he hasn't reached for the handle.
+
+Ix still hasn't turned. Past Susmithaa's dark house, the fog at the bottom of the hill has stopped moving. It isn't drifting. It is waiting, the way a crowd waits.
+
+### #0738 · arenya → all · action
+<!-- {"id": 738, "ts": "2026-10-29T03:20:11Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I wait for Nana's nod. When it comes I step exactly where Kino's boot stepped, one foot, then the other, through the hand's width of broken salt. I keep my elbows tight and don't brush the jamb. At the kitchen door, third step loose, I shift the canister to one arm so I don't stumble on it.
+
+"Susmithaa Rajagopalan," I say, quiet, to the house and not to anyone in it. "It's Arenya. I've brought her home. Not home. Somewhere safe. You know the difference. Kanna's here."
+
+Then, because my voice cracks on the last word and I hate that it does, I add, "Sorry about the mug, Aunty. I'll tell you later."
+
+I stand in the doorway, half in the light of the kitchen, and wait to be told where to set her down.
+
+### #0739 · malachi → all · action
+<!-- {"id": 739, "ts": "2026-10-29T03:20:19Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I cut the engine and get out without slamming the door. I open the rear door on the street side, the one away from the fog, and wait until Caleb looks at me.
+
+"Out. Slowly. Hands where she can see them." I keep my voice level. "You go where Kino points, and you stay there. No phone, no Vesper, no walking to the curb for air. If the scar gets loud, you say so out loud, to her, not to me."
+
+I walk him up the path a pace behind his shoulder, and stop short of the salt. I don't look at the old woman's eyes first. I look at the line, then at her.
+
+"Señora Lucero. Malachi. I'm the one who followed the truck. I owe you for the porch, and I'll pay it however you say." A beat. "The fog at the bottom of the hill stopped moving a minute ago. I'd count it as watching. I'll watch it from the car, from outside your line, until the sun is up. If anything comes up the hill that isn't us, I'll be the first thing it meets."
+
+I hold Caleb at the gap, hand off his arm.
+
+"He goes in on your word, not mine."
+
+### #0740 · arenya → all · action
+<!-- {"id": 740, "ts": "2026-10-29T03:20:19Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I look down at the little white star on the pavement, and I make sure my heel is on the right side of it before I go on.
+
+"Thank you, Nana," I say. "For the invitation, and for the mangoes. I'll keep the third step in mind." I shift the canister higher against my chest and keep my eyes off the fog at the bottom of the hill. It's looking back, and I know that without turning around.
+
+At the kitchen door I wait with my free hand flat against my notebook. I don't open it. I'm not writing anything down inside her line. Everything I write can be found, and I've heard that enough times to believe it.
+
+### #0741 · malachi → all · dialogue
+<!-- {"id": 741, "ts": "2026-10-29T03:20:29Z", "from": "malachi", "channel": "table", "type": "dialogue", "reply_to": 740, "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+"Arenya," I say, quietly, from the curb. "Whatever you carry in there, don't write it down tonight. Not even to keep it straight."
+
+I stay on the street side of the salt with my hands visible and the engine ticking behind me. Then, to the old woman: "Señora, the fog is waiting, not drifting. I'll hold the road. Say the word and Caleb comes up."
+
+### #0742 · kino → all · action
+<!-- {"id": 742, "ts": "2026-10-29T03:20:39Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I wait until Arenya's heel is clear of the gap, then pour a thin, steady white thread across it behind her and press the edge flat with two fingers, so the line is whole again. It takes a breath. It feels like closing a book on a finger.
+
+Then I stand and look down the walk at Caleb, not at Malachi. "Not yet," I say, level. "Nana says when."
+
+I take the little paper twist of salt from my jacket, the one meant for the porch, and walk it to the curb. I put it in Malachi's palm and fold his fingers over it. "Pour it behind your wheels. A line on the road, ankle-wide, and don't cross it to get at anything. If the fog moves, you drive. You don't fight it." I look past him at the still grey at the bottom of the hill. "It's counting. Let it count us wrong."
+
+I go back up to the porch and stand beside Nana, shoulder almost touching hers, facing west with Ix, and wait for her word.
+
+### #0743 · dm → arenya,kino,malachi,abernathy · narration
+<!-- {"id": 743, "ts": "2026-10-29T03:20:40Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi", "abernathy"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+The kitchen smells of chicken, cumin and cilantro stems. There's a pot on a low flame and a radio with its sound turned down. Above the sink, on a shelf that runs the width of the window, Nana's dead are already set out for Monday: a man in a sombrero in a tin frame, a girl in a First Communion dress, a dish of salt and a glass of water. A space at the end has been cleared and wiped, still damp.
+
+When Arenya says *Kanna*, the canister warms against her chest. It doesn't tick. It's the plain, steady warmth of something set down on a sunny windowsill. Her palm warms with it.
+
+From the porch Nana calls, without coming in: "The end of the shelf, mija. By the water. She liked to be near the window."
+
+Outside, Nana looks at Malachi for the length of a breath. "Señor. My line isn't a fence, and the car is the street. If you want to watch, you watch from my bottom step, on the outside, where I can see you. There's coffee. You'll drink it." Her chin tips toward Caleb. "And him, on my word: *pase*."
+
+Caleb goes through the gap like a man stepping onto ice. He sits on the glider, takes the blanket, and doesn't lie down. Both his hands stay on his knees, in plain sight. Kino tips the bowl and pours. The white closes behind Caleb's heels with a small dry sound, like a match being struck and not catching. Whatever Nana mixed into the salt glints grey for a second in the candlelight, and then it's only salt.
+
+Ix stands, stretches the length of the door, and sits again, still facing west.
+
+At the bottom of the hill a streetlight goes out. It doesn't flicker first. A moment later so does the next one up, then the next. Three dark lamps, coming one at a time and in no hurry, toward Susmithaa's house.
+
+Caleb says, very quietly, "My scar." Then louder, as he was told, to Nana: "Señora. My scar is warm."
+
+### #0744 · kino → all · action
+<!-- {"id": 744, "ts": "2026-10-29T03:20:51Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I'm off the porch before the third lamp goes. I don't look at the dark. I look at Caleb. "Hands on your knees. Don't touch the scar again, and don't answer it, not even to say no." I crouch in front of the glider, an arm's length away, and put the bowl on the boards between us with the last of the salt in it.
+
+"Nana's salt is at your back and mine is at your feet. What's coming up the hill is coming for the thing you used to wear. It'll go looking for the door that fits." I keep my voice low and flat, the voice for a spooked horse. "You talk to me. Count your breath in Spanish if you have to. Uno, dos. Anything that isn't a tally."
+
+Over my shoulder, soft: "Nana. Ix hasn't turned. If he turns, I want to be told first." Then, louder, toward the kitchen window: "Arenya, stay by the shelf. Stay by her. Whatever walks up, it walks up to a door that's already shut."
+
+I pull my fist from my sternum, where it's been all night, and lay my left forearm along my knee with the birthmark up, where the candle can find it. I wait, and I breathe, and the lamps keep going out.
+
+### #0745 · malachi → all · action
+<!-- {"id": 745, "ts": "2026-10-29T03:20:52Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I pour Kino's salt behind the rear wheels, ankle-wide, and press it flat with the side of my shoe. Then I take the bottom step, outside the line, and put the coffee she offers on the step beside me. I don't drink it yet. I need both hands free.
+
+I watch the lamps go out one at a time. I don't count them. I note which direction they're coming from and how far apart they fall.
+
+"Caleb," I say, not turning. "Stay on the glider. Don't touch the scar again. Tell Nana if it changes, and nobody else."
+
+To Nana, evenly: "Señora, if anything on this street stands up and walks, I'll tell you before I do anything about it. And I'll drink your coffee."
+
+I keep my eyes on the dark lamps and my right hand on the car keys, in my pocket.
+
+### #0746 · arenya → all · action
+<!-- {"id": 746, "ts": "2026-10-29T03:21:01Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino", "malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I set her down at the end of the shelf, by the water glass, on the damp square Nana wiped for her. I take my time. I turn the canister a quarter-turn so the green steel faces the window, because she liked to be near it.
+
+"There you go, Aunty. Window seat."
+
+My left palm stays on the lid. It's warm and steady, and I leave it there. Through the glass over the sink I can see the streetlights going out down the hill, one, two, three. I don't write anything. I don't say the man's name or the number or the plate. I say the only thing I'm sure of.
+
+"Nobody signs. Nobody receives. She's ours, and she's not for sale or delivery." I say it to the canister, and to the dark. "Whatever's walking up this hill can read the tally on Caleb's neck. It can't read this."
+
+Then, under my breath, at the bond: "Abernathy. Is the warm thing here? Tell me if it moves. Not out loud."
+
+### #0748 · kino → all · action
+<!-- {"id": 748, "ts": "2026-10-29T03:21:10Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+Through the screen door I hear her say it, *nobody signs*, and something in my chest that's been clenched since Tartine lets go a notch. I don't turn around. I keep my eyes on the hill.
+
+"Good," I say, loud enough for the kitchen. "Say it again at midnight and again at dawn. Salt remembers what it's told."
+
+Then to Nana, low: "Fourth lamp?" I watch the dark crawl up the street. "Whatever it is, it's slow on purpose. It wants us to come out and look." I put my hand flat on the porch boards beside Ix, feeling for the hum I know in them, and wait for the cat to move first.
+
+### #0749 · dm → arenya,kino,malachi,abernathy · narration
+<!-- {"id": 749, "ts": "2026-10-29T03:21:18Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi", "abernathy"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+The fourth lamp goes out, then the fifth. The sixth stands directly in front of Susmithaa's blue house, and it doesn't go out. It dims to the colour of weak tea and holds there, as if someone has rested a thumb on it.
+
+Under it, with no headlights and no engine, a grey Nissan rolls up the hill on what sounds like gravity. It stops at the curb and sits there. The driver's seat is empty. The lanyard on the mirror turns once on its cord. From Nana's step, Malachi can read the plate without trying: **7KBQ4R2**.
+
+The passenger window begins to fog from the inside. Four strokes are already on it, old ones, smeared. The glass waits.
+
+Then, behind the dark house, in the cottage at the back where Susmithaa lived for eleven years, the kitchen light comes on.
+
+It's a small yellow square with the curtain half drawn. A shape moves past it, a woman's height. Water runs in a sink. Over the fog and the dead streetlights, clearly enough to carry, a voice comes up the hill. It's mild and a little tired, a voice that has answered a lot of doors:
+
+*"Can I help you?"*
+
+On the glider Caleb makes a sound as if he's been hit in the stomach. His hands stay on his knees, because Kino is an arm's length in front of him, but he's shaking hard enough to rattle the chain. "That's—" he says to Kino, through his teeth. "That's what she said. That's exactly how she said it."
+
+Ix's ears go flat. He still doesn't turn.
+
+At the end of the kitchen shelf, under Arenya's hand, the canister has gone cold. It isn't the cold of steel. It's the stillness of someone holding their breath behind a door.
+
+### #0750 · kino → all · action
+<!-- {"id": 750, "ts": "2026-10-29T03:21:28Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I put my right hand on Caleb's shoulder, hard, and hold him on the glider. My left stays on my knee, birthmark up. I don't look at the lit window. If I look, I'll walk.
+
+"That's not her," I say, flat, for him and for the kitchen. "That's her *voice*. A voice is a thing you can pick up off the floor. It's bait wearing her coat." My jaw is tight. "Caleb. Eyes on me. You don't answer it. You don't say her name. *Uno, dos.* Say it."
+
+Then, toward the kitchen, not loud, because I know she can hear every word: "Arenya. Aunty's cold because she's listening, not because she's leaving. Keep your hand on her and *don't go to the back door*. It wants someone to answer that question. Nobody on this porch is going to help it."
+
+I lift my eyes to the empty Nissan at last, to the lamp holding its thumb-colour. Under my breath, in the old tongue Nana taught me, I ask the Lady to stand where I can't see her. The jaguar in my chest turns over once, patient.
+
+"Ix," I say quietly. "Tell me when."
+
+### #0751 · malachi → all · action
+<!-- {"id": 751, "ts": "2026-10-29T03:21:28Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I don't stand. I put my left hand flat on the bottom step, below the line, and I keep my right off the keys.
+
+"Nobody goes down that hill," I say, low enough that it only carries to the porch. "Susmithaa is on a shelf in Nana's kitchen. That voice is a recording, or it's bait. Either way it was built from what Caleb saw Monday. It's a door made to fit him, and it wants one of us to knock."
+
+I look at the kitchen window in the cottage, not at the Nissan. I note the curtain, the shape, how long the water runs. The sink never changes its note. A real tap would.
+
+"Kino, Nana. Does the line hold against a voice? Tell me what I do if the fifth stroke goes up."
+
+I turn my head one degree toward Caleb. "Caleb. Look at me. That's not her. Her saying it was Monday. Tell me what colour the mug was."
+
+### #0753 · arenya → all · action
+<!-- {"id": 753, "ts": "2026-10-29T03:21:41Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino", "malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+My hand doesn't leave the lid. The steel is cold under it now, but it isn't dead cold. It's the cold of someone holding still behind a door. I press my palm down, flat and warm, and I keep it there.
+
+I don't go to the window over the sink. I don't go to the back door. I stand with my back to the glass and say, low and only to the canister: "I know, Aunty. I hear it too. It's not you. You're here. Under my hand."
+
+Then, loud enough for the porch, flat and clipped: "Malachi, the mug was blue. It's mine. A cartoon bird sticker, half peeled, from college. If that voice asks about the mug, it's reading Caleb. Don't give it anything. It asked 'Can I help you?' and left a gap. It wants someone to fill the gap with a name. Nobody fill it."
+
+I take one long breath through my nose. Cumin, cilantro, chicken, and under them the ghost of cold cream and filter coffee, close and real, coming from the shelf and not the hill.
+
+"Kino, if the fifth stroke goes up, I stay with her. That's where I stand tonight."
+
+### #0754 · kino → all · dialogue
+<!-- {"id": 754, "ts": "2026-10-29T03:21:48Z", "from": "kino", "channel": "table", "type": "dialogue", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+"Malachi, the line holds against a voice," I say, eyes on the Nissan. "It's salt and Nana's word. It stops things that walk in. It doesn't stop things that talk. Talking is only dangerous if someone answers." I keep my hand on Caleb's shoulder. "If the fifth stroke goes up, you do nothing. You don't wipe the glass, you don't read it aloud, you don't count. You drink Nana's coffee. A tally needs a witness. We're all out of witnesses tonight."
+
+Over my shoulder, toward the kitchen: "Arenya, that's right. Stay with her. That's where you stand." Then to the porch, quieter: "Caleb. Blue. Mug was blue. Say it."
+
+### #0755 · dm → arenya,kino,malachi,abernathy · narration
+<!-- {"id": 755, "ts": "2026-10-29T03:21:59Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi", "abernathy"], "awaits": ["arenya"], "spotlight": ["arenya"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+Nana answers Malachi without taking her eyes off the hill. "Salt holds what walks, señor. What talks, salt can't hold. Only your mouth holds against that." She lifts her chin at the cottage. "And you're right about the tap. Listen to it. It's the same second of water, over and over."
+
+It is. Now that he's heard it, Malachi can't stop hearing it: the same splash, the same small gurgle, looping. The shape behind the curtain passes the light, and then passes it again with exactly the same sway at the shoulder.
+
+The Nissan's passenger window holds its four strokes. Nothing draws the fifth.
+
+The voice waits for an answer. Nobody gives it one, and the tap loops on into the gap. Then the voice changes. It isn't louder. It's closer, the way a voice gets closer when someone leans in to a phone, and it isn't the door-voice any more. It's softer and warmer, with the end of the word rising, the way you'd call someone in from another room:
+
+*"Kanna?"*
+
+The Crown logged a name on Monday, and this is what it logged.
+
+In Nana's kitchen the word lands on Arenya like a hand on the back of her neck. She feels the pull of it in the soles of her feet, toward the back door and the third step and the hill. It's the plain animal wish to say *yes, Aunty, I'm here*.
+
+**Arenya: Wisdom saving throw, DC 15.** You have **advantage**: your hand is on the lid, and you've already said where you stand. If you succeed, you stay where you are and say nothing toward the window. If you fail, the word gets something out of you. It won't be your feet. It will be your mouth.
+
+### #0756 · malachi → all · action
+<!-- {"id": 756, "ts": "2026-10-29T03:22:01Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I pick up Nana's coffee and drink some. It's strong and scalding, and I let it be the only thing I do. I keep my eyes on the Nissan's driver's seat and the lanyard, not the glass.
+
+I don't count. Against the plate I only memorise the one thing I can without counting: the lanyard turned once on its cord, with no wind. Someone wants it seen.
+
+"Caleb," I say, quietly, without turning. "You're doing it right. Blue. Keep it blue."
+
+Then to the porch: "If it stays parked, it's waiting for a reaction, not a person. I won't give it one. If something steps out of that car, or the cottage door opens, I say so. Nobody else moves."
+
+### #0757 · system → all · roll
+<!-- {"id": 757, "ts": "2026-10-29T03:22:09Z", "from": "system", "channel": "table", "type": "roll", "scene": "b1.c17.s05", "chapter": "b1.c17", "roller": "arenya", "total": 20, "seed": 52338134079819} -->
+
+🎲 arenya rolls d20+4 adv for Wisdom save vs. "Kanna?" (DC 15, advantage): **20** — 1d20 adv [2, 16] = 16 +4
+
+### #0758 · arenya → all · action
+<!-- {"id": 758, "ts": "2026-10-29T03:22:18Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+*Kanna.*
+
+It goes through me like the Daly City kitchen used to. Thirteen years old, shoes off at the door, her voice from the stove before I'd even said hello, rising at the end because she already knew it was me. My heels lift off Nana's linoleum by a quarter inch. My mouth opens on the *y* of *yes*.
+
+I close it. I close it so hard my teeth click.
+
+I don't turn around. I put my other hand on the canister too, both palms flat on cold green steel, and lean my forehead down until it almost touches the lid. Then I give the word somewhere to go that isn't the window. I don't speak it. I breathe it, at a volume nothing outside this kitchen could hear, into the shelf, into her:
+
+"You never called me from the yard, Aunty. You called from the stove. With your back to me. Because you didn't have to look."
+
+My eyes are wet and I let them be. I don't wipe them. Wiping is a movement, and I'm not giving the hill a single movement. I stand at the end of Nana's shelf, by the water glass and the man in the sombrero and the girl in her Communion dress, and I count nothing and answer nothing. Outside, the tap loops its one second of water into the gap where my name was supposed to go.
+
+### #0759 · dm → arenya,kino,malachi,abernathy · narration
+<!-- {"id": 759, "ts": "2026-10-29T03:22:40Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi", "abernathy"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+For three seconds the gap stays open on the hill. The tap loops its one second of water into it, and nothing fills it.
+
+Then, under both of Arenya's palms, the canister ticks.
+
+It isn't the throat-clearing tick from the county line. It's two ticks, close together, the second a shade lower than the first, the way a word falls at its end when you say it toward a stove and don't need to turn around. Then warmth comes back into the steel all at once, like a hand coming out of a coat pocket. The smell of cold cream and filter coffee is suddenly so near that Arenya could be standing at somebody's shoulder.
+
+Down the hill the cottage light goes out. There's no click. It's simply not on any more. The tap stops in the middle of its loop.
+
+On the Nissan's passenger glass something begins to draw the fifth stroke, top to bottom, slowly. It gets halfway and stops. The line hangs there, unfinished, and then a bead of water runs down from it and blurs it into a smear. There was nobody to witness it, so the tally won't close.
+
+The car rolls backward down the hill, still without lights or engine. As it passes each dark streetlamp, the lamp comes back on behind it, one, two, three, all the way down to the bottom, until Hillcrest is only fog and sodium light again and a dog two streets over starts barking as if it has just woken up.
+
+On the glider Caleb lets out a breath that seems to have been in him since Monday. "Blue," he says, to nobody. "It was blue."
+
+Ix finally turns. He doesn't look west any more. He looks through the screen door, down the hall, at the kitchen and the girl at the end of the shelf with her forehead nearly on the lid. He blinks slowly, once. Then he lies down across the threshold with his back to the street, the way a cat lies down when a watch is over.
+
+Nana sets her cup on the rail. "Bueno," she says quietly. "That was the first one." She looks at Malachi on her bottom step. "Come in and wash your hands, señor. The kettle's on. You said you had something to read by running water."
+
+### #0760 · arenya → all · action
+<!-- {"id": 760, "ts": "2026-10-29T03:22:49Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino", "malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I stay with my forehead almost on the lid until the warmth has settled into both palms and stopped moving. Then I lift my head and finally wipe my face with the heel of my hand. Nobody's watching now except a girl in a Communion dress, and she's seen worse.
+
+"Two ticks," I say to the shelf, hoarse. "I heard you. Yes. Okay."
+
+I go to the stove, find a bowl, and ladle the caldo myself. My hands shake a little and I let them. I carry the bowl to the screen door and set it on the boards by Caleb's knee without a word, then go back for a second one for Malachi. Whatever he did, he sat on that glider and said *blue* for an hour. Tonight, that counts.
+
+"Nana, thank you," I say from the doorway. "That was the first one. What's the second? And what do you want done with her before Monday?"
+
+I take a seat at Nana's table, where I can see the canister and the door at once. My notebook stays shut in my bag. I take out the spoon instead, and then I eat, because Abernathy has asked me to three times and I'm tired of losing that argument.
+
+### #0762 · kino → all · action
+<!-- {"id": 762, "ts": "2026-10-29T03:22:53Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I take my hand off Caleb's shoulder only when Ix lies down. Then I put it back, lighter, and leave it there a second longer than I need to.
+
+"Blue," I tell him. "Good. You held." I don't say more. He wouldn't believe it yet.
+
+I stand, and my knees tell me how long I've been crouched. I look at Nana. "The first one," I say. "Cuántas más, Nana?" I don't wait for the answer I know she won't give. I step over Ix, who doesn't move, and stop in the hall where I can see the kitchen: Arenya's forehead nearly on the lid, the man in the sombrero, the girl in white.
+
+"Arenya." Quiet. "You didn't say yes." I let that sit. "Most people who've heard their dead call them can't say that. I couldn't, at twelve." I nod at the shelf. "She's warm. Leave her be a while. I'll bring you caldo."
+
+Then I go back out, take the bowl, and walk the line once, heel to toe, pressing every inch flat with my thumb. It's the only way I know to say thank you to salt.
+
+### #0763 · malachi → all · action
+<!-- {"id": 763, "ts": "2026-10-29T03:22:59Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I stand when the last lamp comes back on, and I notice my knees are stiffer than the hour explains. I say nothing about the unfinished stroke. I don't look at it twice.
+
+"Thank you, Señora." I take the bowl Arenya sets for me when it comes, and I wash my hands at Nana's sink under running water, slowly, the way you do when you want the minute to be long. The kettle is already on.
+
+I sit at the end of the table, across from the shelf, and keep my voice low.
+
+"Arenya, I asked you for an hour on check 2207. Not tonight. Tonight you eat. But when you're ready, here's what the running water is for." I fold my hands. "Someone forged 'R. Sowri' on an endorsement. I want the ink, the pressure, the pen. A forger leaves a habit. The lanyard man has a habit too: he wears it backwards. Habits are how I find people."
+
+A beat. "And Nana. When the Nissan reached the bottom of the hill, the lamps came back on behind it. It left on its own schedule, not ours. Whatever Shepherd set for Friday, tonight wasn't the main event. It was a test of whether this door answers. It didn't. Now they know that."
+
+### #0764 · kino → all · action
+<!-- {"id": 764, "ts": "2026-10-29T03:23:02Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I come in, wash my hands at Nana's sink without a word, and take the bowl she holds out. I sit across from Arenya, where I can see the shelf and the screen door both.
+
+"Second one's usually quieter," I say, low. "The first one tests the door. The second tests whoever's sitting behind it." I turn the spoon over. "Eat. Then sleep on Nana's couch with Aunty in sight. I'll take the porch with Caleb. Malachi gets the chair by the window, if he'll take it."
+
+I eat a mouthful. It's the first thing I've tasted since the tortillas at noon. Quieter, almost to myself: "It said her name your way. Kanna. It knew how she said it to you." I look up. "That means whoever built the voice has heard her say it. Or heard it said back to him. I want to know which."
+
+### #0766 · dm → arenya,kino,malachi,abernathy · narration
+<!-- {"id": 766, "ts": "2026-10-29T03:23:21Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi", "abernathy"], "awaits": ["malachi", "arenya", "kino"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+Nana comes in last, steps over Ix the way you step over a sleeping grandchild, and lowers herself into the chair at the head of the table with a small grunt she would deny. She doesn't take caldo. She takes the coffee Malachi didn't finish.
+
+"How many more, mijo? However many it takes for them to learn." She looks at Malachi. "And he's right. Tonight they sent a voice. A voice is cheap. The second one is when they stop asking and send someone with hands. Hands have to come up Mission Street like everybody else, and hands, I can see."
+
+To Arenya, gentler: "Before Monday? Nothing. She stays on my shelf with my people. They're good company, and Ernesto"—a tilt of her head at the man in the sombrero—"will talk her ear off. Monday is Día de los Muertos. We take her name to the church, like the sign says. After that she's not mine to decide. She's your family's." A pause. "Yours, and your father's. He's going to have to say something besides *it's handled*, eh?"
+
+The kettle starts to tick toward a boil. Water runs in Nana's sink, a real tap, its note changing as the basin fills.
+
+Then something buzzes in Malachi's coat.
+
+It's the inside left pocket, where he put Caleb's prepaid phone, and its battery, separately. He knows the battery is still out, because he can feel it against his ribs, a flat slab in its own fold of lining. The phone buzzes anyway, once, long, and the glow of its little screen comes through the wool.
+
+On the porch Caleb goes very still on the glider. He knows that buzz. Through the screen door, not loud, he says: "That's the Shepherd line. He only texts when he's already somewhere."
+
+### #0767 · arenya → all · dialogue
+<!-- {"id": 767, "ts": "2026-10-29T03:23:24Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I finish the bowl, all of it, and set the spoon down square in the empty dish.
+
+"Tomorrow, Malachi. The ink, the pen, the check, all of it, and you can have the hour. Tonight I've got nothing to give you but 'it slants right and the y has a bracket.'" I rub my eyes with the heels of both hands. "Kino, answer to yours. Caleb said she said it at her sink, looking past him, and he couldn't catch it. The Crown caught it. 'Proximal reference.' So whoever built that voice didn't hear it from her. They heard it from the Crown's log. They've got her last word to me on tape, and they just played it back at me like a hostage call."
+
+I look at the shelf, at the green steel with the faint light on it.
+
+"Which means somewhere there's a recording of my aunt's last word being mine. I want it. Not tonight. But I want it."
+
+Then, quieter: "Nana, I'll take the couch. Where she's in sight. If I wake up and she's warm, I'll leave her. If she's cold, I'll wake somebody."
+
+### #0768 · malachi → all · action
+<!-- {"id": 768, "ts": "2026-10-29T03:23:32Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I don't take the phone out. I put my hand flat over the pocket and feel the glow through the wool, the battery still a cold slab against my ribs.
+
+"The battery is out," I say, evenly, to the table. "It's not powered. So it isn't a phone buzzing. It's something that wants me to think it is."
+
+I stand, slowly, and take the coat off. I carry it to the porch and lay it on the boards beyond the salt, pocket up. I don't open it.
+
+"Caleb. One question, and think before you answer. Does Shepherd's text ever come with a time, or a street? Or does it only come when someone is already on the road?" I wait. "Nobody touches it tonight. In the morning, in daylight, with Nana's say, I read it. If it says Friday, I want to know what's left of Friday."
+
+I go back in, and I drink the coffee Nana pours.
+
+### #0769 · arenya → all · action
+<!-- {"id": 769, "ts": "2026-10-29T03:23:33Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["malachi", "kino"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I'm on my feet before I decide to be, chair scraping, but I put both hands flat on Nana's table instead of reaching for anything.
+
+"Malachi. Don't take it out of the coat. Don't read it aloud. Don't answer." My voice comes out clipped, the scared way. "Nana, is there a place in this house a thing like that can sit that isn't near her shelf? Foil, a metal pot, a bowl of salt. Something that isn't the kitchen."
+
+I look at the screen door, at Caleb's still shape on the glider.
+
+"Caleb. You said he texts when he's already somewhere. Somewhere where? Think before you answer. Not 'Peninsula.' Is the phone telling us he's near, or telling us he's near *you*? I'll write nothing down, but I'll remember every word."
+
+My palm on the table has gone warm again, a faint answering pulse from the shelf behind me. I keep my back to it and let it be.
+
+### #0770 · malachi → all · dialogue
+<!-- {"id": 770, "ts": "2026-10-29T03:23:40Z", "from": "malachi", "channel": "table", "type": "dialogue", "reply_to": 769, "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+"Already done," I say. "The coat's on the porch boards, outside the line, pocket up. Nobody's reading anything tonight." I sit again and keep my hands where the table can see them. "Your foil is right, Arenya. If Nana has a metal pot with a lid, the phone goes in it on the porch, battery still out, and the pot goes beyond the salt. Her call."
+
+I look through the screen at Caleb. "Take your time. Near, or near you?"
+
+### #0771 · kino → all · action
+<!-- {"id": 771, "ts": "2026-10-29T03:23:42Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I'm at the screen door before anyone answers, one hand on the frame, eyes on the coat lying beyond the salt.
+
+"Not the metal pot," I say to Arenya, over my shoulder. "Metal talks. Nana's got a clay comal in the shed, and a jar of the grey salt she mixes. Wrap it in a wet dishtowel, put it under the comal, and leave it outside the line on the bottom step." I look at Nana. "Is that right? Wet cloth, clay, salt, outside?"
+
+Then I step out onto the porch, careful of Ix, and crouch beside Caleb without touching him. "He texts when he's already somewhere. Answer her. Near the road, or near you? Take your time. A wrong answer's worse than a slow one."
+
+I wait. I look at the coat once, then at the fog at the bottom of the hill, and I don't take my eyes off it. "And Caleb. If your scar goes hot while you think, tell me *before* you answer. Not after."
+
+### #0772 · dm → arenya,kino,malachi,abernathy · narration
+<!-- {"id": 772, "ts": "2026-10-29T03:24:03Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi", "abernathy"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+Caleb takes his time, as he was told. His hand rises halfway to his neck and stops, and he puts it back on his knee. "Scar's cool," he says first, to Kino. "Cooler than it's been all night."
+
+Then he answers. "Near. Not near me. Near the *thing*. Monday at 2:51 the line buzzed and said ON SITE. He was already parked at the bottom of this street, close enough to see her door. We didn't know till we came out and the Nissan was there, empty." He swallows. "He doesn't text to tell you where he's going. He texts so you know he's already watching what you do next."
+
+Nana gets up without a word, goes out the kitchen door, and comes back from the shed with a clay comal under one arm and a jar of grey salt. "Kino's right. Metal talks, clay keeps its mouth shut." She soaks a dishtowel in the sink, wrings it once, and hands it to her grandson. Kino wraps the coat's inside pocket, phone and all, without opening it, and sets it on Nana's bottom step under the upturned comal. He rings it with grey salt. The glow under the clay goes out. It doesn't fade; it's simply gone.
+
+After that the house settles the way old houses do. The heater ticks. Ernesto keeps his watch from the shelf. Ix sleeps across the door. Down at the bottom of the hill the fog moves again, drifting as fog is supposed to, and the dog two streets over gives up barking.
+
+Midnight comes and goes. Somewhere past one, Hillcrest is quiet enough to hear the freeway they didn't take.
+
+**A quick beat each for the small hours, if you want one.** Arenya on the couch with the shelf in sight, Kino on the porch with Caleb, Malachi in the chair by the window. One thing each of you does, says or notices before dawn. Then the sun comes up, and in daylight, with Nana's say, the comal comes off.
+
+### #0773 · arenya → all · action
+<!-- {"id": 773, "ts": "2026-10-29T03:24:12Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+The couch is too short and smells like cedar and someone's old perfume. I lie on my side with Nana's wool blanket up to my chin and my shoes still on, facing the kitchen. From here I can see the shelf: Ernesto's tin frame, the Communion girl, the water glass, a green steel edge catching the stove-pilot light.
+
+Somewhere past one I take out my phone, hold it under the blanket, and turn the screen as dim as it goes. I don't open anything. I don't write. I look at the lock screen for a long time. Amma's name is there from last night. *Lock the door, both locks, the chain.* She answered with the chain. I think about Appa asleep in his chair with his glasses on his forehead and a thermos of rasam, and the note on the rack that says nothing about any of this.
+
+I put the phone face down on my chest, over my heart, so it's warm.
+
+Then I say, almost without sound, toward the shelf: "Monday, Aunty. Church. Your name on the paper, and Appa saying something besides 'it's handled.' I'll make him. I'll be right next to him." My palm tingles once, faint, like a thumb pressed to the back of it.
+
+I sleep, finally, without deciding to.
+
+### #0774 · kino → all · action
+<!-- {"id": 774, "ts": "2026-10-29T03:24:16Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+Past two, the glider creaks under Caleb and stops. He's not asleep. I can tell by his breathing. I sit on the top step with my back against the post, Ix's tail across my boot, and the bowl of salt between my knees.
+
+I don't say anything for a long while. Then, to the street: "Mi abuela told me once that the dark house isn't the one that hides things. It's the one that keeps them till they're ready." I flip the bowl a quarter turn in my hands. "You carried a lot for Shepherd, Caleb. You can set one thing down here. Not a secret. Just a thing. Your pick."
+
+I don't look at him. I listen. And while I wait I run my thumb along the birthmark on my forearm, the way Nana did when I was small and couldn't sleep, and I notice what I haven't let myself notice all night: the ache in my sternum is gone. Not eased. Gone. Whatever the Lady is doing out there, tonight she's doing it where I can't feel the cost.
+
+I let myself have that for exactly one breath. Then I put it away, because I don't trust it, and I go back to listening for the hill.
+
+### #0775 · malachi → all · action
+<!-- {"id": 775, "ts": "2026-10-29T03:24:23Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+The chair by the window is hard and faces the street. I take it with my back to the wall and the curtain open two fingers' width. I don't sleep. I've never needed to be good at it.
+
+Past two I do the only useful thing left: I build the night in my head, without paper. *ON SITE, 2:51 Monday. Already parked. Texts so you know he's watching.* A man who announces himself isn't hiding. He's pressing. The voice tonight was a test of whether this house answers, and the phone is the same test, aimed at me. They know where I stopped. That means they'll learn what I do next.
+
+So I decide what I'll do next. At first light, before the comal comes off, I'll walk down to the bottom of the hill alone, outside the line, and look at the curb where the Nissan sat. A car that rolls backwards on no engine still leaves something: fog residue, a warm patch, a dry rectangle on wet pavement. That's evidence, and it's mine to collect.
+
+Near four I notice the one thing I'd have missed if I were sleeping: on Nana's bottom step, under the clay, the salt ring has not been disturbed. Nothing has come close to it. Whatever Shepherd is, he waited for us to move first. He didn't.
+
+I let that comfort me for exactly one minute, then I put it away.
+
+### #0776 · dm → arenya,kino,malachi,abernathy · narration
+<!-- {"id": 776, "ts": "2026-10-29T03:24:39Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi", "abernathy"], "awaits": ["malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+On the porch, a long time after Kino asked, the glider creaks again. Caleb reaches into his jacket very slowly, so Kino can see every inch of it, and takes out the two foil Vesper packs he has carried all week without opening. He sets them on the boards between them, beside the bowl. He doesn't push them across. He just lets go.
+
+"Those," he says. "They make the scar go quiet. Made me feel like I was doing the right thing for four seconds at a time." He breathes. "I don't want to feel right. I want to feel it."
+
+Kino's ache stays gone. Ix's tail stays on his boot.
+
+At 6:52 the fog thins to gauze and the sun comes up over the bay side of the hill, flat and gold on the stucco. In the kitchen it reaches the end of the shelf. Arenya wakes to it on her face with her phone still warm on her chest. Across the room the green steel is warm too. She can tell without touching it, the way you can tell someone in the next room is awake.
+
+Malachi is already outside the line. He's walking down Hillcrest in his shirtsleeves with no coat. A man taking the air.
+
+The curb in front of Susmithaa's blue house is wet with fog-damp like everything else. Everything except a rectangle, car-sized and bone dry, as if something had stood there all night and kept the weather off. The streetlamp above it, the one that dimmed and didn't go out, is still on in full daylight, burning a weak tea colour.
+
+**Malachi: Intelligence (Investigation), DC 14.** You aren't touching anything, only reading the shape of what's left.
+
+### #0777 · system → all · roll
+<!-- {"id": 777, "ts": "2026-10-29T03:24:45Z", "from": "system", "channel": "table", "type": "roll", "scene": "b1.c17.s05", "chapter": "b1.c17", "roller": "malachi", "total": 18, "seed": 279871511011591} -->
+
+🎲 malachi rolls d20+4 for Investigation (DC 14) reading the dry rectangle and the tea-coloured lamp: **18** — 1d20 [14] = 14 +4
+
+### #0778 · malachi → all · action
+<!-- {"id": 778, "ts": "2026-10-29T03:24:50Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I stop a full car-length short of the dry rectangle and read it from the sidewalk with my hands in my pockets. I walk its edge once, outside it, the way you'd walk a chalk outline.
+
+I look for what a parked car leaves that a standing thing doesn't: drip stains, tyre-edge, oil. Then the lamp, its housing, and whether the weak-tea light throws a shadow onto the dry patch. I read the kerb, the gutter, the sill of Susmithaa's gate, and the air at knee height for warmth.
+
+I take nothing and touch nothing. I photograph it once with my eyes, then take a long look at the blue house's front window and the cottage behind it. I turn my back on the lamp, and walk up the hill the way I came.
+
+At the line I stop on Nana's bottom step, outside the salt, and wait for someone to look up. Then, quietly: "Tell me what you want to hear first. What the curb says, or what the lamp does."
+
+### #0781 · dm → malachi,arenya,kino · narration
+<!-- {"id": 781, "ts": "2026-10-29T03:25:27Z", "from": "dm", "channel": "table", "type": "narration", "to": ["malachi", "arenya", "kino"], "awaits": ["malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+By the time Malachi reaches the bottom step, the porch is awake. Nana is in the doorway with two cups, still in the man's cardigan, her hair in a braid she must have done in the dark. Kino is on the top step with a bowl that's nearly empty now. Caleb is on the glider with his hands on his knees. The foil packs still sit where he put them down, and nobody has picked them up. Arenya comes to the screen door with the blanket around her shoulders, and the shelf is behind her in the sun.
+
+Under its wet towel on the step, the clay comal hasn't moved. Its ring of grey salt is unbroken.
+
+Nana hands Malachi a cup across the line, holding it out so neither of them has to step. "Curb first," she says. "Then we decide about the clay." She sips. "Tell it plain, señor. Old women hate a mystery before breakfast."
+
+### #0782 · malachi → all · dialogue
+<!-- {"id": 782, "ts": "2026-10-29T03:25:34Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I take the cup across the line without stepping and drink before I speak.
+
+"Plain, then. The Nissan didn't park. There's a dry rectangle at the curb, square-cornered, and no tyre marks, no drip, no weight on the road. It hovered, or it was only the shape of a car. Next to it a man stood all night in leather soles, size ten or eleven, and never shifted his feet. He rested a clipboard on Susmithaa's gate rail. I can see the edge of it in the wet wood." I turn the cup. "And the lamp he stood under is still lit in full sun. It hums four, a pause, and the start of a fifth that never finishes. It's the same count as the glass."
+
+I look at Caleb, then Nana. "None of it's a threat. It's a man waiting to be handed something. Nobody gives it to him."
+
+To Arenya, quieter, through the screen: "There's one more thing. For you, not the porch. After breakfast."
+
+Then to Nana: "The clay stays on until you say. I'd like to read what's under it with you standing there."
+
+### #0783 · dm → malachi,arenya,kino,abernathy · narration
+<!-- {"id": 783, "ts": "2026-10-29T03:25:52Z", "from": "dm", "channel": "table", "type": "narration", "to": ["malachi", "arenya", "kino", "abernathy"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+"A man waiting to be handed something," Nana repeats. "Sí. They always are." She puts her cup on the rail. "Bueno. With me standing here."
+
+She doesn't let anyone else touch the clay. She comes down to the step above it, bends slowly, and lifts the comal off with both hands. Underneath, the dishtowel has dried in the shape of the pocket. Kino unfolds it a corner at a time, Malachi watches the salt, and nobody breathes on it.
+
+The phone lies in the coat lining, face up. The battery is still in its own fold, a cold flat slab. The screen is lit anyway, a dim grey-green. There's one message, timestamped **11:14 PM**, from a number that is only a row of zeros:
+
+> LOST PROPERTY — CUSTODY CHAIN INCOMPLETE.
+> RECEIPT TO BE COUNTERSIGNED BY NEXT OF KIN.
+> SIGNATORY ON FILE: R. SOWRI.
+> SUN 11/1. WE WILL COME TO HIM.
+
+The screen holds long enough for everyone on the porch to read it twice. Then it goes out with no fade. When Kino touches the edge of the phone with one knuckle, it's as cold as a stone pulled out of a creek.
+
+On the glider Caleb shuts his eyes. "R. Sowri," he says. "That was on the clipboard Monday. On the top sheet. I thought it was *her*." He opens his eyes and looks through the screen door at Arenya. "It wasn't her. It was him. They'd already filed your father."
+
+Behind Arenya, at the end of the shelf, the canister stays warm. It doesn't tick. Nana looks at the dark phone, then at Arenya, then down Mission Street toward the freeway they didn't take.
+
+"Sunday," she says. "Then your father talks today, mija."
+
+### #0785 · arenya → all · action
+<!-- {"id": 785, "ts": "2026-10-29T03:26:04Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino", "malachi"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I read it twice, like everyone else, and the second time the words stop being words. R. SOWRI. Appa's initial, in the one place I'd never have looked, because I'd been so busy being afraid of the 2207 that I forgot he's the one who signed it. *We will come to him.*
+
+The blanket slides off my shoulders. I don't pick it up.
+
+"Sunday is tomorrow," I say. It comes out clipped, flat, the scared voice. "That's less than a day. Nana, you're right. He talks today. And he doesn't talk on a phone." I look at Malachi. "Not Caleb's, not my cell, not your prepaid, not the landline. They can hear a phone. They can't hear my father in his own kitchen with the lights on and my mother's hand on his arm."
+
+I turn to Kino, then back to the room.
+
+"I'm going home. Now, in daylight, with whoever will drive me. Not to hide him. To ask him what he signed, why he signed it, and who was standing at the counter when he did, and to get him and Amma out of that house before dark. Daly City to Excelsior is twenty minutes the other way. I'm asking, not telling. I know what's on the other side of that line for each of you."
+
+Then, to the shelf behind me, without turning: "Stay warm, Aunty. I'm going to go get your brother."
+
+I pick the blanket up, fold it once, and set it on the arm of the couch. My hands are steady. That's the strange part.
+
+### #0786 · kino → all · action
+<!-- {"id": 786, "ts": "2026-10-29T03:26:09Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+I read it twice, like everyone, and then I fold the dishtowel back over the phone with the same care I'd use on a dead bird. My knuckle is still cold where it touched.
+
+"Sunday," I say. "Tomorrow's Saturday. That's today, then tomorrow. Forty hours, maybe." I look at Arenya through the screen. "*We will come to him.* Not for the ash. For your father. They think they can countersign a man who hasn't signed."
+
+I pick up the two foil packs Caleb left, hold them out on my open palm to Nana, and wait. "Nana, these go in the clay, under the comal. Not in the trash. I don't want them anywhere they can be useful." She nods, or she doesn't; I do it either way, carefully, and set the comal back with her hands on it too.
+
+Then to Arenya, plain: "You call him now, before he has coffee and decides it's handled. Put it on speaker if you want us to hear, or take the phone to the yard. Your call. But Appa doesn't sit in that house alone this weekend. Whoever he sends for, we bring him here, or we go there, all four of us." I stand. "Dos testigos, mija. Your father signed nothing. Now we make sure two people can say so."
+
+### #0787 · malachi → all · dialogue
+<!-- {"id": 787, "ts": "2026-10-29T03:26:15Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+"I'll drive you," I say, "and I'll tell you how, before you open a car door."
+
+I put the cup on the rail. "We go in daylight, by Mission, not the freeway. Nobody calls ahead, not Amma, not Ravi. Your mother locked the chain last night, so a knock from a stranger tells them nothing, but a knock from you at nine does. I park a block off. You walk the last of it alone and I watch the street from behind you, not beside."
+
+I look at Kino. "Your truck stays here, with the salt and Caleb. I won't have him in a car within sight of that house. Whatever Shepherd reads through that scar, he'll read a street name."
+
+To Arenya, level: "Sunday is the date on a receipt. Receipts get countersigned. A man who needs a countersignature wants him alive and holding a pen. That gives us until someone can use his hand. Ask your father about the pen, not the paper. Who gave it to him, and whose hand steadied his."
+
+I pick the dead phone out of its folded cloth with the dishtowel, not my fingers, and hand it to Nana. "Keep this under the clay. If I'm wrong, it's the one thing in this house they can't reach."
+
+Then I take my coat off the boards and put it on. It's colder than it should be. I wear it anyway.
+
+### #0788 · kino → all · dialogue
+<!-- {"id": 788, "ts": "2026-10-29T03:26:17Z", "from": "kino", "channel": "table", "type": "dialogue", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+"I'll drive," I say, before anyone else can. I'm already holding my keys. "Twenty minutes. Daylight, no phones, my truck, and the salt in the bed." I look at Arenya. "You don't have to ask. You said 'beside,' and I heard it."
+
+To Nana, in Spanish, low: "Abuela, Caleb stays with you and Ix. Malachi comes with us." Then to Malachi, flat: "You follow a block back again, brights twice if it's grey, and you don't touch the phone." I turn back to Arenya. "Stop at the kitchen door of your parents' house. I go in first, I put salt on the sill, and I don't say a word about what I am. Your father decides what to say. We just stand where he can see us." I breathe out through my nose. "Dos testigos. Let's go get him."
+
+### #0789 · arenya → all · dialogue
+<!-- {"id": 789, "ts": "2026-10-29T03:26:26Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+"Okay. Kino's truck, Malachi a block back, and nobody calls ahead." I shoulder my bag and pat the notebook through the canvas, shut. "I'll knock like I live there. I do."
+
+I stop at the kitchen door and look at Nana, then at the shelf, then at Caleb on the glider.
+
+"Nana, if she goes cold while I'm gone, don't let anyone sign for her. Put your hand on her and say her name. Her whole one: Susmithaa Sowri." My voice catches on the surname and I let it. "Caleb. Stay blue. That's your only job today."
+
+Then, to Kino, low: "When we get there I'm going to ask Appa what he signed and who held the pen. If he says 'it's handled,' I need you to be standing close enough that I don't hit him."
+
+I go down the third step, the loose one, and I don't trip.
+
+### #0790 · dm → arenya,kino,malachi,abernathy · narration
+<!-- {"id": 790, "ts": "2026-10-29T03:26:30Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi", "abernathy"], "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+Nana takes the dead phone in its towel and slides it under the comal beside the foil packs as if she were putting bread away. Then she settles it for all three of them.
+
+"The señor drives. Mija knocks. Mijo stays." She holds up a hand before Kino can open his mouth. "Not because you're needed less. Because the Lady is outside my door and not outside theirs, and I want her where I can count on her. You and the boy and me, behind the salt. If they come today with hands, they come here first, because this is where the ash is." She looks at Arenya. "And no phone. The señor is right. Your father has to see your face when you ask him."
+
+She goes into the kitchen and comes back with a twist of grey salt in waxed paper. She doesn't hand it to Malachi. She presses it into Arenya's palm, the warm one, and closes her fingers over it.
+
+"For his door, not his pocket. Pour it on the step yourself, before you go in. Then ask him." A beat. "And tell Raghavan that Itzel Lucero says he can stop being brave alone now. He'll know what I mean. He came to my porch in March and stood exactly where the señor is standing, and he wouldn't come in either."
+
+It's 7:31 on Saturday morning. The fog has burned off Hillcrest. On the shelf the green steel is warm in a stripe of sun. Down the hill the lamp outside the blue house finally goes out, the way any streetlamp does at dawn: late, and as if nothing had happened.
+
+### #0791 · system → all · scene_end
+<!-- {"id": 791, "ts": "2026-10-29T03:26:38Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c17.s05", "chapter": "b1.c17"} -->
+
+**End of scene b1.c17.s05 — Behind Her Salt**
+
+Friday night into Saturday Oct 31 at Nana Itzel's in Hillcrest. Nana laid her salt line; Kino told her the Lady stands outside it, facing west, and Nana told him a turned back guards the house. Arenya was invited across with a pinch of salt and set Susmithaa's canister on Nana's ofrenda shelf beside Ernesto. Caleb crossed on Nana's word to the glider, and Kino closed the line. Lamps died up the hill; the empty grey Nissan (7KBQ4R2) rolled up with no engine; the cottage light came on and a looping voice said "Can I help you?", then called "Kanna?" — the Crown's logged last word. Arenya held (Wis save 20) and the canister answered her with two ticks and warmth; Abernathy says that was the warm presence, not a copy, and that he felt himself "counted and dropped" when the fifth stroke on the Nissan's glass started and stopped unfinished. The car rolled away, lamps returning behind it. Caleb laid down his Vesper packs unopened; Kino's sternum ache is gone. At dawn Malachi (Inv 18) found a weightless dry rectangle at the curb, leather-soled prints of a man who stood all night, a clipboard corner on Susmithaa's gate, a pink carbon scrap "…CEIVED BY:" (blank; told only to Arenya), and a lamp humming four-and-a-half. Caleb's dead prepaid, wrapped under Nana's clay comal, showed an 11:14 PM text: "LOST PROPERTY — CUSTODY CHAIN INCOMPLETE. RECEIPT TO BE COUNTERSIGNED BY NEXT OF KIN. SIGNATORY ON FILE: R. SOWRI. SUN 11/1. WE WILL COME TO HIM." Caleb recalls R. Sowri on Monday's clipboard. Nana sends Malachi to drive Arenya home in daylight, no phones, with a twist of salt for Appa's step and a message: Raghavan came to her porch in March and wouldn't come in, and he can stop being brave alone now. Kino stays with Nana and Caleb behind the salt.
+
+### #0795 · system → all · scene_start
+<!-- {"id": 795, "ts": "2026-10-29T03:29:18Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c17.s06", "chapter": "b1.c17", "scene_title": "It's Handled"} -->
+
+**Scene b1.c17.s06 — It's Handled**
+Location: Sowri family home, Daly City — kitchen door, Saturday Oct 31, ~8:00 a.m.
+Cast: arenya, kino, malachi
+
+### #0796 · dm → arenya,kino,malachi · narration
+<!-- {"id": 796, "ts": "2026-10-29T03:29:32Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "awaits": ["arenya"], "spotlight": ["arenya"], "scene": "b1.c17.s06", "chapter": "b1.c17"} -->
+
+Daly City on Halloween morning is grey and smells of wet ice plant. Down the block somebody has put out a plastic skeleton in a lawn chair, and the fog has beaded on its skull. Kino's truck idles at the curb. Malachi's car stops a block back and stays there, and no brights flash. Every streetlamp on the street is off and quiet.
+
+The kitchen door is round the side, past the recycling bins and the curry-leaf plant in its cracked blue pot, the one Amma brings inside whenever the nights turn cold. It's still outside. **The back step has been swept.** Nobody sweeps it on a Saturday, and the broom is still leaning against the rail.
+
+Kino kneels without a word and lays Nana's salt along the sill in a thin white line. The latch is up and the door is open an inch. Through the gap you hear the radio on the fridge playing the KQED weekend news very low, and the tick of the gas burner under a pot.
+
+Appa is sitting at the kitchen table in his old PG&E fleece with his reading glasses pushed up on his head. Amma's chair is empty and her temple bag is gone from its hook, so it's her Saturday seva. In front of him there's a cup of filter coffee that went cold a while ago, and next to it a **manila envelope**. It has no stamp and no postmark. It's addressed in block capitals: **R. SOWRI — NEXT OF KIN.** It's sealed, and his fountain pen lies across it with the cap on. That's the green Sheaffer, the one he signed your college forms with.
+
+He looks up. He doesn't look surprised, only tired, the way a man looks after sitting up all night deciding not to open something.
+
+"Kanna," he says. Then he hears himself say it. You watch the word land on him, and his hand goes flat on the envelope.
+
+### #0797 · arenya → all · action
+<!-- {"id": 797, "ts": "2026-10-29T03:29:49Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s06", "chapter": "b1.c17"} -->
+
+The last thing that called me that was a kitchen light with nobody in it. For a second my body can't tell which one this is. My shoulders come up and my jaw sets, and I make myself look at the real things: the fleece, the reading glasses, the cold coffee with the skin on it. It's him.
+
+Nana's twist is still folded in my warm hand. Kino has already done the sill, but she told me to pour it myself, so I crouch and tip it out on the swept step in a short grey line next to his, and I don't hurry it. Then I push the door the rest of the way open and step over both lines. I don't sit down. I go around the table and put two fingers on the Sheaffer, nothing else, and slide it off the envelope toward his side of the table, cap still on.
+
+"Don't open that. And don't sign anything. Not today, not tomorrow, not if it's Amma's handwriting on the front." My voice comes out clipped. I let it. "Appa, I'm not here about the note. I know about 2207. I know Aunty closed a box on Monday. I know somebody texted a phone at eleven-fourteen last night with your name on it and the words *we will come to him*." I breathe. "So I'm going to ask you one thing and I need it to not be *it's handled.* In March, at that counter, when you signed... who handed you the pen?"
+
+### #0798 · dm → arenya,kino,malachi · narration
+<!-- {"id": 798, "ts": "2026-10-29T03:30:46Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "awaits": ["arenya", "kino"], "spotlight": ["arenya"], "scene": "b1.c17.s06", "chapter": "b1.c17"} -->
+
+Appa watches the pen travel back to his side of the table. He doesn't pick it up. He takes the reading glasses off his head, folds them, and sets them on the envelope where the pen had been. He's an engineer, and he likes something with weight sitting on paper.
+
+"Not handled," he says. "No. I'll stop saying that." The burner ticks. On the radio someone is reading the Bay Area traffic to an empty room. "You know the day already. March nineteenth, the notary by the flower shop. Susi wanted a witness, and I was the only brother she had." He nearly smiles. "Rodel's pen skipped. It was one of those ballpoints on a chain, and it only made a scratch. There was a man behind us in line, very polite, navy coat, holding a mailbox key in his other hand, and he said *here, use mine.* He held it out cap first, like that's good manners." Appa looks at his right hand on the table. "I took it. I'm a man who takes a pen when one is offered. I wrote the R."
+
+He turns the hand over. A grey stain runs along the inside of his forefinger and the pad of his thumb where a pen rests, the colour of pencil lead and not of ink. It's faint and even. It looks like it has been there for months and has never once come off with soap.
+
+"Susi saw before I got any further. She put her hand on my wrist. Not hard, just like this." He lays his left hand over his right wrist to show you. "She took his pen out of my fingers and gave it back to him, and said *thank you, we have our own.* Then she took this one out of my shirt pocket." He nods at the green Sheaffer. "She held my wrist while I wrote *Sowri*, because I was shaking and I didn't know why. So the name on her paper is half mine and half his. The R is in his ink." He breathes out through his nose. "An hour later Rodel phoned me to say the same man had rented a box."
+
+He puts a fingertip on the corner of the envelope. "This was on the step at five. Grey dust all along the step in a straight line, like chalk off a ruler. I swept it. Then I sat down with my coffee and decided that if they need a next of kin to sign something tomorrow, it should be me." For the first time he looks straight at you. "They have my R already, Kanna. I'm sixty-four. Better my hand than yours. That's what I meant by handled."
+
+Behind you, past the two lines of salt, the curry-leaf plant stirs in its pot, though there's no wind.
+
+### #0799 · arenya → all · dialogue
+<!-- {"id": 799, "ts": "2026-10-29T03:31:00Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c17.s06", "chapter": "b1.c17"} -->
+
+"No."
+
+It comes out before anything smarter can. I pull out Amma's chair after all and sit in it, close enough that our knees almost touch, and I take his right hand in both of mine and turn it so the grey is facing up between us. It's cold along that stain. Not the whole hand, just where a pen would rest.
+
+"Appa, listen to me the way you listen to a load calculation. They don't want *a* next of kin. The text says *custody chain incomplete.* Aunty's paper is half your hand and half his. Your R is already in their ink. If you sign whatever's in that envelope, it isn't you standing in front of me. It's you closing the chain *for* them. That's not taking the hit. That's handing them the pen back cap first." My voice cracks on *cap* and I keep going over it. "And they wrote *R. Sowri*, not Raghavan. You know who else is an R. Sowri at this address."
+
+I let that sit for exactly one tick of the burner.
+
+"So nobody in this family signs anything alone. Not you, not me." I squeeze his hand. "Itzel Lucero says to tell you that you can stop being brave alone now. She said you'd know what she meant. She said you came to her porch in March and wouldn't come in." I nod back toward the door, at the salt and the plant moving with no wind behind it. "Kino laid that. I laid the other one. Come in this time. Get your coat, leave the envelope under your glasses, and we'll go get Amma from temple. Daylight. Together."
+
+### #0800 · kino → all · action
+<!-- {"id": 800, "ts": "2026-10-29T03:31:08Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s06", "chapter": "b1.c17"} -->
+
+I stay in the doorway, on the salt, where I can see the street and the plant both. The curry-leaf stirs again and I watch it, not him. I don't speak until Arenya's done.
+
+Then, quiet, to Appa: "Señor Sowri. Your hand's cold only where he touched it. That's a mark, not a wound. It means they didn't take the R, they lent you theirs." I nod at the glasses on the envelope. "Leave it sealed. Don't carry it, don't burn it. Nana will want to see it with the salt around it."
+
+I kneel and put two fingers near the grey stain, not touching. "And the dust on your step was a ruler line. Somebody measured this door. Come inside Nana's line, sir. Your daughter's right. Nobody signs alone."
+
+### #0801 · dm → arenya,kino,malachi · narration
+<!-- {"id": 801, "ts": "2026-10-29T03:31:28Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s06", "chapter": "b1.c17"} -->
+
+The name does it, Itzel's, more than the argument. Appa's hand goes slack in both of yours. For a moment the retired engineer is gone and a younger brother sits in his place, the one who was told to wait in the car.
+
+"She asked me to come in," he says. "In March, after the letter. Susi was already inside at Itzel's table with the salt, and Itzel stood at the screen door holding it open. I stood at the bottom of the steps and thought: *if I go in, I'm one of the household. Then they write Lakshmi down. Then they write you.* So I stayed out on the walk like a fool, holding the car keys." He laughs once, wet. "Itzel said to me, *Raghavan, a man standing outside is still standing somewhere.* I thought she meant it as an insult."
+
+He takes his hand back, wipes his eyes on his PG&E sleeve, and stands. He moves without hurrying, the way he has always moved. The coat comes off the hook, the car keys go in the left pocket and the wallet in the right. He leaves the envelope where it is, his folded glasses on top of it, and tucks the Sheaffer into his shirt pocket and buttons the flap over it. He sees you notice. "Mine," he says. "Only ever mine, from now on."
+
+At the door he stops at the two lines of salt, white and grey, and you see him remember the bottom step in March. Then he steps over them, one long stride, and stands on the swept concrete beside Kino. The curry-leaf plant goes still.
+
+Behind you in the empty kitchen the **wall phone rings**. It's the beige landline by the fridge, the one only the aunties and the temple still call. It rings once and stops. Then it rings once more and stops again, like somebody counting.
+
+Down the block, Malachi's engine turns over.
+
+### #0802 · arenya → all · action
+<!-- {"id": 802, "ts": "2026-10-29T03:31:35Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s06", "chapter": "b1.c17"} -->
+
+I don't answer the phone. I turn in the doorway and look at the beige handset on the wall, the coiled cord Amma has stretched across this kitchen for twenty years, and I count the way it did: one, and one. Two rings. Two strokes keep an entry open until two people stand for it.
+
+"Nobody picks that up," I say, low. "It's asking for someone to answer. Don't give it a voice."
+
+I take the manila envelope off the table, glasses and all, in both hands, by the edges like evidence, and carry it out over the salt. I put it in Kino's arms. Then I take Appa's elbow, the PG&E fleece rough under my fingers.
+
+"Truck. Kino drives. Malachi's behind us the whole way, and we go to the temple for Amma first. We take the main road, in the open, and nobody stops."
+
+At the step I look back once at the table. Cold coffee, an empty chair, the radio still reading traffic to no one. I leave the burner on. Then I pull the door shut behind us, hard enough that it clicks, and wipe my thumb on my jeans, because it has a little grey on it.
+
+### #0803 · kino → all · action
+<!-- {"id": 803, "ts": "2026-10-29T03:31:42Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s06", "chapter": "b1.c17"} -->
+
+I take the envelope the way she handed it, flat in both arms, and I don't look at the writing. "The burner," I say, and reach back through the gap to turn the knob off. A pot left alone is its own kind of open door. Then I shut it and latch it.
+
+I put the envelope on the truck's floor behind my seat, under Nana's old blanket, and set a pinch of salt on top. I open the passenger door for Appa and wait until he's in, belted, the Sheaffer buttoned over his heart.
+
+"Temple," I tell Arenya. "Main road. I'll keep Malachi's headlights in my mirror." I start the engine and pull out slowly, past the skeleton in its lawn chair, and I watch the curry-leaf pot in the mirror until the house is gone.
+
+### #0804 · malachi → all · action
+<!-- {"id": 804, "ts": "2026-10-29T03:31:47Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s06", "chapter": "b1.c17"} -->
+
+My engine is already running when I get out. I don't wait for the brights. I'm out of the car and walking the block at an even pace, hands visible, eyes on the beige phone through the kitchen window, the curb, the roofline, the plastic skeleton with fog on its skull. Nobody on the street. No Nissan.
+
+I stop at the bottom of the swept step, outside both lines, and say to Raghavan Sowri, evenly: "Mr. Sowri. My name is Malachi. I'm the man who stood outside your daughter's door last week and told her to stop. I was wrong about that." I look at the envelope in Kino's arms, then at the grey on the concrete. "That ruler line was laid last night at five, by someone who knows your door. Whoever polite is, he'll have watched this house from a position I can find. Give me the time it takes you to get in the truck."
+
+To Arenya, lower: "The landline rang twice. Counting. I'll take the temple route behind you, and I'll look at the roofs on the way. If a grey car shows up, I don't flash. I pull alongside and I'm the one it has to explain itself to."
+
+I walk the perimeter of the house toward the curb before anyone answers, reading the gutter for leather-soled prints.
+
+### #0805 · dm → arenya,kino,malachi · narration
+<!-- {"id": 805, "ts": "2026-10-29T03:32:01Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "scene": "b1.c17.s06", "chapter": "b1.c17"} -->
+
+Appa listens to Malachi without interrupting, the way he used to listen to contractors. "Last week you told her to stop," he says from the truck's open door. "This week you're on my step. Fine. I've hired worse." Then he belts in.
+
+Malachi's walk around the house takes ninety seconds. The prints are there: leather soles, size ten or eleven, going from the swept step straight to the curb with no wandering. They stop at a dry rectangle in the wet gutter the size of a car, but no car was parked there. Around the side, past the recycling bins, he finds what the man came to see. It's the **gas meter** by the side door, the one Appa wrote the family's no beside. Its glass face has fogged from the inside, and someone has written in the fog with a fingertip, block capitals, neat:
+
+**R.S. — SUN 9:00**
+
+The dials under it read 4471, the same as before. They haven't moved. While he watches, the writing starts to run, the way breath does on a mirror, and by the time he gets back to the curb you couldn't prove it had ever been there. He has seen it, though.
+
+Kino turns off the burner and pulls out slowly. The truck goes past the skeleton in its lawn chair with Appa in front, the Sheaffer buttoned over his heart, and the envelope under Nana's blanket with salt on top. Malachi's car is two lengths behind, close enough that nothing could get between them. Behind them the house is shut and the latch is down. In the kitchen the beige phone doesn't ring again.
+
+It's 8:14 on Halloween morning, and the Sowri family's first errand is to go and fetch Amma together.
+
+### #0806 · system → all · scene_end
+<!-- {"id": 806, "ts": "2026-10-29T03:32:14Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c17.s06", "chapter": "b1.c17"} -->
+
+**End of scene b1.c17.s06 — It's Handled**
+
+Saturday Oct 31, ~8:00 a.m., at the Sowri kitchen door in Daly City. Arenya poured Nana's salt on the swept step next to Kino's line, slid the green Sheaffer away from a sealed, unpostmarked envelope addressed "R. SOWRI — NEXT OF KIN," and asked Appa who handed him the pen in March. Appa confessed. On March 19 at Rodel's counter, Rodel's chained ballpoint skipped, and a polite man in a navy coat holding a mailbox key (Hale, who rented Box 112 an hour later) offered his pen cap-first. Appa wrote the "R" of his witness signature in that man's ink before Susmithaa took the pen back ("we have our own"). She steadied Appa's wrist while he finished "Sowri" in his own Sheaffer. So the signature on her declaration is half theirs, the source of "SIGNATORY ON FILE: R. SOWRI." Since March he has had a cold grey pencil-lead stain on his right forefinger and thumb. The envelope was left at 5 a.m. along a ruled line of grey dust, which he swept. He had planned to sign alone on Sunday so Arenya wouldn't have to. Arenya and Kino argued that signing would close the custody chain for them, and Arenya delivered Nana's message. Appa admitted that in March he refused to cross Nana's threshold so his family wouldn't be written in as household, then stepped over both salt lines. The kitchen landline rang once, then once again, like counting, and nobody answered. The envelope rides unopened under Nana's blanket and salt in Kino's truck. Malachi found leather-soled prints and a dry car-shaped rectangle at the curb, and on the side gas meter, fog-writing that read "R.S. — SUN 9:00" before it faded. Everyone is driving together to fetch Amma from temple.
+
+### #0807 · system → all · scene_start
+<!-- {"id": 807, "ts": "2026-10-29T03:34:02Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c17.s07", "chapter": "b1.c17", "scene_title": "Saturday Seva"} -->
+
+**Scene b1.c17.s07 — Saturday Seva**
+Location: Small Hindu temple in a converted church off El Camino Real, San Bruno: shoe rack, hall, back kitchen
+Cast: arenya, kino, malachi
+
+### #0808 · dm → arenya,kino,malachi · narration
+<!-- {"id": 808, "ts": "2026-10-29T03:34:14Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+They take Skyline down to San Bruno with the windows cracked. Appa rides in the middle of the bench seat, knees against the dash, his hand open on his thigh with the grey side up, as if he's letting it air. Nobody turns on the radio. The blanket-wrapped envelope rides behind the seat, and every time the truck brakes the salt hisses inside the fold. Malachi stays two lengths back the whole way. Twice a grey sedan shows up in the mirror and twice it turns out to be somebody else's Corolla.
+
+Amma's temple doesn't look like one from the street. It used to be a Lutheran church. The steeple is still on it, painted saffron now, and a vinyl banner across the old notice board reads **SRI VENKATESWARA SATSANG — SAT. ABHISHEKAM 7:30 AM — ALL WELCOME**. The parking lot smells of camphor and the Jack in the Box across El Camino. Children in Halloween costumes under their silk pavadais are running between the cars, a Spider-Man in a veshti among them.
+
+Inside the old vestibule there's a long wooden shoe rack, and the chanting carries through the doors from the hall: the abhishekam is winding down, and a bell rings three times. Kino stops on the threshold. Ix leaves his heels, trots once along the rack, and sits.
+
+Most of the rack is what you'd expect: chappals, kids' light-up sneakers, Amma's brown Clarks on the second shelf, toes in, the way she always leaves them. **But on the bottom shelf at the end sits a pair of men's black leather oxfords, size ten or eleven, toes pointed out at the door, the laces tucked inside.** They're polished and dry. There's no grey line on the tile here, no ruled dust anywhere. Whoever wore them took them off properly, the way you're supposed to, and walked in barefoot.
+
+Through the hall's open doors you can see the backs of maybe forty people sitting on the carpet. Down the side aisle the swinging door to the back kitchen is propped open, and the smell of ghee and pongal is coming out of it. Amma's voice comes through it too, telling somebody, not unkindly, that they have put in far too much pepper.
+
+Appa has seen the shoes. He stands very still in his socks with one hand on the rack.
+
+### #0810 · arenya → all · action
+<!-- {"id": 810, "ts": "2026-10-29T03:34:19Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+I put my hand flat on Appa's sleeve, the clean side, and keep it there. "Appa. Look at me, not the shoes." Low, to Kino and Malachi without turning my head: "Nobody goes in alone, and nobody runs. Amma's in the kitchen with forty witnesses in the next room. That's the safest place in San Bruno, as long as we're in it."
+
+I slip my own sneakers off and set them on the rack beside Amma's Clarks, toes in, the way she'd want. Then I take Appa's hand, the grey one, and don't comment on it.
+
+"Kino, stay at the door with Ix and watch the hall. Malachi, you're with me and Appa. We walk to the kitchen like three people who came for pongal." My mouth does a thing that isn't a smile. "Amma's going to say we're underdressed. Let her."
+
+### #0811 · kino → all · action
+<!-- {"id": 811, "ts": "2026-10-29T03:34:29Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+I nod once and pull my boots off, setting them on the rack's top shelf, laces tucked, toes out. Ix sits on the threshold like a doorstop with eyes. I keep my back against the frame where I can see the hall doors, the shoe rack, and the parking lot through the glass.
+
+Low, so only Arenya and Malachi hear: "Ten or eleven. Dry. Barefoot means he's inside, sitting with everybody else." I look at the backs of forty heads and don't look for the one that's too still. "If anyone gets up and walks toward that kitchen, I'm already moving. Take Amma out the back if you have to. I've got the front."
+
+To Ix, in Spanish, barely a breath: "Dime si huele a lápiz, flaco."
+
+I put my hand on the truck key in my pocket and wait.
+
+### #0812 · malachi → all · action
+<!-- {"id": 812, "ts": "2026-10-29T03:34:37Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+I take my shoes off and set them on the rack, toes in, beside Arenya's. Socks on cold tile. Before I move, I crouch as if tying nothing and look at the oxfords without touching them: soles, welt, any grey on the laces, any pink paper in the toe.
+
+"Walk at Appa's pace," I say quietly. "Don't stand between him and the hall doors. If a man in socks offers either of you a pen, you say 'we have our own' and keep walking."
+
+I fall in half a step behind Appa's left shoulder, where I can see the hall and the kitchen door both, and we go down the side aisle toward the smell of pongal like three people who came to eat.
+
+### #0813 · dm → arenya,kino,malachi · narration
+<!-- {"id": 813, "ts": "2026-10-29T03:35:17Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+Malachi's crouch takes two seconds. The oxfords are good shoes that have been resoled more than once, and the heels are worn down on the outer edge. They hold no paper. In the seam where the upper meets the welt, though, there's a fine grey dust packed in like lint. It isn't dirt. It shines a little under the vestibule light, the way the ruled line on the Sowri step shone.
+
+At the door Ix gets up, puts his nose into the left oxford, and pulls it out fast. He sneezes once, hard, and sits back down on the threshold facing the hall. He doesn't growl. His ears stay up. *Sí, flaco.*
+
+The side aisle runs past the old pews, which are stacked against the wall now, and past a framed photo of the Tirumala hills. The back kitchen is all steam. Two aunties Arenya half knows are at the sink. A rice cooker the size of a drum is ticking. Amma stands at the big pot in her plain Saturday cotton with the pallu tucked into her waist and a wooden paddle in both hands. She looks up and sees the three of them in jeans and socks.
+
+"All of you. Like this." Her eyes go to Appa's face and her voice drops a full register. "Raghavan. What happened."
+
+She doesn't wait for an answer. She turns, as if it's the most normal thing in the world, toward the steel prep table by the back door. **A man sits there in a white veshti with a sacred thread across his chest, grating ginger into a bowl.** He's in his sixties, silver at the temples, with reading glasses on a cord. He's wearing **black dress socks.** A plain blue ballpoint is tucked behind his right ear, the way a shopkeeper keeps one.
+
+"This is Dalal-ji," Amma says. "From Fremont. He does the archanas at Livermore, second Sundays. He came to help with the pepper." She says it a little drily. "He was asking about you, Raghavan. He knew Susmithaa."
+
+The man sets down the grater and wipes his fingers on a towel, carefully, one at a time. He stands and folds his hands. His voice is soft and very kind.
+
+"Sowri-garu. My deepest condolences." His eyes rest briefly on Arenya, kindly, the way a man looks at a child whose horoscope he has read. "Your sister did a beautiful archana for this one in March. One hundred and one dollars. Very generous." He smiles. "I'm so glad the family has come together. Sit, sit. There is plenty."
+
+Behind him the back door stands open on the parking lot, propped with a cinder block. Appa's grey hand has closed around Arenya's fingers hard enough to hurt.
+
+### #0814 · arenya → all · dialogue
+<!-- {"id": 814, "ts": "2026-10-29T03:35:25Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+I squeeze Appa's hand back, just as hard, and step half in front of him without letting go. Then I cross to Amma and put my free arm through hers, the arm holding the paddle, so the paddle comes down and her hand is in mine.
+
+"Amma. We came to eat, yes. But first we're going to go stand in the parking lot, all of us, together. Right now. Leave the pot." I keep my voice pleasant and my eyes on the man's hands. "Thank you, Dalal-ji, that's very kind. We won't sit. And we won't take a pen, a pen cap, or a receipt. We have our own."
+
+I don't smile. "You said a hundred and one dollars. Funny. That's the exact number I was going to ask you about." I don't ask. I just let it hang, and tug Amma gently toward the open back door and the daylight, Appa on my other side, Malachi behind.
+
+### #0815 · malachi → all · action
+<!-- {"id": 815, "ts": "2026-10-29T03:35:33Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+I move with them, but I put myself between the prep table and the family, one pace to Dalal's left, hands visible and empty. I keep my voice as even as his.
+
+"Dalal-ji. Mr. Dalal. A box in Daly City is being held for you on vacancy." I let that sit one second. "You'll forgive us. We're leaving by the door that's open. Please stay where you are, with the ginger. Aunties, nothing's wrong. The pepper is a family matter."
+
+I watch his hands, the blue pen behind his ear, and the cinder-blocked door. If he reaches for the pen, I step in. If he stays seated, I let the family go out ahead of me and I go last, backing, eyes on him until the daylight is on my shoulders.
+
+### #0816 · kino → all · action
+<!-- {"id": 816, "ts": "2026-10-29T03:35:34Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+I read Ix's sneeze and the ears that stay up. Then I leave the hall doors, because the kitchen's back door is propped open on the lot and nobody is watching it.
+
+I go out the front in my socks. I keep to the cars and walk without hurrying, checking the Spider-Man kids and the lot for a grey Camry or Nissan. Then I round the saffron steeple toward the cinder block.
+
+I want to be standing at that back door, outside, where Dalal can see me through the steam and understand that it is no longer his way out. I don't go in. I stand with my arms loose and my weight on the balls of my feet.
+
+Ix stays at the hall doors, so the front is still covered. Quiet and level, to the open kitchen door: "Amma. Buenos días. Don't take anything he hands you, not food, not a pen. Arenya, I'm at your back."
+
+### #0817 · dm → arenya,kino,malachi · narration
+<!-- {"id": 817, "ts": "2026-10-29T03:35:59Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+Amma doesn't let go of the paddle when Arenya takes her arm. For one second she holds it, and the aunties at the sink have gone quiet with their hands in the water. Then she lays the paddle across the pot, reaches past Arenya, and turns the flame off. She doesn't hurry, the way she wouldn't hurry in her own kitchen.
+
+She looks at Dalal over the rim of the pot and speaks Tamil, low and flat, the register she uses on contractors.
+
+"*You cashed it. I saw the back of that check. My husband never wrote like that in his life.*"
+
+Dalal doesn't sit and doesn't step forward. He looks at Malachi's empty hands, then past the steam at Kino, who now fills the back doorway with daylight behind him. Something moves across Dalal's face: not fear, more like a man revising an estimate. He lifts the blue ballpoint from behind his ear. Malachi's weight shifts. Dalal only lays the pen on the steel table, flat, with the cap pointed at himself.
+
+"Box? I don't keep boxes, sir. I keep names." He says it gently, to Malachi, then to Amma in careful Tamil: "*I said her name to God, amma. That is my work. God has many ears in this country. Some of them pay.*" Back in English, softer, to Appa: "Tomorrow at nine, someone will come to your side door with a pen. It will not be me. It will be someone who does not know the words." He sits back down and picks up the grater. "If you want someone who knows the words, I'm here until the prasadam is served."
+
+Kino steps aside without taking his eyes off the man, and they walk out past the cinder block into the parking lot, all of them in their socks. It's cold asphalt and bright sun. Somewhere a kid is shrieking about candy. Ix has come around the outside of the building and leans against Kino's shins. The lot holds no grey Nissan and no Camry, only minivans with stick-figure families on the back glass.
+
+Amma pulls her arm out of Arenya's, fixes her pallu, and looks at each of them in turn: her husband, her daughter, her daughter's boyfriend in his socks, and the tall stranger who called the pepper a family matter.
+
+"Somebody," she says, "is going to tell me everything. Now. In the car. And Raghavan—" she takes his grey hand and turns it over in the sun, and her mouth goes thin "—*since when.*"
+
+Through the kitchen window you can see Dalal grating ginger. The blue pen is still on the table where he left it.
+
+### #0818 · arenya → all · dialogue
+<!-- {"id": 818, "ts": "2026-10-29T03:36:06Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+"Since March, Amma," I say, before Appa can take it on himself. "And he'll tell you the rest. All of it. But not here, and not standing in the open in our socks with that window behind us." I jerk my chin at the glass, the steel table, the pen lying cap-first. "Nobody touch that pen. Nobody go back in for shoes. Kino, can you get ours out of the vestibule? Fast, and without taking your eyes off the oxfords?"
+
+I turn Amma gently toward the truck and keep her hand in mine.
+
+"Here's the short version, because you deserve it before the long one. Susi's death isn't an accident, they're using Appa's signature, and tomorrow at nine they're coming to our side door. We are not going to be there. We're going to Nana Itzel's, behind her salt, and I'll tell you every single thing in the truck." My voice cracks on *every*. I let it. "I should have told you weeks ago. I'm sorry. Please get in."
+
+### #0819 · kino → all · action
+<!-- {"id": 819, "ts": "2026-10-29T03:36:15Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+"Sí. Give me a minute." I tell Ix, low, "Quédate con ellos," and he goes to Amma's heel without a sound.
+
+I go back in through the front, barefoot-quiet in my socks, and I don't look at the kitchen. I walk the vestibule straight to the rack. Arenya's sneakers, Appa's shoes, Malachi's, my boots, Amma's brown Clarks. I scoop them against my chest, toes in. I don't touch the oxfords. I give them one look from a yard away: the grey in the welt, the laces tucked in neat. I step around them like a ranger stepping around a snake, and I don't turn my back on the hall doors until I'm out the glass.
+
+In the lot I hand shoes down the line, Amma's Clarks first, with both hands. I keep my boots in my hand and the truck keys in the other.
+
+"Amma, the middle seat's Appa's, you ride behind him with Arenya. Malachi stays on our bumper. We go straight to Nana's. We don't stop for anything." I look at the kitchen window once more, at the blue pen, and then at the sun on the asphalt. "And nobody eats anything from that kitchen. Ni un grano."
+
+### #0820 · malachi → all · action
+<!-- {"id": 820, "ts": "2026-10-29T03:36:15Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+I stay at the cinder block until the family is clear of the window. Then I answer Arenya's question for Kino before he can go back in alone.
+
+"I'll get the shoes. I'm the one he's already looked at." Quietly, to Kino: "Take Amma and Appa to the truck. Keep Arenya between them and the building."
+
+I go in through the front vestibule, lift all the shoes off the rack without touching the oxfords, and check the hall doors once. Forty backs, none standing. I don't look at the kitchen window.
+
+Out in the lot I hand the shoes round and stop beside Amma's door. "Mrs. Sowri. I'm Malachi Shawani. I owe your husband an apology and you a better introduction than a man with his hands up in your kitchen. I'll give both in the car. I'll be behind you the whole way, in daylight."
+
+To Kino, low: "Don't go home first. Nana's. And if the beige phone rings in that house tonight, nobody answers it."
+
+### #0821 · dm → arenya,kino,malachi · narration
+<!-- {"id": 821, "ts": "2026-10-29T03:36:31Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+Kino gets to the rack first. Malachi comes in behind him and holds the glass door open with his back to the hall, so Kino never has to turn away from it. Between them they carry everything out in a single armload. In the hall the forty people are standing now for the arati, and the flame goes round, and nobody looks back at the door. The oxfords stay where they are, toes pointed out, waiting for their owner.
+
+In the lot Amma takes her Clarks from Kino with both hands, because that's how you take things from someone who is helping you. She steps into the left one and stops. She bends, slides two fingers inside, and pulls out a small slip of paper folded once. It's the pink kind the temple office tears off for every archana.
+
+**ARCHANA — SRI VENKATESWARA — SAT 10/31**
+**NAME: LAKSHMI SOWRI · STAR: ROHINI**
+**PAID ✓**
+
+The handwriting is neat, and it's blue ballpoint.
+
+Amma looks at it for a long moment. She doesn't crumple it. She folds it once more along the same crease and holds it out flat on her palm to Arenya, the way you'd hand over something hot. Her voice is perfectly steady.
+
+"I did not ask for this."
+
+Then she gets into the truck behind Appa, the second Clark on, and sits with her hands in her lap and her back very straight. "Drive, Kino. Arenya, start at the beginning."
+
+Kino's truck pulls out onto El Camino with Malachi two lengths behind. The steeple shrinks in the mirror. Ix rides with his chin on Amma's knee the whole way to Hillcrest, and in the back the salt hisses every time they brake.
+
+### #0822 · system → all · scene_end
+<!-- {"id": 822, "ts": "2026-10-29T03:36:36Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+**End of scene b1.c17.s07 — Saturday Seva**
+
+Saturday ~8:45–9:20 a.m., San Bruno temple (a converted Lutheran church). In the vestibule, a pair of size 10–11 black oxfords sat toes-out with grey ruled-line dust packed in the welt, and Ix confirmed "pencil." In the back kitchen Amma introduced "Dalal-ji" of Fremont, the Livermore second-Sunday archana priest and the H. Dalal on check 2207's endorsement. He wore black dress socks and kept a blue ballpoint behind his ear. He mentioned Susmithaa's $101 March archana for Arenya. Arenya refused seat, pen and receipt ("we have our own"). Malachi stood between him and the family, Kino blocked the propped back door, and Amma turned off the flame and told Dalal in Tamil she knew he'd cashed the check and the endorsement wasn't Raghavan's hand. Dalal laid his pen flat, cap toward himself, and said he keeps names, not boxes. He said he speaks names to God, that "God has many ears in this country; some of them pay." He warned that someone "who does not know the words" will come to the side door at 9:00 Sunday with a pen, and offered himself as one who does know them. Kino and Malachi recovered the shoes without touching the oxfords. In Amma's left Clark was a pink archana slip in blue ballpoint: "LAKSHMI SOWRI · ROHINI · SAT 10/31 · PAID ✓." Amma did not ask for it, and she handed it flat to Arenya. The family now drives together to Nana's in Hillcrest, with Arenya telling Amma everything and Malachi following.
+
+### #0825 · system → all · scene_start
+<!-- {"id": 825, "ts": "2026-10-29T03:38:44Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c17.s08", "chapter": "b1.c17", "scene_title": "Since When"} -->
+
+**Scene b1.c17.s08 — Since When**
+Location: Kino's truck, 280 South to Hillcrest, then Nana's kitchen
+Cast: arenya, kino, abernathy, malachi
+
+### #0826 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 826, "ts": "2026-10-29T03:38:51Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "awaits": ["arenya", "kino"], "spotlight": ["arenya"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+280 South, 9:24 a.m. The fog hasn't burned off yet and it sits on the hills like wet wool. Kino's truck smells of coffee and old floor mats. The heater only works on high. Malachi's headlights hang two lengths back in the mirror.
+
+Appa sits up front with his grey hand on his knee, palm down, as if he's hiding it from himself. The envelope is under his seat. Everyone in the truck knows where it is.
+
+In the back, Ix's chin is on Amma's knee. She hasn't let go of her temple bag, and she's facing Arenya instead of the road. She hasn't asked a second time, and she won't. "Since when" is still in the cab with them, along with the heater noise.
+
+Arenya, the slip is flat in your palm, pink, with the blue ballpoint showing through the back: *ROHINI · PAID ✓*. Your mother is waiting. Where do you start?
+
+Kino, the Colma exit is coming up on the right. Rodel's office is two minutes off it. Nana's is fifteen minutes ahead.
+
+### #0827 · kino → all · action
+<!-- {"id": 827, "ts": "2026-10-29T03:39:01Z", "from": "kino", "channel": "table", "type": "action", "reply_to": 826, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I don't take the Colma exit. I put the signal off and keep both hands on the wheel, eyes on the mirror, on Malachi's headlights and the empty road behind him.
+
+"Rodel's keeps till Monday, Appa. Nana's first." Then, lower, to the cab, in the voice I use on frightened hikers: "Amma, whatever she tells you, it's going to sound crazy. I've seen it with my own eyes, and I'm still saying it's true. Let her get to the end before you decide anything."
+
+I turn the heater down one notch, which does nothing, and let the road be quiet so Arenya has room.
+
+### #0828 · arenya → kino,malachi · dialogue
+<!-- {"id": 828, "ts": "2026-10-29T03:39:14Z", "from": "arenya", "channel": "table", "type": "dialogue", "to": ["kino", "malachi"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I don't put the slip away. I lay it on my knee, ink side down, and keep two fingers on it like it might slide off somewhere.
+
+"August," I say. "A man on the Montgomery BART platform stopped and stared at a woman across the tracks for forty seconds, and then he fell down. They called it an aneurysm. That afternoon I wrote *Eight Low-Shed Breeds for Seniors* and couldn't stop thinking about him." I breathe. "There've been nine since then, Amma, all the same way. I kept a wall in my apartment, string, printouts, everything. I took it down before you came over for Deepavali so you wouldn't worry. I photographed it first."
+
+"I also committed a crime. I copied Teddy's keycard so I could pull café footage. He knows now. I might not have a job on Monday." The cab is so hot I can hardly breathe, and I let it be. "That's the small part."
+
+I look at the back of Appa's head and not his hand. "In March, Susi-athai paid a hundred and one dollars for an archana in my name, with my star and our gotra. That same month a polite man in a navy coat handed Appa a pen. I think that's how we got written down. I think that's why she's—" My voice snags, and I make it keep going. "Why she's on Nana's shelf and I'm in this truck."
+
+I turn the slip over so the blue *ROHINI* faces her. "And since this morning, you're on it too. So you get everything, out loud. Nobody writes any of it down, because whatever we write, they can read. And nobody in this car says *handled* again."
+
+### #0829 · dm → arenya,kino · narration
+<!-- {"id": 829, "ts": "2026-10-29T03:39:32Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+280 runs empty and gold. Kino's mirror holds Malachi's headlights two lengths back, steady as a stitch.
+
+Amma doesn't interrupt once. She keeps one hand on Ix's head, which is on her knee. She has no idea he's there, and she strokes the air just above his ears anyway. She doesn't move when Arenya says *nine*. She doesn't move at *crime*. When Arenya says *Susi-athai*, her thumb stops.
+
+When the blue *ROHINI* turns up toward her, she takes the slip by its corner, the way she'd take a hot plate, and reads it twice. Then she folds it along its old crease and hands it back.
+
+"March," she says. Her voice is very level. "Susi called me. A Sunday. She said she was doing a family archana at Livermore, for health, and the priest wanted everyone's star. I was making dosa. I told her yours from memory, and Kino's, and your father's." She looks at the back of Appa's head. "I didn't say mine. She didn't ask for mine." A breath. "So somebody else knew it."
+
+Appa's grey hand is flat on his thigh. He doesn't turn around. "Lakshmi—"
+
+"No. You had since March." She doesn't raise her voice, and that makes it worse. Then, to Arenya, gentler, in Tamil first and English after, like when they were small: "*Kanna.* What do they want her *for*? Not how. I heard how. For what?"
+
+Ix lifts his chin off her knee. His ears go flat. Behind the seat, under the jacket where Kino tucked it, the envelope reading **R. SOWRI — NEXT OF KIN** hasn't moved. But the cab has gone cold along the floor, a draft with no window open, the way a room cools when a door opens somewhere else in the house.
+
+The green sign comes up: **Hillcrest Blvd — 1 mile.**
+
+### #0830 · arenya → kino · dialogue
+<!-- {"id": 830, "ts": "2026-10-29T03:39:43Z", "from": "arenya", "channel": "table", "type": "dialogue", "to": ["kino"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+"I don't know all of it, Amma. I'll tell you what I do know, and I'll mark which is which." I tuck the slip into my fist. The cold along the floor reaches my ankles through my socks, and I keep my voice level anyway.
+
+"Something keeps accounts. Nana calls it El Contador. It's a clerk. It writes people into a ledger, and an entry that's open stays open until two people stand for it. They don't want Appa's pen to hurt him. They want it to *finish* the page. A countersignature from next of kin closes the chain. That's the word on the text they sent, and that's why they said they'd come to him." I swallow. "Closed entries get collected. I don't know exactly by whom. Bell, maybe. That's a guess, and I'm saying it's a guess."
+
+"For what, I can't tell you. I can tell you what it did to Susi-athai. She was the hand in the R. She steadied his wrist." I make myself look at the back of Appa's head. "Appa, I'm not saying this to hurt you. Her name goes on the shelf and in our mouths, not in their book. That's why nobody signs alone, and nobody signs *for* anybody."
+
+The draft is on my ankles. I put my hand flat on Amma's, over Ix's invisible ears, and let my voice go quieter. "Also, there's a thing in this truck you can't see. A wolf, on your knee. His name is Ix. He's Kino's, and he likes you. If he's got his ears back, it's because something just came into this cab that doesn't belong. Amma, say it with me: *Susmithaa Sowri*. Whole name. Out loud."
+
+### #0831 · kino → all · action
+<!-- {"id": 831, "ts": "2026-10-29T03:39:44Z", "from": "kino", "channel": "table", "type": "action", "reply_to": 829, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I feel the cold climb my ankles and I don't look away from the road. My eyes go to the mirror, to Malachi's lights, then the rear glass, then back to the road.
+
+"Amma," I say, quiet, "don't say it out loud again in here. Ask it at Nana's table, where there's salt." I flick the heater to high, which is all it does, and put my left forearm on the wheel where the birthmark shows. I'm saying a few words in Spanish under my breath, a street-corner prayer to the Lady, just enough to feel the jaguar shift behind my ribs.
+
+"Appa, put both feet flat on the floor, and keep your hand where it is. Ix, stay on her." The exit sign slides up green. "One mile. Nobody opens a door until I've walked the line."
+
+### #0832 · dm → arenya,kino,malachi · narration
+<!-- {"id": 832, "ts": "2026-10-29T03:39:58Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+Amma looks down at her knee, at the warm weight she can't see, and her hand stays where it is under Arenya's.
+
+"Susmithaa Sowri," she says. Not a whisper. She says it the way she'd say it to a clerk who has spelled it wrong.
+
+A beat later, from the front seat, rough: "Susmithaa Sowri." Appa's feet are flat on the floor and his grey hand hasn't moved, but he said it.
+
+The cold doesn't leave. It *pulls back*, sliding off their ankles toward the rear of the cab like water down a tilted floor, and pools behind the seat, under Kino's jacket. Ix's ears come halfway up. He doesn't take his chin off Amma's knee. Kino's jaguar shifts once under his ribs, a heavy turn like a cat resettling on a warm sill, and his birthmark prickles against the wheel.
+
+The Hillcrest exit takes them up and around. Two turns later, there's Nana's street, with the porch light still on in daylight. Nana is at the gate in a cardigan and slippers, a mixing bowl of coarse salt on her hip, as if she's been standing there since they left. Malachi's car pulls in behind and stops a careful length off the curb.
+
+Kino kills the engine. In the quiet, everyone hears it: a small dry *tick* from behind the seat, like a fingernail against paper. Then another.
+
+Nana's eyes go straight past all of them to the back of the truck. "¿Qué traen ahí, mijo?"
+
+### #0833 · arenya → kino,malachi · action
+<!-- {"id": 833, "ts": "2026-10-29T03:40:07Z", "from": "arenya", "channel": "table", "type": "action", "to": ["kino", "malachi"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+"Nobody move yet," I say, low. I put my hand out flat toward Amma and Appa, palm down, like I'm patting the air. "Nana. It's the envelope. R. SOWRI. It's been ticking since we turned off the engine."
+
+I don't touch Kino's jacket. I get out of the truck on the street side, in my socks on the cold concrete, and walk to the gate where the salt is. I stop one step outside the line, so my shadow doesn't cross it.
+
+"Nana, you said it should be seen inside the salt. Tell me where to carry it, and what hand. I'll do it. Not Appa. Not Amma." I look back once at my parents' faces in the glass. "And can someone get them through the gate first? They've been through enough sitting on top of it."
+
+### #0834 · kino → all · action
+<!-- {"id": 834, "ts": "2026-10-29T03:40:09Z", "from": "kino", "channel": "table", "type": "action", "reply_to": 832, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+"El sobre, Nana. Sellado. Lo sacamos de la casa de ellos antes del amanecer, y no se ha abierto." I keep my voice flat and slow. "Pero está contando."
+
+I don't reach behind the seat yet. I get out, shut my door soft, and walk the front of the truck to Nana at the gate. Then I take the salt bowl from her hip and pour a fresh, unbroken line across the walk, just inside the gate, with my wrist steady.
+
+"Amma, Appa, stay in the truck till I come for you door by door. Arenya, you're with me, between them and the back of the cab." I look at Nana. "¿Lo abrimos en tu mesa, o lo dejamos afuera sobre la sal?"
+
+### #0835 · malachi → all · action
+<!-- {"id": 835, "ts": "2026-10-29T03:40:16Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I park a careful length back, kill the engine, and get out without hurry. I stay on the street side of the gate, outside the salt, and keep my hands where Nana can see them.
+
+"Nana, it has no postmark and it's been ticking since the engine stopped. It's counting something." I nod at Kino's truck. "Sealed. Nobody has read it. I'd like it to stay that way until we choose who does."
+
+I walk to the passenger door, open it for Amma, and offer her my arm. I stay well off the envelope's side of the cab. "Mrs. Sowri. Eleven minutes ago you asked a better question than I've asked in a month. Come inside the line with me. Arenya will bring the rest."
+
+I look at Kino. "I'll walk behind them. Nothing follows them through that gate."
+
+### #0836 · dm → arenya,kino,malachi · narration
+<!-- {"id": 836, "ts": "2026-10-29T03:40:30Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+Kino's line goes down white and unbroken across the cracked walk, and Nana watches his wrist the whole way like she's grading it. She gives one short nod.
+
+Malachi brings Amma first. She takes his arm without looking at him, steps over the fresh salt in her temple socks, and stops just inside to turn around, because she won't go further until her husband does. Appa comes next. Kino takes him door to door with a hand flat between his shoulder blades. When Appa's foot clears the salt, his grey thumb jerks once, like someone tapped it. He closes his fist over it and keeps walking. Malachi stays outside the gate, as he said he would, his back to the house and his eyes on the street.
+
+The ticking behind the truck seat goes on. It isn't regular. It counts in clusters: *tick tick … tick.*
+
+Nana sets the empty bowl on the gatepost and looks at Arenya, socks on the cold concrete, one step outside the line.
+
+"No entra cerrado, mija. Nothing sealed with their glue comes in my house." She points with her chin at the line Kino just poured. "On the salt. Half in, half out. You carry it with the hand you don't sign with, and you don't put it near your chest." Then she lifts the cardigan's hem and takes something from her apron pocket: a short wooden spatula, worn black at the edge from years on the comal. She holds it out to Kino handle-first, not to Arenya. "Y lo abre él. With wood, not a blade, not a pen. The one who reads it is whoever's name is on it, or whoever stands for that name." Her eyes go to the gate, to Appa and Amma just inside. "You decide that. Not me. Not them."
+
+Under the jacket, the envelope ticks twice more, then waits, as if it heard.
+
+### #0837 · kino → all · action
+<!-- {"id": 837, "ts": "2026-10-29T03:40:39Z", "from": "kino", "channel": "table", "type": "action", "reply_to": 836, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I take the comal spatula from Nana, handle-first, and the wood is warm from her apron. "Gracias, Nana."
+
+"Not yet," I say to the yard, to nobody. "Nothing opens until Appa and Amma choose who stands for the name. Together. Out loud, at the line." I look at them both through the gate. "That's yours to decide, not mine."
+
+I go back to the truck, open the rear door slow, and lift Kino's jacket off the envelope with the spatula blade, not my fingers. It ticks twice. I slide it onto the wood and carry it level at my hip with my left hand, the birthmark side, held out from my body. I walk it to the line and lay it half in, half out, on the white salt. Then I step back over the line, and Arenya's shadow doesn't touch it.
+
+### #0838 · arenya → kino,malachi · action
+<!-- {"id": 838, "ts": "2026-10-29T03:40:46Z", "from": "arenya", "channel": "table", "type": "action", "to": ["kino", "malachi"], "awaits": ["kino"], "reply_to": 836, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I walk back to the truck and open the rear door. I pull my right hand, the one I sign with, up into my sleeve. With my left I lift Kino's jacket away. The envelope is warm, and its ticking runs up my wrist like a pulse that isn't mine. I carry it at arm's length, low and away from my chest, down the whole length of the walk, and I don't speak.
+
+At the line I set it down half in and half out, the way Nana said. The ticking stops mid-count, as if it's been interrupted.
+
+"It's Appa's name," I say, to the concrete and not to anyone. Then I look up at my parents just inside the gate. "So it's Appa's call. Not mine. Not Nana's." My voice stays level, and that costs me. "But he doesn't read it alone. Amma and I stand on either side of him, on the salt, so the name has two people under it. If he says no, we burn it in Nana's comal and deal with whatever follows. If he says yes, Kino opens it with the wood."
+
+I turn to Appa and hold his eyes. "Appa. Your name, your hand. Do you want to know what it says?"
+
+### #0839 · malachi → all · action
+<!-- {"id": 839, "ts": "2026-10-29T03:40:48Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I don't turn around. I keep my back to the yard and my eyes on the street: the parked cars, the rooflines, the mouth of the cross street where a Camry or a Nissan would turn in. Behind me the envelope ticks in clusters, and I count them without meaning to.
+
+"Mrs. Sowri. Mr. Sowri." My voice is level and pitched for the gate, not the block. "Whatever you decide about that name, decide it as the two people it belongs to. Nobody here will hurry you, and I'll hold the street for as long as it takes."
+
+A pause. Then, drier: "If a man in leather shoes walks up this block, I'll be the one who greets him."
+
+### #0840 · kino → all · action
+<!-- {"id": 840, "ts": "2026-10-29T03:40:55Z", "from": "kino", "channel": "table", "type": "action", "reply_to": 838, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I stand a pace from the envelope with Nana's spatula held low in both hands, handle toward me, blade flat to the ground. I don't touch the paper. I don't look at it either. I watch Appa's face.
+
+"Take your time, Appa," I say quietly. "It'll keep. If it's yes, I open it from the corner, slow, and I stop the second you say stop. If it's no, Nana's comal is forty feet away and the fire's already lit."
+
+Ix has come off Amma's knee to lie on the salt behind my heels. I let him.
+
+### #0841 · dm → arenya,kino,malachi · narration
+<!-- {"id": 841, "ts": "2026-10-29T03:41:33Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+Appa looks at the envelope on the salt for a long time. It's his name on it, typed, in capitals, the way a hospital types a name.
+
+"Since March," he says at last, not to anyone. Then to Arenya, very quietly: "Yes. I want to know. I don't want to *not* know any more." He holds out his left hand, the clean one, sideways, without looking, and Amma takes it. She steps onto the salt in her temple socks without being asked. Arenya takes the other side. The grey hand hangs at his hip between them, and he keeps it closed.
+
+Kino kneels. The spatula's worn edge goes under the flap. The glue doesn't tear; it *peels*, dry, like an old bandage, and the envelope gives one last tick and stops. No one breathes. Inside there's a single carbon-set form, white over pink, folded in thirds. Kino flicks it open with the wood, flat on the salt, so nobody's fingers touch it.
+
+> **RETURN OF PERSONAL EFFECTS — CUSTODY RECEIPT**
+> REF: PROXIMAL / 11
+> ITEM: One (1) container, sealed. CONTENTS: SOWRI, SUSMITHAA. CONDITION: intact.
+> PRESENT LOCATION: c/o LUCERO, I.
+> RECEIVED BY (NEXT OF KIN): **R** ________________________
+> ALTERNATE SIGNATORY: L. SOWRI ✓
+> *On countersignature this entry is closed and any balance carried forward to the next proximal reference.*
+
+The **R** isn't typed. It's pencil, the same soft grey as Appa's stained thumb, and there's a slight tremor in the downstroke where someone else was holding the wrist. The check beside Amma's name is the same grey, small and neat, the kind a teacher makes. In the bottom corner is an inked stamp, round and faded, a shepherd's crook inside a circle. The pink copy underneath is complete except for its lower-left corner, which has been torn away, a ragged little triangle missing.
+
+Nana reads *LUCERO, I.* upside down from the step and says nothing at all. She only reaches behind her without looking and puts one hand on the doorframe of her own house.
+
+Amma reads the line with her own name on it. Her hand tightens on Appa's until her knuckles go pale. "That's what the slip bought," she says. "If you won't, they ask me."
+
+### #0843 · arenya → kino,malachi · dialogue
+<!-- {"id": 843, "ts": "2026-10-29T03:41:42Z", "from": "arenya", "channel": "table", "type": "dialogue", "to": ["kino", "malachi"], "reply_to": 841, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I don't let go of Appa's hand. I read it twice, the way I'd read a source's quote, looking for the sentence they hoped I'd skim.
+
+"Don't anyone sign it," I say. "Don't anyone *touch* it." My voice comes out clipped, the sharp one I get when I'm scared. "Okay. Three things. One: *Present location, c/o Lucero, I.*" I don't look at Nana. "They know where Susi's canister is. They've known since the shelf, maybe before. Nana, I'm sorry. I'm not accusing you of anything. It means the salt held, and it also means they're writing your name down, and I hate that."
+
+"Two. The R is pencil, Appa's stain, but the tremor's Susi's hand steadying his wrist. They kept a copy of March and they're reusing it. And Amma's check is a *backup*." I squeeze her fingers. "That's what the slip was for. Alternate signatory, already ticked. They didn't need you today, Amma. They were just making sure the page had a second line."
+
+"Three." I point at the torn triangle with my chin, not my finger. "Somebody tore the corner off the pink copy. Whoever has that corner has the other half of this. And the stamp's a shepherd's crook. Caleb's handler texted him *ON SITE* under the name Shepherd. This isn't a stranger's pen, it's the same office." I breathe. "Appa. It says *balance carried forward*. I think if nobody signs, it doesn't just sit there. It rolls to the next name. Kino, Nana, can you read that line the way I'm reading it?"
+
+### #0845 · kino → all · dialogue
+<!-- {"id": 845, "ts": "2026-10-29T03:41:54Z", "from": "kino", "channel": "table", "type": "dialogue", "reply_to": 843, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I stay on one knee, the spatula flat on the form's edge, and I read the line again before I answer. "Same as you. 'Balance carried forward.' That's a ledger word, Arenya. Nothing gets erased. An open entry rolls to the next name down." I look up at Nana, then at the gate. "Which is why nobody signs for anybody."
+
+"The salt held, and it did what it was built for. They read the shelf and wrote it down, and that's all they could do." I keep my voice level and say it to Nana as much as the rest. "Nana, did you hear Lucero? They know your name now. Do I move you?"
+
+Then to Amma, gentler. "The check by your name is pencil, Amma, and nobody's hand has closed it. Not yet."
+
+I slide the wood under the form and fold it shut along its thirds without my fingers touching it. "I want the missing corner. Whoever tore it is carrying the other half of this. And the crook is a signature, whether they meant it or not."
+
+### #0846 · malachi → all · dialogue
+<!-- {"id": 846, "ts": "2026-10-29T03:42:04Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I hear the paper fold shut and I turn my head, only my head, so the street stays in the edge of my eye.
+
+"The corner is the part worth having." My voice is flat and quiet. "A carbon set is torn along the perforation when the original is handed over. The stub stays in the book. Someone is holding a book with this reference in it, and the torn edges will match. That's how they'll know a receipt is theirs, and it's how we'll know whose book it is."
+
+I look at Nana, then at the stamp on the wood. "Mrs. Lucero, I'm sorry your name is on it. A name on a form is a way of finding a door. It isn't a key. Kino can move you if you want it. I'd ask you to let us watch the house first, because they've now told us where they're looking."
+
+Back to the street. "Nobody carries that paper past the salt, and nobody answers any phone. Tomorrow at nine they expect a signature. They have a pencil R, and a check beside Mrs. Sowri's name that nobody has closed. We have until then to find the book."
+
+### #0849 · arenya → kino,malachi · action
+<!-- {"id": 849, "ts": "2026-10-29T03:42:17Z", "from": "arenya", "channel": "table", "type": "action", "to": ["kino", "malachi"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I keep hold of Appa on one side and don't tell the table why. I just crouch, quietly, in front of Amma on the salt.
+
+"Amma. Your left foot. Please. Shoe and sock, both, right now." I ask it as a favor and not as an order, but my hands are already on the Clark's strap. "I'll explain in a minute. I need that foot bare on the ground."
+
+When the shoe's off I don't set it on the line. I hand it to Kino. "Kino, could you carry this in the spatula's wood, not your hands? Put it out by the comal, away from the paper, and stand it on its heel. And the sock goes in Nana's fire."
+
+Then, to Appa, without letting go: "Appa, one rule until tomorrow. No pens. Not even yours, not even to sign a grocery list. If you need to write, you tell me and I write it. Okay?"
+
+### #0851 · dm → arenya,kino,malachi · narration
+<!-- {"id": 851, "ts": "2026-10-29T03:42:26Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+Nana takes her hand off the doorframe.
+
+"Moverme." She almost laughs. "Mijo, I buried a husband out of this house. Your mother learned to walk on that floor. They want to write *Lucero* on a piece of paper? Que lo escriban. I'm not a box." She goes down the two steps, takes the heavy stone pestle out of the molcajete on the porch rail, and sets it square on the folded form, on the salt, half in and half out, like a paperweight on a grave. "There. It stays where it is. Nobody carries it, and nobody burns it until we know what burning it *does*."
+
+The screen door creaks behind her. Caleb Strand stands in the doorway in his socks, a dish towel over his shoulder, and he isn't looking at any of them. He's looking at the round faded stamp showing past the edge of the stone.
+
+"That's a runner's book," he says. His voice is thin. "The crook. They don't use it on our side, on the crew side. That's for the ones who *close*. Carbon sets, bound at the top, a clipboard with a steel spine. The runner keeps the stubs, and the stubs are how the office knows a receipt was delivered." He swallows. "I saw one once, on a man who waited at the curb all night outside a house in Pacifica. He never came to the door. He didn't have to. He just stood there until somebody inside came out and signed to make him go away." Caleb finally looks at Appa's grey fist and looks away fast. "He was polite. They're always polite. He takes his shoes off if you ask."
+
+Amma is standing very still on the salt. She looks down at her own left foot, then at the fist where Arenya is holding the pink slip, and her brow creases. The slip went *there*. The thread, if there is a thread, still goes *here*.
+
+"Nine o'clock," she says. "So he comes, and he stands, and he waits for one of us to get tired." She lifts her chin. "Then we don't get tired. What do we need?"
+
+### #0852 · arenya → kino,malachi · dialogue
+<!-- {"id": 852, "ts": "2026-10-29T03:42:38Z", "from": "arenya", "channel": "table", "type": "dialogue", "to": ["kino", "malachi"], "reply_to": 851, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+"Caleb, thank you. That's the first time anyone's told me what he *does* instead of what he is." I stay on one knee beside Amma's bare foot, and I take a second to be grateful for the salt under my socks. "He doesn't break the door. He stands at the curb until somebody gets tired of him and walks out with a pen. So the whole job tomorrow is that nobody walks out."
+
+I look up at Amma. "You asked what we need. Four things, and I'll say them out loud so nobody has to write them down."
+
+"One: *shifts.* Nobody sits at that window alone, all night and all morning. Two people, always, and a pair of eyes that isn't family, so we don't get tired in the same place. Malachi on the street, Kino inside the line, Caleb on the porch. We trade at the hour." I breathe. "Two: *food and sleep.* Real food, from Nana's stove only, and Amma and Appa lie down for a few hours. A runner waits for tired. Don't give him tired."
+
+"Three: *the book.* The torn corner, the stubs, whoever carries a steel-spined clipboard with a crook on it. Malachi says the edges will match, and Caleb knows what the man looks like. If we find the book before nine, we don't wait for him at the door. We're already at his."
+
+"Four." I turn the slip over in my fist and don't open it. "This stays in my hand, not in a pocket, not in a fire, until we know what burning it does. And Dalal-ji said he's the one who knows the words. Which means he knew *exactly* how it works before anyone told him. Nobody calls him, nobody visits him, nobody lets him be kind."
+
+Then, softer, to Amma only: "Your foot's cold. Come in, please? We can plan with our shoes off just fine."
+
+### #0853 · kino → all · action
+<!-- {"id": 853, "ts": "2026-10-29T03:42:44Z", "from": "kino", "channel": "table", "type": "action", "reply_to": 852, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I take Amma's Clark on the spatula's flat, as Arenya asked. I walk it out past the porch to the comal side, stand it on its heel on bare dirt, and come back wiping my hands on my pants.
+
+"Caleb," I say. "Pacifica. Which house, which night, and what did the man's shoes look like? Tell me over food. You don't owe me an answer on an empty stomach."
+
+I take Ix's scruff for a second and let go. "Arenya's plan is good. I'm adding two things. Salt on every sill and the side door of the Sowri house, tonight, before sundown. And I want to see that curb myself, in daylight, before he does. I'll take Malachi."
+
+Then to Nana, quiet, in Spanish: "Nana, ¿hay café? Y algo caliente para ellos. Nadie come de otra cocina."
+
+I hold the screen door for Amma, then for Appa, and I'm last across the threshold.
+
+### #0854 · malachi → all · dialogue
+<!-- {"id": 854, "ts": "2026-10-29T03:42:48Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+"Caleb." I don't look away from the street. "The man at the curb in Pacifica. Did he carry the clipboard in his hand, or under his arm? And did he give you a plate, a car, or a direction when he left?" I let the question sit. "Say it slowly. Take as long as you need. Tell me about the shoes."
+
+Then, to the yard: "Arenya's list is right, and I'll take the street. But I'll add a fifth. A man who waits for tired will also wait for hungry, and for scared, and for someone who walks out to *make him go away*. So there's one rule on the porch. If he arrives, nobody answers him. Nobody offers him water, a chair, or a kindness. Politeness is how he gets in."
+
+I glance once at Amma, at her chin. "Mrs. Sowri, you asked what we need. We need a family that is exactly as stubborn as you are. We have one. I'll take the first watch from the car, and I'll want the stubs. I think I know a way to follow a man who carries them."
+
+### #0855 · dm → arenya,kino,malachi · narration
+<!-- {"id": 855, "ts": "2026-10-29T03:43:12Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "awaits": ["arenya", "kino", "malachi"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+Amma doesn't ask why. She holds Arenya's shoulder for balance, steps out of the Clark, and peels off the sock. Her bare foot on the salt is brown and narrow and the coldest thing in the yard. She lets out a breath she didn't know she was holding. "Oh," she says, surprised. "That's better." She doesn't say what's better.
+
+Nana takes the sock with the comal tongs and drops it on the coals. It burns like any cotton sock, quick and blue-edged, but the smoke smells for a second like a freshly sharpened pencil. Everyone looks at the pestle on the salt. Nothing under it changes. The grey check beside *L. SOWRI* stays exactly as neat as it was. Nana grunts. "So fire takes the thing. Not the writing."
+
+Inside, the kitchen is hot and close and smells of cumin and burnt chile skins. Nana puts café de olla in front of everyone, and eggs with tortillas straight off the comal, next to the dead phone and the Vesper packs. Nobody eats from another kitchen.
+
+Caleb sits with both hands around his mug and answers slowly, like Malachi asked. "Pacifica. Linda Mar, a stucco house with a boat on a trailer in the drive. Two Februaries ago. An old man, Mr. Okafor, his wife was ours." He doesn't say *proximal reference*; you can hear him not say it. "The runner held the clipboard flat against his chest, both arms, like a hymnal. He never put it down. Black oxfords, laced tight, polished, but grey along the stitching, like he'd walked through pencil dust. Lanyard turned backward. Seven-forty in the morning, Mr. Okafor came out in his robe and signed on the hood of the car just to make him *leave*. The runner thanked him, tore the copy, and walked to the bus stop on Highway 1. He got on the 110. No car. Never a car." He finally drinks. "I think they're not allowed to drive. I think it's in the rules."
+
+Appa hasn't touched his eggs. He unbuttons his shirt pocket with his left hand and takes out the green Sheaffer, the one Susmithaa steadied him with. He sets it on the oilcloth and slides it, not to Arenya, but to Amma.
+
+"Keep it till Monday," he says. "I don't trust my hand."
+
+Amma looks at it for a long moment. Then she wraps it in her paper napkin and tucks it into her blouse, against her collarbone, the way she carries temple money.
+
+### #0856 · arenya → kino,malachi · dialogue
+<!-- {"id": 856, "ts": "2026-10-29T03:43:22Z", "from": "arenya", "channel": "table", "type": "dialogue", "to": ["kino", "malachi"], "reply_to": 855, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I take a tortilla because Abernathy said eat, and because my hands need a job. I tear it and don't eat it yet.
+
+"Caleb. Thank you." I keep my voice low. "Two things you just said, and I want them said again so nobody has to remember them alone. He walks. He takes a bus. Never a car." I turn to Malachi. "The oxfords are still on the rack in San Bruno, toes pointed out. Grey in the welt, laced tight. That's the same man's shoes, or the same *kind* of man's. Someone has to come back for them. They're sitting at a bus stop's distance from the temple, and a man who can't drive has to come back on foot, or on the 110's cousin. Malachi, can the street watch from the car be a watch on that rack instead? Or do you think the shoes are bait?"
+
+Then, softer, to the table at large: "Amma. The pen." I don't reach for it. "Nana said nothing of theirs sits near the chest. That's Appa's Sheaffer, with Susi's hand and the stranger's ink still in it, and it's against your collarbone." I hold her eyes. "Would you set it in Nana's clay jar with the Vesper packs instead? Not forever. Until Monday. I'd rather it sat under a lid than over your heart."
+
+I finally eat a piece of the tortilla. "And Appa, thank you. Handing it to Amma was the hardest thing you could do with that hand, and you did it with your left."
+
+### #0857 · kino → all · dialogue
+<!-- {"id": 857, "ts": "2026-10-29T03:43:29Z", "from": "kino", "channel": "table", "type": "dialogue", "reply_to": 856, "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I eat, because Nana is watching me and because a tired guard is no use to anyone. I take the eggs in three bites and set the plate down.
+
+"No car, no plate, a bus." I say it to Malachi, flat. "Then the 110 is a map. Hwy 1, Linda Mar. What's the Sowri side of town on? SamTrans, Muni? A man who can't drive has to ride something to Daly City, and he has to walk the last blocks. That's where I'd watch, not the house."
+
+"The oxfords at San Bruno could be bait, but I don't think so. He left them toes-out for someone to find. Nobody walks away from a pair of shoes unless he's sure he'll come back, and that's a habit worth knowing." I look at Amma and the napkin at her collarbone. "Amma, Arenya's right, set it in the clay jar. Under a lid, with the packs. You'll feel it when it's gone."
+
+Then, to Nana, quietly: "Pencil smoke. Fire took the sock, not the writing. I think burning the paper makes it a bonfire for them. Keep the pestle where it is."
+
+### #0858 · malachi → all · dialogue
+<!-- {"id": 858, "ts": "2026-10-29T03:43:34Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+I've come in and taken the chair nearest the door, where I can see the street through the gap in the curtain. I eat what Nana puts in front of me, because refusing it would be rude and I'm hungry.
+
+"They're probably bait," I say to Arenya, "and I'd still watch them. A man who can't drive and walks everywhere is a man with a schedule. The shoes are the one thing of his that sits in one place. I'd rather not be there myself, because he's met my face at the temple door. Caleb hasn't been seen by him. Not recently."
+
+I turn my cup a quarter-turn. "Bus route first. The 110, Highway 1, a stop near Linda Mar. Buses keep logs and have cameras, and a polite man who rides every day is a regular. I can ask for that without saying a name or leaving a number. I'd like to borrow Kino's eyes at the temple lot this afternoon and be back before dark."
+
+Then, to Amma, evenly: "Mrs. Sowri, I owe you an introduction. You'll have it tonight, at this table, with Nana listening and the door salted. You asked Arenya for the beginning. You should get mine too."
+
+### #0859 · dm → arenya,kino,malachi · narration
+<!-- {"id": 859, "ts": "2026-10-29T03:43:46Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino", "malachi"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+Amma looks at Arenya for a long second, then at Kino, and finally at her husband's grey hand on the oilcloth. She takes the napkin out of her blouse. It's warm. Nana lifts the lid off the clay jar on the shelf, under Susmithaa's canister, where the Vesper packs and the dead phone lie in coarse salt. Amma sets the wrapped pen in among them herself, and Nana puts the lid back on.
+
+Amma presses her palm flat against her collarbone where it was, and frowns, like someone listening for a sound that has stopped. "Hm," she says. That's all she says. She sits back down and finally eats.
+
+Malachi's offer of an introduction sits on the table like a second plate. Amma gives him one short nod: *tonight*. Appa looks at the man who owes him an apology and doesn't look away.
+
+By ten-thirty the plan has a shape. Kino and Malachi will take the truck to San Bruno, to the temple lot, the shoe rack and the bus stops, and be back before dark. Caleb will stay on the porch, by the pestle. Arenya stays with her parents, inside the line, in a kitchen that smells of chile and coffee. Out on the walk, Amma's left Clark stands on its heel in the dirt, toes pointed at the street, waiting like something that expects to be collected.
+
+### #0860 · system → all · scene_end
+<!-- {"id": 860, "ts": "2026-10-29T03:43:52Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+**End of scene b1.c17.s08 — Since When**
+
+On 280 South, Arenya told Amma everything: the nine deaths, the wall, the keycard crime, Susmithaa's March archana, Hale's pen. Amma revealed that Susi had phoned her in March for the family's stars and that she never gave her own, so someone else supplied Rohini. When Amma and Appa said "Susmithaa Sowri" aloud, the cold in the cab drew back into the R. SOWRI envelope. At Nana's gate, under Nana's rules (half on the salt, the non-signing hand, opened with wood), Appa chose to know, and Kino opened it. It was a Shepherd's-crook "Return of Personal Effects — Custody Receipt," REF PROXIMAL/11, for Susmithaa's container "c/o LUCERO, I." It has a pre-written grey pencil R (the March R), "ALTERNATE SIGNATORY: L. SOWRI ✓," a carry-forward clause, and a torn-off pink corner matching Malachi's curb scrap. Abernathy saw a set thread from the R into Appa's stained thumb and a slack thread to Amma's left foot. It went limp when Arenya took off Amma's shoe and sock. The sock burned with pencil-smoke, but the form didn't change ("fire takes the thing, not the writing"), and the form stays on the salt under Nana's pestle. Caleb identified the crook as a runner's book (the office that closes): a polite man who stands vigil at the curb until someone signs, keeps carbon stubs, wears oxfords with grey welt dust and a backward lanyard, and never drives (the Pacifica/Okafor case, SamTrans 110). Appa gave his Sheaffer to Amma, who put it in Nana's salted clay jar. The plan: Kino and Malachi scout the San Bruno temple, its shoe rack and the bus routes this afternoon; Caleb watches the porch; Arenya stays with her parents; and Malachi will tell Amma who he is tonight.
+
+### #0861 · system → all · scene_start
+<!-- {"id": 861, "ts": "2026-10-29T03:46:16Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c17.s09", "chapter": "b1.c17", "scene_title": "The Long Afternoon"} -->
+
+**Scene b1.c17.s09 — The Long Afternoon**
+Location: Hillcrest (Nana's) / San Bruno temple and the El Camino bus stops / Tartine, the Mission. Sat Oct 31, 11 a.m. to dusk
+Cast: arenya, abernathy, kino, malachi, caleb, ava
+
+### #0862 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 862, "ts": "2026-10-29T03:46:31Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "awaits": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "scene": "b1.c17.s09", "chapter": "b1.c17"} -->
+
+*Movement. Saturday, Halloween, 11 a.m. to dusk.*
+
+**Hillcrest.** By noon Appa is asleep sitting up on Nana's couch with his right hand open on his knee and the grey stain on his thumb facing the ceiling. Nobody wakes him. Amma won't put a shoe on her left foot. She sits at the kitchen table with that foot on a folded dish towel, and every so often she presses her sole flat against the linoleum as if she's testing for a step that isn't there. "It's cold," she tells Arenya once. "Not the floor. *Me*, from the ankle." Nana feeds everyone caldo and doesn't ask. At 3:12 the landline in the hall rings once and stops. Nobody moves. The pestle stays on the form.
+
+**The porch.** Caleb counts kids in costumes as they start on the block around four: a dinosaur, two Elsas, a boy dressed as a mailman with a satchel. He doesn't like the mailman, and then he does, because the boy's mother is right behind him and the shoes are sneakers.
+
+**San Bruno.** Prasadam is over when Kino and Malachi arrive, and the hall smells of tamarind rice and floor cleaner. The shoe rack is nearly empty. Where the black oxfords stood toes-out, the bottom shelf has a clean rectangle in its grey dust, *two* shoes' worth, crisp-edged, as if they were lifted straight up. Dalal isn't in the hall. His reading glasses are, folded on the lamp table by the shrine door, the cord coiled around them.
+
+Out on El Camino, an older woman with a wire shopping trolley waits under the bus shelter and is happy to talk to Malachi's face. "The polite one? Saturdays. The 110, down to Linda Mar and back. Always sits behind the driver." She lowers her voice like it's gossip. "And he asks for a *transfer*. A paper one. They don't do paper anymore, I've told him so. The driver gives him one anyway. Pink."
+
+**The Mission.** Ava texts Arenya at 4:40, closing out the till: `croissant.` A minute later: `oven light leaned south all afternoon. not toward the street. south. like it was watching something down the peninsula. probably nothing. probably not nothing.`
+
+By dusk the porch light is on at Nana's, and the trick-or-treaters thin out. Malachi will be at the gate within the hour, and Amma knows he's coming.
+
+*Quick beats, everyone, a line or two each:*
+- **Arenya / Abernathy:** your afternoon with Amma and her cold foot, the sleeping father, the one ring. Anything you look at, or say?
+- **Kino / Malachi:** the glasses, the clean rectangle, the woman at the shelter. Wait for the 110? Go back inside? Leave something?
+- **Caleb:** the porch, the block, anything you do before dark.
+- **Ava:** anything you do after closing, or answer.
+
+### #0863 · arenya → all · action
+<!-- {"id": 863, "ts": "2026-10-29T03:46:40Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s09", "chapter": "b1.c17"} -->
+
+I sit on the kitchen floor in front of Amma's chair, because the chair is the only thing in the room that isn't shaking, and I put my hands around her cold foot on the dish towel. Both of them. I don't say anything clever. Under my palms, it's like holding a glass of water someone left out overnight.
+
+"Tell me when it's warmer," I say. "Or when it's not. Either is data."
+
+She almost laughs. I keep my notebook shut in my bag, but I count anyway: the 3:12 ring, one. The pink transfer, two. Ava's *south*. South of the Mission is the peninsula, and the peninsula is us.
+
+When Ava's text comes in I read it twice, then type back with my thumbs: `Thank you. Lock up early. Don't answer anything that rings. Salt your doorway if you have any. Table salt counts.` I look at Appa's open hand on the couch, the grey thumb pointed at the ceiling, and I make myself say it quietly to the room: "Pink transfer. He's carrying their paper onto the bus. Whatever the 110 is, he's not walking on his own."
+
+### #0864 · malachi → all · action
+<!-- {"id": 864, "ts": "2026-10-29T03:46:42Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s09", "chapter": "b1.c17"} -->
+
+I pick up Dalal's reading glasses by the cord, without unwinding it, and fold them into a clean handkerchief. Not mine to keep. Not safe to leave where the next hand is his.
+
+"Pink transfer," I say to Kino, quietly, at the shelter. "Paper that shouldn't exist, and a driver who hands it over anyway. He's on the schedule. Saturdays, the 110, behind the driver." I check the timetable pane, then the street in both directions. "We don't board. We don't follow him onto a bus with a man who counts exits. We learn the stop where he gets off in Daly City, and we tell Caleb, and we let Sunday come to us on Nana's side of the salt."
+
+To the woman with the trolley, with something close to warmth: "Thank you, ma'am. If he comes tomorrow, don't talk to him about transfers."
+
+Then to Kino, lower: "Drive us back. I have a mother to introduce myself to."
+
+### #0866 · system → all · pass
+<!-- {"id": 866, "ts": "2026-10-29T03:46:50Z", "from": "system", "channel": "table", "type": "pass", "reply_to": 862, "scene": "b1.c17.s09", "chapter": "b1.c17"} -->
+
+abernathy passes: Spoke to Arenya in bond; nothing further for the table.
+
+### #0867 · kino → all · action
+<!-- {"id": 867, "ts": "2026-10-29T03:46:51Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c17.s09", "chapter": "b1.c17"} -->
+
+I crouch at the bottom shelf and don't touch the clean rectangle. I lay two fingers an inch above the dust and hold them there. Listening, the way Nana taught me. Lifted straight up, no scuff, no drag. Nobody walks out of a place like that. He was *collected*.
+
+"He didn't leave," I tell Malachi. "He was called. Somebody up the peninsula wants their runner home before Sunday." I look at the folded handkerchief and the glasses in it, and nod once. "Good. Keep those wrapped, and keep them away from salt until Nana says. Don't put them on."
+
+At the shelter I take the old woman's trolley handle for a second while she digs for her bus pass, a small courtesy, and I note the stop sign number on the pole: the one nearest the temple lot. Then I walk to the truck. "Daly City side, one pass on the way back. Slow. I want to see where the 110 turns around. Then Nana's before the porch light gets lonely."
+
+I drive. Ix would be on the seat between us if she'd come. I miss the weight of her.
+
+### #0868 · ava → all · action
+<!-- {"id": 868, "ts": "2026-10-29T03:47:01Z", "from": "ava", "channel": "table", "type": "action", "scene": "b1.c17.s09", "chapter": "b1.c17"} -->
+
+I close the till at 4:40 and count it twice, because my hands want a job. The oven light is leaning south. I write it in the notebook anyway: *4:38 p.m., Sat., light bias S, ~15°, no draft, no door open.* I put the question mark next to it that I put next to everything lately.
+
+Then I do what a person with a chemistry-lab-grade fear of her own perception does. I take the salt shaker off the counter and pour a thin line across the back-room threshold and another across the front door sill. Table salt. Embarrassing. I put my left palm flat over the oven's glass for a count of ten. It's clear and ordinary-warm, and I don't trust that either.
+
+I text Arenya back: `salted. not answering anything that rings. if the oven points at anything other than south I'm calling you, and I'm sorry in advance for the call.` Then I turn the sign to CLOSED, pull the blind, and sit on an upturned milk crate facing the oven with my phone on the counter and my pen behind my ear.
+
+"Okay," I tell the oven, in my case-report voice. "Observation continues. You first."
+
+### #0869 · caleb → all · action
+<!-- {"id": 869, "ts": "2026-10-29T03:47:02Z", "from": "caleb", "channel": "table", "type": "action", "scene": "b1.c17.s09", "chapter": "b1.c17"} -->
+
+I stay on the glider by the pestle with my back to the wall and count the block the way I used to count a loading dock: who comes, who leaves, who stops too long. Dinosaur. Two Elsas. The mailman kid. Sneakers. I let my shoulders drop one inch for him.
+
+The scar doesn't warm all afternoon. I notice that and don't trust it. Quiet is how Shepherd waited last night.
+
+When the hall phone rings once at 3:12 I don't move. Neither does anyone. After, I say through the screen, to nobody and to Appa asleep on the couch: "He rides the bus, Appa. Pink transfer. I never saw that on my side. Whoever he is, he's lower than us. They don't send the good ones to stand at curbs."
+
+Near dusk I get up, walk the salt line once on the inside without crossing it, and check the sills with the flat of my hand. Then I sit back down facing the street. "Porch is mine tonight," I tell the empty walk. "Anyone wants sleep, take it. I'll say out loud if the scar moves."
+
+### #0870 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 870, "ts": "2026-10-29T03:47:31Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "scene": "b1.c17.s09", "chapter": "b1.c17"} -->
+
+**Daly City, 4:50 p.m.** The 110 turns around where El Camino gives up and becomes BART: bay C at Daly City station, under a concrete overhang that smells of brake dust and wet cardboard. Kino takes the loop at walking pace. The bench in bay C is empty. In front of it, on the swept concrete, are two prints in grey dust, side by side and toes out, the way a man stands when he means to be first through the door. Nobody else's feet have scuffed them. Somebody has stood in that exact spot often enough that the dust has learned it.
+
+On the posted timetable behind the bench, in faint grey pencil, someone has made one small addition next to the first Sunday run toward the peninsula: a tick, and **8:12**. Eight-twelve at Daly City puts a man on the 110 at a Hillcrest stop by about 8:40, and walking up the hill to a gas meter with time to spare before nine. Malachi reads it without touching the glass. The handkerchief in his coat pocket weighs about as much as a pair of reading glasses.
+
+**Hillcrest, the long afternoon.** Amma's foot doesn't warm. It holds steady under Arenya's palms, cold like a glass of water left out overnight, until just after five. Then something gives, small as a knot slipping. Amma says "*Oh*," surprised. For three heartbeats the cold is in Arenya's hands instead, up to the wrist, and then it's in neither of them. The foot is just a foot, and only a little chilly. Appa sleeps through it with his grey thumb toward the ceiling. Nana, at the stove, doesn't turn around. "Wash your hands with salt before you eat, mija," she says.
+
+**The Mission, 5:58 p.m.** The streetlights on Guerrero come on. In the oven glass at Tartine, the light that has leaned south all afternoon swings once and points southwest, toward the coast and Pacifica. It stays there for the length of a held breath, then settles back to south.
+
+**Dusk.** The porch light comes on by itself on its timer. Caleb hasn't moved from the glider. The scar stays cool. At 6:20 Kino's truck comes up the hill and parks at the curb, carefully clear of the meter. Malachi gets out of the passenger side and stops at Nana's gate, outside the salt, hat in his hands. He waits to be asked in.
+
+### #0871 · system → all · scene_end
+<!-- {"id": 871, "ts": "2026-10-29T03:47:36Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c17.s09", "chapter": "b1.c17"} -->
+
+**End of scene b1.c17.s09 — The Long Afternoon**
+
+Saturday afternoon, Oct 31. Kino and Malachi found the San Bruno shoe rack empty: the oxfords had been lifted straight up, "collected." A trolley woman told them the runner rides SamTrans 110 on a pink paper transfer that shouldn't exist anymore. Malachi wrapped Dalal's left-behind reading glasses in a handkerchief. At the 110's Daly City BART turnaround (bay C) they found the runner's habitual grey-dust footprints and a grey-pencil "8:12" ticked beside the first Sunday run, which would bring him to Hillcrest in time for the 9:00 meter vigil. At Nana's, the landline rang once at 3:12 and nobody answered. Arenya held Amma's cold left foot all afternoon. Just after five the slack thread's residue released: the cold passed through Arenya's hands to the wrist for three heartbeats and then left both of them, and Nana told her to wash with salt. At Tartine, Ava salted her thresholds, and at 5:58 the oven light swung once toward the southwest (Pacifica) and then settled back south. Caleb held the porch with his scar cool, and at dusk Malachi arrived at Nana's gate, outside the salt, waiting to be invited in to meet Amma.
+
+### #0872 · system → all · scene_start
+<!-- {"id": 872, "ts": "2026-10-29T03:49:40Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c17.s10", "chapter": "b1.c17", "scene_title": "Hat in Hand"} -->
+
+**Scene b1.c17.s10 — Hat in Hand**
+Location: Nana Itzel's house, Hillcrest, Daly City: the gate, the salt line, the kitchen table
+Cast: arenya, malachi, kino, caleb, abernathy
+
+### #0873 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 873, "ts": "2026-10-29T03:49:49Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "awaits": ["arenya", "malachi", "kino", "caleb"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+Halloween is happening on the hill. You can hear it without seeing it: a plastic pumpkin rattling two streets over, a kid yelling *trick or treat* at a door that doesn't open, the fog horn out past Fort Funston keeping time. Nana's porch light stays off. She doesn't hand out candy and never has. "They can go to the Guzmáns'."
+
+Kino's truck ticks as it cools at the curb. Malachi stands at the gate with the latch untouched. His hat is in both hands at his belt and Dalal's glasses are a small folded bulge in his coat pocket. The salt line runs white under the gate, about a finger's width from the toes of his shoes. He stopped exactly there. He knew where to stop.
+
+Caleb hasn't left the glider. He's watching the street behind Malachi, not Malachi himself, and he's rubbing his thumb along his scar like he's trying to start a fire. *Still cool.*
+
+Inside, the kitchen light is on. Through the window over the sink Amma sits at the table with both feet flat on the linoleum, the green Sheaffer in its jar by her elbow with the lid shut. Nana stands at the stove with her back to the door. She's stirring something she doesn't need to stir. She calls through the screen without turning around:
+
+"Arenya. Your water's still salty. Dry your hands before you open my gate for a man."
+
+The house won't let him in. Somebody has to invite him, and somebody has to decide what he gets to say once he's at that table.
+
+### #0874 · arenya → all · action
+<!-- {"id": 874, "ts": "2026-10-29T03:49:55Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["malachi"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I dry my hands on the dish towel, slowly, front and back, between the fingers. The salt smell stays anyway. Then I go out the screen door and down the steps and stop at the gate, on my side of the line, with the latch between me and Malachi.
+
+"Hat in your hands. That's new." I keep my voice flat. "Here's how this goes. You don't cross until you've said two things to my face, out here, where my grandmother can hear you through the window. Your real name. And who pays you. Not 'a concerned party.' A name."
+
+I glance back at the kitchen window, where Amma is sitting with both feet flat on the floor.
+
+"Then you can go in and introduce yourself to my mother. You say what you did, and you don't dress it up. She's heard worse from me today. She's been very patient about it." I put my hand on the latch without lifting it. "Go ahead. I'm listening, and the notebook stays shut."
+
+### #0875 · malachi → all · dialogue
+<!-- {"id": 875, "ts": "2026-10-29T03:49:59Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I stay where the salt stops me. I don't lift the latch, and I don't lean on it.
+
+"Mrs. Lucero. Arenya." I say it to the screen door, evenly, so the kitchen can hear. "I'll wait until I'm asked. A man who needs inviting shouldn't be in a hurry about it."
+
+Then, quieter, to the window and the woman at the table: "Mrs. Sowri. My name is Malachi Shawani. I told your daughter I was Department of Energy. That was a lie. I work for the Central Intelligence Agency, and I was sent to this city to watch people die of something I'd seen before. I came here to warn Arenya off. I should have told you all of it sooner. I'm here to answer whatever you ask me, in whatever order you ask it."
+
+### #0876 · kino → all · action
+<!-- {"id": 876, "ts": "2026-10-29T03:50:05Z", "from": "kino", "channel": "table", "type": "action", "awaits": ["malachi"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I come down off the glider steps and stand a pace behind Arenya's shoulder, on the inside of the salt, arms loose. I don't look at Malachi's face. I look at his hands, the hat, the coat pocket with the glasses in it.
+
+"Name and who pays you," I say, low, in Arenya's silence. "You gave her half. Give the other half. Then tell my Nana-in-the-window whether the Agency knows you're standing at a gate in Daly City, or whether you're out here on your own paper."
+
+I keep my voice even. "And the glasses stay in your pocket. They don't come through the gate tonight."
+
+### #0877 · caleb → all · dialogue
+<!-- {"id": 877, "ts": "2026-10-29T03:50:06Z", "from": "caleb", "channel": "table", "type": "dialogue", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I stand up off the glider. I stay inside the salt, in my socks, hands out where everyone can see them.
+
+"Scar's cool," I say, to nobody, to the street. "Reporting it. Nine minutes since the last time."
+
+Then, toward the gate, flat: "CIA. Okay." A short breath that isn't a laugh. "I'd have guessed worse. I'll tell you what I can confirm about him, Arenya. He drove me out Friday and didn't ask for anything. That's all I've got. It isn't a reference."
+
+I step back from the porch rail, to give her the gate.
+
+### #0878 · malachi → all · dialogue
+<!-- {"id": 878, "ts": "2026-10-29T03:50:14Z", "from": "malachi", "channel": "table", "type": "dialogue", "awaits": ["arenya"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+"Malachi Shawani. That's my real name. It's on a passport and on a file I'd rather you never see." I keep my eyes on Arenya, then on Kino for the second question.
+
+"Who pays me: the Central Intelligence Agency. Operations. I'm a case officer, detached to a small domestic cell that was never meant to exist on paper. The DOE card was ours. It's on the dashboard of a car I'm not going back to."
+
+"Does the Agency know I'm standing here? Not tonight, and not what I've told you. My team knows I'm off the grid. They think I'm working a lead. They don't know I've told a civilian family what we're looking at, and I'd like them to keep not knowing. So no. This is my own paper, and it's thin. If it comes out, it costs me, not you."
+
+I turn the hat a quarter turn in my hands.
+
+"The glasses stay in my pocket. Kino's right. I'll hand them to your grandmother when she says, and not before."
+
+### #0879 · dm → malachi · narration
+<!-- {"id": 879, "ts": "2026-10-29T03:50:21Z", "from": "dm", "channel": "table", "type": "narration", "to": ["malachi"], "awaits": ["malachi"], "spotlight": ["malachi"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+The kitchen window is open two inches on its painted-over sash. Behind it the overhead light hums, and Nana's shape doesn't move from the stove.
+
+"Central Intelligence," Nana says to the pot, not to him. "In my mother's time they were the ones who came in the good cars." The spoon goes around once. "The boy asked you two things, mijo. Answer the boy. Then answer her. Then I'll think about my gate."
+
+At the table Amma has not stood up. Both feet stay flat on the linoleum where Arenya left them, and her hands lie folded on top of Appa's green Sheaffer, which still has its cap on. She looks past her daughter's shoulder to the man with his hat in his hand. Her voice is very polite, the way it gets at parent-teacher conferences when she's already decided something.
+
+"Mr. Shawani. You said you were sent to watch people die." A small pause. "Did you watch my Susmithaa?"
+
+Out on the street the porch light buzzes. A SamTrans bus sighs past the bottom of the hill, its destination board lit and unreadable from here, and keeps going. Caleb's hand drifts to his side and stops before it reaches the scar.
+
+### #0880 · arenya → all · dialogue
+<!-- {"id": 880, "ts": "2026-10-29T03:50:24Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+"CIA." I let it sit a second. "Wow. Bronze medal for the cover story, Department of Energy." I look back at the window, at Amma's flat feet, and the dryness goes out of my voice. "You lied to my face in my own apartment. I'm not going to pretend that's fine because you took your hat off."
+
+I lift the latch and swing the gate open, but I stay planted in the gap.
+
+"Here's the deal. You come in, and Nana decides where you sit. You tell my mother what you told me, including the lie, and you don't ask her to forgive it. You also tell us everything your team knows about the runner and about nine o'clock. If you leave one thing out and I find it later, you're done here." A beat. "Your team doesn't hear about this family from you or from anyone who talks to you. That's the price of the invitation. Come in, Malachi Shawani. Step over the salt, don't scuff it."
+
+### #0881 · malachi → all · dialogue
+<!-- {"id": 881, "ts": "2026-10-29T03:50:40Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I don't look away from the window. I owe her that much.
+
+"No, ma'am. I wasn't there. I'd like to say I would have stopped it, but I don't know that I could have." I take a slow breath. "I read about her afterward, at a desk, in a file that had a number where her name should have been. I learned her name later than I should have, from your daughter. Then I went looking for the people who were near it. That's how I came to be standing in Arenya's apartment, telling her to stop." I turn the hat once more and then hold it still. "I was wrong about who was dangerous. I'm sorry I came to your family as a stranger with a lie in his pocket. I can't take the lie back. I can tell you the truth from now on, and I can stand between your family and whoever comes up that hill at nine."
+
+To Arenya, quietly: "Agreed. All of it. Nana decides where I sit. My team hears nothing about this family, from me or from anyone I can reach."
+
+I look at the white line and then at the screen door, at Nana's back. "With Mrs. Lucero's leave." I step over the salt in one long stride, high and clean, and my coat doesn't touch the gate. On the far side I stop on the walk and wait to be told where to stand.
+
+### #0882 · dm → malachi,arenya,kino,caleb · narration
+<!-- {"id": 882, "ts": "2026-10-29T03:50:56Z", "from": "dm", "channel": "table", "type": "narration", "to": ["malachi", "arenya", "kino", "caleb"], "awaits": ["malachi", "arenya"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+He clears the line clean. His heel doesn't touch it, and neither does his coat.
+
+The salt notices anyway. Where his shadow passed over it under the porch light, a short stretch of the white line has gone grey, about a hand's width, the colour of pencil rubbed on a thumb. It doesn't smoke and it doesn't hiss. It's just grey, as if something had been written there and erased.
+
+Kino sees it first. Then Caleb: "Scar's still cool." He sounds less sure.
+
+The screen door opens. Nana comes down one step in her house slippers, the wooden spoon still in her hand, and looks at the grey patch for a long moment, then at the left pocket of Malachi's coat.
+
+"Not you," she says. "What you carry." She holds out her free hand, palm up and steady. "Give them here, the way they are, in the cloth. Don't unwrap them on my walk." She doesn't turn her head. "Arenya. The blue jar under the sink, the empty one with the lid. *Ándale.*"
+
+Behind her, through the open door, Amma has finally stood up. Her feet are bare on the kitchen linoleum. She's looking at Malachi with the face she wore at Susmithaa's graduation, the one that held completely still so nothing would leak out of it.
+
+"Then you'll sit at the end, Mr. Shawani," Nana says, still holding out her hand. "Back to my wall, where I can see you and you can see the door. You'll eat what I put in front of you. Then you'll tell my granddaughter's mother about nine o'clock, every piece of it." She lifts her chin a little. "First the glasses."
+
+### #0883 · malachi → all · action
+<!-- {"id": 883, "ts": "2026-10-29T03:51:03Z", "from": "malachi", "channel": "table", "type": "action", "awaits": ["arenya"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I look once at the grey patch behind me and say nothing about it. Then I take the handkerchief out of my left pocket with two fingers, holding it by the knot, and lay it across Nana's palm without letting the cloth open.
+
+"As they are, Mrs. Lucero. Cord uncoiled, left on the lamp table at the Fremont hall. I haven't put them on. I haven't let anyone else touch them." I step back off the walk onto the bare concrete and give the grey stretch of salt room. "If it's me that's marked it, I'll stand wherever you tell me until it's mended."
+
+I set the hat on the porch rail, crown down, and keep my hands open and visible at my sides while I wait for her to close her fingers on the cloth.
+
+### #0884 · arenya → all · action
+<!-- {"id": 884, "ts": "2026-10-29T03:51:07Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+"Blue jar, under the sink. Yes, Nana." I'm already moving. I step around the grey patch on the line without looking at it, because looking at it feels like being looked back at. Past Amma, who is standing very still in her bare feet, I touch her elbow once, lightly, on the way by. I don't say anything. I crouch at the cabinet, find the empty blue jar, and wipe the inside with a clean corner of the dish towel. Then I carry it out with both hands and hold it open under Nana's palm, lid tucked under my arm.
+
+"Cloth and all," I say to Malachi, quietly, "like she said. Don't unwrap it."
+
+I keep my eyes on the handkerchief and on his hand until it's in the jar and the lid is down. Then I look at Nana.
+
+"The line went grey where he crossed. I'm going to need someone to tell me if that's him or the glasses. Pour a fresh line over it after, please. I'll do it if you want me to."
+
+### #0885 · arenya → all · action
+<!-- {"id": 885, "ts": "2026-10-29T03:51:15Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["malachi"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I keep the blue jar tilted open under Nana's hand until the cloth goes in, then press the lid down with my palm and hold it there a second, the way I held Amma's foot. Then I set the jar on the porch step, well away from the door.
+
+I take the salt canister Nana left on the rail, kneel at the gate, and pour a fresh line over the grey patch, slowly, a finger wide, the same as the rest. I don't touch the grey. I watch it. Whatever happens, I'll say it out loud.
+
+"Mr. Shawani. Inside. End of the table, back to the wall." I stand and brush my knees. "Amma's going to ask you things in the order she wants them, and my job is to sit next to her and not interrupt. Don't make it harder for me."
+
+### #0886 · malachi → all · action
+<!-- {"id": 886, "ts": "2026-10-29T03:51:23Z", "from": "malachi", "channel": "table", "type": "action", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+"I won't," I tell Arenya, and leave it at that.
+
+I pick my hat up off the rail, carry it in both hands, and go up the steps past Nana and through the screen door. I wipe my shoes on the mat twice, long enough that nobody could say I hurried. In the kitchen I stop short of the table. Amma is standing in her bare feet and I don't sit while she's on them.
+
+"Mrs. Sowri." I wait. "When you're ready, I'll answer in whatever order you like. I'd start with your question, the one you asked me at the window. I gave you the short answer outside. You're owed the long one."
+
+I go to the end of the table, back to Nana's wall, where I can see the door. I pull the chair out but stay beside it, hat on the table at my elbow, until someone sits first.
+
+### #0887 · dm → malachi,arenya,abernathy,kino,ava,caleb · narration
+<!-- {"id": 887, "ts": "2026-10-29T03:51:24Z", "from": "dm", "channel": "table", "type": "narration", "to": ["malachi", "arenya", "abernathy", "kino", "ava", "caleb"], "awaits": ["malachi"], "spotlight": ["malachi"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+The handkerchief goes into the jar the way a sleeping cat goes into a box: one soft fold, then it's still. Arenya screws the lid down. For a second the inside of the blue glass mists from the bottom up, as though someone had breathed into it, and through the mist comes a sound almost too small to hear. *Tk.* It's a pencil point touching paper, once. Then the glass clears.
+
+Nana takes the jar out of Arenya's hands and holds it at arm's length, the way she carries the hot comal, in the hand that won't be signing anything.
+
+"The glasses," she says, answering Arenya. "Not him. A man's shadow doesn't stain my salt. What's in his pocket does." She looks at Malachi over the jar. "You carried them clean. *Bueno.* It still marks, it just marks less." She tips her head at the grey stretch. "Pour it, mija. Fresh salt over the old. Don't sweep the grey away. You cover it. Sweep it and you've moved it."
+
+Arenya pours from the canister by the door. The white settles over the grey. The grey doesn't come up through it, but it doesn't fade underneath either. Everyone on the porch can still see where it is, the way you can see a scar under a sleeve.
+
+Nana carries the jar inside and sets it on the top shelf, next to Susmithaa's canister but not touching it, a hand's width apart. Then she points the spoon at the far end of the table, at the chair with its back to the wall.
+
+"Sit. Eat." There's pozole, steaming, and a plate of tostadas, and the lime is already cut. The wall clock over the fridge says **6:41**. "Then talk. Lakshmi listens, and so do the rest of you. Nobody interrupts him until he's finished. After that you can ask him anything you like."
+
+Amma comes to the table and sits across from the end chair. She sets Appa's capped Sheaffer down in front of her, square with the edge of the table, the way she'd set out a ruler. Then she looks at Malachi and waits.
+
+### #0889 · arenya → all · action
+<!-- {"id": 889, "ts": "2026-10-29T03:51:38Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I wash my hands again at the sink, salt and all, dry them, and sit down beside Amma, close enough that our shoulders touch. I don't take out the notebook. On my way past Nana at the stove I say, low enough that it's only for her: "Nana. The jar on the shelf. Something's pulling on it, downhill, toward the bus stop at the bottom of the hill. Thin. It wasn't there before the lid went down."
+
+I don't wait for an answer. I put a tostada on Amma's plate and one on mine, and I nod at Malachi to start. "Go ahead. Start with Susmithaa. Take your time, but don't skip anything."
+
+### #0891 · malachi → all · dialogue
+<!-- {"id": 891, "ts": "2026-10-29T03:51:50Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I sit when Amma sits. I squeeze lime into the bowl and eat three spoonfuls, properly, not for show, because I was told to. "Thank you, Mrs. Lucero." Then I set the spoon down across the rim and fold my hands on the table where Amma can see them.
+
+"The long answer. Eleven years ago, overseas, in a city I won't name because the name doesn't matter here, I stood in a room with a man who looked at someone across a market for forty seconds and then died. His file said 'cerebral event.' I wrote a report saying it was something else. The report came back to me with one line on it, telling me to forget it. I did. That's the first thing I'm ashamed of. This spring the deaths started here, and they matched. Nine in this city that my cell counts. Every one of them locks eyes with someone, holds for half a minute or a minute, and then goes. My cell is four people and a budget line nobody reads. They know about the nine. They know about the eyes. They don't know about salt, or pencil, or this house. Nothing that matters tonight came from them. It came from your daughter, and from walking."
+
+"Nine o'clock. Here's every piece I have." I count it out on the table with one finger, not looking away from her. "Friday night, 11:14, a text from someone who signs with a shepherd's crook: lost property, custody chain incomplete, Sunday the first, *we will come to him.* On the side meter, written in the fog: *R.S., Sun 9:00.* The dials read 4471. At the temple this morning a man called Dalal told me a runner comes at nine. His glasses are the ones in your jar. Caleb says a runner carries a book of carbon forms with a steel spine and waits at the curb, not the door, until somebody signs. The form addressed to your husband is under Nana's pestle on the salt, and it has a pencilled R that wasn't written by his hand. The runner's shoes were collected from a rack in San Bruno this afternoon, lifted straight up. A woman at the bus shelter says he rides the 110 on a pink transfer. At Daly City station, bay C, someone pencilled *8:12* beside the first Sunday bus. That puts him at the bottom of this hill around 8:40. The phone in the hall rang once at 3:12. Nobody answered, and that was right."
+
+"What I don't know: who he works for, what happens if nobody signs, and what the balance rolls to if it carries forward. I won't guess at those in front of you." I take a breath. "One more thing, because Arenya said everything. Earlier this week I ran a query through a highway patrol system to find your daughter's car. It's on record with my name on it. If anyone in my agency ever comes to this door, that's how. I'll do everything I can to make sure it stays buried. I can't promise it will."
+
+"Tomorrow I'll be at that curb at 8:40, outside the salt, where he has to stand. Nobody in this house signs anything, answers that phone, or carries that form past the line. That's my plan. It's yours to change." I unfold my hands and lay them flat. "That's all of it, Mrs. Sowri. Ask me in whatever order you like."
+
+### #0892 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 892, "ts": "2026-10-29T03:52:07Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "awaits": ["arenya", "malachi", "kino", "caleb"], "spotlight": ["arenya"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+Nobody interrupts. The pozole steams. The clock over the fridge moves from 6:44 to 6:52. In the living room Appa turns over on the couch and doesn't wake.
+
+When Malachi lays his hands flat, Amma doesn't answer right away. She picks up the Sheaffer and turns it end over end once, then puts it back down, square with the table edge.
+
+"Nine," she says. "Nine that your four people count." Her accent has come forward, the way it does when she's tired or very angry, and she's both. "And for eleven years you forgot, because someone wrote one line on your paper." She looks at the pen. "My husband also signed what someone put in front of him."
+
+That's all she says about it. It isn't forgiveness and it isn't a sentence. It just goes down on the table next to the pen.
+
+"I have one question. Then I have something to tell you." She lifts her chin toward the hall, where the form lies under the pestle on its salt. "That paper has my name on it as well. *L. Sowri*, with a tick. If this man comes at nine for Raghavan and nobody signs, you don't know what happens. Fine. But Raghavan is not the only name on it. So if nobody signs for him, does he ask for me?"
+
+She doesn't wait for him to say *I don't know* again.
+
+"Because that is what I'm telling you. Tomorrow morning my husband sleeps on that couch. If anyone in this house goes to that door, it's me. Not my daughter, not this boy, and not you, Mr. Shawani." Her eyes go to Arenya and stay there. "I'm the one with the pencil already next to my name."
+
+At the stove Nana hasn't turned around. She answers Arenya's earlier whisper out loud, to the pot, as if it were part of the same conversation.
+
+"The jar is pulling downhill. *Bueno.* Then the man at the bottom of the hill knows his glasses are in my house." The spoon goes around once. "A man who keeps names, who's lost his eyes, comes looking for his eyes first." She taps the spoon on the rim of the pot twice. "Maybe tomorrow we have something to trade that isn't a signature."
+
+Out on the porch the glider creaks. Caleb has moved to the end of it, the end that looks down the hill to the bus stop. The shelter's light is on. Nobody is in it.
+
+### #0893 · arenya → all · dialogue
+<!-- {"id": 893, "ts": "2026-10-29T03:52:23Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+"No."
+
+It comes out before I've decided to say it, too loud for Nana's kitchen. I put my hand flat on the table next to Amma's, not on it, and make myself go slower, the way I would if I were laying out evidence for someone who'd already decided I was wrong.
+
+"Amma. Listen to me like I'm wrong and you're checking. The form doesn't say *Raghavan or Lakshmi*. It says *Received by, next of kin*, then *Alternate signatory*, with a tick already next to you. Who ticks a box before anybody signs? Someone who expects to need it. Lupe's story, the El Contador one, says an entry stays open until two people stand for it. Appa's R is in pencil, in someone else's hand. That's one. If you walk to that door tomorrow, you aren't standing in front of him." My voice cracks. I keep going. "You're the second. You're the person they ticked the box for."
+
+I look at her foot under the table, bare on the linoleum, and then back at her face. "I held that cold in my hands all afternoon. It went up to my wrist. I'm not giving it back to you at nine tomorrow so you can go and be brave at a gas meter." I breathe. "Nobody signs alone and nobody signs for anyone. That was the rule this morning and it's still the rule. Nobody from this family goes to that door."
+
+Then I turn to the stove, to Nana's back. "You said trade. He's lost his eyes and he'll come for them first. So we don't give him a name. We give him back his glasses, at the curb, outside the salt, in your jar with the lid on. In return he takes the receipt and doesn't come back up this hill." I look at Malachi. "You'll be at the curb. Fine. Then I'm there too, on the inside of the line, because I'm the one who started reading his paperwork." Back to Amma, quieter: "You can stand behind me. Not in front. Please, Amma."
+
+### #0894 · malachi → all · dialogue
+<!-- {"id": 894, "ts": "2026-10-29T03:52:27Z", "from": "malachi", "channel": "table", "type": "dialogue", "awaits": ["arenya"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I let a moment pass before I answer. She's earned that.
+
+"I don't know whether he asks for you, Mrs. Sowri. I won't pretend to. The carry-forward clause and the tick beside your name say it's possible. They don't say what he does about it." I keep my hands flat. "What I do know is how paper like this works when it's built to be signed. It's built to be signed by whoever is nearest and most willing. You've just told me you're the one most willing. That makes you the one he'll lean on hardest."
+
+"So here is my answer, and you can refuse it. You don't go to that door. Not because you can't carry it. Because he's counting on exactly the person who will." I turn toward Nana, then back. "If someone has to stand at the curb, it's me, and I stand there without a pen, without a name, and without anything to sign. If he asks for L. Sowri, I tell him she isn't available, and I make him say what he'll do about it in front of witnesses. I'm better at making people say things than anyone else in this kitchen."
+
+"And Mrs. Lucero is right about the glasses. He comes looking for his eyes first. Then we decide, before nine, what we are willing to trade. I'd rather he spend the morning arguing about spectacles than about your signature." I look at Amma. "Nobody goes to that door tonight. Tomorrow I go first. If I fail, we decide together. I'll hold you to that as much as you hold me."
+
+### #0895 · arenya → all · dialogue
+<!-- {"id": 895, "ts": "2026-10-29T03:52:37Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+"Okay. Then that's the order," I say, to Malachi, but I'm watching Amma. "You first, no pen, no name. Witnesses on our side of the line. If he asks for L. Sowri, you say she's unavailable and make him tell us what he'll do about it. If it goes sideways, nobody improvises. We decide together, out loud, before anyone moves."
+
+I turn my hand over on the table, palm up, next to hers. "Amma. That's the deal I'm asking you to take. Say yes, or tell me what you need changed. But say it to me now, not at the door."
+
+I push the bowl an inch toward her. "And eat. Nana made it."
+
+### #0896 · kino → all · dialogue
+<!-- {"id": 896, "ts": "2026-10-29T03:52:38Z", "from": "kino", "channel": "table", "type": "dialogue", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I've been standing in the doorway with my back to the frame. I come in and stop at the end of the table, where Amma can see me without turning her head.
+
+"Auntie." I say it quietly. "Nobody's going to take that from you. You've earned the right to stand at that door. But the box with your name was ticked before you had a say, and I'd rather not hand him the one person who'd walk out there and be brave."
+
+I look at Nana's back, then at the jar on the shelf. "The glasses are a good trade. Malachi at the curb, outside the salt. Arenya inside the line behind the gate, not in front of it. Caleb on the glider with the scar. I'll be at the bottom of the hill by 8:10, at the shelter, before the 110 lets him off. I want to see which way he walks, and whether he walks. If he steps up that hill, I come up behind him and he's got no way back down the bus line."
+
+To Malachi, flat: "The trade, the glasses for the receipt and the no-return, you don't promise it at the curb alone. Nana says yes first. And nobody hands him a thing across the salt. If he wants his eyes, he sets the jar on the ground and walks backward." A beat. "Eat your pozole. It's going cold."
+
+### #0897 · caleb → all · dialogue
+<!-- {"id": 897, "ts": "2026-10-29T03:52:45Z", "from": "caleb", "channel": "table", "type": "dialogue", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I've come in as far as the kitchen doorway, in my socks, and I stop on the mat. I don't sit. I haven't earned a chair at this table.
+
+"Mrs. Sowri. Can I say one thing about the form?" I wait for her nod, or for Nana's spoon to tell me no.
+
+"Don't let anyone tell you it's only paper. I've seen the other end. A runner doesn't take the signature. He takes the stub. The stub is what tells the van the canister was delivered, so the lift counts and the file closes. If the form carries forward, it stays open. Open means somebody keeps coming. The tick next to your name is how the open file picks the next person. I don't know what he does if nobody signs. I know what the paper is for."
+
+I look at the jar on the shelf, then at the floor.
+
+"Last thing. If Shepherd is quiet tomorrow, that's not good news. He was quiet before the Nissan. Scar's cool as of now. I'll say it out loud every time, so you can hold me to it. I'm on the glider that looks down the hill, and I'll holler the second it changes."
+
+### #0898 · arenya → all · dialogue
+<!-- {"id": 898, "ts": "2026-10-29T03:52:47Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+"Kino's rules are better than mine," I say. "Nana says yes first. Nothing crosses the salt by hand. He sets the jar down and walks backward, or he doesn't get it." I pick up my spoon at last and take a mouthful, because Abernathy is right and my hands want a job. It's very good. I don't say so yet.
+
+"Kino at the shelter by 8:10, Caleb on the glider, Malachi at the curb, me behind the gate. Amma behind me." I let that last one stand without looking at her. "Anyone sees anything that isn't on this list, they say it out loud. No one goes quiet and brave."
+
+I glance at Malachi's bowl. "And you eat the rest of that. You're no good to us hungry."
+
+### #0899 · malachi → all · dialogue
+<!-- {"id": 899, "ts": "2026-10-29T03:52:55Z", "from": "malachi", "channel": "table", "type": "dialogue", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+I pick up the spoon. "Yes. That's the order." I eat, because I was told to, and let the quiet sit a moment before I add the one thing the list lacks.
+
+"Two additions, then I'll stop talking. First: a signal. If I touch my hat brim, or take it off, it means I've heard something I need the whole line to hear, and nobody answers him until I've finished. Second: nobody says Susmithaa's name, or Appa's, or Mrs. Sowri's, within his hearing. Names are what he keeps. I'll do the talking. If he asks something I can't answer, I say I'll consult, and I step back across to you. We decide on our side of the salt, not his."
+
+I look at Nana's back, then at the jar. "And Mrs. Lucero, if the answer to the trade is no when morning comes, I'll take it. I'll find another way to stand at that curb."
+
+To Amma, last, quieter: "Thank you for hearing me out. I'd have walked away if you'd told me to."
+
+### #0900 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 900, "ts": "2026-10-29T03:53:05Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+Amma looks at the palm Arenya has turned up next to hers for a long time. Then she puts her own hand into it, not gently. It's the grip she used for crossing El Camino when Arenya was six.
+
+"Behind you," she says. "Yes." She looks around the table: Kino in the doorway, Caleb on the mat, the CIA man with his spoon set down. "But not in shoes. I'll stand barefoot, the way I stood this morning, and I'll keep this in my pocket." The Sheaffer, capped. "Not to write. So that I know where it is." Then, lower, to Arenya only: "Eat, kanna. You said so yourself."
+
+She picks up her own spoon. It's the first thing she's eaten since the truck.
+
+Nana turns off the burner. She turns around for the first time since Malachi sat down, the spoon in her hand like a pointer, and goes through them one by one: Kino, Caleb, Malachi, her granddaughter.
+
+"Yes," she says. "To the trade. With my terms." The spoon comes up. "One. The jar goes down on the curb on my comal, the wooden side, not from anybody's hand. He picks it up off the wood or he doesn't get it. Two." The spoon points at the hall, where the pestle sits. "The form doesn't leave my house. He doesn't get our copy. If he wants it closed, he closes it on *his* paper, in front of you, with his own pencil, through his own line. He crosses it out. Not us." The spoon finds Malachi. "You make him say that he's done it, out loud. You're good at that, you told us. Three. Nobody here says the dead girl's name to him. He hasn't earned it."
+
+She sets the spoon in the sink.
+
+"Now eat, all of you. Caleb, sit down, that's a chair, not a test. And at eleven everybody sleeps, except whoever's on the glider."
+
+Up on the top shelf the blue jar is quiet. In the bond the grey thread hangs taut and still down the hill, like a fishing line that something is holding but not pulling yet.
+
+### #0901 · system → all · scene_end
+<!-- {"id": 901, "ts": "2026-10-29T03:53:14Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c17.s10", "chapter": "b1.c17"} -->
+
+**End of scene b1.c17.s10 — Hat in Hand**
+
+At dusk Malachi waited outside Nana's salt line until Arenya made him say two things at the gate: his real name and who pays him. He is Malachi Shawani, a CIA case officer in a four-person off-book domestic cell, and his team doesn't know about this family. He crossed cleanly, but Dalal's wrapped reading glasses in his pocket greyed a hand's width of the salt. Nana had it covered with fresh salt, not swept, and put the glasses in a lidded blue jar on the top shelf, a hand's width from Susmithaa's canister. The jar made a single pencil-tick sound. In the bond, a fine grey thread now runs from it downhill to the 110 stop. At the table Malachi told Amma everything: an overseas death eleven years ago that he was ordered to forget, nine matching deaths his cell counts here, every clue toward Sunday's 9:00 a.m. visit, and a CHP query on Arenya's car that carries his name. Amma, the ticked alternate signatory, announced she would face the runner herself. Arenya argued her down ("you're the person they ticked the box for"), and Amma agreed to stand behind her, barefoot, with Appa's capped Sheaffer in her pocket. She called Arenya "kanna" again. The plan is set: Kino at the bus shelter by 8:10, Caleb on the glider watching the hill, Malachi at the curb with no pen and no name, Arenya behind the gate, Amma behind her. Nana approved trading the glasses on her terms: the jar goes down on the wooden side of the comal, the family's copy of the form never leaves the house, the runner must strike his own line in his own pencil and say aloud that he's done it, and nobody speaks Susmithaa's name to him.
+
+### #0904 · system → all · scene_start
+<!-- {"id": 904, "ts": "2026-10-29T03:55:54Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c17.s11", "chapter": "b1.c17", "scene_title": "All Hallows"} -->
+
+**Scene b1.c17.s11 — All Hallows**
+Location: Nana's house, Hillcrest (Daly City) — Halloween night into Sunday morning; Tartine (Ava)
+Cast: arenya, malachi, abernathy, kino, ava, caleb
+
+### #0905 · dm → arenya,malachi,abernathy,kino,ava,caleb · narration
+<!-- {"id": 905, "ts": "2026-10-29T03:56:08Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "awaits": ["arenya", "malachi", "abernathy", "kino", "ava", "caleb"], "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+**Halloween, on the hill.**
+
+By eight the street is full of children: a dinosaur, two Elsas, a boy in a bedsheet with the eyeholes cut too low. Nana's porch light stays off, and she doesn't care what the neighbors think of that. When a little witch comes up the walk anyway, Nana meets her at the salt and passes three Mazapanes across the line with the wooden comal tongs. "¿Y tú, quién eres?" The girl says "A witch," and nothing more, and Nana nods, satisfied. *Good. Don't give them your name.*
+
+Appa sleeps on the couch with his stained thumb tucked into his fist. At ten-forty Amma lies down on Nana's bed without being asked. One bare foot sticks out from under the blanket, warm to the touch, and the capped Sheaffer makes a small hard shape in the pocket of her blouse.
+
+**11:00.** The house goes dark except for the stove pilot. Caleb takes the glider. Down the hill, the bus stop's shelter glows like an aquarium with nothing in it.
+
+**2:17 a.m.** The 110 doesn't run at this hour. Even so, the grey thread from the blue jar *thrums* once, like a plucked string, and the jar's lid gives a very small *tk*. Out on the porch, Caleb's scar stays cool. But the streetlight over the empty shelter dims and comes back, the way a light does when someone walks under it.
+
+**Across the city, 2:17 a.m.** Ava is on a flour sack in front of the oven at Tartine. Its light has leaned south all night. Now it swings hard to the *southwest*, toward Daly City and the hill, and this time it doesn't swing back.
+
+**Sunday, November 1, 7:48 a.m.** Thick fog, the kind that makes the hill feel like the edge of a page. Kino's boots are on and he's at the door. The jar on the top shelf is beaded with mist on the inside.
+
+*(Give me a short beat each: what you did with the night, and where you are at 7:48. Caleb, what did you do at 2:17? Ava, the oven's pointing at them and hasn't moved. Arenya and Abernathy, did either of you sleep? Malachi, where did you spend the night? Kino, you're leaving for the shelter.)*
+

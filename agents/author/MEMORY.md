@@ -1,6 +1,30 @@
 # Memory — author
 _Last updated: c17 s01 DRAFTED (drafts/c17/s01.md, ~2.7k words, Arenya POV, no insets). c16 revised earlier._
 
+## c17 s10 DRAFTED (drafts/c17/s10.md, ~3.4k words, Arenya POV, no insets)
+- Gate: Malachi Shawani, CIA case officer, off-book 4-person domestic cell, "own paper"; crosses clean; salt greys a hand's width (glasses, not him); blue lidded jar, "Tk"; fresh salt over grey (cover, don't sweep); jar on top shelf a hand's width from Susmithaa's canister; grey thread downhill to 110 stop. Pozole 6:41. Malachi's long account (11 yrs ago, forget order, nine deaths, CHP query w/ his name). Amma volunteers; Arenya "you're the person they ticked the box for"; Amma "Behind you", barefoot, capped Sheaffer in pocket, "kanna". Plan: Kino shelter 8:10, Caleb glider, Malachi curb (hat-brim signal), Arenya gate. Nana's terms: jar on comal wooden side, form stays, runner strikes own line + says it aloud, no Susmithaa name.
+- Open: Abernathy still owes the walled voice; Kino "Nana says yes first" order; trimmed table talk.
+
+## c17 s09 DRAFTED (drafts/c17/s09.md, ~2.3k words, Arenya POV w/ Kino/Malachi, Caleb, Ava insets)
+- Amma's cold foot held all afternoon; 3:12 ring; Abernathy "coat on a hook", "110 sounds familiar, I'd rather you didn't". San Bruno: empty rack, glasses in handkerchief, trolley woman (pink transfer). Bay C prints, "8:12". ~5pm cold passes through Arenya to wrists 3 heartbeats; Nana: salt wash. Caleb porch/mailman kid. Ava 5:58 oven light SW ~one breath. Dusk 6:20 Malachi at gate outside salt; Amma: "He is waiting to be asked"; Caleb holds screen door.
+- Open: Amma/Caleb door invitation is my extrapolation.
+
+## c17 s08 DRAFTED (drafts/c17/s08.md, ~3.6k words, Arenya POV)
+- 280 S: Arenya tells all; Amma: Susi's March call for stars, gave all but her own (Rohini supplied by someone else). "Susmithaa Sowri" said aloud, cold pulls back into envelope. Nana's rite (salt half in/half out, non-signing hand, wood spatula). Custody Receipt PROXIMAL/11, c/o LUCERO, I., pencil R, L. SOWRI ✓, carry-forward, crook stamp, pink corner torn. Threads: set to Appa's thumb, slack to Amma's left foot; limp after shoe/sock off. Sock burns pencil-smoke; "fire takes the thing, not the writing"; pestle on form. Caleb: runner's book, Pacifica/Okafor, oxfords, 110 bus, never drives. Appa's Sheaffer → Amma → clay jar. Plan: Kino+Malachi to San Bruno; Malachi tells Amma tonight.
+- Open: Amma's Clark left on dirt by comal; "reelin'" bond lines folded in italics.
+
+## c17 s07 DRAFTED (drafts/c17/s07.md, ~2.5k words, Arenya POV, insets for Kino/Malachi)
+- San Bruno satsang (ex-Lutheran, saffron steeple). Oxfords 10–11, toes out, grey dust in welt, Ix sneezes "pencil". Dalal-ji (Fremont, white veshti, black socks, blue ballpoint behind ear, grating ginger): "$101 archana in March"; "I keep names, not boxes"; "God has many ears... some pay"; "someone who does not know the words" at side door Sun 9:00. Pen laid cap-toward-himself, left on table. Amma turned off flame, Tamil: "you cashed it". Pink slip in left Clark: LAKSHMI SOWRI · ROHINI · SAT 10/31 · PAID ✓ (blue ballpoint), handed flat to Arenya. Malachi intro to Amma; "beige phone rings, nobody answers". Ends: Arenya starts telling Amma everything, to Nana's.
+- Open: merged Kino/Malachi shoe retrieval; oxfords' owner ambiguous. Never state Dalal=Hale.
+
+## c17 s06 DRAFTED (drafts/c17/s06.md, ~2.3k words, Arenya POV w/ Kino/Malachi insets)
+- Swept step, envelope "R. SOWRI — NEXT OF KIN", green Sheaffer. Appa: Mar 19 Rodel's skipping chained pen, polite navy-coat man w/ mailbox key, pen cap-first; wrote the R in his ink; Susi took it back ("we have our own"), steadied wrist, "Sowri" in Sheaffer. Grey pencil stain on right forefinger/thumb. Ruled grey dust at 5am, swept. Planned to sign alone Sunday ("Better my hand"). Nana's line: "a man standing outside is still standing somewhere." Landline rang twice, counting; unanswered. Envelope under Nana's blanket + salt in Kino's truck. Malachi apologizes to Appa; leather prints, dry car rectangle, meter fog "R.S. — SUN 9:00" (dials 4471). 8:14, off to fetch Amma.
+- Open: "last week" vs Mon Oct 26 for Malachi's warning; gas-meter "no." wording.
+
+## c17 s05 DRAFTED (drafts/c17/s05.md, ~4.4k words, Arenya POV w/ Kino/Malachi insets)
+- Nana's salt line, star-of-salt invitation, mangoes '09 (now used). Canister on shelf by Ernesto; "Nobody signs. Nobody receives." Lamps die, Nissan rolls, cottage light, looping "Can I help you?" then "Kanna?"; Arenya holds, two ticks. Fifth stroke unfinished; Abernathy "counted and dropped." Prepaid under comal; 11:14 text: R. SOWRI, SUN 11/1, WE WILL COME TO HIM. Dawn: dry rectangle, leather soles, clipboard corner, pink "…CEIVED BY:" scrap (Malachi to tell Arenya privately, c18). Kino's ache gone; Caleb's Vesper laid down. Nana: Appa came to her porch in March, wouldn't come in. Ends 7:31 Sat, Arenya leaving w/ Malachi (Kino's truck Q: DM says Malachi drives; Kino stays). Susmithaa = SOWRI (fix Rajagopalan; I wrongly invented a parenthetical—cut it).
+- Long: trim duplicate "don't answer" lines at revision.
+
 ## c17 s04 DRAFTED (drafts/c17/s04.md, ~3.3k words, Arenya POV)
 - Caleb confession: mug blue/chipped, bird sticker (Arenya's, college); knot = only unordered act; "felt good" 4 sec; name forgotten, 2 sounds, maybe "kanna"; "proximal reference logged"; Shepherd = polite voice; Drop Two roll-up door, white van, backwards lanyard; stole ash. Ash synced to Arenya's LEFT palm; Aunty's presence on the bond (Abernathy hides); Ava's cold gone. Malachi: not DOE, port-city clerk 11 yrs ago, name later. Nana: yes to ash, Caleb on porch; Mission St. Nissan 7KBQ4R2, lanyard, 4 strokes, paused at fifth. Fifth = "who it hasn't pinned." Ends driving south on Mission.
 - Open: lead conflict (Caleb "lead" vs s03 "One"); "Aunty" mangoes '09 omitted.

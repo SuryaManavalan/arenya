@@ -20,5 +20,10 @@ Green steel, thermos-cap size; reads "full" but holds only ash ("her leftovers,"
 - Abernathy felt a warm, familiar presence sit on the bond (does not seem to have noticed him); later "still there, sat against your palm… listening" to the Nissan. [#0698, #0699, #0726]
 - Rule: nobody signs, nobody receives; Arenya "is moving her." Destination: Nana Itzel's house. Rides upright in Arenya's lap in Kino's truck. [#0707, #0727]
 
+## b1.c17.s05 (Nana's house) [#0733, #0743, #0749, #0758–#0759, #0765]
+- Ticked once at the county line ("clearing its throat"); at Nana's, set on the cleared end of the ofrenda shelf by the water glass, turned a quarter so the steel faces the window. Warmed on "Kanna's here"; went cold ("holding its breath") when the cottage voice spoke.
+- Voice copies: "Can I help you?" (hollow copy, Caleb's Monday memory) and "Kanna?" (finer copy; built from the Crown's logged last word). Arenya passed Wis save (20 vs DC 15, adv) and breathed her answer into the canister; it ticked **twice** (second lower) and rewarmed, cold-cream/filter-coffee smell strong. Abernathy: that was the warm presence itself, not a copy; it "picked" her and does not obey the hill. [#0757–#0759, #0765]
+- Arenya's stated wish: obtain the recording of Susmithaa's last word. Morning: warm, stripe of sun. Plan: stays on Nana's shelf until Monday's church name-giving. [#0767, #0790]
+
 ## Open questions
 - Is it ash only, or does something of Susmithaa remain? (Tone of the scene suggests presence.)

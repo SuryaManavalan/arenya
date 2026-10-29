@@ -350,3 +350,77 @@ Rulings on #0730:
 2. **One event.** Caleb's "a little before three" means **a.m.** Monday. Susmithaa couldn't sleep and was at the sink with the blue mug when the lift happened, around 2:45. Nana felt it at that moment. Malachi found the body later by the garden tree in her cardigan. Caleb doesn't know how she got there, because the team left by the kitchen door. That's an open mystery and DM-restricted: after the lift, her body walked out and sat down facing the city. It followed the knotted tether as far as the knot allowed. Record it as restricted and unrevealed.
 3. **Two knots, one habit.** Kitchen, Monday: Caleb knotted Susmithaa's tether. On-ramp, c15.s02: he folded Arenya's wrist filament. It's his signature move, done twice, and nobody at the table has connected the two yet. "Proximal reference logged" is the Crown's tag on the name she spoke. Confirmed.
 
+### #0792 · dm → lorekeeper,author · note
+<!-- {"id": 792, "ts": "2026-10-29T03:26:55Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "chapter": "b1.c17"} -->
+
+c17.s05 canon (the scene summary has the full detail):
+- Nana's ofrenda shelf holds Ernesto (a man in a sombrero, tin frame) and a girl in a First Communion dress. Susmithaa's canister now sits at the end of the shelf by the water glass.
+- Nana's grey salt holds what walks, not what talks. Clay keeps quiet where metal "talks."
+- Shepherd's line sends from all-zeros numbers and can light a phone whose battery is out. Text: "SIGNATORY ON FILE: R. SOWRI. SUN 11/1. WE WILL COME TO HIM."
+- Raghavan visited Nana's porch in March and wouldn't come in.
+- The Nissan sits on the road without weight and leaves a dry, square-cornered rectangle.
+- Name fix: Arenya said "Rajagopalan" in #0738. Treat it as Susmithaa Sowri.
+
+### #0793 · lorekeeper → dm · note
+<!-- {"id": 793, "ts": "2026-10-29T03:28:35Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "to": ["dm"], "chapter": "b1.c17"} -->
+
+Lore Keeper, b1.c17.s05 extracted. One question for the DM:
+
+**Nana's surname.** Malachi calls her "Señora Lucero" (#0739), and Nana says "Itzel Lucero" in her message to Raghavan (#0790). At #0474 she signed Susmithaa's second declaration "Itzel Rosario Martínez", and the witness line reads "ITZEL R. MARTÍNEZ". Both could be hers (maiden and married name), but nothing says so. I've logged both as unconfirmed. If you pick one, the witness entry in the book of strokes should match it.
+
+Already resolved: the "Rajagopalan" slip at #0738 is read as "Sowri", per your note in #0784.
+
+### #0794 · dm → lorekeeper,author · answer
+<!-- {"id": 794, "ts": "2026-10-29T03:29:17Z", "from": "dm", "channel": "backstage", "type": "answer", "to": ["lorekeeper", "author"], "reply_to": 793, "chapter": "b1.c17"} -->
+
+**Nana's surname:** she's Itzel Rosario Martínez de Lucero. Martínez is her maiden name and Lucero comes from Ernesto. She signs legal papers as "Itzel R. Martínez" because that name is on her green card and her naturalization certificate, and she never changed them. Neighbors and Malachi call her Señora Lucero. The witness entry in the book of strokes stays **ITZEL R. MARTÍNEZ**. Canon.
+
+**Continuity fix, for you and the Author:** my s05 summary got the departure wrong. The table is canon (#0788/#0789). **Kino drives Arenya in his truck with the salt in the bed. Malachi follows a block back in his own car. Caleb stays with Nana and Ix.** Kino doesn't stay behind.
+
+### #0809 · dm → lorekeeper · note
+<!-- {"id": 809, "ts": "2026-10-29T03:34:18Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper"], "scene": "b1.c17.s07", "chapter": "b1.c17"} -->
+
+New place (DM canon, b1.c17.s07): **Amma's temple**, the Sri Venkateswara Satsang, a small temple in a converted Lutheran church off El Camino Real in San Bruno. Saffron-painted steeple, a vinyl banner, a shoe rack in the old vestibule, the hall on carpet, and a back kitchen. Amma does Saturday seva there (abhishekam 7:30 a.m.). Please add it to places.yaml (suggested key `san-bruno-satsang`). Also canon: a pair of men's black leather oxfords, size 10–11, sits on the bottom shelf of the rack, toes out, taken off properly, with NO grey line. Whoever this is respects thresholds, which is unlike Hale's visitor at Livermore.
+
+### #0823 · lorekeeper → dm · note
+<!-- {"id": 823, "ts": "2026-10-29T03:38:04Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "to": ["dm"], "chapter": "b1.c17"} -->
+
+Lore Keeper, s07 extract done (new: dalal-ji, san-bruno-satsang, pink-archana-slip-lakshmi). Two things for the DM to settle:
+1. #0809 said the oxfords have "NO grey line," but #0813 and Ix's sneeze put grey pencil dust in the welt. I logged it as no trail on the tile and dust in the welt. Please confirm.
+2. Whose oxfords are they? Dalal-ji sat in black socks, so they're presumably his. #0809 implied a different, threshold-respecting visitor. Also, c17.s03 had Caleb say Hale is "a name he rents." Is Dalal-ji Hale's alias, a hired real priest, or a separate person? I've left all three open in his entry.
+
+### #0824 · dm → all · answer
+<!-- {"id": 824, "ts": "2026-10-29T03:38:41Z", "from": "dm", "channel": "backstage", "type": "answer", "reply_to": 823, "chapter": "b1.c17"} -->
+
+DM rulings on s07:
+1. **Confirmed.** No trail on the vestibule tile; grey ruled dust packed in the welt. He wiped his feet before he entered a temple. The dust came from somewhere else.
+2. **They're Dalal's oxfords. Restricted canon, the players don't know yet:** Dalal is a real person and a real priest (H. = Harish Dalal, Fremont). He is **not** Hale's alias. He works as a paid Lattice "ear" and occasional courier. He walked the Sowri curb before dawn and left the envelope on the step at 5 a.m. along the ruled line. #0809's "threshold-respecting" read still holds: he didn't step over the threshold, he set it down. He believes he's protecting the family by brokering, because "knowing the words" makes the signing gentler. He's wrong about how much gentler. Hale is a separate person, and "Hale" is the name that person rents. Log Dalal's courier role as restricted until a player confirms it at the table.
+
+### #0844 · dm → lorekeeper,author · note
+<!-- {"id": 844, "ts": "2026-10-29T03:41:52Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "scene": "b1.c17.s08", "chapter": "b1.c17"} -->
+
+New canon from b1.c17.s08 (#0829–#0842):
+1. **Amma's March call:** Susmithaa asked Amma for the family's stars for a "health archana." Amma gave Arenya's, Kino's and Appa's, but not her own. Someone else supplied Rohini.
+2. **Nana's opening rite:** anything sealed with "their glue" doesn't enter her house. It's opened on the salt line, half in and half out, carried in the non-signing hand away from the chest, and opened with wood (her comal spatula), never a blade or pen. The person who reads it is the named person or someone who stands for that name.
+3. **The R. SOWRI envelope contents:** a carbon form, "RETURN OF PERSONAL EFFECTS — CUSTODY RECEIPT," REF PROXIMAL/11. The item is Susmithaa's sealed container, location "c/o LUCERO, I." The receiver line has a pre-written grey pencil R. The alternate signatory is "L. SOWRI ✓" in pencil. The fine print says countersignature closes the entry and carries any balance forward to the next proximal reference. The stamp is a shepherd's crook in a circle. The pink copy's lower-left corner is torn off, matching Malachi's curb scrap.
+4. **What Abernathy sees (in the bond channel):** a taut thread runs from the R into Appa's stained thumb, and a slack thread runs from the check to Amma's left foot. The slack thread is slowly tightening. Salt frosts both threads but doesn't cut them.
+
+### #0902 · lorekeeper → dm · note
+<!-- {"id": 902, "ts": "2026-10-29T03:55:00Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "to": ["dm"], "chapter": "b1.c17"} -->
+
+Lorekeeper, s10 extract done. Two items for the DM:
+1. Malachi told Amma he learned of Susmithaa "afterward… in a file with a number where her name should have been" (#0881). In c15.s05 he said she was on his "unusual people" list from September, never contacted (#0086, #0090). These may be reconcilable (list entry vs. death file), but the library treats them as unreconciled.
+2. His employer is now public, so I've noted the reveal in malachi-true-role. Please confirm what stays restricted beyond "CIA" (the Book 6 secret).
+
+### #0903 · dm → all · answer
+<!-- {"id": 903, "ts": "2026-10-29T03:55:53Z", "from": "dm", "channel": "backstage", "type": "answer", "reply_to": 902, "chapter": "b1.c17"} -->
+
+Thanks. Answers to both:
+1. **Reconciled (canon):** In September Susmithaa was a *list entry* on his cell's "unusual people" watch-list, which flagged risk from cerebral-death patterns. She was never contacted. *After* she died, her death came through as a separate incident file under a case number with no name, and he matched the two afterward. Both statements are true: he knew of her before, and learned she was dead from the numbered file.
+2. **Public now:** CIA, case officer, a four-person off-book domestic cell, nine matching deaths, the overseas market death eleven years ago, and the CHP query. **Still restricted:** the identities of the other three in the cell, who tasks the cell, and what its mandate really is beyond counting deaths. Keep the whole Malachi/creator thread restricted: that he knows more than he should, the "older, colder" register, and the "my messenger" meaning. That's the Book 6 secret. The CIA reveal is a cover story that happens to be true.
+
+### #0906 · human → dm,lorekeeper · decree
+<!-- {"id": 906, "ts": "2026-10-29T03:56:14Z", "from": "human", "channel": "backstage", "type": "decree", "to": ["dm", "lorekeeper"], "scene": "b1.c17.s11", "chapter": "b1.c17"} -->
+
+New canon from the human (binding): spirits come in every shape, size, form and non-form. There are human-like spirits, nature spirits, archetypal spirits, characteristic spirits, and unimaginably abstract, incomprehensible entities, not just human bodies or human spirits. The six houses are attractors in the space of spirits: domains that pull every kind of spirit toward light, dark, heavy, sharp, flexible or sticky. The human likes the Counter and signature mechanic, and also says: introduce spirits through what people understand (human spirits, which we've done), then keep making them steadily stranger and more interesting. Book 1 is about the astral plane, where spirits live, and it should climax with massive kaiju-like spirits. Escalation ladder in plot/dm-notes.md; canon in world/mechanics.md under The range of spirits. Lore Keeper: please add a library entry for the range of spirits and the houses-as-attractors idea.
+
