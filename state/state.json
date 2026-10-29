@@ -1,10 +1,22 @@
 {
  "phase": "play",
- "next_id": 96,
+ "next_id": 188,
  "book": 1,
  "chapter": 15,
- "scene_counter": 5,
- "scene": null,
+ "scene_counter": 8,
+ "scene": {
+  "id": "b1.c15.s08",
+  "title": "What Ix Brought Back",
+  "location": "Sowri house, front room, Daly City (small hours)",
+  "cast": [
+   "arenya",
+   "kino",
+   "abernathy"
+  ],
+  "place": null,
+  "start_id": 174,
+  "spotlights_used": 1
+ },
  "scenes": [
   {
    "id": "b1.c15.s01",
@@ -78,17 +90,48 @@
    "summary": "At Seton before dawn, Arenya comforts her mother, who brought Susmithaa's cracked brass lamp and refused to give it up. She hides the cold coin-mark on her wrist with a \"steering wheel\" excuse while Abernathy warns her that the man at the nurses' station has no light at all, \"like a hole in a fence.\" Malachi introduces himself as \"Shawani, Department of Energy,\" apologizes, and waits in the corridor while Arenya takes ten minutes with her family. Amma recalls Susmithaa's last dinner: her Thursday friend Itzel in Daly City will come with pozole if she dies. Appa (Ravi) reveals that in March Susmithaa warned him to deny any niece to an American who came asking. In the corridor, Malachi and Arenya trade: she shows him the wrist mark (he's never seen one and warns her off doctors and photographs); he says Adonis Quinn was Monolith's founder's cousin, that his \"people\" are three analysts and a phone, that a polite American asked for Susmithaa by full name at about 3:40 a.m., before the paperwork, and that Susmithaa did not die like the nine freeze victims. Arenya gives him her burner number; he'll call once tomorrow. She takes custody of Susmithaa's phone (it buzzed repeatedly at 3 a.m. and once at dawn). The lamp stays warm to her touch, and her right fist begins to loosen for the first time.",
    "book": 1,
    "chapter": 15
+  },
+  {
+   "id": "b1.c15.s06",
+   "title": "Pozole",
+   "location": "The Sowri family home, Daly City, 2 p.m. the same day",
+   "place": "sowri-family-home",
+   "cast": [
+    "arenya",
+    "kino",
+    "abernathy"
+   ],
+   "start_id": 96,
+   "end_id": 149,
+   "summary": "At 2 p.m. Nana Itzel and Kino bring pozole to the Sowri house. Arenya and Kino meet for the first time. The memorial lamp's flame leans toward Kino as he passes, then trembles between him and Arenya; Nana's verdict is \"not only you.\" A forgettable Lattice watcher who calls himself \"Mr. Bell\" (grey cardigan, wearing a frost Crown-fragment) appraises Arenya's warm right hand. He notes that Susmithaa's copy of *Curtain* is upside down and leaves a sealed sympathy card. Ix tracks him to a beige rental Camry (plate 7K\u2026R), where he takes off the Crown, bleeds from the nose and makes a reluctant phone report. Abernathy sees a frost-thread tracking tag on the card, so Nana wraps it in her pot towel and hides it in the freezer (\"cold hides in cold\"). Inside *Curtain*, Arenya finds a March temple receipt for a prayer in her name, with Susmithaa's note: \"Ari \u2014 The lamp knows who. Itzel knows the rest. Don't let them count you. Keep your hands still until you can't. Then don't.\" When Arenya holds it, the lamp flame splits in two for one second. Nana explains *los que cuentan* (\"the ones who count\") and that Susmithaa's light ran down the maternal line and chose Arenya in March. Arenya confesses the truth to Amma, and Kino shows his cold birthmark and accepts the shared door. Amma keeps everyone the night. The scene ends as Susmithaa's phone shows 14 missed calls from Unknown and a new voicemail at 6:12 p.m.",
+   "book": 1,
+   "chapter": 15
+  },
+  {
+   "id": "b1.c15.s07",
+   "title": "Fourteen Missed Calls",
+   "location": "Sowri family home, Daly City: front room by the memorial lamp, evening",
+   "place": "sowri-family-home",
+   "cast": [
+    "arenya",
+    "kino"
+   ],
+   "start_id": 153,
+   "end_id": 172,
+   "summary": "Arenya unlocked Susmithaa's phone with Appa's birthday and played the 6:12 p.m. voicemail on speaker. The caller was \"Daniel Hale, Meridian Mutual Life, beneficiary services.\" He pronounced \"Sowri\" exactly as the family does, knew the time of death to the minute (3:19 a.m., which the hospital never gave), and asked to \"verify the beneficiary in person\" (claim ref MM-031944). Kino saw the lamp flame duck small and blue on the word \"her,\" and his birthmark pulsed. Amma says Susmithaa never mentioned insurance; Appa is evasive. Nana recalled Susmithaa saying in March, \"I bought a door, and I put Ari's name on it.\" Kino failed to spot what Ix was watching, but heard a car pull away dark. Then the Sowri landline rang. Hale left a second message addressed to Arenya: the policy is real, paid in cash at a Colma office on March 19; meet tomorrow at noon at Serramonte Library, second floor by the periodicals, or he'll \"come to you.\" He signed off with \"Keep that hand warm,\" which links him to Mr. Bell. Under his voice, a second voice was counting \"eleven, twelve,\" stopping on \"hand.\" Kino heard it, and Arenya unconsciously wrote it in her margin. Frost formed on the freezer seal where the phone and tracking card are hidden. Nana explained that they count the ones who carry, and saying the number aloud means they've moved from hunting to collecting: \"Twelve is you.\" Everyone sleeps at the Sowri house under the lamp. Ix went alone to scout Serramonte. Arenya has decided nobody goes to the meeting yet; she wants to check the Colma office.",
+   "book": 1,
+   "chapter": 15
   }
  ],
  "expectations": [],
  "cursors": {
   "lorekeeper": 3,
-  "dm": 95,
-  "arenya": 90,
-  "abernathy": 73,
+  "dm": 187,
+  "arenya": 184,
+  "abernathy": 181,
   "author": 0,
   "caleb": 38,
-  "kino": 64,
+  "kino": 185,
   "ava": 50,
   "malachi": 89
  },
@@ -98,24 +141,24 @@
    "session_id": "cb7b820a-698e-4f7e-bd7a-f8920572b932"
   },
   "arenya": {
-   "key": "b1.c15.s05",
-   "session_id": "23ba5bc7-52a7-4190-b735-63ff00eb1ba7"
+   "key": "b1.c15.s08",
+   "session_id": "c1c70fe0-68c6-4e75-900c-bb7cc3b1e1af"
   },
   "dm": {
-   "key": "b1.c15.s05",
-   "session_id": "19bc462f-0ef3-489d-b8f6-376cbd446c89"
+   "key": "b1.c15.s08",
+   "session_id": "772475fc-b884-4f96-abb0-cbeb11feef44"
   },
   "abernathy": {
-   "key": "b1.c15.s05",
-   "session_id": "82deb6e0-d29d-44c9-a1a2-0d5405d39a2f"
+   "key": "b1.c15.s08",
+   "session_id": "c76f133c-2b0e-4cfe-bcbd-741dd724bcc7"
   },
   "caleb": {
    "key": "b1.c15.s02",
    "session_id": "fd16d6ea-857a-4481-9658-506a2074d64c"
   },
   "kino": {
-   "key": "b1.c15.s04",
-   "session_id": "aa86d163-1ac0-48b9-aaf8-0042320a5d4c"
+   "key": "b1.c15.s08",
+   "session_id": "d03394ed-f204-46e1-911b-e76a4e47b99c"
   },
   "ava": {
    "key": "b1.c15.s03",
@@ -129,7 +172,7 @@
  "charges": {
   "dm": {
    "period": "b1.c15",
-   "left": 11
+   "left": 9
   },
   "author": {
    "period": "b1.c15",
@@ -173,21 +216,47 @@
  },
  "upshift": [],
  "spotlight": [],
- "queue": [],
- "running": [
+ "queue": [
   {
-   "seq": 90,
+   "seq": 176,
    "agent": "dm",
-   "job": "turn",
-   "args": {},
-   "priority": 0,
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c15.s07",
+     "title": "Fourteen Missed Calls",
+     "location": "Sowri family home, Daly City: front room by the memorial lamp, evening",
+     "place": "sowri-family-home",
+     "cast": [
+      "arenya",
+      "kino"
+     ],
+     "start_id": 153,
+     "end_id": 172,
+     "summary": "Arenya unlocked Susmithaa's phone with Appa's birthday and played the 6:12 p.m. voicemail on speaker. The caller was \"Daniel Hale, Meridian Mutual Life, beneficiary services.\" He pronounced \"Sowri\" exactly as the family does, knew the time of death to the minute (3:19 a.m., which the hospital never gave), and asked to \"verify the beneficiary in person\" (claim ref MM-031944). Kino saw the lamp flame duck small and blue on the word \"her,\" and his birthmark pulsed. Amma says Susmithaa never mentioned insurance; Appa is evasive. Nana recalled Susmithaa saying in March, \"I bought a door, and I put Ari's name on it.\" Kino failed to spot what Ix was watching, but heard a car pull away dark. Then the Sowri landline rang. Hale left a second message addressed to Arenya: the policy is real, paid in cash at a Colma office on March 19; meet tomorrow at noon at Serramonte Library, second floor by the periodicals, or he'll \"come to you.\" He signed off with \"Keep that hand warm,\" which links him to Mr. Bell. Under his voice, a second voice was counting \"eleven, twelve,\" stopping on \"hand.\" Kino heard it, and Arenya unconsciously wrote it in her margin. Frost formed on the freezer seal where the phone and tracking card are hidden. Nana explained that they count the ones who carry, and saying the number aloud means they've moved from hunting to collecting: \"Twelve is you.\" Everyone sleeps at the Sowri house under the lamp. Ix went alone to scout Serramonte. Arenya has decided nobody goes to the meeting yet; she wants to check the Colma office.",
+     "book": 1,
+     "chapter": 15
+    }
+   },
+   "priority": 5,
    "attempt": 0,
-   "ts": "2026-10-29T01:04:11Z"
+   "ts": "2026-10-29T01:15:43Z"
   }
  ],
- "job_seq": 90,
+ "running": [
+  {
+   "seq": 192,
+   "agent": "dm",
+   "job": "replay",
+   "args": {},
+   "priority": -1,
+   "attempt": 0,
+   "ts": "2026-10-29T01:18:19Z"
+  }
+ ],
+ "job_seq": 192,
  "human_waiting": [],
- "idle_wakes": 1,
+ "idle_wakes": 0,
  "paused": false,
  "pause_reason": null,
  "locations": {
@@ -198,8 +267,8 @@
   },
   "kino": {
    "place": null,
-   "location": "Nana's kitchen, Daly City: stucco house on the hill above Mission St",
-   "scene": "b1.c15.s04"
+   "location": "Sowri house, front room, Daly City (small hours)",
+   "scene": "b1.c15.s08"
   },
   "ava": {
    "place": "mount-tamalpais",
@@ -208,13 +277,13 @@
   },
   "arenya": {
    "place": null,
-   "location": "Seton Medical Center, Daly City \u2014 the family room off the ER, before dawn",
-   "scene": "b1.c15.s05"
+   "location": "Sowri house, front room, Daly City (small hours)",
+   "scene": "b1.c15.s08"
   },
   "abernathy": {
    "place": null,
-   "location": "Seton Medical Center, Daly City \u2014 the family room off the ER, before dawn",
-   "scene": "b1.c15.s05"
+   "location": "Sowri house, front room, Daly City (small hours)",
+   "scene": "b1.c15.s08"
   },
   "malachi": {
    "place": null,

@@ -67,6 +67,24 @@ places:
     kind: other
     visibility: public
     sources: [dm-proposed]
+  serramonte-library:
+    name: Serramonte Library (Daly City)
+    aliases: [Serramonte, the library]
+    lat: 37.6700
+    lon: -122.4690
+    kind: other
+    visibility: public
+    sources: ["b1.c15.s07 #0167"]
+    note: Hale's chosen meeting place, noon Tuesday, second floor by the periodicals. Ix scouted it overnight.
+  meridian-colma-office:
+    name: Meridian Mutual Life, Colma office (claimed)
+    aliases: [the Colma office]
+    lat: 37.6800
+    lon: -122.4570
+    kind: other
+    visibility: public
+    sources: ["b1.c15.s07 #0167"]
+    note: Where Hale says Susmithaa paid cash on March 19. Unverified; address unknown. Arenya intends to check it.
   monolith-campus:
     name: Monolith campus (Silicon Valley)
     aliases: [Monolith, the campus]

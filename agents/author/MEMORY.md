@@ -1,5 +1,5 @@
 # Memory — author
-_Last updated: b1.c15.s05 draft_
+_Last updated: b1.c15.s07 draft_
 
 ## Style bible
 - Human chapters: past tense, close third, mostly Arenya POV. Dry, deadpan humor as armor ("Bronze medal."). Short punchy paragraphs, em-dash asides, concrete modern detail (Teddy, Marla, #Korgis).
@@ -18,7 +18,12 @@ _Last updated: b1.c15.s05 draft_
 
 - c15.s05 (Arenya POV, Seton): Father = Ravi Sowri (Susmithaa his sister). March call: "no niece… Exactly." Itzel/pozole/"don't be rude about the chili." Malachi: "Shawani, Dept of Energy" (cover), no-light "hole in a fence" (Abernathy: itches he's seen it before = seed). Quinn = Monolith founder's cousin; 3 analysts + phone; nine freeze dead vs "unusual" list; Susmithaa found by tree in cardigan, not frozen. Polite American asked ~3:40 for full name, knew "niece". Burner number given; he calls once tomorrow: "it's me" + time. Mark seen by Malachi (never seen it; no doctors/photos). Susmithaa's phone in Arenya's bag (buzz 3am, 5:51). Lamp warm, gathers toward right fist; fist loosens quarter-inch. "I watched you drive in" hook.
 
+- c15.s06 (Pozole, Arenya/Kino cross-cut + Abernathy bond italics): Lamp leans at Kino, then trembles between; Nana "not only you". Mr. Bell (grey cardigan, Midwestern, frost Crown-fragment, nosebleed, left-handed no ring) said "Curtain is upside down", "came in back at eleven", left sealed card w/ frost tag -> Nana's pot towel in freezer ("cold hides in cold; we bore them"). Ix tracked beige rental Camry 7K…R. Arenya wrote plate on left wrist in pen. Receipt in Curtain (Livermore temple, Ari note, "Not too much sugar"). Lamp split in two for 1s. Nana: "los que cuentan"; light down maternal line, "never the eldest". Arenya confessed to Amma, showed mark; Kino showed birthmark ("beside, not through"). Amma keeps all overnight. Ending: Susmithaa's phone 14 missed Unknown + voicemail 6:12 PM. Seeds: Abernathy "I owe you two"; Appa knew in March; Nana is 78.
+
+- c15.s07 (Arenya POV, drafted): Voicemail: "Daniel Hale, Meridian Mutual, beneficiary services", Sowri tapped r, death 3:19 a.m., policy March, claim MM-031944, verify beneficiary "in person". Lamp ducked blue on "her". Nana: Susmithaa said "I bought a door, and I put Ari's name on it" (Safeway, onions). Car left dark. Landline msg: cash, Colma office, Mar 19, Serramonte Library 2nd floor periodicals noon, "Keep that hand warm". Hidden counter voice "eleven, twelve" (stopped on "hand"), Arenya wrote it in margin unknowingly. Freezer rime. Nana: "Eleven was somebody. Twelve is you." Ix scouts Serramonte alone; Kino sleeps on floor. Arenya wants to check Colma office; nobody goes to meeting yet.
+
 ## Payoffs needed
+- Ix's Serramonte report; Colma office; who counts (s08).
 - Kino's table scene DONE (s04); pay off at Sowri house: forgettable man, leaning flame.
 - Kino's unspoken dreams at Nana's table; Ava's palm flame / identifying the lamp.
 - Left pocket; wrist mark; "he's lying"; "something old is waking, doors will open".

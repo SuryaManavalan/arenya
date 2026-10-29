@@ -26,4 +26,9 @@ Kino's grandmother; keeper of the old dark spirit line of this coast. Calls his 
 - Signs of "wrong": (1) a forgettable stranger nobody invited, "made, not accidental"; (2) the memorial lamp's flame leaning with no draft; (3) anyone watching the niece "like they're working out how heavy she is." [#0066]
 - Tires visibly (sits at once without arguing). [#0066]
 - **b1.c15.s05 (via Amma):** Susmithaa told the family Itzel, the "grandmother in Daly City," taught her tamales and would come with pozole if she died; Amma has no address but trusts she will. Arenya wants to call her. Dovetails with Nana's 2 p.m. plan. [#0082, #0083, #0084]
+## b1.c15.s06 "Pozole"
+- Age **78**; wears a small worn silver jaguar brooch on her shawl; 11 years of Thursdays with Susmithaa. [#0143]
+- Checked Arenya's right hand on entry; "You have her chin." Taught Kino: say your name to the mother, look at the lamp, look at who's looking. [#0097, #0100, #0101]
+- Hid the frost-tagged card in the Sowri freezer ([[frost-tagged-card]]). Named [[los-que-cuentan]]. Says the light came "down her mother's side... never to the eldest" and in March began to look for a new home, at Arenya (provisional). Susmithaa predicted Arenya "would laugh, then write an article." [#0137, #0143]
+- Given Susmithaa's room to sleep in. [#0148]
 - Note (resolved in s04: her house is in Daly City, on the hill above Mission St); earlier flag: her house is in Daly City by the scene's text, though Kino was raised in the Excelsior; and Kino says "from Novato" for himself. [#0045]

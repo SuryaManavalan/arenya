@@ -26,5 +26,11 @@ related: [mount-tamalpais, sleeping-lady, nana-itzel, dark-land-lineage]
 - Plan: carry the pozole at 2 p.m. to the Sowri house in a black shirt, silent; Ix waits in the fog past the porch light. Wants someone to show Arenya how to hold the light. Does not yet know her name or that she is the niece he has met. [#0063, #0065]
 - Habits: removes boots on newspaper at Nana's door; drinks tea with both hands; breathes in-4/hold/out-slow; presses birthmark when stressed (note: s04 puts it "under his shirt" at the left side; IDENTITY says left forearm). [#0059, #0060]
 
+## b1.c15.s06 "Pozole" (Sowri house, 2–6+ p.m.)
+- First meeting with Arenya; introduced himself as Joaquín, then "Kino." Carried the pot, said "Lo siento mucho." Ix waits in the fog, later under the porch (Kino speaks to him through a mental line held since age nine). [#0099, #0104, #0124, #0134]
+- The memorial lamp leaned toward him; Nana's silent verdict to "¿Soy yo?" was *no, not only you*. Birthmark: cold → aching cold; described as pale rosette/jaguar-spot like a thumbprint. [#0101, #0105, #0146]
+- Shielded Arenya from Mr. Bell ("She's eating. Let her."), gave his full name "Joaquín Balam," sent Ix to trail Bell (DM roll 24). Wrote down plate 7K…R advice. [#0118, #0121, #0125, #0129]
+- Showed Arenya and Amma the birthmark; said it is cold *toward* something, "I think we're both pointing at the same door"; accepts "beside, not through." Sleeps on the Sowri sofa that night. [#0146, #0148]
+
 ## Note
 Mechanics frame him as the "true champion" whom the land spirits passed over for Arenya [mechanics, human Round 1 Q2]; the DM decides how that plays out [human Round 2 Q2].

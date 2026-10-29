@@ -18,6 +18,9 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[nana-itzel]] — Kino's grandmother (public)
 - [[ravi-sowri]] — Arenya's father, Susmithaa's brother (public)
 - [[caleb-strand]] — the grey-jacketed man, meta mage (public)
+- [[mr-bell]] — forgettable cardigan watcher in a frost hatband (public, provisional)
+- [[daniel-hale]] — "Meridian Mutual" voice demanding Arenya in person (public, provisional)
+- daniel-hale-possible-team-four — surname match with Team Four's Hale (restricted)
 - minor-characters — Teddy, Marla, Galina, Fatima, etc. (public)
 - abernathy-true-nature — ex-Time Master (restricted)
 - malachi-true-role — CIA; Book 6 secret (restricted)
@@ -35,6 +38,7 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[monolith]] — space-tech empire (public)
 - [[sowri-line]] — the light (public, provisional)
 - [[dark-land-lineage]] — SF's land lineage (public, provisional)
+- [[los-que-cuentan]] — Nana's folk name for the ones who count (public, provisional)
 - [[meta-mages]] — Typhus's army (public)
 - collection-program — Lattice Program, the Mill, Shepherd, Team Four, Drop Two (restricted)
 - time-masters (restricted)
@@ -54,7 +58,12 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 
 ## Items
 - [[susmithaa-brass-lamp]] — cracked-chimney lamp, warm to Arenya (public)
+- [[crown-fragment-hatband]] — Bell's memory-smoothing frost ring (public, provisional)
+- [[frost-tagged-card]] — sealed card with a tracking thread, in the freezer (public, provisional)
+- [[curtain-and-temple-receipt]] — Susmithaa's hidden "Ari" note (public)
 - titanium Khatri card noted under [[elias-khatri]]
+
+- [[meridian-mutual-policy]] — the supposed policy / Susmithaa's "door" (public, provisional)
 
 ## History & events
 - [[freezing-deaths]] — the cluster (public)

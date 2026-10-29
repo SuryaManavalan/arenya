@@ -33,3 +33,82 @@ Right. Rules. Left hand off the wrist, but easy, like you're rubbing it cause it
 
 And that lamp in the blanket. It's not out, Arenya. It's *listening*. Keep it close. And keep your fist shut, yeah? Whatever you do with it. Please.
 
+### #0112 · arenya → all · dialogue
+<!-- {"id": 112, "ts": "2026-10-29T01:06:40Z", "from": "arenya", "channel": "bond", "type": "dialogue", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Man by the bookshelf, grey cardigan. Does he have light, or is he another hole in a fence? And before you answer, I haven't forgotten that you told me nothing since 3:19. We're having that talk later. Right now, look.
+
+### #0114 · dm → abernathy · narration
+<!-- {"id": 114, "ts": "2026-10-29T01:06:53Z", "from": "dm", "channel": "bond", "type": "narration", "to": ["abernathy"], "awaits": ["abernathy"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+*(For Abernathy: what you see when you look.)*
+
+He isn't a hole. He has light: a dull, ordinary, middle-aged light, the color of a pilot flame. But something is sitting on it. A thin ring of cold sits around his head like a hatband made of frost, and his light bends around it the way heat-shimmer bends around a glass. Everything that comes off him gets *smoothed* by it, so the eye skids. Under the ring, the man's own light is pointed one way only, at her right hand, steady as a level.
+
+You've seen that cold before. It's the same cold that was in the corridor this morning, in the coat with no light at all. That one was a void. This one is a man *wearing* a piece of the void.
+
+### #0116 · abernathy → all · dialogue
+<!-- {"id": 116, "ts": "2026-10-29T01:07:02Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "reply_to": 114, "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Not a hole, love. He's got light. Dull, middle-aged, pilot-flame colour. Don't spook, but listen.
+
+He's *wearing* something. Ring of frost round his head, like a hatband. His light bends round it, all smoothed over, which is why your eye skids and the aunties' do too. That's the trick. Nobody remembers inviting him because the ring won't let 'em.
+
+And it's the same cold as the corridor this morning, guv. The grey coat were a void. This one's a bloke carrying a *piece* of the void on his head. Borrowed. Leashed, maybe.
+
+He's pointed at your right hand. Only that. Level as a spirit-bubble. Everything he's got is aimed at the flame in your fist.
+
+So: eat your pozole, keep the hand busy, keep the lad in the doorway. Don't touch the ring, don't meet his eye. And the talk later? *Yeah.* I know. I owe you one. Two, actually. Susmithaa said something and I ain't forgotten it either.
+
+...Eat something, though. Proper. You've had one coffee since yesterday.
+
+### #0130 · dm → abernathy · narration
+<!-- {"id": 130, "ts": "2026-10-29T01:08:27Z", "from": "dm", "channel": "bond", "type": "narration", "to": ["abernathy"], "awaits": ["abernathy"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+*(For Abernathy: the card, when you look.)*
+
+It isn't humming. It's *cold*, the cold of something carried a long while close to the frost ring, and that soaks out of it like damp out of a cellar wall. But there's one thing more. From the corner of the envelope runs a thread so fine you nearly miss it: a single strand of that frost-light, trailing off toward the back door. It's not pulling, and it's not alive. It's a *tag*, like a bird-ring on a leg: whoever holds the other end will know where this card is. While her hand is on it, they'll know where *she* is.
+
+It would snap if someone cut it properly. It would also tell them it had been cut.
+
+### #0133 · abernathy → all · dialogue
+<!-- {"id": 133, "ts": "2026-10-29T01:08:41Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "reply_to": 130, "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+You're not imagining it, love. Though it ain't humming, it's *cold*. Soaked through like damp in a cellar wall, from riding too long next to that frost hatband.
+
+Now listen, 'cause this bit matters. There's a thread off the corner of the envelope. Fine as a spider's. Frost-light, running off toward the back door. Not pulling, not alive. A *tag*. Like a ring on a pigeon's leg. Whoever's holding the other end knows where the card is. And while your hand's on it, or it's in your bag, they know where *you* are.
+
+Which is why he handed it to you, I'd wager. Bit of a present, that.
+
+Cutting it's possible. Done proper, it snaps clean. But it'd *ring* on the other end, and they'd know it'd been cut. So: do we want 'em knowing we know? Or do we want to park it somewhere daft and let 'em follow a card to the wrong place?
+
+Don't carry it up the stairs tonight. Don't carry it near your lamp-aunt's phone, neither. Put it in the kitchen with Itzel, in whatever she's got, salt, a tin, I dunno, she'll know. Your call, guv. I'm only the squire.
+
+And Kino's right about the plate. Good lad. Annoyingly.
+
+### #0181 · dm → abernathy · narration
+<!-- {"id": 181, "ts": "2026-10-29T01:17:08Z", "from": "dm", "channel": "bond", "type": "narration", "to": ["abernathy"], "awaits": ["abernathy"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+*(For Abernathy: what you see on her palm.)*
+
+There's no finger. There's only *ink*: grey frost-light setting itself down in her palm in a careful, old-fashioned hand. It's a twelve with a rule under it. It's tidy, a bookkeeper's entry. The ink doesn't come from Serramonte or from the freezer. It comes from *down*, from below the floor and below the bulk, from somewhere that smells of wet stone. You've never been there.
+
+Her light is pushing back against it, hard, white at the edges. For a moment you see something you didn't expect. Under the frost twelve, faintly, in *her* light, a different mark is trying to come up through her skin, the way a watermark comes up in paper held to a lamp. It isn't a number. It looks more like a little sun, a circle with rays, the kind of thing a child draws. It flickers and is gone before you can be sure.
+
+You know the shape. You couldn't say from where.
+
+### #0183 · abernathy → arenya · dialogue
+<!-- {"id": 183, "ts": "2026-10-29T01:17:26Z", "from": "abernathy", "channel": "bond", "type": "dialogue", "to": ["arenya"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+Arenya. Love. Listen, and don't flinch, you're doing ever so well at not flinching.
+
+It's a twelve, guv. Grey ink, proper tidy, with a line ruled underneath. A bookkeeper's hand. And it's not coming from the freezer or Serramonte. It's coming up from *underneath*. Under the floor, under the bulk, somewhere wet and stony. Never been there, me. Don't fancy it.
+
+Your light's shoving back, though. Proper white at the edges. Keep the hand open. Don't clench. Clenching's what they'd want, I reckon, a neat closed fist for the ledger.
+
+And there's... *(the patter slips, half a word of something older)* ...there's something else coming up through it. Under the twelve. Faint, like a watermark in paper. A little circle with rays on it. A sun, like a kiddie draws. Gone quick.
+
+I know that shape, love. Don't ask me from where, because I can't tell you, and I'd sooner not pretend. But I know it, and it's made my coat go cold, and I'll thank you not to write that down in your little notebook. Well. Write it down. Just don't show the boy yet.
+
+Also, someone's opened Appa's door a crack and is listening. Not a spirit. Just a frightened man in socks. Mention it gently.
+

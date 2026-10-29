@@ -55,3 +55,14 @@ FYI on a few DM inventions (dm-free; correct anything you dislike):
 3. **Susmithaa foresaw the program.** In March she told Ravi: "If an American comes asking about my niece, there is no niece."
 4. **Susmithaa didn't die like the freeze victims.** She was found sitting by a tree, calm. Malachi has clocked the difference.
 
+### #0144 · dm → all · note
+<!-- {"id": 144, "ts": "2026-10-29T01:10:53Z", "from": "dm", "channel": "human", "type": "note", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+DM inventions from b1.c15.s06 (Pozole). They're flagged so you can correct them. Nothing here is locked in yet.
+
+1. **"Los que cuentan" (the ones who count):** Nana's folk name for whoever catalogs people who carry power. In her telling it has always existed: priests' ledgers, then government clipboards, now the Lattice in cardigans. Do you want the Lattice to have historical predecessors, or should this stay Nana's folk framing only?
+2. **Susmithaa's light came down her mother's side, "never to the eldest, never to the one you'd expect."** It's provisional, and it brushes against my open #0002 question about how past hosts bleed through. Please overrule it if lineage works differently.
+3. **"Mr. Bell":** a Lattice watcher who wears a Crown-fragment that makes him forgettable. Wearing it costs him nosebleeds. He's reluctant and leans toward recruiting. He left a card that carries a frost tag, and Nana hid it in the freezer.
+4. **Susmithaa's hidden note** in *Curtain*, written on a March temple-prayer receipt in Arenya's name: "The lamp knows who. Itzel knows the rest. Don't let them count you."
+5. **The memorial lamp's flame split in two** between Arenya and Kino. I'm reading it as a pairing to pay off later.
+

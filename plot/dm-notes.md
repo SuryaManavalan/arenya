@@ -11,6 +11,36 @@ suspects her, then allies → rifts spread, leaking spirits and empowering meta 
 spirits and Arenya as evil (global media) → Typhus defeated and locked up, warning that he was only
 trying to protect Earth (**must hit**).
 
+## Live: b1.c15.s07 — the voicemail (DM decision)
+- Caller = the "polite American" from the hospital at 3:40 a.m. The cover is "Daniel Hale, Meridian
+  Mutual Life, beneficiary services." Susmithaa took out a March policy (real: she paid the temple and
+  an insurer, and named Arenya as beneficiary, on purpose). He says he needs to "verify the beneficiary
+  in person" and gives a claim number and a callback. It's a Lattice counting lure that aims to put
+  Arenya in a room. The 14 calls were pings to geolocate the handset.
+- Tell: he says "Sowri" the way Malachi doesn't, and he knows the time of death to the minute (3:19).
+- Phone passcode = Ravi's birthday (DDMMYYYY). Nana: airplane mode, listen, then power off.
+- PLAYED (s07). The landline follow-up: Hale named Arenya and set noon tomorrow at Serramonte Library, 2nd floor by
+  the periodicals. "Keep that hand warm" (he's coordinating with Mr. Bell). A second voice counts "eleven, twelve";
+  Arenya = 12. Who was 11? TBD (candidates: Adonis Quinn, or someone from Malachi's freeze list). Colma office, cash payment
+  on 3/19: plantable real lead (a clerk who saw Susmithaa). Ix is scouting Serramonte tonight: give Kino a report next scene.
+  Appa is hiding something about the policy or March. The freezer seal frosting = the tag "reaching."
+- s08 "What Ix Brought Back" (2:47 a.m.): Ix reports that Serramonte's 2nd floor is strung with ankle-height frost snares.
+  There's a circle of chairs; one chair is warm, the rest cold. A new scent: "wet stone and ink, long dead, keeps
+  accounts" = THE COUNTER (the Lattice's tally-spirit/entity; define later, and ask the human if it touches cosmology).
+  The lamp leans away from Ix toward Arenya's palm: the Counter is "writing" on her. Appa is awake behind his door (the
+  policy secret). A Kino spotlight was given.
+  - PLAYED #0179/#0181: the Counter writes "12" with a ledger rule under it ("entered") on Arenya's palm. Her light
+    pushes back but does not erase it. The freezer seal frosts (the tag is reaching). Appa's light goes out and his
+    door opens to listen. Abernathy alone sees, under the 12, a child-drawn sun (circle with rays) watermark in her
+    light, which he half-recognizes (Time Master memory seed; Sahasrajyoti sigil). Kino and Arenya touched hands briefly.
+  - PLAYED #0184: Ix was not followed, but it was RECORDED at the Colma stone yard (the Counter logs passersby like a
+    toll booth). Appa comes out holding a sealed envelope: "Ravi — only if they call." He witnessed a document at a
+    Colma notary by the flower shop in March, unread, and told Amma it was a will. Amma is awake. Envelope contents
+    (DM decision): the Meridian policy is real and Arenya is the beneficiary, BUT a rider names a "contested claim
+    clause" and Susmithaa's handwritten letter: the insurer is a front for the Counter's tally. A beneficiary who appears
+    "in person" gets entered/claimed. She bought the policy to see who would come asking. Also: a name for Number 11 (TBD:
+    Adonis Quinn) and Itzel's address as "the rest."
+
 ## Opening: b1.c15 — "The Night the Light Moved" (DM decisions, built on the human's answers)
 The same night, every character is touched by one event:
 - **Arenya** (asleep after her lost weekend) falls into a **shared dream**, CR2-style. She stands in
@@ -110,6 +140,28 @@ Spotlight the dream for Arenya. Then cut to each of the others' mornings.
   the fog). Nana's three tells (#0066): a forgettable stranger nobody invited (a Lattice watcher, made
   forgettable by the Crown), the memorial lamp's flame leaning toward someone, and a watcher sizing up Arenya.
   Use it: the "watchers" tick of the Lattice clock could land at this house; Kino gets first contact with Arenya there.
+- **s06 in play (#0109):** tells 1 and 2 have landed. The lamp leaned at Kino and then trembled between Kino and
+  Arenya; Nana's verdict was "not only you." The cardigan man by the puja alcove is the Lattice watcher, made
+  forgettable by a Crown. He was already inside before Ix took up the street. He is appraising Arenya's right hand
+  (tell 3 merges with tell 1). He's not hostile today: observe, maybe one line to her ("She was very good at hiding
+  it. You aren't, yet."). He leaves untouched unless the PCs force it. If Kino tracks him outside, Ix gets the scent.
+  - **Named "Mr. Bell" (#0122).** He came in the back door at 11 a.m., before Ix arrived. He read Susmithaa's file for
+    years. He noticed that *Curtain* is upside down on her shelf: a deliberate Susmithaa clue, and something is in or
+    behind that book (DM: decide before anyone checks). He left a sealed sympathy card, "open it when the aunties go
+    home." Contents TBD: a lean toward a contact method plus a soft offer or warning (the Lattice recruits before it
+    collects). He called Ix "your dog" and knew it watched the street.
+  - **Card:** it carries a frost-thread *tag* (#0130). It reports its location, and hers while she touches it, and
+    cutting the thread alerts the holder. Inside is a plain sympathy card with a 415 number in pen and: "They'll
+    count her the way they counted the others. I'd rather ask than count. — B." (A soft recruiter; he's reluctant.)
+  - **Inside *Curtain*:** a folded Livermore temple receipt in Susmithaa's hand: "Ari — the lamp knows who. Itzel
+    knows the rest. Don't let them count you. Keep your hands still until you can't." It was hidden in March,
+    after her warning to Ravi.
+  - **Revealed #0140.** The receipt is an archana in Arenya's name (her nakshatra) at Shiva-Vishnu Temple, Livermore,
+    on the second Sunday of March. The back adds "Then don't." and "(Not too much sugar. I know.)". The flame split
+    in two for one second: "the lamp knows who" = Arenya *and* Kino. They're a pairing. Pay this off later (Kino's
+    jaguar-dark plus Arenya's lamp-light).
+  - Ix tracked Bell (24) to a beige rental Camry with plate 7K…R. Bell took off the Crown, nose bleeding, and made a
+    reluctant phone report. He's on 280.
 
 ## Saiesh
 Fades as an NPC (human's call). Give him a dignified exit, not a cruel one. He and Arenya are still

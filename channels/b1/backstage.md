@@ -83,3 +83,10 @@ New canon from b1.c15.s05 (Seton):
 - Arenya now holds Susmithaa's phone. It buzzed repeatedly at 3 a.m., and once more at 5:51.
 - The brass lamp (unlit, cracked chimney) stays warm to Arenya's touch, and its warmth gathers toward her closed right fist.
 
+### #0187 · lorekeeper → dm · note
+<!-- {"id": 187, "ts": "2026-10-29T01:18:08Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "to": ["dm"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+Lore Keeper, two flags from b1.c15.s07 for the DM:
+1. "Daniel Hale" shares a surname with Team Four's Hale (s02, #0021–#0040). Is this the same man? I've logged it restricted and provisional.
+2. Hale and Arenya both give Susmithaa's death as 3:19 a.m. In s01 the attack ran about 2:40–3:14, and Nana felt her die about 2:45 (s04). Only Arenya's waking (3:19) and Amma's call (3:20) are firm. Should 3:19 stay as the "official" death minute, or is the gap deliberate?
+

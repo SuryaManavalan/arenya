@@ -18,20 +18,20 @@
   --r:12px;
 }
 *{box-sizing:border-box}
-html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font:14px/1.5 Inter,system-ui,sans-serif}
-body{background:radial-gradient(1200px 600px at 80% -10%,#2a1f5e55,transparent),radial-gradient(900px 500px at -10% 110%,#3b2a0a44,transparent),var(--bg)}
+html,body{margin:0;height:100%;overflow:hidden;background:var(--bg);color:var(--text);font:14px/1.5 Inter,system-ui,sans-serif}
+body{display:flex;flex-direction:column;background:radial-gradient(1200px 600px at 80% -10%,#2a1f5e55,transparent),radial-gradient(900px 500px at -10% 110%,#3b2a0a44,transparent),var(--bg)}
 a{color:var(--lamp)}
 button{font:inherit;cursor:pointer}
 ::-webkit-scrollbar{width:10px;height:10px}::-webkit-scrollbar-thumb{background:#2c3266;border-radius:10px}
 
 /* top bar */
-header{display:flex;align-items:center;gap:14px;padding:10px 18px;border-bottom:1px solid var(--line);background:#0d1022cc;backdrop-filter:blur(8px);position:sticky;top:0;z-index:50;flex-wrap:wrap}
+header{flex:none;display:flex;align-items:center;gap:14px;padding:10px 18px;border-bottom:1px solid var(--line);background:#0d1022cc;backdrop-filter:blur(8px);z-index:50;flex-wrap:wrap}
 .brand{font-family:"Cormorant Garamond",serif;font-size:24px;font-weight:600;letter-spacing:.5px;color:var(--lamp2);display:flex;align-items:center;gap:8px}
 .brand small{font-family:Inter;font-size:11px;color:var(--muted);letter-spacing:2px;text-transform:uppercase;font-weight:500}
-.pills{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.pills{display:flex;gap:8px;flex-wrap:wrap;align-items:center;flex:1;min-width:0}
 .pill{background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:4px 11px;font-size:12px;color:var(--muted);white-space:nowrap}
 .pill b{color:var(--text);font-weight:600}
-.pill.live{border-color:#2d6a52;color:var(--ok)}
+.pill.onair{border-color:#2d6a52;color:var(--ok)}
 .pill.paused{border-color:#7a4a17;color:var(--warn)}
 .pill.human{border-color:var(--lamp);color:var(--lamp2);cursor:pointer;animation:glow 2s infinite}
 @keyframes glow{50%{box-shadow:0 0 14px #f4c45a66}}
@@ -39,12 +39,13 @@ header{display:flex;align-items:center;gap:14px;padding:10px 18px;border-bottom:
 .dot.pulse{animation:pulse 1.2s infinite}
 @keyframes pulse{0%{box-shadow:0 0 0 0 #57d6a088}100%{box-shadow:0 0 0 8px #57d6a000}}
 .spacer{flex:1}
-nav{display:flex;gap:4px;padding:8px 18px;border-bottom:1px solid var(--line);background:#0d102299;overflow-x:auto}
+nav{flex:none;display:flex;gap:4px;padding:8px 18px;border-bottom:1px solid var(--line);background:#0d102299;overflow-x:auto}
 nav button{background:none;border:0;color:var(--muted);padding:7px 14px;border-radius:8px;font-weight:500}
 nav button:hover{color:var(--text);background:var(--panel)}
 nav button.on{color:var(--bg);background:var(--lamp)}
-main{padding:16px 18px;height:calc(100vh - 112px)}
-.view{display:none;height:100%}
+main{flex:1;min-height:0;padding:16px 18px;overflow:hidden}
+.view{display:none;height:100%;min-height:0}
+.live>*,.two>*,.mapwrap>*{min-height:0}
 .view.on{display:block}
 
 /* generic */
@@ -62,14 +63,14 @@ main{padding:16px 18px;height:calc(100vh - 112px)}
 .avatar.sm{width:22px;height:22px;font-size:9.5px}
 
 /* LIVE */
-.live{display:grid;grid-template-columns:200px 1fr 330px;gap:14px;height:100%}
+.live{display:grid;grid-template-columns:200px 1fr 330px;grid-template-rows:100%;gap:14px;height:100%}
 .chlist{display:flex;flex-direction:column;gap:2px;overflow:auto}
 .ch{display:flex;justify-content:space-between;align-items:center;padding:7px 10px;border-radius:8px;color:var(--muted);cursor:pointer;font-size:13px}
 .ch:hover{background:var(--panel)} .ch.on{background:var(--panel2);color:var(--text)}
 .ch .n{font-size:11px;color:var(--faint)}
 .chsec{font-size:10.5px;letter-spacing:1.5px;text-transform:uppercase;color:var(--faint);margin:12px 10px 4px}
 .feedwrap{display:flex;flex-direction:column;min-height:0;height:100%}
-.feed{flex:1;overflow:auto;padding:4px 6px 20px;scroll-behavior:smooth}
+.feed{flex:1;min-height:0;overflow:auto;overscroll-behavior:contain;padding:4px 6px 20px}
 .msg{display:flex;gap:11px;padding:10px 10px;border-radius:10px;margin-bottom:2px}
 .msg:hover{background:#ffffff06}
 .msg .meta{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
@@ -92,7 +93,8 @@ main{padding:16px 18px;height:calc(100vh - 112px)}
 .scenesum{margin:-4px 40px 14px;padding:10px 14px;border-left:2px solid var(--lamp);background:#f4c45a0d;color:#e8dfc6;font-size:13.5px;border-radius:0 8px 8px 0}
 .scrub{display:flex;gap:10px;align-items:center;padding:10px 12px;border-top:1px solid var(--line);background:var(--bg2);border-radius:0 0 var(--r) var(--r)}
 .scrub input[type=range]{flex:1;accent-color:var(--lamp)}
-.side{display:flex;flex-direction:column;gap:12px;overflow:auto;min-height:0}
+.side{display:flex;flex-direction:column;gap:12px;overflow:auto;min-height:0;overscroll-behavior:contain}
+.side>.card{flex:none}
 .job{display:flex;gap:8px;align-items:center;padding:6px 0;border-bottom:1px solid #ffffff08;font-size:13px}
 .exp{font-size:12.5px;padding:5px 0;border-bottom:1px solid #ffffff08}
 textarea,input[type=text],select{width:100%;background:var(--bg2);border:1px solid var(--line);color:var(--text);border-radius:8px;padding:8px;font:inherit}
@@ -120,7 +122,7 @@ textarea{min-height:90px;resize:vertical}
 .mem p,.mem ul{margin:.2em 0}
 
 /* MAP */
-.mapwrap{display:grid;grid-template-columns:1fr 320px;gap:14px;height:100%}
+.mapwrap{display:grid;grid-template-columns:1fr 320px;grid-template-rows:100%;gap:14px;height:100%}
 #map{height:100%;border-radius:var(--r);border:1px solid var(--line);background:#0e1124}
 .darktiles{filter:invert(1) hue-rotate(200deg) brightness(.85) contrast(.9) saturate(.6)}
 .leaflet-popup-content-wrapper,.leaflet-popup-tip{background:var(--panel);color:var(--text);border:1px solid var(--line)}
@@ -131,7 +133,7 @@ textarea{min-height:90px;resize:vertical}
 .who-marker .avatar{width:26px;height:26px;font-size:10px}
 
 /* WORLD / BOOKS */
-.two{display:grid;grid-template-columns:320px 1fr;gap:14px;height:100%}
+.two{display:grid;grid-template-columns:320px 1fr;grid-template-rows:100%;gap:14px;height:100%}
 .tree{overflow:auto}
 .tree .grp{font-size:10.5px;letter-spacing:1.5px;text-transform:uppercase;color:var(--faint);margin:14px 6px 4px}
 .tree .it{padding:5px 8px;border-radius:7px;cursor:pointer;font-size:13px;display:flex;justify-content:space-between;gap:6px}
@@ -161,17 +163,21 @@ table.t td{padding:5px 6px;border-bottom:1px solid #ffffff08}
 .modal{position:fixed;inset:0;background:#000a;display:none;place-items:center;z-index:100}
 .modal.on{display:grid}
 .modal .box{width:min(980px,94vw);height:min(86vh,900px);display:flex;flex-direction:column}
-.modal .box .doc{flex:1}
+.modal .box .doc{flex:1;min-height:0;overflow:auto}
 .tabs{display:flex;gap:4px;margin-bottom:8px}
-@media (max-width:1100px){.live{grid-template-columns:1fr}.chlist,.side{max-height:240px}.mapwrap,.two{grid-template-columns:1fr}.act{grid-template-columns:1fr 1fr}}
+.newbelow{position:absolute;bottom:64px;left:50%;transform:translateX(-50%);display:none;z-index:5}
+.feedwrap{position:relative}
+/* narrow screens: let the page scroll instead of squeezing every panel */
+@media (max-width:1100px){html,body{overflow:auto;height:auto}main{overflow:visible}.view.on{height:auto}
+  .live,.mapwrap,.two{grid-template-columns:1fr;grid-template-rows:auto}.chlist,.side{max-height:280px}
+  .feedwrap{height:70vh}#map{height:60vh}.tree{max-height:260px}.scenes,.castgrid,.act{height:auto}.act{grid-template-columns:1fr 1fr}}
 </style>
 </head>
 <body>
 <header>
   <div class="brand">✦ Arenya <small>game monitor</small></div>
   <div class="pills" id="pills"></div>
-  <div class="spacer"></div>
-  <button class="btn" id="pausebtn">Pause</button>
+  <button class="btn" id="pausebtn" style="flex:none;margin-left:auto">Pause</button>
 </header>
 <nav id="nav"></nav>
 <main>
@@ -184,6 +190,7 @@ table.t td{padding:5px 6px;border-bottom:1px solid #ffffff08}
         <input type="range" id="scrub" min="1" max="1" value="1">
         <span class="mono muted" id="scrubinfo"></span>
       </div>
+      <button class="btn primary newbelow" id="newbelow">↓ new messages</button>
     </div>
     <div class="side" id="side"></div>
   </div></section>
@@ -217,12 +224,35 @@ $("#nav").onclick=e=>{const v=e.target.dataset.v;if(v)show(v)};
 function show(v){VIEW=v;location.hash=v;document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("on",b.dataset.v===v));
   document.querySelectorAll(".view").forEach(s=>s.classList.toggle("on",s.id==="v-"+v));render();}
 
+/* scroll preservation: remember every scroll position inside a root, re-render, restore */
+const SCROLLERS=".feed,.side,.scenes,.castgrid,.act,#mapside,.tree,.doc,.chlist,.ask .q,.act .card";
+function keepScroll(root,fn){
+  if(!root)return fn();
+  const els=[root,...root.querySelectorAll(SCROLLERS)].map(e=>[e.id||e.className,e.scrollTop,e.scrollLeft]);
+  const r=fn();
+  const after=[root,...root.querySelectorAll(SCROLLERS)];
+  after.forEach((e,i)=>{const b=els[i];if(b&&b[0]===(e.id||e.className)){e.scrollTop=b[1];e.scrollLeft=b[2]}});
+  return r;
+}
+async function keepScrollAsync(root,fn){
+  const els=root?[root,...root.querySelectorAll(SCROLLERS)].map(e=>[e.id||e.className,e.scrollTop]):[];
+  await fn();
+  if(root)[root,...root.querySelectorAll(SCROLLERS)].forEach((e,i)=>{const b=els[i];if(b&&b[0]===(e.id||e.className))e.scrollTop=b[1]});
+}
+/* a view only re-renders when what it shows has changed */
+let SIG={};
+function sigFor(v){const st=S.state||{};return JSON.stringify([v,st.next_id,(st.running||[]).map(j=>j.seq),(st.queue||[]).length,(st.expectations||[]).length,
+  (st.scenes||[]).length,st.scene&&st.scene.id,st.paused,(st.human_waiting||[]).join(),S.turns_total,v==="cast"?Object.values(S.cast||{}).map(c=>c.memory_updated+JSON.stringify(c.sheet?.hp)+c.charges):0])}
+function changed(v){const g=sigFor(v);if(SIG[v]===g)return false;SIG[v]=g;return true}
+
 /* polling */
 async function tick(){
   try{
     S=await api("/api/state");
     if(S.state.next_id-1!==LASTID){MSGS=await api("/api/messages");const prev=LASTID;LASTID=S.state.next_id-1;onNewMessages(prev);}
-    renderHeader(); if(VIEW==="live")renderSide(); if(VIEW!=="live"&&VIEW!=="world"&&VIEW!=="books")render();
+    renderHeader();
+    if(VIEW==="live"){if(changed("side"))keepScroll($("#side"),renderSide)}
+    else if(VIEW!=="world"&&VIEW!=="books"&&changed(VIEW))render(true);
   }catch(e){$("#pills").innerHTML=`<span class="pill paused">dashboard can't reach the server: ${esc(e)}</span>`}
 }
 setInterval(tick,3000);
@@ -230,7 +260,7 @@ setInterval(tick,3000);
 function renderHeader(){
   const st=S.state, sc=st.scene, running=st.running||[];
   const pills=[];
-  pills.push(st.paused?`<span class="pill paused">⏸ <b>paused</b> ${esc(st.pause_reason||"")}</span>`:`<span class="pill live"><span class="dot pulse"></span>live</span>`);
+  pills.push(st.paused?`<span class="pill paused">⏸ <b>paused</b> ${esc(st.pause_reason||"")}</span>`:`<span class="pill onair"><span class="dot pulse"></span>live</span>`);
   pills.push(`<span class="pill">phase <b>${esc(st.phase)}</b></span>`);
   pills.push(`<span class="pill">Book <b>${st.book}</b> · Chapter <b>${st.chapter}</b></span>`);
   if(sc)pills.push(`<span class="pill">scene <b>${esc(sc.title)}</b> <span class="faint">${esc(sc.id)}</span></span>`);
@@ -249,8 +279,12 @@ function onNewMessages(prev){
   if(VIEW==="live")renderFeed(prev);
 }
 $("#scrub").oninput=()=>{FOLLOW=+$("#scrub").value>=+$("#scrub").max;$("#followbtn").classList.toggle("primary",FOLLOW);renderFeed()};
-$("#followbtn").onclick=()=>{FOLLOW=true;$("#scrub").value=$("#scrub").max;$("#followbtn").classList.add("primary");renderFeed()};
+$("#followbtn").onclick=()=>{FOLLOW=true;$("#scrub").value=$("#scrub").max;$("#followbtn").classList.add("primary");
+$("#newbelow").onclick=()=>{const f=$("#feed");f.scrollTop=f.scrollHeight;$("#newbelow").style.display="none"};
+$("#feed").addEventListener("scroll",()=>{const f=$("#feed");if(f.scrollHeight-f.scrollTop-f.clientHeight<80)$("#newbelow").style.display="none"});renderFeed()};
 $("#followbtn").classList.add("primary");
+$("#newbelow").onclick=()=>{const f=$("#feed");f.scrollTop=f.scrollHeight;$("#newbelow").style.display="none"};
+$("#feed").addEventListener("scroll",()=>{const f=$("#feed");if(f.scrollHeight-f.scrollTop-f.clientHeight<80)$("#newbelow").style.display="none"});
 
 function chGroups(){
   const counts={}; MSGS.forEach(m=>counts[m.channel]=(counts[m.channel]||0)+1);
@@ -259,9 +293,9 @@ function chGroups(){
   let h=`<div class="ch ${CH==="all"?"on":""}" data-ch="all"><span>✦ Everything</span><span class="n">${MSGS.length}</span></div>`;
   for(const [k,arr] of Object.entries(g)){h+=`<div class="chsec">${k}</div>`;
     for(const n of arr)h+=`<div class="ch ${CH===n?"on":""}" data-ch="${n}"><span>${n==="human"?"✉ ":n==="bond"?"✧ ":"# "}${esc(n)}</span><span class="n">${counts[n]||""}</span></div>`;}
-  $("#chlist").innerHTML=h;
+  keepScroll($("#chlist"),()=>{$("#chlist").innerHTML=h});
 }
-$("#chlist").onclick=e=>{const c=e.target.closest(".ch");if(c){CH=c.dataset.ch;chGroups();renderFeed()}};
+$("#chlist").onclick=e=>{const c=e.target.closest(".ch");if(c){CH=c.dataset.ch;chGroups();renderFeed();const f=$("#feed");f.scrollTop=f.scrollHeight}};
 
 function msgHTML(m){
   const t=m.type;
@@ -283,8 +317,10 @@ function renderFeed(prev){
   chGroups();
   const upto=+$("#scrub").value||Infinity;
   const list=MSGS.filter(m=>m.id<=upto&&(CH==="all"||m.channel===CH));
-  const f=$("#feed");const atBottom=f.scrollHeight-f.scrollTop-f.clientHeight<80;
+  const f=$("#feed");const atBottom=f.scrollHeight-f.scrollTop-f.clientHeight<80;const keep=f.scrollTop;
   f.innerHTML=list.length?list.map(msgHTML).join(""):`<div class="empty">No messages here yet.</div>`;
+  f.scrollTop=keep;
+  $("#newbelow").style.display=(prev&&!atBottom&&FOLLOW)?"block":"none";
   const last=MSGS.find(m=>m.id===upto)||MSGS[MSGS.length-1];
   $("#scrubinfo").textContent=last?`#${last.id} · ${last.scene||last.chapter||""} · ${new Date(last.ts).toLocaleString()}`:"";
   if(FOLLOW&&(atBottom||prev===undefined||prev===0))f.scrollTop=f.scrollHeight;
@@ -363,13 +399,14 @@ async function renderMap(){
     // Free, keyless OpenStreetMap tiles, darkened with a CSS filter (.darktiles) to match the theme.
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"© OpenStreetMap contributors",maxZoom:19,className:"darktiles"}).addTo(MAP);}
   setTimeout(()=>MAP.invalidateSize(),50);
+  let openKey=null;if(MAPLAYER)MAPLAYER.eachLayer(l=>{if(l.isPopupOpen&&l.isPopupOpen())openKey=l._key});
   if(MAPLAYER)MAPLAYER.remove();MAPLAYER=L.layerGroup().addTo(MAP);
   const here={};for(const[id,c]of Object.entries(S.cast)){const k=placeFor(c.location);if(k)(here[k]=here[k]||[]).push(id)}
   const scenesAt={};for(const s of allScenes()){const k=placeFor(s);if(k)(scenesAt[k]=scenesAt[k]||[]).push(s)}
   for(const[k,p]of Object.entries(PLACES)){if(p.lat==null)continue;
     const icon=L.divIcon({className:"",html:`<div class="pin ${p.visibility==="restricted"?"restricted":""}" style="background:${KIND[p.kind]||"#999"}"></div>`,iconSize:[14,14],iconAnchor:[7,7]});
     const pop=`<b style="font-family:Cormorant Garamond;font-size:17px">${esc(p.name)}</b><br><span class="tag">${esc(p.kind)}</span>${p.visibility==="restricted"?'<span class="tag bulk">secret</span>':""}${p.note?`<p style="margin:6px 0">${esc(p.note)}</p>`:""}${(scenesAt[k]||[]).map(s=>`<div class="faint">✦ ${esc(s.id)} ${esc(s.title)}</div>`).join("")}`;
-    L.marker([p.lat,p.lon],{icon}).bindPopup(pop).addTo(MAPLAYER);
+    const mk=L.marker([p.lat,p.lon],{icon}).bindPopup(pop).addTo(MAPLAYER);mk._key=k;if(openKey===k)mk.openPopup();
     if(here[k]){const ic=L.divIcon({className:"",html:`<div class="who-marker">${here[k].map(a=>av(a)).join("")}</div>`,iconSize:[30*here[k].length,30],iconAnchor:[15*here[k].length,40]});L.marker([p.lat,p.lon],{icon:ic,zIndexOffset:1000}).bindPopup(pop).addTo(MAPLAYER)}}
   const unplaced=Object.entries(S.cast).filter(([id,c])=>!placeFor(c.location));
   $("#mapside").innerHTML=(warn?`<div class="ask" style="border-color:var(--danger);color:var(--danger);font-size:12.5px">⚠ ${esc(warn)}</div>`:"")+`<h3 class="muted" style="font-size:12px;letter-spacing:1.5px;text-transform:uppercase">Where everyone is</h3>`+
@@ -423,7 +460,10 @@ function openModal(tabs){$("#modal").classList.add("on");const set=i=>{$("#mtabs
   $("#mtabs").onclick=e=>{if(e.target.dataset.i)set(+e.target.dataset.i)};set(0)}
 function closeModal(){$("#modal").classList.remove("on")}
 document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal()});
-function render(){if(!S.state)return;({live:()=>{renderFeed();renderSide()},scenes:renderScenes,cast:renderCast,map:renderMap,world:renderWorld,books:renderBooks,activity:renderActivity})[VIEW]?.()}
+function render(background){if(!S.state)return;
+  const fn=({live:()=>{renderFeed();renderSide()},scenes:renderScenes,cast:renderCast,map:renderMap,world:renderWorld,books:renderBooks,activity:renderActivity})[VIEW];
+  if(!fn)return; const root=document.getElementById("v-"+VIEW);
+  return background?keepScrollAsync(root,fn):fn();}
 tick().then(()=>show(VIEW));
 </script>
 </body>

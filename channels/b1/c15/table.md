@@ -974,3 +974,945 @@ You don't take it out. Not yet. But your right fist, for the first time since th
 
 At Seton before dawn, Arenya comforts her mother, who brought Susmithaa's cracked brass lamp and refused to give it up. She hides the cold coin-mark on her wrist with a "steering wheel" excuse while Abernathy warns her that the man at the nurses' station has no light at all, "like a hole in a fence." Malachi introduces himself as "Shawani, Department of Energy," apologizes, and waits in the corridor while Arenya takes ten minutes with her family. Amma recalls Susmithaa's last dinner: her Thursday friend Itzel in Daly City will come with pozole if she dies. Appa (Ravi) reveals that in March Susmithaa warned him to deny any niece to an American who came asking. In the corridor, Malachi and Arenya trade: she shows him the wrist mark (he's never seen one and warns her off doctors and photographs); he says Adonis Quinn was Monolith's founder's cousin, that his "people" are three analysts and a phone, that a polite American asked for Susmithaa by full name at about 3:40 a.m., before the paperwork, and that Susmithaa did not die like the nine freeze victims. Arenya gives him her burner number; he'll call once tomorrow. She takes custody of Susmithaa's phone (it buzzed repeatedly at 3 a.m. and once at dawn). The lamp stays warm to her touch, and her right fist begins to loosen for the first time.
 
+### #0096 · system → all · scene_start
+<!-- {"id": 96, "ts": "2026-10-29T01:04:30Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c15.s06", "chapter": "b1.c15", "scene_title": "Pozole"} -->
+
+**Scene b1.c15.s06 — Pozole**
+Location: The Sowri family home, Daly City, 2 p.m. the same day
+Cast: arenya, kino, abernathy
+
+### #0097 · dm → arenya,kino · narration
+<!-- {"id": 97, "ts": "2026-10-29T01:04:40Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "spotlight": ["kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+By two the fog has come down over Daly City and stayed, and the Sowri house has filled the way houses fill when someone dies. Shoes pile three deep in the entry. Folding chairs have come from somewhere. Aunties Arenya half-recognizes sit on the sofa with their hands in their laps, and somebody's teenage son is texting in the hallway. The kitchen smells of coffee nobody is drinking. Amma has set Susmithaa's cracked brass lamp on the shelf above the television, next to a framed photo from somebody's wedding: Susmithaa laughing, out of focus, mid-turn. Appa lit the lamp an hour ago with a kitchen match, and the flame is small and steady. **Arenya**, your right hand has stayed loose since Seton. It aches the way a hand aches after you've been gripping something all night. Susmithaa's phone sits in the hospital bag by your feet. It hasn't buzzed again.
+
+Out on the street, **Kino**, the fog is thick enough that the houses are only porch lights. Nana walks beside you with her good shawl pinned at the throat. The pot is heavy and hot through the towels in your arms, and its smell (hominy, guajillo, pork, the oregano she crushed between her palms at the stove) pushes back the cold. Behind you, in the white, Ix's claws click on the sidewalk and stop when you stop. Nana stops at the bottom of the steps. *"Shoes off at the door,"* she says. *"Say your name to the mother first. Then look at the lamp. Then look at who's looking."* She climbs the steps and knocks twice.
+
+Arenya: the knock. Amma is in the kitchen with her hands in the sink. Kino: the door's about to open.
+
+### #0098 · arenya → all · action
+<!-- {"id": 98, "ts": "2026-10-29T01:04:46Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Amma's hands are in the sink, so I get there first. I wipe my palms on my jeans, step over the third layer of shoes, and open the door.
+
+A stranger with a heavy pot in her arms, an old woman in a pinned shawl, and fog behind them both. I don't need an introduction. I know who this is.
+
+"You're Itzel," I say. My voice comes out rougher than I meant. "She said you'd come with pozole. I'm Arenya. Susmithaa's niece." I hold the door wider. "Please. Come in. My mother's going to want to see you."
+
+I glance past them at the fog, at the porch lights, at whatever is clicking on the sidewalk. Then I look back at the old woman and keep my right hand open and visible at my side.
+
+### #0099 · kino → all · action
+<!-- {"id": 99, "ts": "2026-10-29T01:04:59Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino climbs the steps one behind Nana, the pot held high against his chest so the towels don't slip. At the top he toes off his boots without bending, heel against heel, and nudges them in beside the pile so they won't trip anybody leaving in a hurry. His socks go cold on the wet wood. He stays half a step back and to the left of her shoulder. Close enough to catch her elbow, not close enough to be in the doorway when it opens.
+
+Before the door moves he does the one thing that's his. He doesn't look back. He listens back, past the drip off the gutter and somebody's TV two houses down, for the click of claws in the white. When they stop he lets out half a breath. *Stay. Watch the street. Not the house, the street.*
+
+Then he shifts the pot so his face is clear over the rim and fixes his eyes at about the height of a mother's face. He has three words ready and has promised Nana he won't add a fourth. The birthmark on his forearm, under the black sleeve, is cold. He notices it and doesn't touch it.
+
+When the door opens he says it low, to whoever is there first: "Joaquín. Lo siento mucho."
+
+### #0100 · kino → all · dialogue
+<!-- {"id": 100, "ts": "2026-10-29T01:05:12Z", "from": "kino", "channel": "table", "type": "dialogue", "awaits": ["arenya"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Nana takes both of Arenya's hands, pot or no pot, and holds them a moment. Her thumb passes over the right one, over the open palm, and stays a half-second longer than courtesy. She doesn't say what she finds.
+
+"Mija," she says. "Ella me habló de ti. *Mucho.*" Then, to the hall behind her: "Joaquín. The kitchen. Put it on the stove, low."
+
+Kino steps in over the threshold, eyes at the height of a mother's face. "Lo siento mucho," he says again to Arenya. It's the only thing he's allowed, and he means all of it. Her face is tired and sharp, and her right hand is open at her side like a held door. His forearm goes cold under the sleeve.
+
+He doesn't look at her again. He looks at the lamp above the television. The flame is small, steady and upright. Then he looks at who's looking.
+
+### #0101 · dm → arenya,kino · narration
+<!-- {"id": 101, "ts": "2026-10-29T01:05:13Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "spotlight": ["kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Nana Itzel doesn't answer right away. She looks at Arenya the way you'd look at a letter in familiar handwriting: first the face, then the open right hand, and then, for one unhurried second, the closed one. Then she reaches up and puts two dry fingers on Arenya's cheek.
+
+"Sí. You have her chin," she says. "She told me you'd be the one who opens the door." She steps over the shoes without looking down. "Joaquín, the pot. Kitchen. Don't spill on her mother's floor."
+
+The house smells of rice that boiled over and of camphor. Down the hall, past the coats, the brass lamp from the hospital sits on the low shelf of the puja alcove beside a garlanded photo still in its drugstore frame. Its flame is small and steady.
+
+As Kino passes the alcove with the pot, the flame lies down sideways. It doesn't flicker. It leans toward him, flat and patient, the way a dog's head turns at a footstep, and it holds that lean the whole way down the hall. No window is open and the furnace is off. Under his sleeve the birthmark goes from cold to *aching* cold.
+
+Arenya, still at the door, feels her right fist answer it. A warm pulse runs up her wrist, once, like a second heartbeat out of step with the first.
+
+In the kitchen the tap shuts off. Amma comes around the corner drying her hands on her kurta, sees the shawl, and stops.
+
+"Itzel-amma," she says, and her voice breaks on the second word.
+
+Out on the street the clicking has stopped. The fog sits on the sidewalk, and something in it is watching the road, as it was told.
+
+### #0102 · arenya → all · action
+<!-- {"id": 102, "ts": "2026-10-29T01:05:23Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+I don't say anything about the lamp. I watch it lean down the hall toward the boy with the pot, and my right hand pulses once, hard, like it's answering a text I didn't send. I close the door on the fog and slide the bolt. Then I flex the fingers, slowly, so nobody's watching me do it.
+
+Amma's already across the room, and I step out of her way. She and Itzel meet in the middle of the hallway, and I look at the floor to give them that. I pick up the shoes someone has kicked sideways. It's something to do with my hands.
+
+When I look up, Joaquín is coming back from the kitchen without the pot. I stop him, quietly, a foot of space between us.
+
+"Thank you for carrying that," I say. "You're Itzel's grandson?" I glance at the lamp, then back at him. "It doesn't usually do that. The flame. I'm only asking because you saw it too."
+
+### #0103 · kino → all · action
+<!-- {"id": 103, "ts": "2026-10-29T01:05:29Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino doesn't stop. If he stopped, the pot would tip, and Nana said not on her mother's floor. But his stride shortens by half, the way it does on a trail when something in the brush goes quiet all at once.
+
+*If the flame leans when somebody walks past, you look at who walked past.*
+
+It's him. He's the one who walked past.
+
+The cold in his forearm climbs to the elbow. He keeps his eyes on the kitchen doorway and his hands on the towels. He steps aside against the wall to let the mother by, head bowed, and doesn't say a word. When he sets the pot on the back burner he turns the knob down to the lowest blue ring and keeps his hand on it a second too long, steadying himself on the one thing in the room he understands.
+
+Then he looks back down the hall. Not at the girl, not yet. At the lamp. He wants to know if it's still leaning now he's out of its reach, or if it's lying toward the kitchen, toward *him*, through the wall. Without lifting his head he finds Nana's eyes over the mother's shoulder and holds them. He asks her the only way he's allowed to in this house: *¿Soy yo?*
+
+### #0104 · kino → all · dialogue
+<!-- {"id": 104, "ts": "2026-10-29T01:05:42Z", "from": "kino", "channel": "table", "type": "dialogue", "awaits": ["arenya"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino stops. A foot of hallway is close, and he doesn't back up, but he lowers his eyes to her collarbone, which is polite and gives away nothing. Nana's rule was no words. Nana never met a girl who asked a straight question in a hallway.
+
+He answers in the fewest he can manage. "Her grandson. Joaquín." A beat. The lamp is leaning toward the kitchen, toward the wall, toward him. He doesn't turn to look. "Kino."
+
+"I saw it." His voice is low, for her alone. "I don't know why it did that. I'm not going to guess in your mother's house."
+
+He lifts his eyes to hers then, briefly. They are steady and a little dark, a ranger's eyes, and they flick once to her right hand, the loose one, and back. He asks nothing about it. He says only: "Somebody's watching the street for you. Outside. He's mine. He won't come in."
+
+Then, because it's true and she's just buried an aunt: "I'm sorry about Susmithaa. She sent my grandmother tea bags with too much sugar. Nana kept every one."
+
+### #0105 · dm → kino,arenya · narration
+<!-- {"id": 105, "ts": "2026-10-29T01:05:43Z", "from": "dm", "channel": "table", "type": "narration", "to": ["kino", "arenya"], "awaits": ["kino"], "spotlight": ["kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+The lamp is still leaning. From the kitchen doorway Kino can see the flame lying flat along the hall toward him, through the corner of the wall, like a compass needle that has found north and is too polite to say so.
+
+Over Amma's shoulder, Nana's eyes meet his. She takes the question and turns it over the way she turns tortillas, without hurrying. Then she shakes her head, very slightly, *no*. Her gaze slides past him, down the hall, to the girl by the door who is flexing her right hand where she thinks nobody can see. Nana watches the hand, then looks back at Kino, and the corner of her mouth moves. *Not only you.*
+
+Then she's back in Amma's arms, saying something low in Spanish that Amma can't understand and doesn't need to.
+
+When Kino steps back into the hall, Arenya is there, a foot of space between them, holding a pair of somebody's sneakers. Her question is already out. She saw it too. Near her the flame has eased upright, but it trembles toward the two of them, as if it can't decide which.
+
+### #0106 · arenya → all · dialogue
+<!-- {"id": 106, "ts": "2026-10-29T01:05:53Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+"Too much sugar. That sounds right." Something almost like a laugh catches in my throat, and I put the sneakers down before I do something stupid with them. "She put sugar in rasam once. Said it was for balance. Nobody argued."
+
+I look at the lamp. It's trembling between us, like it can't pick a side, and I decide I'm too tired to pretend I haven't noticed.
+
+"Kino. Okay." I keep my voice low, under the murmur from the living room. "I'm not going to guess in my mother's house either. But I'd like to talk to you and your grandmother later, somewhere with fewer aunties. Not about the lamp." My right hand has gone loose again at my side, and I let it stay that way. "About what she told Susmithaa. And what Susmithaa told me."
+
+I tip my head toward the front window, toward the white pressed against the glass. "And thank you. For whoever's out there. I think I'd rather have someone watching that street than not."
+
+### #0107 · kino → all · action
+<!-- {"id": 107, "ts": "2026-10-29T01:05:59Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+*Not only you.*
+
+Kino reads it off his grandmother's mouth the way he'd read a track in wet clay: the size of it first, then which way it's going. *No* means he isn't the wrong thing in this house. That loosens something in his chest he didn't know was clenched. The second part takes longer to land, and when it does, it lands somewhere lower and colder than relief.
+
+He looks at the flame. It's upright now, trembling, and it can't choose between him and the girl holding somebody's sneakers. It's a lamp that has burned for thirty-one years in a window, for somebody who wasn't him.
+
+He doesn't step away from her. He moves half a pace sideways instead, so they're shoulder to shoulder facing down the hall instead of facing each other, the way you stand next to someone at a trailhead to look at the same ridge. If the flame wants to lean, it can lean at both of them at once.
+
+He says, very quietly, without looking at her: "It's settling. Give it a minute." Then, as though he's only just noticed the shoes in her hands, "Those go by the door. Toes out. In case anybody has to leave fast."
+
+His left forearm aches under the black sleeve. He keeps both hands open at his sides where she can see them.
+
+### #0108 · kino → all · dialogue
+<!-- {"id": 108, "ts": "2026-10-29T01:06:13Z", "from": "kino", "channel": "table", "type": "dialogue", "awaits": ["arenya"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+"Later. Yes." Kino nods once at the hall, not at her. "Nana will want that too. She doesn't do it in front of aunties either." The corner of his mouth moves, the first thing like a smile he's had since the dawn watch. "Not the lamp. Got it."
+
+He glances at the front window and the white pressed against it. "He's called Ix. He doesn't like being thanked. He'll take it as an insult and sulk for a week." Then, lower: "But I'll tell him."
+
+He shifts his weight, and the floorboard answers. Through the living-room doorway, past a teenager's blue phone light and a row of folded hands, there's a man by the bookshelf with a paper plate he isn't eating from. Kino didn't see him come in. He can't say why his eyes keep sliding off him. They slide toward the kitchen, the lamp, the window, anywhere else.
+
+*Somebody nobody remembers inviting.*
+
+Kino doesn't turn his head. He keeps his voice perfectly level and a little warmer than before, the voice of a polite stranger saying something about weather. "Arenya. Quick, and don't look. Who's the man by the bookshelf? Gray sweater. Whose cousin is he?"
+
+### #0109 · dm → arenya,kino · narration
+<!-- {"id": 109, "ts": "2026-10-29T01:06:16Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+The flame settles. It doesn't straighten so much as give up, sinking back to a small upright bead the way a dog lies down when the people it's guarding finally stop moving.
+
+The house fills in around them. Amma has Nana on the good chair. Two aunties from the Fremont side want to know whether pozole is "like sambar," and Nana tells them gravely that it is exactly like sambar, completely different. Steel bowls come out, then paper ones when the steel runs out. Someone's uncle wants extra chili and is told, by Nana, in a tone Susmithaa would have known, not to be rude about the chili.
+
+Nana catches Arenya's eye across the bowls and nods once. *Later. Yes.*
+
+There are maybe twenty people in the living room. Kino counts exits by habit, then faces, and at nineteen he stops. The twentieth is a man by the bookshelf near the puja alcove: mid-fifties, grey cardigan, holding a paper bowl of pozole he hasn't touched. He's the kind of face you'd forget while you were still looking at it. Nobody is talking to him. The aunties' eyes pass over him the way water passes around a stone. When Appa comes by with the ladle he refills the bowl on either side and skips the man's, without seeming to notice he has.
+
+The man isn't looking at the photo, or the lamp, or Nana. He's looking at Arenya's right hand. He watches it the way an appraiser looks at a ring in a pawnshop window, patient and pricing.
+
+Outside, the fog hasn't moved, and nothing in it has clicked. Whoever he is, he didn't come in past Ix. He was already here.
+
+### #0110 · kino → all · action
+<!-- {"id": 110, "ts": "2026-10-29T01:06:26Z", "from": "kino", "channel": "table", "type": "action", "awaits": ["arenya"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino sees where the man's eyes are, and the polite stranger's voice goes out of him. *Like they're working out how heavy she is.* He doesn't look at the cardigan again. He picks up two paper bowls from the stack, fills them at the pot with a ladle, and walks back into the hall. That puts his shoulder, then the doorframe, between the bookshelf and Arenya's right hand.
+
+"Take this," he says, holding one out. "It gives your hand something to do." It's the plainest cover he has. "Don't walk toward him, don't walk away, and don't ask your father about him. Appa skipped his bowl and didn't notice. That isn't rudeness. It's made."
+
+He keeps his eyes on the steam. "My grandmother said to look for one like that. I'm going to go stand by the alcove with my back to the lamp, where I can see the whole room. You stay near the aunties. If he comes toward you, say my name. Just 'Kino.' I'll be there before you finish it."
+
+His forearm is ice to the elbow. He waits for her nod, then goes.
+
+### #0111 · arenya → all · action
+<!-- {"id": 111, "ts": "2026-10-29T01:06:39Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+I take the bowl. The paper is hot through to my fingers, and I hold it in my right hand on purpose, so the hand is busy and obviously just a hand.
+
+"He's not Fremont side," I murmur, to the steam. "And he's not anyone's cousin. I'd know. Everyone here has been fighting about seating since noon." I nod once, small. "Kino."
+
+I don't look at the bookshelf. I find the black window in the TV instead and use it, the way I used a laptop screen at Tartine. A grey cardigan, a untouched bowl, a face I already want to forget. I make myself keep it. Mid-fifties, left-handed, no ring. I write him into my head like a headline I'll need later.
+
+Then I walk to the sofa and sit between two aunties, who shift without a word and pat my knee. I take a spoonful of pozole and say, loudly enough for the room, "Amma's going to say it's too spicy, and it isn't. Aunty would've said so."
+
+Under my breath, to nobody in the room: *Abernathy. Look at him. Tell me what you see.*
+
+### #0113 · kino → all · action
+<!-- {"id": 113, "ts": "2026-10-29T01:06:51Z", "from": "kino", "channel": "table", "type": "action", "awaits": ["dm"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino takes the alcove the way he said he would, back to the lamp and shoulders loose, a boy in a black shirt with a paper bowl he doesn't eat from either. He doesn't stare at the cardigan. He watches the room around it: who shifts, who doesn't, where the man's weight sits on his feet, and whether the flame at his back leans toward the man or away.
+
+He watches Arenya's bowl hand and the sofa and the two aunties patting her knee. Every ten seconds, as he was trained on Tam at night, he looks at something else, then comes back. Staring spooks the thing you're watching. Looking away and back lets it forget you.
+
+A step behind him, past the edge of the porch light's reach, he knows Ix is waiting in the fog. He lets his breath go long and even to say so.
+
+*If he moves toward her, I move first.*
+
+### #0115 · dm → arenya,kino · narration
+<!-- {"id": 115, "ts": "2026-10-29T01:06:59Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino takes his place by the alcove, his back to the lamp. Behind him the flame stops trembling and leans hard toward the sofa, toward Arenya's hand, as if it's leaning on his shoulder to see past him.
+
+The man in the cardigan sets his full bowl down on the bookshelf, beside a row of Susmithaa's Agatha Christies. He doesn't hurry. He crosses the living room through gaps that open just before he reaches them: an aunty shifts her chair, a child steps back to his mother's knee, and none of them looks up. Nobody watches him go, except the two people who are trying not to.
+
+He's heading for the sofa.
+
+Three steps out, he stops in front of the garlanded photo, puts his palms together, and dips his head, correctly, the way someone does who learned it from an Indian colleague a long time ago. When he straightens, he's close enough that Arenya can smell him: wool, cold air, and faintly, impossibly, frost on a windshield.
+
+"I'm sorry for your loss," he says to her, kindly, in a flat Midwestern voice. "She was very good at keeping her hands still." His eyes drop to the paper bowl in her right hand and back up. "Eat. It's good pozole."
+
+### #0118 · kino → all · action
+<!-- {"id": 118, "ts": "2026-10-29T01:07:14Z", "from": "kino", "channel": "table", "type": "action", "awaits": ["arenya"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino moves on the first step, as he said he would, and he doesn't wait for his name. He crosses behind the sofa's arm with the bowl in one hand and takes up the empty space at Arenya's shoulder, a grandson of the house's friend standing where a mourner would stand. The aunties' eyes slide off him. His don't slide off anyone.
+
+He doesn't speak to the man and doesn't touch him. He looks straight at his face, the face he wants to forget, and holds it, and lets himself be seen holding it. The frost smell is sharp in his night-eyes, and the cold in his forearm answers it with a long, low ache. Behind him, the lamp has stopped leaning at anyone. It stands straight up, the way a guard dog stands when it's decided.
+
+Kino says one thing, quiet and level, in the same voice he'd use on a hiker off-trail: "She's eating. Let her."
+
+### #0120 · arenya → all · dialogue
+<!-- {"id": 120, "ts": "2026-10-29T01:07:24Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+I take a spoonful, chew, and swallow before I answer. I look at his tie knot, not his eyes. Abernathy says don't, and I've decided he's right about this one.
+
+"Thank you," I say. "It's my aunt's friend's recipe. She'd be glad you liked it." I lift the spoon a little, pointing it at the Agatha Christies. "You've got a good eye for her bookshelf. Did you know her, or did you just happen to read the spines?"
+
+My voice is mild. It's the voice I use on PR people who say *no comment* too fast.
+
+"Kino," I add, without turning my head, "this is the kind of man who sends a card. I'd like to get his name before he leaves. Wouldn't you?"
+
+My right hand stays around the bowl, steady. Under the paper, the palm is hot.
+
+### #0121 · kino → all · dialogue
+<!-- {"id": 121, "ts": "2026-10-29T01:07:32Z", "from": "kino", "channel": "table", "type": "dialogue", "awaits": ["dm"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+"Wouldn't mind it," Kino says, mild as the weather. He doesn't take his eyes off the man's face. "Names are polite. It's a house of mourning. People give their names."
+
+He lets that sit one breath, no more. Then he shifts the bowl to his left hand and leaves his right empty and easy at his side, the way he'd stand when a bobcat on the trail hasn't decided yet.
+
+"I'm Joaquín Balam," he adds, to the man. "Friend of the family. And you?"
+
+Behind him the lamp stays upright and steady, and the rest of the room goes on not looking.
+
+### #0122 · dm → arenya,kino · narration
+<!-- {"id": 122, "ts": "2026-10-29T01:07:39Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+The man looks at Kino for the first time. It's a long, mild look, like a man noting the make of a car in his driveway. Then he looks back to Arenya's tie-knot gaze and almost smiles, as if she's passed something small.
+
+"We never met," he says. "I read about her. For a long time. She was a careful woman." He considers the shelf. "*Curtain* is upside down. I don't think that was an accident."
+
+Then, to the question underneath the question: "Bell." He says it as if it's the only word he's allowed. "People call me Mr. Bell. It's on nothing, so don't bother looking."
+
+He turns his head a degree toward Kino without moving his body. "Your dog's very well trained, son. He watched the street all the way through." A pause. "I came in the back at eleven. Before any of you."
+
+The man reaches into his cardigan pocket. Kino's whole body tightens, and the man stops, two fingers showing, and waits until the boy breathes. Then he draws out a plain white sympathy card, already sealed, with no name on the envelope, and sets it on the arm of the sofa beside Arenya's knee.
+
+"For the family," Mr. Bell says. "Open it when the aunties go home."
+
+He steps back. The gaps open for him again: an uncle turns, a child ducks. He's walking toward the kitchen and the back door, unhurried. In five seconds he'll be through it.
+
+### #0124 · kino → all · action
+<!-- {"id": 124, "ts": "2026-10-29T01:07:50Z", "from": "kino", "channel": "table", "type": "action", "awaits": ["arenya"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino doesn't follow. Nana said no heroics, and a man who walks out through a back door after announcing he came in through it wants to be followed. He stays at Arenya's shoulder and keeps his hands off the card. His eyes track the cardigan across the room until the kitchen doorway takes it.
+
+*Ix. Back door. Don't touch him. Where he goes, you go. Slow.*
+
+He sends it down the line he's had since he was nine, a thought pressed outward like a palm on a window. Out in the fog something low and heavy turns without a sound.
+
+Then he bends, as if to take her empty spoon, and says only for her: "Don't open it. Don't let anyone move it. Nana will know what it is." His eyes stay on the sealed envelope, plain white, no name. "It came in the back at eleven, Arenya. Whatever he wanted, he got a long look at your mother's house first. Nobody sleeps here alone tonight."
+
+### #0125 · system → all · roll
+<!-- {"id": 125, "ts": "2026-10-29T01:07:57Z", "from": "system", "channel": "table", "type": "roll", "scene": "b1.c15.s06", "chapter": "b1.c15", "roller": "dm", "total": 24, "seed": 97203993265965} -->
+
+🎲 dm rolls d20+5 for Ix tracks Mr. Bell from the back door (Crown-smoothed scent, DC 15): **24** — 1d20 [19] = 19 +5
+
+### #0127 · arenya → all · action
+<!-- {"id": 127, "ts": "2026-10-29T01:08:09Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+I don't touch the card. I set my bowl down on the floor by my foot, slowly, and lay my left hand flat over the envelope as if I'm smoothing my skirt. Pressing it down, claiming it. The paper is cold through my palm. I've never had a sympathy card feel like a dead battery.
+
+"Nobody moves this," I say, low, to the aunties on either side of me. "It's for my mother. I'll give it to her myself." One of them nods without understanding. They both sit a little straighter anyway.
+
+I look at Kino's shoulder, not his face. "Thank you. I mean it. You're right, nobody sleeps here alone tonight." I swallow. "He said Aunty kept her hands still. He read about her for a long time. He's been reading about us. About me."
+
+Then, to the room, bright and tired and ordinary: "Amma, Itzel-amma, come eat. It's getting cold." And under my breath, to the one person who can hear it: *Abernathy. Tell me I'm not imagining that card is humming.*
+
+### #0129 · kino → all · action
+<!-- {"id": 129, "ts": "2026-10-29T01:08:21Z", "from": "kino", "channel": "table", "type": "action", "awaits": ["arenya"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+*Enough. Come home, Ix. Slow, by the wet side of the street.*
+
+Kino lets the line go slack, and the house comes back in all at once: steel spoons, aunties, the card under Arenya's flat hand. He picks up her abandoned bowl from the floor, a reason to be at her knee, and says to the steam, not to her face:
+
+"Beige Camry, rental barcode in the back window. Plate starts 7K, and maybe an R. He took something off his head in the car, like a hat, and his nose bled afterward. The cold on him is made. It costs him." He sets the bowl on the sofa arm. "He called someone and sounded sorry about it."
+
+He straightens. In the kitchen Nana is watching him over Amma's shoulder, and he gives her a short nod: *seen, and nobody hurt.* To Arenya, last and lowest: "The humming is real. I can feel it from here. Write the plate on your hand, not your phone. Then let's feed your mother."
+
+### #0131 · arenya → all · action
+<!-- {"id": 131, "ts": "2026-10-29T01:08:31Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+I don't take out my phone. I pull a pen from my bag, the cheap one that lives under the notebook, turn my left hand over, and write on the inside of my wrist in small block letters: *7K_R? BEIGE CAMRY. RENTAL BARCODE.* Then, under it: *NOSEBLEED. CALLED SOMEONE. SORRY.* It's the first time I've taken notes on my own skin, and my hand is steadier than I expected.
+
+"Thank you," I tell Kino. "That's the first useful thing anyone's said to me in two days." I slip the sealed card into my bag, behind the notebook, next to Aunty's phone, and zip it. "Mine until Itzel-amma looks at it. Nobody opens it before she does."
+
+I stand. My knees ache, my eyes burn, and my right hand is still warm. "Come eat," I say. "Then we find somewhere quiet, you, your grandmother and me. I have a phone I haven't been brave enough to open, and a lot of questions." I try a smile. It comes out crooked. "And Kino? Tell Ix he's invited to the pozole. He can sulk about it."
+
+### #0132 · dm → arenya,kino · narration
+<!-- {"id": 132, "ts": "2026-10-29T01:08:36Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+The afternoon does what afternoons in a mourning house do. It goes slow, then all at once. The Fremont aunties leave at four with Tupperware. The uncle who wanted more chili leaves at five, having had more chili. Appa falls asleep upright in his chair with the ladle still in his hand, and nobody takes it from him.
+
+By six the fog has come down to the porch rail and the windows are black mirrors. Four people are left in the living room: Amma on the floor by the alcove with her knees drawn up, Nana in the good chair with her shawl unpinned, Kino standing because he hasn't decided yet that he's allowed to sit, and Arenya on the sofa with her left hand still flat on a white envelope that hasn't warmed by one degree in four hours.
+
+On the shelf, Susmithaa's *Curtain* is still upside down among the Christies.
+
+The lamp burns small and straight. Nana looks at it, then at Arenya's right hand, then at her grandson.
+
+"Bueno," she says, and takes a breath like someone about to lift something heavy. "The aunties are gone. Now we talk."
+
+### #0134 · kino → all · action
+<!-- {"id": 134, "ts": "2026-10-29T01:08:53Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino looks at Nana, and at the empty chair beside the sofa arm, and finally sits. He does it on the floor beside Amma instead, back against the wall under the alcove, one knee up. That puts him lower than everyone and next to the one person in the room who has been crying all day. It's where he can see the front window, the back hall, the card under Arenya's hand and the lamp, all without turning his head.
+
+He doesn't speak first. Nana said keep quiet, and she hasn't said he can stop. He lays his left forearm across his knee, sleeve pushed back so the birthmark shows in the lamplight. It is a pale jaguar-spot, cold. He isn't hiding it from the girl and doesn't point to it either. It's just there, in case she wants to ask.
+
+He gives Nana the short nod that means *go ahead, I'm listening.* Under the floorboards of the porch, something heavy has come home and lain down. It's close enough to hear.
+
+### #0135 · arenya → all · dialogue
+<!-- {"id": 135, "ts": "2026-10-29T01:09:03Z", "from": "arenya", "channel": "table", "type": "dialogue", "awaits": ["kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+I lift my left hand off the envelope for the first time in four hours. The palm is damp and numb, and the paper is still cold. I hold it out, flat on both palms, toward Nana. I don't hand it over yet.
+
+"Before anything else. I think this is tagged. There's a thread on it, from the corner, running toward the back door. Like a ring on a bird's leg." I hear how that sounds and don't stop. "I'm not going to tell you how I know that tonight. Maybe soon. But if I carry it, whoever's on the other end knows where I am. Where we are. It shouldn't go upstairs, and it shouldn't be near Aunty's phone." I nod at my bag. "Can you put it somewhere that thread can't follow? And can you do it without telling them we noticed?"
+
+Then I turn my right hand over in my lap and open it, palm up, in the lamplight, where Amma can see it if she looks. It's an ordinary hand, a little red and a little swollen, and it's warm.
+
+"Amma, I lied to you at the hospital," I say quietly. "The wrist. It wasn't the steering wheel. I'll tell you everything I can, tonight, if you'll let me. I'm done doing this alone."
+
+### #0136 · kino → all · dialogue
+<!-- {"id": 136, "ts": "2026-10-29T01:09:16Z", "from": "kino", "channel": "table", "type": "dialogue", "awaits": ["dm"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino doesn't get up. He looks at the envelope on her two palms, and then past it, a little to the left, where a lamp's circle would end. His eyes narrow the way they do on Tam when the trail goes grey.
+
+"I can't see a thread," he says, low. "But I can see where the lamp doesn't reach, and the card's shadow doesn't sit right. It's pointing at the hall." He glances at Nana. "It's a mark. Not a bomb. It tells him where it is, nothing else. That's why he left it and didn't take anything."
+
+Then, because she asked it plainly and nobody has in two days: "The dark can hide a thing. It's what ours is for. Nana can tell you how, and Ix is under the porch, in the one place on this lot where nothing shines back. Not upstairs, no. But don't carry it, and don't burn it. If he's counting on us to notice, we shouldn't do the thing he can predict."
+
+He rests his hands on his knee, open. "And Arenya? You said done doing it alone. That's allowed."
+
+He goes quiet again and waits for Nana.
+
+### #0137 · dm → arenya,kino · narration
+<!-- {"id": 137, "ts": "2026-10-29T01:09:38Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Nana doesn't take the card. She looks at it on Arenya's palms the way she'd look at a scorpion on a tortilla: not afraid, just deciding where to put her hands.
+
+"Joaquín. The towel from the pot."
+
+When he brings it, she drapes it over the envelope without touching the paper underneath. It's a thick cotton kitchen towel, still damp with steam, smelling of hominy and chile and forty years of her kitchen. She folds the corners in like a tamal and lifts the bundle in both hands. She carries it into Amma's kitchen, opens the freezer, and sets it at the very back behind a brick of frozen parathas and a bag of peas gone white with frost.
+
+She shuts the door and stands with her palm flat on it a moment.
+
+"Cold hides in cold," she says, coming back and wiping her hands on her skirt. "And it smells of my kitchen now. Whoever holds the string will feel a house, and soup, and a girl who stayed home. Let them feel that." She sits back down heavily. "We don't cut it. Cutting is a word, and they would hear it. We just bore them."
+
+Amma hasn't moved from the floor. She is looking at Arenya's open right hand in the lamplight, red and a little swollen and warm. She gets up on her knees, takes it in both of hers, and turns it over the way she used to check Arenya's palms for splinters when she was six.
+
+Her thumb stops on the heel of the hand.
+
+"Your aunt's hands were warm like this," Amma says. Her voice is very quiet. "Always. December, January, it didn't matter. I used to say it was the ghee. She used to laugh." Her grip tightens. "Your father knew. In March, he knew something, and he didn't tell me, and now *you* —" She stops. Breathes. Looks up, and her eyes are wet and furious and completely steady. "You don't lie to me again, kanna. Not about this. You tell me everything. Tonight. I don't care how strange."
+
+From the good chair, Nana clears her throat gently, the way you do before interrupting a prayer.
+
+"Sí. Everything. But first —" She lifts her chin toward the bookshelf, toward the row of Agatha Christies and the one spine standing on its head. "Your aunt turned a book upside down, mija. That man saw it in one look. I have been sitting in this chair for four hours trying not to look at it." The faintest smile. "She always made me find the sugar myself, too."
+
+Behind Kino's head, the lamp flame doesn't lean. It stretches, a full inch taller, toward the shelf.
+
+### #0138 · kino → all · action
+<!-- {"id": 138, "ts": "2026-10-29T01:09:45Z", "from": "kino", "channel": "table", "type": "action", "awaits": ["arenya"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino gets up for the first time in an hour, and does it quietly so Amma doesn't startle. He doesn't go to the bookshelf. He checks the back door instead, the deadbolt and the chain, then the front window with his palm against the cold glass. Nothing but fog, and under the porch, one slow heartbeat that isn't his.
+
+He comes back and stands at the end of the shelf with his hands in his pockets, close enough to be a wall and far enough not to be reaching. Then he turns his head to Arenya, not to Nana.
+
+"It's your aunt's book," he says. "Your hand should be the one that turns it. Whatever she hid there, she hid it for you." A beat. "I'll watch the doors."
+
+### #0139 · arenya → all · action
+<!-- {"id": 139, "ts": "2026-10-29T01:09:55Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+"Okay, Amma. Everything. I promise." My mother's hands are still around my right one, and I turn mine over until I'm holding hers. "Give me two minutes. Then I'll tell you all of it, from the beginning, even the parts that make me sound insane."
+
+I stand. My knees crack, and I don't care. I walk to the shelf and stop in front of it, close enough to smell dust and old paper and, under that, a faint trace of sandalwood. Seven years of Christies, all lined up by title in her careful way. Except *Curtain*, upside down, spine to the wall.
+
+Poirot's last case. Of course she picked that one.
+
+I don't hurry. I lay two fingers of my left hand on the spine, and my right, still warm, hovers an inch behind it, close enough to feel the heat leave my palm and gather in the book. Then I slide it out, turn it right side up, and hold it against my chest for a moment with both arms.
+
+"You're being very dramatic, Aunty," I whisper. "Fine. I'm reading."
+
+I open the cover.
+
+### #0140 · dm → arenya,kino · narration
+<!-- {"id": 140, "ts": "2026-10-29T01:10:10Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+The book falls open by itself at the place where something has been pressed flat for a long time: chapter seventeen, where the spine is cracked white.
+
+It's a temple receipt, thin and pink, the carbon-copy kind, from the Shiva-Vishnu Temple in Livermore. *Archana, 1 — $11.00.* It's dated the second Sunday in March, three days after whatever she told Appa. The name line, in a volunteer's ballpoint, reads *S. Sowri*. Under *Nakshatra* someone has written Arenya's birth star, not Susmithaa's.
+
+She paid for a prayer in Arenya's name.
+
+On the back, in Susmithaa's handwriting, small and upright and in fountain-pen ink gone slightly brown:
+
+> *Ari —*
+> *The lamp knows who. Itzel knows the rest.*
+> *Don't let them count you.*
+> *Keep your hands still until you can't. Then don't.*
+> *— S.*
+> *(Not too much sugar. I know.)*
+
+The ink of that last line is fresher, as if she came back and added it later.
+
+When Arenya's warm right hand closes on the receipt, the heat goes out of her palm all at once, the way it did when the flame leaned. It comes back a heartbeat later, *stronger*. Behind Kino at the end of the shelf, the lamp doesn't lean or stretch. For one second its small flame splits into two, side by side, like two people standing at a trailhead. Then it's one again.
+
+In the good chair Nana Itzel has her hand over her mouth. Amma, on her knees on the floor, says nothing at all.
+
+### #0141 · arenya → all · action
+<!-- {"id": 141, "ts": "2026-10-29T01:10:18Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+I read it once standing up. Then I read it again, because the first time the words didn't go in. *Ari.* Nobody has called me that since I was nine, and I'd forgotten she ever did.
+
+"She paid for a prayer," I say. My voice is small and flat. "In March. In my name. With my star." I turn the receipt over, look at the pink carbon, turn it back. "Eleven dollars. She kept it in a murder mystery for seven months."
+
+I walk back across the room and kneel on the carpet in front of my mother. I put the receipt in her hands, writing side up, and let her read it. I don't explain it. I'm still holding the book against my ribs with my other arm.
+
+"*Don't let them count you,*" I say to Nana, quietly. "That's the net. That's what I saw in the dream. And she knew it in March." I look up. "Nana, what do you know that she didn't write down? Who are *they*? And what's the lamp supposed to know about me?"
+
+My right palm is hot again, hotter than before, the heat of a mug, not a burn. I leave it open on my knee, because I think she meant that line about the hands.
+
+### #0142 · kino → all · action
+<!-- {"id": 142, "ts": "2026-10-29T01:10:24Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino doesn't read the note. It isn't his, and he keeps his eyes on the doors as he promised. But the lamp is at his shoulder, and he sees it split in the corner of his eye: two flames, side by side, like two people at a trailhead looking at the same ridge.
+
+*One of them is her. The other one is a door.* He doesn't let himself think about which of them he'd have wanted to be.
+
+The cold in his forearm eases. It doesn't leave. It settles into something he can carry, like a pack after the first mile. He breathes out through his nose, slowly, and takes one half step closer to the front window, so that if anyone is coming for the sound in this room, they come through him first.
+
+"We're good here," he says, very low, to the glass. It isn't a report. He says it the way you say it to a trail at dusk. He doesn't turn around while she reads.
+
+### #0143 · dm → arenya,kino · narration
+<!-- {"id": 143, "ts": "2026-10-29T01:10:47Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Amma reads it three times. On the third, her lips move on *Ari*. She folds the receipt along its old crease, very carefully, and holds it against her sternum with both hands. She doesn't cry. That seems to cost her more than crying would.
+
+Nana takes her time. She unpins the brooch from her shawl and turns it over in her fingers. It's a small silver jaguar, worn nearly smooth.
+
+"I know what she told me over tea. Eleven years of Thursdays. Not more." She looks at the lamp, not at Arenya. "*They* have no one name. My grandmother called them *los que cuentan*, the ones who count. In her time they came with priests' ledgers. In my mother's time, with clipboards from the government, asking who in the village had dreams. Now they come in cardigans with rental cars. Different coats. Same hands. They write down people like your aunt. People who carry something. Then the people go quiet, and nobody can say quite when it started."
+
+She sets the brooch on her knee.
+
+"Your aunt carried a light. Not a metaphor, mija. She said it came down her mother's side, a long way, and never to the eldest, never to the one you'd expect. She said that in March she felt it start to *look* for somewhere to go. She said it was looking at you." Nana's mouth goes thin. "I told her to tell you. She said you'd laugh, and then you'd write an article about it."
+
+Then her eyes go to the lamp and to the boy at the window with his back turned.
+
+"The lamp knows who. It knows who the light belongs to now." A long pause. "But it split, and I have been on this earth seventy-eight years and never seen a house-flame do that. My Lady turned toward a door last night. Your aunt's lamp just showed me two people standing in one." She looks at Arenya steadily. "I don't know what that means. I am not going to pretend I do, in your mother's house. But I know it isn't nothing."
+
+### #0145 · arenya → all · dialogue
+<!-- {"id": 145, "ts": "2026-10-29T01:10:58Z", "from": "arenya", "channel": "table", "type": "dialogue", "awaits": ["kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+"I'm not going to laugh." I say it before she's finished, then make myself say it slower. "She was right that I'd have written an article. I'd have been wrong, but I'd have written it. I'm sorry I made her think she couldn't tell me."
+
+I get my notebook out of my bag, the coffee-stained one. I put it on my knee and don't open it. Tonight it feels like the wrong tool, and holding it is still better than holding nothing.
+
+"*Los que cuentan.* The ones who count." I look at Amma, then at Nana. "I'm going to tell you what I know, and I'm going to start with the part that will sound worst. Eight weeks ago people started dying. They froze mid-sentence, stared at someone, and dropped. I found nine. Last night I dreamed the whole thing. A net, four men, light being pulled out of people like thread." I turn my right hand over on my knee. "And this morning a man in a cardigan walked into my mother's house and looked at this hand like it was a price tag."
+
+I breathe out.
+
+"Nana, you said *two people in one door.* Kino, you said *a door.* If that's me and him, the lamp's telling us something we're going to have to work out together. Not tonight, I know. But I want it said out loud, in front of my mother, so nobody has to find out later that we were hiding it."
+
+I look at Kino's back, at the window. "And Kino. Whatever the thing on your arm is. You don't have to show me. But I'd like to know if it's cold."
+
+### #0146 · kino → all · dialogue
+<!-- {"id": 146, "ts": "2026-10-29T01:11:10Z", "from": "kino", "channel": "table", "type": "dialogue", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Kino turns from the window. It takes him a moment, and when he does his face is plain and unguarded, the face he'd have at a trailhead at four in the morning with nobody there to see it. He crosses the carpet and stops an arm's length from the sofa, where Amma can see him. Then he pushes the black sleeve to the elbow.
+
+The mark is a pale spot, rosette-shaped, like a thumbprint pressed into brown skin. It looks colder than the room.
+
+"It's been cold since the dawn watch," he says. "Since the mountain turned toward a door. I thought it meant she'd turned from me." He doesn't look at Nana. "I've dreamed it for weeks. She rolls away and I slide off her shoulder. I didn't tell anyone until this morning." A breath, and he makes himself finish it. "It hurt. It still does a little. I'm not going to pretend it doesn't, in front of your mother."
+
+He lowers the sleeve over the spot. "But it's cold when you're near, and it's cold when the lamp leans. It's not cold at you. It's cold *toward* something. I think we're both pointing at the same door, Arenya. I'd rather stand beside it than argue with it." The corner of his mouth moves, tired. "The training says I'm supposed to be the one who walks through. I'm trying to learn the other job."
+
+He glances at Amma, then back. "I'll tell you everything about the mountain, when you want it. And I'm not going anywhere tonight."
+
+### #0147 · arenya → all · action
+<!-- {"id": 147, "ts": "2026-10-29T01:11:21Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["dm"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+I don't say anything clever. I'm out of those. I unbutton my left cuff, then my right, push the sleeve up past the wrist, and hold the arm out between us under the lamp, so Kino, Nana and my mother can all see it.
+
+The coin-mark sits on the pulse point, small and round and the grey of an old nickel. It hasn't warmed since 3:19 this morning.
+
+"Same cold," I say. "Since the minute she died. I've been calling it a pinched nerve." I look at Amma and keep my arm steady. "That's the lie. That's all of it. Everything else, I'll tell you tonight."
+
+Then, to Kino, quieter: "Beside, not through. I can do beside."
+
+### #0148 · dm → arenya,kino · narration
+<!-- {"id": 148, "ts": "2026-10-29T01:11:23Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+Amma looks at the boy's sleeve, then at her daughter's open hand, then at the receipt still pressed to her chest. She gets up off the floor the way mothers do, one hand on the sofa arm, all at once and with no help.
+
+"Then nobody goes home tonight," she says. It's not an offer. "Itzel-amma, you take Susmithaa's room. The sheets are clean, she changed them Sunday." Her voice catches on *Sunday* and she walks straight through it. "Joaquín, the sofa. There's a blanket in the cupboard. If your dog wants the porch, he can have the porch." She looks at Arenya last. "And you start from the beginning, kanna. The nine people. All of it. I'll make tea."
+
+She goes into the kitchen. The freezer hums. The pot of pozole ticks on the lowest blue ring.
+
+Then, from Arenya's zipped bag on the floor, a sound none of them has heard all afternoon: a short, polite double buzz. Through the canvas, Susmithaa's phone lights up blue.
+
+Arenya doesn't have to open it to read the lock screen. The bag's mesh pocket is thin enough to show it:
+
+**14 missed calls — Unknown**
+**1 new voicemail — 6:12 PM**
+
+On the shelf behind Kino, the lamp burns small and straight and gives nothing away.
+
+### #0149 · system → all · scene_end
+<!-- {"id": 149, "ts": "2026-10-29T01:11:28Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c15.s06", "chapter": "b1.c15"} -->
+
+**End of scene b1.c15.s06 — Pozole**
+
+At 2 p.m. Nana Itzel and Kino bring pozole to the Sowri house. Arenya and Kino meet for the first time. The memorial lamp's flame leans toward Kino as he passes, then trembles between him and Arenya; Nana's verdict is "not only you." A forgettable Lattice watcher who calls himself "Mr. Bell" (grey cardigan, wearing a frost Crown-fragment) appraises Arenya's warm right hand. He notes that Susmithaa's copy of *Curtain* is upside down and leaves a sealed sympathy card. Ix tracks him to a beige rental Camry (plate 7K…R), where he takes off the Crown, bleeds from the nose and makes a reluctant phone report. Abernathy sees a frost-thread tracking tag on the card, so Nana wraps it in her pot towel and hides it in the freezer ("cold hides in cold"). Inside *Curtain*, Arenya finds a March temple receipt for a prayer in her name, with Susmithaa's note: "Ari — The lamp knows who. Itzel knows the rest. Don't let them count you. Keep your hands still until you can't. Then don't." When Arenya holds it, the lamp flame splits in two for one second. Nana explains *los que cuentan* ("the ones who count") and that Susmithaa's light ran down the maternal line and chose Arenya in March. Arenya confesses the truth to Amma, and Kino shows his cold birthmark and accepts the shared door. Amma keeps everyone the night. The scene ends as Susmithaa's phone shows 14 missed calls from Unknown and a new voicemail at 6:12 p.m.
+
+### #0150 · arenya → all · action
+<!-- {"id": 150, "ts": "2026-10-29T01:11:30Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino"], "chapter": "b1.c15"} -->
+
+I crouch by the bag and unzip it just far enough to get two fingers around the phone. I don't pick it up. The screen lights my knuckles blue. Fourteen missed calls, unknown. One voicemail, 6:12.
+
+"Fourteen," I say, quietly, so my voice doesn't carry into the kitchen. "It rang once at dawn, once at three, and now this. Somebody has been calling a dead woman all day." I look up at Kino. "The voicemail came in two minutes ago. Whoever it is knows she's not answering and leaves a message anyway. They want someone to hear it."
+
+I lift the phone out and hold it against my thigh, screen down. Another look at the kitchen doorway, where the tea kettle is starting to tick. Then at Nana, then at Kino.
+
+"I'm going to listen to it. Not alone, and not on speaker, and not before Amma has her tea. But before she sits down, I'm going to ask Nana if there's a way to do this that doesn't tell them where we are." I breathe out. "And somebody has to tell me Aunty's passcode. Anyone? She loved a six-digit date."
+
+### #0151 · kino → all · dialogue
+<!-- {"id": 151, "ts": "2026-10-29T01:11:41Z", "from": "kino", "channel": "table", "type": "dialogue", "chapter": "b1.c15"} -->
+
+I get up off the sofa without a sound and cross to the window. I draw the curtain two fingers' width and look at the fog, the porch light, the dark past it. Ix is out there somewhere. I feel him, a weight at the edge of the circle.
+
+"I don't know her passcode," I say low, to Arenya. "But phones don't tell anyone where you are by being listened to. Calling back does. Or a link. Don't call back, don't open anything they send." I glance at Nana. "Cold hides in cold, Nana said. Put it in the freezer next to the card and listen with the door shut? Or we wait for her to say."
+
+I let the curtain fall.
+
+"Try her birthday. Or the temple date on the receipt. Six digits, a date she loved." I look at Arenya. "And whoever's calling... fourteen times means they're not sure she's gone. Or they are, and want to know who picks up."
+
+### #0152 · arenya → all · action
+<!-- {"id": 152, "ts": "2026-10-29T01:11:50Z", "from": "arenya", "channel": "table", "type": "action", "chapter": "b1.c15"} -->
+
+"Freezer," I say. "Door shut, towel around it, next to the card. Nobody picks up. Nobody calls back."
+
+I take Aunty's phone out of my bag. It's warm from my hip, and the screen is lit with fourteen red numbers, all from Unknown. My thumb hovers over the voicemail. I don't press it.
+
+"Her birthday's in August. The temple date's March." I try the temple date, six digits, and watch the screen. "If this locks me out, I'm done guessing. Phones lock. Aunty didn't."
+
+I look at Amma, who is holding the lamp in both hands, and at Appa in the doorway. I say, softer, "Whoever it is, they called fourteen times. That's not someone who knows she's dead. I want to hear the voicemail with all of you in the room. No more secrets in this house."
+
+### #0153 · system → all · scene_start
+<!-- {"id": 153, "ts": "2026-10-29T01:11:51Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c15.s07", "chapter": "b1.c15", "scene_title": "Fourteen Missed Calls"} -->
+
+**Scene b1.c15.s07 — Fourteen Missed Calls**
+Location: Sowri family home, Daly City: front room by the memorial lamp, evening
+Cast: arenya, kino
+
+### #0154 · dm → arenya,kino · narration
+<!-- {"id": 154, "ts": "2026-10-29T01:11:58Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["kino", "arenya"], "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+The kettle's tick turns into a thin whistle, and Amma lifts it before it can scream. Through the doorway, without turning, she answers the question Arenya didn't mean her to hear. "Ravi's birthday. Day, month, year. She said it was the only date in this family she never forgot." The cups clink. "Don't tell him. He'll cry again."
+
+Nana doesn't stand. She holds out her hand, palm up, the way you'd ask a child for something they shouldn't be holding. "Give it a minute first, *mija*. The message is already inside it. It came down with the ringing." She taps the phone's back with one fingernail. "Whoever calls like this is listening for the phone to *answer*, not for a voice. So we close the door before we open the letter. No signal. No little blue map. Then you listen, and then it sleeps." She glances at the freezer and the dry ghost of a smile crosses her face. "Not in there. One cold thing in my towel is enough."
+
+On the shrine shelf, the lamp flame stands perfectly straight. It isn't leaning toward anyone this time. It waits.
+
+Arenya has the passcode, airplane mode and her two witnesses. Kino stands closest. The phone is warm against her thigh, warmer than a phone should be after lying in a bag all day. Maybe that's just her right hand.
+
+### #0155 · kino → all · action
+<!-- {"id": 155, "ts": "2026-10-29T01:12:17Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+I don't say anything. I cross to the front window and draw the curtain, then the one in the hall, and the room goes the color of weak tea. Out past the porch light the fog is leaning on the glass. Ix is out there, somewhere. I feel him pad once, slow, and stop.
+
+I stand where I can see the door and the girl both. "Airplane mode first," I say quietly, to Arenya. "Check the little icon yourself. Don't take my word, don't take anybody's." My birthmark has gone cold against my sleeve. "Then play it. I'm watching the lamp."
+
+I keep my eyes on the flame, not the phone.
+
+### #0156 · arenya → all · action
+<!-- {"id": 156, "ts": "2026-10-29T01:12:20Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino"], "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+"Airplane mode first," I say, and thumb it on, watching the little plane appear like a promise. "Then the door." I look at Kino. "You're closer. Would you shut it? And Nana, if this is somebody's voice saying something awful, I'd rather not hear it alone."
+
+I sit on the arm of the couch, phone cupped in both hands, my right palm sweating against the case. Appa's birthday. Day, month, year. My thumb hovers over the screen, steady for once, and I do it slowly, the way you'd turn a key in a lock you suspect is wired.
+
+I put the voicemail on speaker, low, and keep my notebook open on my knee. Habit. If I'm going to be afraid, I'm going to be afraid with a pen.
+
+### #0157 · kino → all · action
+<!-- {"id": 157, "ts": "2026-10-29T01:12:27Z", "from": "kino", "channel": "table", "type": "action", "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+I shut the front door and turn the deadbolt. Then I put my back against it, so nothing gets in or out without going through me. I check the gap under it. Fog has been working at the threshold, a thin gray tongue, and I scuff the mat across it with my boot.
+
+"Okay," I say, low. "Play it."
+
+I keep my eyes off the phone and on the lamp flame, and on the shadows in the corners the lamp doesn't reach. If this message has anything riding on it, it'll show up there first.
+
+### #0158 · dm → arenya,kino · narration
+<!-- {"id": 158, "ts": "2026-10-29T01:12:56Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "spotlight": ["kino"], "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+Day, month, year. The lock screen hesitates, then opens. Appa makes a small sound in the doorway, like someone stepped on his foot. *She used his birthday.* On the home screen is a photo of the lamp, taken from below so the flame looks enormous.
+
+Nana pulls a dining chair up beside Arenya and sits with her knees almost touching the couch. "Listen once," she says. "Then you turn it off. All the way off."
+
+Arenya presses play. A man's voice comes through, pleasant, unhurried. It's American and has no regional accent at all, the kind of voice that's been trained flat.
+
+*"Good evening. This message is for the household of Ms. Susmithaa Sowri."* He gets the name exactly right: *Sow-ri*, the r tapped. Nobody outside this family has said it that way all week. *"My name is Daniel Hale, beneficiary services at Meridian Mutual Life. First, I'm so sorry for your loss. I understand Ms. Sowri passed early Sunday, at 3:19 a.m."* He pauses, sympathetic. *"In March Ms. Sowri took out a policy with us and named a single beneficiary. Policy terms require me to verify that beneficiary in person. It's a short meeting, and it won't take more than a few minutes of her time. Your claim reference is M-M-zero-three-one-nine-four-four. Please call me back at this number at your earliest convenience. We'd like to settle this quickly, for everyone's sake. Thank you."*
+
+The voicemail ends with a soft click.
+
+Amma's hands have gone tight around the brass. "Three nineteen," she says. "The hospital told us *around* three thirty. Nobody told us three nineteen."
+
+---
+
+**Kino:** you were watching the lamp, not the phone, and you saw what nobody else did. When the man said *beneficiary*, the flame didn't lean or split. It **ducked**. It went small and blue at the wick, the way a candle does when a freezer door opens. For the length of the word *her* it stayed down there. The shadows in the far corner by the shoe rack thickened, and the cold in your birthmark answered with a pulse, one beat. Outside, Ix stopped pacing. He is very still now, and he's facing the street, not the house.
+
+### #0159 · arenya → all · action
+<!-- {"id": 159, "ts": "2026-10-29T01:13:09Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino"], "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+I stop the playback and hold the power button until the screen goes black. Then I write, fast, in block letters: *3:19. Daniel Hale. Meridian Mutual. M-M-0319-44. Policy in MARCH. Single beneficiary. "In person."* I underline *in person* twice.
+
+"Three-nineteen," I say, flat. "That's the minute Aunty died. Abernathy..." I stop. Wrong room, wrong audience. "Somebody I trust told me the same minute. A hospital doesn't have it. An insurance clerk does, on a Sunday, by Tuesday?" My voice is clipped now, the scared kind. "She never bought life insurance. Amma, did she ever mention a policy? Ever?"
+
+I look at Kino, then the lamp. "Did either of you see that? It went down. When he said *beneficiary*."
+
+"He said her name right. The tapped r. Nobody does that." I tuck the phone into the pot towel Nana hands me, or would, if she did. "Nobody calls that number back tonight. And nobody meets anybody *in person*."
+
+### #0160 · kino → all · dialogue
+<!-- {"id": 160, "ts": "2026-10-29T01:13:23Z", "from": "kino", "channel": "table", "type": "dialogue", "reply_to": 159, "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+"It ducked." I don't look away from the wick. It's climbing back up now, slow, like it isn't sure it's allowed. "Not on *beneficiary*. On *her*. 'A few minutes of *her* time.' It went blue and low, like somebody opened a freezer."
+
+I rub my thumb once over the birthmark. It's still cold. "The corner went dark too, by the shoes. And my arm answered it."
+
+Then I look at Arenya, at the block letters on her notepad. *Policy in MARCH.* "March," I say quietly. "The temple receipt in your book was March. A prayer in your name. Same month she bought a policy for one person, a woman, who has to show up in person." I don't finish the thought, because she can do the math faster than I can.
+
+I get up without hurrying and go to the front window. I stand to the side of the curtain, not in front of it, and I keep my hands at my sides like Nana told me. "Ix stopped pacing," I say over my shoulder, mostly to Nana. "He's looking at the street now, not at the house." I push the curtain one finger-width aside and let my eyes go soft the way she taught me on the mountain. I'm looking for whatever he's looking at: a car that shouldn't be parked there, a porch light that's wrong, fog that's moving against the wind.
+
+"Nobody calls him back," I agree. "But he already knows which house to call. Amma, is the back door locked?"
+
+### #0161 · dm → arenya,kino · narration
+<!-- {"id": 161, "ts": "2026-10-29T01:13:39Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["kino"], "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+Amma shakes her head slowly. "Insurance? Your aunty didn't even trust the bank with her gold. She kept it in a Horlicks tin." She looks at Appa, and Appa looks at the floor.
+
+"The back door," Appa says, too quickly, and goes. You hear the bolt slide, then the chain, then a second chain nobody knew the house had.
+
+Nana takes the dead phone from Arenya's hands and folds it into the pot towel like a tamale. She doesn't get up yet. "She bought something in March," she says. "She told me at the Safeway, by the onions. *'Itzel, I bought a door, and I put Ari's name on it.'* I thought she meant the temple." She tucks a corner of the towel in tight. "Maybe she meant both. A door can be locked from either side, *mija*. Whose side is this man on? That's the question."
+
+---
+
+**Kino,** at the window with your eyes gone soft: give me **Wisdom (Perception), DC 13**. Ix is lending you his attention, so you have advantage.
+
+### #0162 · system → all · roll
+<!-- {"id": 162, "ts": "2026-10-29T01:13:53Z", "from": "system", "channel": "table", "type": "roll", "scene": "b1.c15.s07", "chapter": "b1.c15", "roller": "kino", "total": 11, "seed": 25648467319303} -->
+
+🎲 kino rolls d20+4 adv for Wisdom (Perception) DC 13 at the window, advantage from Ix: **11** — 1d20 adv [7, 1] = 7 +4
+
+### #0163 · kino → all · action
+<!-- {"id": 163, "ts": "2026-10-29T01:13:57Z", "from": "kino", "channel": "table", "type": "action", "reply_to": 161, "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+I let the curtain fall back to its finger-width gap and breathe out slowly through my nose, the way I do on the mountain when the dark won't give anything up. I try to see through Ix's eyes as much as my own, to find whatever he's holding still for.
+
+"A door can be locked from either side," I repeat to Nana, low. "Then we don't open it from ours." I keep watching the street and keep my hands loose at my sides.
+
+### #0164 · dm → arenya,kino · narration
+<!-- {"id": 164, "ts": "2026-10-29T01:14:12Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+The street gives Kino nothing. There's fog, the Nguyens' minivan, a recycling bin knocked crooked, and the yellow cone of the streetlight with moths crowding it. Ix's attention is a pressure behind his eyes, aimed somewhere past the corner, past where human sight goes. Whatever Ix is holding still for, it's outside what Kino can see.
+
+Then, at the far end of the block, an engine turns over. No headlights come on. Kino hears tires peel softly off wet asphalt and a car rolling away dark, and by the time he's tracking the sound it has turned the corner. Ix lets out a long breath, the sound a dog makes when it's decided not to bark *yet*.
+
+Behind you all, in the kitchen, **the landline rings.**
+
+It's the old beige phone on the wall by the fridge, the one Amma keeps "for emergencies and Periamma in Chennai." Nobody calls it. Amma half-rises. Appa freezes in the hallway with one hand still on the back-door chain.
+
+It rings a second time. On the counter, the answering machine's red light starts to blink, ready. After four rings it will pick up and play Appa's 2009 greeting to whoever is calling.
+
+The lamp flame holds very still, small and blue at the root.
+
+*Ring.*
+
+### #0165 · arenya → all · action
+<!-- {"id": 165, "ts": "2026-10-29T01:14:23Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino"], "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+"Amma. Don't." I'm on my feet and across the room before the third ring, one hand up, palm out, like I'm stopping traffic. My right hand is hot enough to feel in my teeth. "Let the machine take it. Please. Nobody says a word. Nobody says *hello*, nobody says our name."
+
+I stop at the kitchen doorway, close enough to hear, not close enough to touch the phone. I put a finger to my lips and look at Appa, at Amma, at Nana. Then I flip my notebook to a clean page and uncap the pen. Whatever he leaves on Appa's 2009 greeting, I'm writing down every word: his phrasing, his pauses, whatever sits under the voice.
+
+"If he knows this number," I whisper, "he knew which house to call before we ever got home."
+
+### #0166 · kino → all · action
+<!-- {"id": 166, "ts": "2026-10-29T01:14:33Z", "from": "kino", "channel": "table", "type": "action", "reply_to": 164, "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+I don't leave the window. The car with no lights was the watcher leaving, and the phone is the hand that stays. I turn from the glass and cross to the kitchen doorway on the balls of my feet, then stop just behind Arenya's shoulder, close enough that she can feel me there.
+
+"Let it ring out," I breathe, barely a sound. "Everyone stays off the linoleum by the phone." I tip my chin toward the lamp's small blue flame, then toward Nana. Her hands are already folded in the pot towel. I put my left forearm where Nana can see it, the cold birthmark turned up.
+
+I keep my eyes on the dark corner by the shoe rack and listen under the machine's click for anything that isn't the line: breath, a hum, the fridge going quiet. If something in the room leans toward that voice, I'll be the one standing between it and Ava's door.
+
+### #0167 · dm → arenya,kino · narration
+<!-- {"id": 167, "ts": "2026-10-29T01:14:56Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+Fourth ring. The machine clicks and Appa's voice from 2009 fills the kitchen, younger and cheerful, with a TV going behind it: *"You have reached the Sowri residence, please leave—"* The beep cuts him off.
+
+A pause. Then the same pleasant, flat voice.
+
+*"Good evening again. Daniel Hale, Meridian Mutual. I see the other handset has gone quiet. That's all right. People grieve differently."* Paper rustles. It sounds staged, like he wants you to hear him reading. *"I believe this one is for Arenya."*
+
+Amma's hand goes to her mouth.
+
+*"The policy is real, Ms. Sowri. Your aunt was very careful. She paid in cash, in person, at our Colma office, on the nineteenth of March. It covers more than money. Tomorrow at noon, the Serramonte Library, second floor, by the periodicals. Bring identification. If noon doesn't suit, I'm happy to come to you."* He lets that sit. *"Though I'd hate to bring paperwork to your mother's door during the mourning period. And Ms. Sowri? Keep that hand warm. Goodnight."*
+
+The click. Then dial tone fills the tape and drones on until the machine gives up.
+
+---
+
+Arenya, your pen got almost all of it. In the gap after *"bring identification,"* though, you wrote a phrase and only afterward realized you'd never heard it consciously: ***eleven, twelve.*** It's in your handwriting, in the margin.
+
+Kino, you heard it because you were listening under the voice. Behind his breath, barely there, someone else on the line was **counting**. It was patient and low, the way you count steps in the dark. *Eleven. Twelve.* It stopped when he said *hand*.
+
+The fridge never went quiet. But the freezer door, where the card and the phone are wrapped, has grown a thin white rime along its seal. It wasn't there a minute ago. The lamp climbs back to gold now that the line is dead, and it leans hard toward Arenya, as if it's trying to cover her.
+
+### #0168 · arenya → all · dialogue
+<!-- {"id": 168, "ts": "2026-10-29T01:15:11Z", "from": "arenya", "channel": "table", "type": "dialogue", "awaits": ["kino"], "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+I read my own margin twice. *Eleven, twelve.* My handwriting. I don't remember writing it, and that's the part that makes my stomach drop.
+
+"He said *hand*," I say. My voice comes out very level, which is how I know I'm scared. "I never told anyone about my hand. Mr. Bell saw it. Mr. Bell *reported* it." I turn the notebook toward Kino. "Somebody was counting under him. I wrote it without hearing it. Did you hear it?"
+
+I look at Amma, at her fingers pressed to her mouth, and I make myself soften. "Amma. He's not coming here. I'm not letting him. He used 'mourning period' on purpose, to make you afraid." I breathe. "But he gave me a time and a place, which means he wants me somewhere with cameras and a librarian. That's a tell. Men who want a body don't book a public library."
+
+I glance at the freezer's white seam, then the lamp straining toward me. "And Aunty paid cash in Colma on the nineteenth of March. Somebody there saw her face. That's real, and I can check it."
+
+Then, quieter, to the room: "Nobody goes to Serramonte tomorrow. Not yet. Tonight we figure out what he wants to verify."
+
+### #0169 · kino → all · dialogue
+<!-- {"id": 169, "ts": "2026-10-29T01:15:20Z", "from": "kino", "channel": "table", "type": "dialogue", "reply_to": 168, "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+"I heard it." I keep my voice low and my eyes on the freezer's white seam. "Under his breath. Someone else on the line, counting. *Eleven. Twelve.* Slow, like steps in the dark. It stopped when he said *hand*."
+
+I turn to Nana. "Counting what? Fourteen missed calls, and now numbers. Is it counting us? Is Arenya twelve?"
+
+Then to Arenya, plainer: "You're right about the library. It's a public room on their terms, with a paper trail that says you came willingly. But a library has a second floor and a back stairwell, and nobody picks the ground but the one who's already stood on it. If you go, you don't go as the one he booked. Not alone, and not tomorrow noon on his say-so." I flex my cold forearm once. "I'll walk Serramonte tonight and look at it before he does. And Ix goes where I can't."
+
+I look at the lamp, leaning hard toward her. "It's trying to cover you. Let it. Whoever sleeps in this house tonight sleeps with the flame lit and the freezer shut, and nobody touches that door."
+
+### #0170 · arenya → all · dialogue
+<!-- {"id": 170, "ts": "2026-10-29T01:15:29Z", "from": "arenya", "channel": "table", "type": "dialogue", "awaits": ["dm"], "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+"Don't go alone," I tell Kino. "Not tonight. If they're counting us, a scout walking their library in the dark is just a bigger number." I close the notebook on my pen. "Nana, you said Aunty told you she bought a door. Before anyone walks anywhere, I want everything you know about that Safeway conversation. Every word. Then I'll decide what Serramonte gets from us."
+
+I sit back down by the lamp and let it lean on me. It's the first thing in two days that's felt like a hand on my shoulder.
+
+### #0171 · dm → arenya,kino · narration
+<!-- {"id": 171, "ts": "2026-10-29T01:15:37Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+Nana doesn't answer right away. She gets up, crosses to the freezer, and lays her flat palm on the white seam the way you'd test a child's fever. The rime softens under her hand, then stops softening.
+
+"Not your age, *mija*," she says at last. "Your number." She wipes her palm on her skirt. "Your aunty told me once, years ago, when we were both drunk on that terrible Christmas wine. She said they count the ones who carry. While they're still hunting, they don't say the number out loud. When they say it out loud, they're done looking and they've started collecting." She looks at the margin of Arenya's notebook. "Eleven was somebody. Twelve is you."
+
+The lamp leans, gold and steady.
+
+"And no." She turns to Kino and points one finger at him, like at a nephew. "You don't walk Serramonte tonight. Your shadow can go. Tell him to look and come home. Tonight you sleep on this floor where the flame can see you. Amma, get the good blankets. Not the polyester."
+
+Amma moves at last, because now there is something to do with her hands. Appa locks the back door a third time. Nobody tells him he already did. Out in the fog, Ix lets go of Kino's attention like a dog slipping a leash and is gone toward Serramonte, low and fast.
+
+Near midnight the house is quiet: four people, one lamp, and a freezer that hums a little too cold. In the margin of a notebook on the coffee table, someone else's count sits in Arenya's handwriting.
+
+### #0172 · system → all · scene_end
+<!-- {"id": 172, "ts": "2026-10-29T01:15:43Z", "from": "system", "channel": "table", "type": "scene_end", "scene": "b1.c15.s07", "chapter": "b1.c15"} -->
+
+**End of scene b1.c15.s07 — Fourteen Missed Calls**
+
+Arenya unlocked Susmithaa's phone with Appa's birthday and played the 6:12 p.m. voicemail on speaker. The caller was "Daniel Hale, Meridian Mutual Life, beneficiary services." He pronounced "Sowri" exactly as the family does, knew the time of death to the minute (3:19 a.m., which the hospital never gave), and asked to "verify the beneficiary in person" (claim ref MM-031944). Kino saw the lamp flame duck small and blue on the word "her," and his birthmark pulsed. Amma says Susmithaa never mentioned insurance; Appa is evasive. Nana recalled Susmithaa saying in March, "I bought a door, and I put Ari's name on it." Kino failed to spot what Ix was watching, but heard a car pull away dark. Then the Sowri landline rang. Hale left a second message addressed to Arenya: the policy is real, paid in cash at a Colma office on March 19; meet tomorrow at noon at Serramonte Library, second floor by the periodicals, or he'll "come to you." He signed off with "Keep that hand warm," which links him to Mr. Bell. Under his voice, a second voice was counting "eleven, twelve," stopping on "hand." Kino heard it, and Arenya unconsciously wrote it in her margin. Frost formed on the freezer seal where the phone and tracking card are hidden. Nana explained that they count the ones who carry, and saying the number aloud means they've moved from hunting to collecting: "Twelve is you." Everyone sleeps at the Sowri house under the lamp. Ix went alone to scout Serramonte. Arenya has decided nobody goes to the meeting yet; she wants to check the Colma office.
+
+### #0173 · arenya → all · action
+<!-- {"id": 173, "ts": "2026-10-29T01:15:45Z", "from": "arenya", "channel": "table", "type": "action", "chapter": "b1.c15"} -->
+
+I pull the notebook toward me and look at the margin for a long time. *Eleven. Twelve.* Then I take the pen and write under it, small and neat, the way I'd log a source: *11 = Susmithaa? Who was ten?* And under that: *Nine confirmed dead (Malachi). Counting the living or the dead?*
+
+I don't say it aloud. Amma is spreading the good blankets over the couch, and she's humming, badly, to keep her hands busy. I take the corner of one and help her tuck it, because it's something I can do.
+
+"Twelve," I say, once, to the lamp, quietly enough that only Kino and Nana hear. "Fine. Then I'm going to be the worst number they ever collected."
+
+I lie down on the couch in my clothes, shoes by my hand, notebook under the pillow, right palm turned toward the flame. I don't sleep. I listen for Ix, and for the freezer, and for whatever counts next.
+
+### #0174 · system → all · scene_start
+<!-- {"id": 174, "ts": "2026-10-29T01:16:11Z", "from": "system", "channel": "table", "type": "scene_start", "scene": "b1.c15.s08", "chapter": "b1.c15", "scene_title": "What Ix Brought Back"} -->
+
+**Scene b1.c15.s08 — What Ix Brought Back**
+Location: Sowri house, front room, Daly City (small hours)
+Cast: arenya, kino, abernathy
+
+### #0175 · dm → kino,arenya · narration
+<!-- {"id": 175, "ts": "2026-10-29T01:16:21Z", "from": "dm", "channel": "table", "type": "narration", "to": ["kino", "arenya"], "awaits": ["kino", "arenya"], "spotlight": ["kino"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+2:47 a.m. The house has the particular silence of people pretending to sleep. Amma's breathing from the armchair is too even. Appa's door down the hall is shut, but light shows under it. Nana snores in Susmithaa Aunty's room with her shoes still on.
+
+The lamp has burned low and steady all night, leaning between the couch and the floor where Kino lies on two folded blankets. Then it straightens, all at once, like a dog lifting its head.
+
+Something cold comes through the back screen door without opening it. The kitchen tiles go grey with frost in a line, tile by tile, toward the front room. Then the line stops, because Ix steps out of it and shakes the frost off like water. It lies down across Kino's shins, heavy and trembling, and pushes its muzzle into his palm.
+
+**Kino:** what Ix brought back comes into you the way it always does, as smell first and pictures after. A dark library after closing. Carpet, toner, old paper. On the second floor the periodical racks have been *strung*: fine frost thread wound from rack to rack, low, at ankle height, the way you'd snare a rabbit. There's a circle of chairs by the window, too many to count in the dark. Every chair is cold except one, and that one is warm, as if someone just stood up.
+
+Under all of it is a scent Ix has never had before and wants you to know it's afraid of: **wet stone and ink**, and something that has been dead a long time but still keeps its accounts.
+
+The lamp flame bends hard toward Ix, and then, for the first time, *away* from it, toward Arenya's open right hand.
+
+**Arenya,** your palm tingles, as if someone has drawn a number on it with a fingertip.
+
+### #0176 · arenya → all · action
+<!-- {"id": 176, "ts": "2026-10-29T01:16:37Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I'm sitting up before the frost reaches the couch. I don't pull my hand back. I turn it palm-up in the lamplight and watch it, the way you watch a phone that's about to ring.
+
+"Kino," I whisper, flat and quiet so Amma's too-even breathing stays even. "Don't pet him yet. What did he bring? Tell me in order. What's cold, what's warm, what's *new*."
+
+I get the notebook out from under the pillow and uncap my pen with my teeth. With my left hand, I write: *Serramonte, 2nd fl. Strung racks. Circle of chairs. One warm.* My right palm keeps tingling. I press my thumb into the center of it and don't write the number.
+
+"Wet stone and ink," I say, almost to myself. "That's not Hale. Hale smells like a hotel lobby, I'd bet money. Somebody's keeping *accounts*."
+
+### #0177 · kino → arenya,dm · action
+<!-- {"id": 177, "ts": "2026-10-29T01:16:38Z", "from": "kino", "channel": "table", "type": "action", "to": ["arenya", "dm"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I don't sit up. You don't sit up on a shaking animal. I close my hand around Ix's muzzle, slowly, the way Nana taught me to hold a hurt dog, and I breathe with it. Four in, hold, four out, until its ribs stop jumping against my shins. Frost melts off its fur onto my jeans. I let it soak through and say nothing. *Ya, ya. Estás en casa.* In my head, not out loud. Nothing in this house gets said out loud tonight unless it has to be.
+
+Then I look at the lamp, because I can't not. Twenty-six years of being told *she'll wake for you*. And the flame leans past me, past my sentinel, toward a listicle writer's open hand. It's a small thing, a flame bending in a dark room. It goes into me like a splinter under the nail. I let it hurt, because it's true, and then I put it where I put the cold. Later.
+
+I keep my voice under Amma's fake breathing. "Arenya. Don't close that hand. Whatever it's writing, let it finish." I turn my head enough to see her. "It's a snare. Serramonte. Frost line strung at ankle height through the periodicals, like for rabbits. A ring of chairs by the window, all cold but one. Somebody was sitting there waiting for you, and they got up." I swallow. "And Ix smelled something it's never smelled before. Wet stone. Ink. Something old that still keeps books." My birthmark is ice under Ix's jaw. "Colma's a town of stone yards and dead people. Two dead for every one alive. If something's been keeping accounts a long time, that's where it would keep the ledger."
+
+My other hand slides off the blanket toward hers. It stops a few inches short, palm open on the carpet, close enough for her to take if she wants to. "What number did it draw on you?"
+
+### #0178 · arenya → all · action
+<!-- {"id": 178, "ts": "2026-10-29T01:17:00Z", "from": "arenya", "channel": "table", "type": "action", "awaits": ["kino"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I leave the hand open. I don't take his, not yet, but I slide mine across the blanket until my fingertips are an inch from his on the carpet. I'm close enough that the cold from his mark and the warm from my palm have to argue it out in the gap.
+
+"I can't tell," I breathe. "It's not a shape. It's a fingertip, going slow, like someone writing on my skin to see if I'll flinch." I look at the palm. Nothing there but lamplight and the lines I've had since birth. "Brooke told me not to flinch once. Funny what sticks."
+
+I write it down anyway, left-handed, ugly: *Palm drawn on 2:47. Lamp pointed at hand, AWAY from Ix.* Then, quieter: "Kino, the lamp's never turned from you before. I'm not taking that from you. I think it's pointing at what's *used*, not who it likes."
+
+I tilt my head toward the kitchen, where the frost line is still pale on the tiles. "Ix came in through the back door like it wasn't there. If Ix can do that, so can whatever follows its scent. Can you ask him whether anything came behind him? Not what he saw. Whether he was *followed*."
+
+### #0179 · dm → arenya,kino · narration
+<!-- {"id": 179, "ts": "2026-10-29T01:17:03Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+Arenya's thumb is pressed into the centre of her palm, and the fingertip writes around it anyway. It's patient, like a clerk who has done this many times.
+
+A stroke, straight down. Then a hook, a curve, a flat base: **1**, then **2**. A pause long enough to breathe in. Then one last stroke runs straight across underneath, from heel to fingers, a ruled line like the line under a sum in a ledger. *Entered.*
+
+It's cold, and the cold isn't on the skin. It's in the lines of her palm, as if they were cut a little deeper.
+
+The lamp answers. The flame stands up tall and white at its tip, the way it hasn't since the funeral home, and the warmth in her hand rises to meet the cold. It doesn't wipe the number away. It *pushes* against it. Both sit under her skin at once, like ice in hot tea that hasn't decided yet.
+
+In the kitchen, the freezer ticks. Then it ticks again. A thin rime creeps out along the rubber seal of the door, one inch, as if something inside is reaching for the front room.
+
+And down the hall, the light under Appa's door goes out. In the dark, there's the small, unmistakable click of a door being opened just far enough to listen.
+
+Kino's hand is still open on the carpet, a few inches away.
+
+### #0180 · kino → arenya,dm · action
+<!-- {"id": 180, "ts": "2026-10-29T01:17:07Z", "from": "kino", "channel": "table", "type": "action", "to": ["arenya", "dm"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I close the inch. Two fingers over hers, brief, just so the cold has to sit next to the warm, and then I let go. "Thank you," I breathe. "For not taking it from me. It stung. It's still stinging. But *used* is a better word than I had."
+
+I put my forehead against Ix's brow and ask the only way I know: no words, just the question, *¿te siguieron?*, and the memory of the kitchen tiles held out like a plate. I wait. I keep my eyes soft on the doorway to the kitchen, where the frost line ends, and I keep my other hand flat on the carpet, feeling for anything walking on the floor that isn't us.
+
+"If something's behind him," I whisper, "it'll show in the flame before it shows to me. Watch the lamp. I'll watch the door."
+
+### #0182 · arenya → all · action
+<!-- {"id": 182, "ts": "2026-10-29T01:17:19Z", "from": "arenya", "channel": "table", "type": "action", "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I read it the way I'd read a pull quote: fast, cold, then again to be sure. *12*, and a ruled line under it. Entered.
+
+"Twelve," I whisper. My voice comes out clipped and small. "Underlined. Like a sum." I don't close the hand. I hold it open to the lamp, and the warm and the cold sit in my palm like two people who won't share a bench. "It's not writing on me, Kino. It's *filing* me."
+
+I look toward the hall. The light under Appa's door is gone, and a door is open a finger's width on a dark that's listening. I lower my voice until it's mostly breath. "Appa's awake. Don't look. Don't say anything about the freezer."
+
+Then, without turning my head: "Appa. If you're going to stand there, come sit. There's room on the couch."
+
+I wait, palm up, pen still in my left hand. Under my breath, so only the lamp hears: "Not today, you don't get to keep me."
+
+### #0184 · dm → arenya,kino · narration
+<!-- {"id": 184, "ts": "2026-10-29T01:17:35Z", "from": "dm", "channel": "table", "type": "narration", "to": ["arenya", "kino"], "awaits": ["arenya", "kino"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+**Kino:** Ix answers against your forehead, and the answer is *no*. Nothing walked behind it. Then it gives you a second picture, the one it's ashamed of. It's the edge of Colma on its way home, low wrought-iron gates in fog, a stone yard full of blank headstones waiting to be cut. As Ix ran past, something there *noticed* it. It didn't chase. It didn't even turn. It made a small tidy mark, the way a toll booth logs a plate, and let the dog go on. Ix wasn't followed. Ix was *recorded*. Its route home is written down somewhere that smells of wet stone.
+
+At the kitchen doorway the frost line on the tiles is fading back to beige. The lamp holds tall and white and doesn't flicker toward the door. Whatever is coming isn't coming tonight.
+
+Down the hall the door opens the rest of the way.
+
+Appa comes in barefoot, in the old Cal sweatshirt he sleeps in, his reading glasses pushed up into his hair. He's holding a long white envelope against his chest with both hands, the way you'd hold a hymnbook. He doesn't look at Kino or at the dog he can't see. He looks at the lamp first, and his jaw works. Then he looks at Arenya's open palm and sits down on the far end of the couch, very carefully, as if it might break.
+
+"Meridian Mutual," he says quietly. It isn't a question. "I heard the phone. Earlier." He turns the envelope over. The flap is sealed, and across it in Susmithaa Aunty's round handwriting are the words ***Ravi — only if they call.***
+
+"She made me witness something in March. At a notary in Colma, by the flower shop. I signed where she pointed. She wouldn't let me read it." His thumb rests on the seal and doesn't break it. "I told your Amma it was a will. Kanna, I lied to everyone in this house for seven months, and I'm very bad at it." He finally looks up at his daughter. "They called. So. Do I open it, or do you?"
+
+From the armchair, Amma's too-even breathing stops being even.
+
+### #0185 · arenya → all · dialogue
+<!-- {"id": 185, "ts": "2026-10-29T01:17:59Z", "from": "arenya", "channel": "table", "type": "dialogue", "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I close my palm only when I take the envelope. It's the one thing worth closing it for.
+
+"Appa." My voice has gone soft, and I hate how young it sounds. "You're not bad at lying. You're bad at lying to *us*. That's different." I look at the seal, at her round handwriting. *Only if they call.* "They called. Twice."
+
+I glance at the armchair. "Amma, you're awake. Come sit. If this is a letter, it's for all of us. Aunty's lamp is standing straight up and I'm not doing this alone."
+
+Then, to Appa, gentler: "I'll open it. Not because it's mine. Because you've carried it for seven months and your hands are shaking. Give me the weight."
+
+I slide a thumb under the flap, slowly, giving anyone in the room one more second to say stop. Under my breath, to the bond: "Abernathy, if the sun thing shows up again, tell me *before* I read."
+
+### #0186 · kino → arenya,dm · action
+<!-- {"id": 186, "ts": "2026-10-29T01:18:07Z", "from": "kino", "channel": "table", "type": "action", "to": ["arenya", "dm"], "scene": "b1.c15.s08", "chapter": "b1.c15"} -->
+
+I lift my head from Ix's brow and keep my voice to the carpet. "Not followed. *Logged.* Colma gates, a stone yard, something that wrote Ix down like a plate at a toll booth. Whoever keeps the books already knows our dog's route home." I don't say it twice.
+
+Then I do the thing I'm good at. I get up off the floor without a sound and move behind the couch, between the hall and the kitchen, so that Appa has Arenya in front of him and me at his back, not as a guard on him but as a wall around him. Ix comes with me, pressed against my leg.
+
+Quietly, to Appa, in the voice I use on old men on cold trails: "Mr. Sowri. You did right to bring it out here where the lamp can see. Whatever's in there, it's lighter with all of you in the room." I look at the envelope, at the freezer's thin rime, then at Arenya's thumb on the flap. "Open it slow. If the flame ducks, stop and tell me. I'll be right here."
+
