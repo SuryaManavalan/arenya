@@ -43,6 +43,17 @@ decisions that aren't fully recorded in `library/`. Message ids point to the sou
 
 ## World turn 2 (chapter end b1.c17): see fronts.md § World turn 2
 
+## Chapter 18 scenes (archived at world turn 4)
+- s01 "Monday" (Sun night → Mon noon): Brooke's text; oven swings EAST 11:58 p.m.; Heron Thing at Candlestick 6:52 goes viral; Kino's forearm warms; Appa's PG&E colleague (Hudson meters); Malachi's 703 ×3 + Corinne's memo; **Teddy 8:30: Arenya takes the waterfront beat** (600 words, Tue 5 p.m.); her old keycard pinged the Monolith lobby reader twice on Sat while in Teddy's drawer; Elias's coffee emails; the Fellowship clip; Rodel's landline call; cassette in the freezer; Malachi's name sold. At Colma a groundskeeper says the tall man came "six-thirty, still dark, white electric truck."
+- s02 "All Souls" (Mon 4–5:14 p.m., Holy Cross/Lucero plot): Susmithaa's ashes buried borrowed at Ernesto Lucero's feet. LIVE COMBAT vs the Heron (tide-herald; AHP 45, AC 13, Low Tide recharge 5–6) + 4 foam-hands (AC 11, 7 HP, salt 1d6). Arenya AWAKENED (L2, Ascent 3, light+dark, AHP 26): Night's Mark, Lamplight Lance, Burn the Veil. Malachi tore the cuff off; Nana salted the wrist ("los vivos primero"); Abernathy led the lamp up the stair in a livery he didn't put on; Kino (jaguar) broke the Heron to 9/45. Arenya released it with a message (Susmithaa = open entry; ask with manners); the light-film flowed NORTHEAST against the wind toward the bay-shore industrial dark. End state: Arenya 2/9 HP, 23/26 AHP, 0/2 prana; Kino 15/26 AHP; Abernathy 19/24 AHP. Lamp warm in the canister.
+
+## World turn 4 (after b1.c18.s02): see fronts.md § World turn 4
+
+## Chapter 18 scenes s03–s05 (archived at world turn 5)
+- s03 "Low Tide" (Mon 7:24–7:40 p.m., Candlestick → India Basin, bulk): met the slack-water tide-woman (the heron's "sister") with manners. Ledger-lines hold her, pulling NE. She named the Mill as "the stone house under the old dry dock." Found the stakes and survey rod at Second piling, truck D2-07 (plate 8ZK-41…). Kino's 4.0 cm ruled line. Abernathy's hat-brim ruled: "somebody tore your page on purpose."
+- s04 "Tuesday" (movement): kelp letter at Ava's door (3 ticks, only for Ava); 11:11 gauge flat; Corinne at the pho shop (name sold "paid in water rights"; a mole pinged his file from inside; Bayline Remediation & Survey LLC, Brisbane, parcel B, 11 D-series trucks, yard off Tunnel Ave). Malachi's "access agent" cover held (Insight 11 vs 15). Deadline Tue Nov 10; napkin number. Spirit of hurry on 101 beaten 4/4 at 5:52. Lamp-Eyes: the Mill drains hurry east too. Teddy's 600 words run Wed 6 a.m.
+- s05 "Low Water" (Tue 7:40–7:51 p.m., Second piling): THE STAKES HEIST. Three iron stakes pulled (stamped with a small ruled box; Kino, Arenya and Caleb each carry or held one). The D2 worker (grey steel-toes, logo-less hi-vis, ledger-reading handlight) came out and radioed "Two's gone soft. Logging it." Ava ran the clock (hard stop 7:52) and got everyone out unseen. Abernathy saw a copperplate page reading **Porter**, said yes inside, lost the livery's brass cuff to the reeling line (it rides toward the stack), took 4 astral cold. Caleb's palms iron-burned twice. Kelp letter ticked 4 at the car. The rod still stands, reading one line. The tide-woman is looser: "the rest is still owed."
+
 ### Resolved clocks
 - Witness clock (c16.s08): Nana signed. Bell's offer void.
 - Box 112 (c17.s01): closed, new lock.

@@ -373,6 +373,9 @@ function jumpTo(id){show("live");CH="all";FOLLOW=false;$("#followbtn").classList
 
 /* ---------- CAST ---------- */
 const GEARNAME=g=>{const x=S.gears?.[g];return x?`${x.model.replace("claude-","").replace(/-(\d)-(\d)$/," $1.$2")} · ${x.effort}`:"?"};
+// sheets may hold conditions as a list or as {name: detail} (the DM's update_sheet does both)
+function conds(c){if(!c)return[];if(Array.isArray(c))return c.map(x=>typeof x==="object"?[Object.keys(x)[0],JSON.stringify(x)]:[String(x),""]);
+  if(typeof c==="object")return Object.entries(c).map(([k,v])=>[k,typeof v==="string"?v:JSON.stringify(v)]);return[[String(c),""]]}
 function hpBar(lbl,o,col){if(!o||o.max==null)return "";const p=Math.max(0,Math.min(100,100*o.current/o.max));return `<div class="faint" style="font-size:11.5px;display:flex;justify-content:space-between"><span>${lbl}</span><span>${o.current}/${o.max}</span></div><div class="bar"><i style="width:${p}%;background:${col}"></i></div>`}
 function renderCast(){
   const order=["arenya","malachi","abernathy","kino","ava","caleb"];
@@ -383,7 +386,7 @@ function renderCast(){
       <div class="kv">${sh.level?`<span>level</span><span>${sh.level}</span>`:""}${sh.ascent!=null?`<span>ascent</span><span>${"●".repeat(sh.ascent||0)}${"○".repeat(7-(sh.ascent||0))}</span>`:""}${sh.house?`<span>house</span><span>${esc(sh.house)}</span>`:""}
         <span>gears</span><span>${GEARNAME(c.base_gear)} → ${GEARNAME(c.peak_gear)}</span><span>upshift charges</span><span>${"⚡".repeat(c.charges||0)||"none"}</span>
         <span>last seen</span><span>${loc?esc(loc.location)+` <span class="faint">(${esc(loc.scene)})</span>`:'<span class="faint">unknown</span>'}</span>
-        ${(sh.conditions||[]).length?`<span>conditions</span><span>${sh.conditions.map(x=>`<span class="tag red">${esc(x)}</span>`).join("")}</span>`:""}</div>
+        ${conds(sh.conditions).length?`<span>conditions</span><span>${conds(sh.conditions).map(x=>`<span class="tag red" title="${esc(x[1])}">${esc(x[0])}</span>`).join("")}</span>`:""}</div>
       ${c.now?`<div class="mem"><div class="faint" style="font-size:11px">RIGHT NOW · memory ${esc(c.memory_updated)}</div>${md(c.now)}</div>`:""}</div>`}).join("");
 }
 async function openAgent(id){const tabs=[];for(const f of ["IDENTITY.md","SOUL.md","MEMORY.md","sheet.yaml"]){const r=await api(`/api/file?path=agents/${id}/${f}`);if(!r.error)tabs.push([f.replace(/\..*/,""),()=>md(r.body)])}openModal(tabs)}

@@ -35,3 +35,8 @@ Close to aunt [[susmithaa]]; strained with [[saiesh]]; friendly with [[ava-lindq
 
 ## Status
 Alive; start of Book 1, c15.
+
+## Awakening (b1.c18.s02, Mon Nov 2)
+- Her spoken vow at Holy Cross ("I'll drive you to the sea myself") awakened her as a Spirit Host: level 2, Ascent 3, light by blood + dark by birthplace. Astral HP 26, astral AC 12, spell attack +4, save DC 12, Will 9 / Flow 12 / Anchor 11, 2 prana slots. [#1023]
+- Cantrips: Lamplight Lance (1d10+2 radiant, 120 ft), Hidden Way (fog fold). Spells (1 prana): Night's Mark (hex), Ward of a Thousand Lights (5 temp HP, 5 radiant to melee attackers), Burn the Veil (faerie fire). Lamp-Eyes (sees through fog); Two Lines (1/long rest reroll of a failed bulk save: light = Wis/Cha, dark = Dex/Con); Host's Step (bonus action into the bulk). [#1020, #1023]
+- Physical HP 9 (fell to 2/9 from frost, stable). Chose not to kill the Heron. See [[all-souls-heron-battle]]. Sheet file had a YAML error (line 23); DM played from posted stats. [#1020, #1027]

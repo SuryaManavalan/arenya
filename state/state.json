@@ -1,25 +1,10 @@
 {
  "phase": "play",
- "next_id": 1010,
+ "next_id": 1307,
  "book": 1,
- "chapter": 18,
+ "chapter": 19,
  "scene_counter": 2,
- "scene": {
-  "id": "b1.c18.s02",
-  "title": "All Souls",
-  "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
-  "cast": [
-   "arenya",
-   "malachi",
-   "abernathy",
-   "kino",
-   "ava",
-   "caleb"
-  ],
-  "place": null,
-  "start_id": 988,
-  "spotlights_used": 0
- },
+ "scene": null,
  "scenes": [
   {
    "id": "b1.c15.s01",
@@ -590,178 +575,324 @@
    "summary": "Monday Nov 2, morning to 1 p.m. The Heron Thing clip (Candlestick, 6:52) goes viral with the 11-second breath; Kino's left forearm warmed 6:52\u20136:53, keyed to the water, not the bird. Ava's oven swung east at 11:58 Sunday night. Appa's PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52, and Appa adds it to the \"11\" envelope on the fridge. Nana says the taken salt was manners: the thing now knows it's welcome, so don't leave more unless you mean it. Teddy keeps Arenya on the waterfront beat (600 words due Tue 5 p.m.) with a new keycard, and reveals her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer. Elias confirms the coffee: Wed 6:40, Crissy Field warming hut, \"He'll be early. He's always early when he's scared.\" Malachi saw 3 calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). At 11:58 Rodel left a message on the landline: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. Malachi's true name has been sold. Abernathy heard a turn signal tick eleven times on the tape. The cassette is in Nana's freezer; Kino salted the hall sill; Malachi will park a block away and keep distance from Arenya. The ofrenda is built with Susmithaa's canister; church at four, Colma after.",
    "book": 1,
    "chapter": 18
+  },
+  {
+   "id": "b1.c18.s02",
+   "title": "All Souls",
+   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
+   "place": null,
+   "cast": [
+    "arenya",
+    "malachi",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 988,
+   "end_id": 1115,
+   "summary": "Mon Nov 2, 4:50\u20135:14 p.m., Holy Cross Cemetery, Colma. Amma asked Arenya whether giving Susmithaa's ashes to the sea means giving them to \"the other thing.\" Arenya chose to bury them borrowed (prestado) at Ernesto Lucero's feet until the water is clean, and vowed aloud to take Amma to the sea herself. When the canister was set in the earth, the fog stopped breathing, a rift opened across section L, and a seven-foot tide-herald heron came up out of the fog for Susmithaa's light, with four foam-hands that attacked the canister, Amma and Arenya's body. Arenya's vow awakened her as a Spirit Host, light by blood and dark by birthplace (level 2, Ascent 3). In the first real astral battle, she, Kino (as the land's jaguar) and Abernathy (who briefly wore a lamp-house livery and was bowed to twice by the heron like a filed man) fought on a lamplit stair above a black sea. Meanwhile Malachi, Caleb, Ava and Nana destroyed the foam-hands physically; Nana chose to salt Arenya's frozen wrist over the canister (\"los vivos primero\"). Arenya's body fell to 2/9 HP from frost at the pulse before Ava stabilized her. Kino broke the heron (9/45). Arenya refused to kill it (\"you don't kill the only witness\"). She sent it home with a message that Susmithaa is an open entry, borrowed until the water is clean, and that its master may come and ask with manners. It bowed \"received.\" Her Burn the Veil failed on it, but the light film on the sea flowed northeast against the wind toward the industrial bay shore: something inland is pulling the tide. Susmithaa's lamp is back in the warm canister and Arenya heard her laugh. Appa's stain shrank to a crescent. Caleb volunteered that Drop Two is a Peninsula lot with a roll-up door.",
+   "book": 1,
+   "chapter": 18
+  },
+  {
+   "id": "b1.c18.s03",
+   "title": "Low Tide",
+   "location": "Candlestick Point shoreline, southeast San Francisco, Mon Nov 2, 7:24 p.m.",
+   "place": null,
+   "cast": [
+    "arenya",
+    "kino",
+    "abernathy",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 1116,
+   "end_id": 1159,
+   "summary": "Mon Nov 2, 7:24\u20137:40 p.m., Candlestick Point. Kino, Arenya and Abernathy crossed into the bulk while Ava kept the bodies and the stopwatch and Caleb watched the road. On the drawn-back, glowing mudflat they met the slack-water spirit: an old south-shore tide-woman of oyster shell, eelgrass and clay, the heron's \"sister,\" with her heels dug in against dozens of ruled-flat \"ledger lines\" of water that drag her northeast an inch every eleven seconds toward the Hunters Point cranes (in the bulk, black ledger-pens). Arenya asked with manners (Persuasion 20), and the spirit named the place: a stone house that grinds under the old dry dock (the Mill). The pens are anchored by iron stakes in the physical mud, placed at low water and tuned by \"a white door on wheels.\" Pulling the stakes frees her lines. Kino failed to brace her and failed to tear free. A line ruled one permanent straight stroke across his forearm, astral and physical (4 astral damage; the physical mark measures exactly 4.0 cm). Abernathy's lamp-flick made the line *hesitate* and search for his page without finding it, and his hat brim now carries a ruled wet line. The spirit told him \"somebody tore your page on purpose.\" In that pause Arenya hauled Kino up the stair and the spirit won one inch. At slack water (7:31) a box truck arrived, CA commercial plate 8ZK-41\u2026, fleet unit **D2-07** (Drop Two). Its white roll-up door hummed, warming Caleb's scar and setting his count to the tide's beat. Two clerk-like workers in grey steel-toes and logo-less hi-vis set a survey rod left of the second piling, undoing the spirit's inch. One of them calmly approached the car, told them the lot was port property after dusk, told Kino \"keep that arm warm, son,\" and tapped the roof twice like a stamp. The party left lights-dark with video of the faces, the plate and the unit number, and Caleb resolved to tell Malachi everything he knows about D2 at Tuesday's 1 p.m. sit-down.",
+   "book": 1,
+   "chapter": 18
+  },
+  {
+   "id": "b1.c18.s04",
+   "title": "Tuesday",
+   "location": "San Francisco: Ava's flat, the Outer Sunset pho shop, US-101 at Cesar Chavez",
+   "place": null,
+   "cast": [
+    "arenya",
+    "malachi",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 1161,
+   "end_id": 1194,
+   "summary": "Tuesday Nov 3. At dawn a knotted kelp \"letter\" turns up on Ava's doorstep. It ticks three times, but only to Ava, and it gets bagged in her fridge. Abernathy smells brass and an old library on it, the smell of \"somewhere I've worked.\" Arenya files Teddy's 600 words, and they run at 6 a.m. Wednesday. At 1 p.m. in the Outer Sunset pho shop, Corinne Abate tells Malachi his true name was sold on a broker's board (\"paid in water rights\") and that his old file was pinged from a terminal with their own agency's access. She hands over the SOS filing for Bayline Remediation & Survey LLC, Monolith's Hunters Point subcontractor: 11 D-series trucks, D2-07 among them, with a yard off Tunnel Avenue. Malachi refuses extraction and passes Arenya off as his \"access agent,\" and Corinne believes him. He has until Tue Nov 10 to deliver product, plus a new pencilled napkin number in place of the 703 line. At 5:52, on the way to the 8:14 p.m. low water at Hunters Point to pull the iron stakes, the Corolla is caught on 101 by the spirit of hurry (rifts step 4, an archetypal spirit). The party beats it cleanly with Ava's count, Caleb's off-beat, Kino's herd-calming and Abernathy's ticket-taker livery. Arenya spends 1 prana on Lamp-Eyes and sees the spirit of hurry itself being drained east into Hunters Point: the Mill drinks the city's hurry as well as its tide. They exit at Third Street early, aiming to reach the second piling at 7:40 with advantage on the first check.",
+   "book": 1,
+   "chapter": 18
+  },
+  {
+   "id": "b1.c18.s05",
+   "title": "Low Water",
+   "location": "Second piling, the mudflats below Candlestick Point, looking northeast at the Hunters Point stack. Tue Nov 3, 7:40 p.m.",
+   "place": "candlestick-point",
+   "cast": [
+    "arenya",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 1195,
+   "end_id": 1238,
+   "summary": "At low water (7:40\u20137:51 p.m., Tue Nov 3) the party pulled all three iron stakes at Second piling. Arenya's Lamp-light coaxed the first and third ruled lines slack. Kino and Caleb drew the first and second stakes, 18-inch square-section black iron stamped with a small ruled box. Caleb's palms are iron-burned twice. When the first stake came out, the rod's hum stopped \"like a reader looking up,\" and a D2 worker in grey steel-toes and logo-less hi-vis came out of the white roll-up door with a handheld light that lights the ledger-lines, not the mud. Abernathy's clerk's strike-through on the second line missed. The line read him back (4 astral cold damage) and opened a copperplate ledger page beside him whose only legible word was **Porter**. Arenya saw it through the bond, and Abernathy says it isn't a name he knows but something in him said *yes*. He gave up the livery's brass cuff to escape the reading, and it rode the reeling line back toward the Hunters Point stack and is lost (the party vowed to recover it). The worker radioed \"Two's gone soft. Logging it,\" and went back inside; the party withdrew unseen, leaving the rod standing. The slack-water spirit is looser but not free (\"the rest is still owed\"), and at the car the kelp letter ticked four times instead of three.",
+   "book": 1,
+   "chapter": 18
+  },
+  {
+   "id": "b1.c19.s01",
+   "title": "The Coffee",
+   "location": "Crissy Field warming hut, the Presidio, San Francisco: Wed Nov 4, 6:22 a.m., before dawn",
+   "place": null,
+   "cast": [
+    "arenya",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb",
+    "malachi"
+   ],
+   "start_id": 1241,
+   "end_id": 1290,
+   "summary": "Wed Nov 4, 6:22\u20136:45 a.m., Crissy Field. Typhus Quinn met Arenya in person with two coffees and five pages (an unplugged coil ringing at 11.0 s; Alameda's 11-s seiche; Adonis's \"WHERE FROM? / Unit 8 \u2014 'Melnikov'?\"; \"Mon 17:03\"; \"Tue 19:46,\" the coil cooling and the bay improving 4 cm as the stakes came out). Arenya told him the eater isn't his machine but is *in* it, through Bayline, a vendor under his own Applied Field Research. **Typhus reached step 3**: he believes the rendering hurts the bay and that something outside him feeds the coil. Yuri Melnikov was a Dogpatch machinist who died in August, and no Unit 8 appears on any drawing Typhus has signed. He also said Elias found Arenya in the lobby system from September, and that someone else pulled her old badge Saturday. Lattice watchers worked the meeting: Voss as a jogger with a Crown under her headband, and a Sprinter with an array whose sweep hunted the Lamp in Arenya's bag. Arenya refused to let Abernathy block the sweep, shielded the bag and moved Typhus out of the van's line. Voss's Crown locked onto **Malachi's sold true name**. She stepped on Ava's kelp knot and her Crown squealed, and the van's beam swung to her. Kino, Ava and Arenya (\"Mr. Shawani!\") turned her away. Malachi told her \"whoever paid in water rights overpaid.\" Caleb, at the van's door, heard **Hale**: \"walk it off, Voss, we're burned.\" He slipped the rear camera, and the van left. The Lamp was not tagged. Typhus gave Arenya his number and Elias's personal line (to memorize and burn), and revealed **INTAKE EXCEPTION 0001, NO SOURCE**, logged 9:14 p.m. Tue and lockboxed in the Lantern control room two floors above the coil. Abernathy's wrist went cold in the cuff's shape, so it's his cuff. Arenya advised him to throttle the coil, not shut it off, and to copy everything off-site. As he left, the foghorn skipped once to twelve seconds.",
+   "book": 1,
+   "chapter": 19
+  },
+  {
+   "id": "b1.c19.s02",
+   "title": "Wednesday",
+   "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+   "place": null,
+   "cast": [
+    "arenya",
+    "malachi",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 1291,
+   "end_id": 1306,
+   "summary": "Wednesday Nov 4 runs fast: the city's clocks drift ahead (Ava logs offsets against GPS, +3:00 by 1:20 p.m.) as the Mill drinks hurry. Teddy's bay story ran, Monolith's comms office asked about his \"sources,\" and Arenya asks him to hold until Friday. Malachi stalls Corinne to Friday and finds the Bayline lease on Tunnel Avenue, guaranteed by Applied Field Research and signed with a stamped \"M.\" Rodel was left an anonymous crate of oranges for the Sowri household, every fruit facing the door, and refused it. A pink two-part carbon from \"H\" in Nana's mailbox offers the Thursday lift site in exchange for being vouched for to El Contador: Colma 110 stop, 7 p.m. Caleb failed his withdrawal save. His hands tremble and he can't drive, but the hum sharpens his sense of the off-beat. Abernathy told Arenya Porter is \"a thing I was called,\" answered in an older, polite voice. At a laundromat on Judah, Ava asked Arenya how she really is, and Arenya confessed grief, guilt, and that some part of her loves being in the crack in the world. Tonight's split: Malachi to Colma with Caleb in the car, and Arenya, Kino and Ava to Second piling at 8:56.",
+   "book": 1,
+   "chapter": 19
   }
  ],
  "expectations": [],
  "cursors": {
-  "lorekeeper": 989,
-  "dm": 1008,
-  "arenya": 1002,
-  "abernathy": 1003,
+  "lorekeeper": 1253,
+  "dm": 1304,
+  "arenya": 1302,
+  "abernathy": 1295,
   "author": 596,
-  "caleb": 1007,
-  "kino": 1005,
-  "ava": 1005,
-  "malachi": 1003
+  "caleb": 1298,
+  "kino": 1295,
+  "ava": 1296,
+  "malachi": 1292,
+  "director": 1020
  },
  "sessions": {
   "lorekeeper": {
-   "key": "b1.c18.s02",
-   "session_id": "5553759e-8615-4f19-a85b-0e09a8a63dc8"
+   "key": "b1.c19.s01",
+   "session_id": "6ac94fdb-7034-4e90-a0a3-1e01dc4993a0"
   },
   "arenya": {
-   "key": "b1.c18.s02",
-   "session_id": "3ecdd618-3aa3-4f5c-87ab-632c67902939"
+   "key": "b1.c19.s02",
+   "session_id": "c66a7ee5-4b01-47ee-8206-e26b6e35c6e1"
   },
   "dm": {
-   "key": "b1.c18.s01",
-   "session_id": "de662ed1-4ebc-41ac-89c5-84c5bfcb8592"
+   "key": "b1.c19.s02",
+   "session_id": "787eec9c-9575-44d8-bf90-61eac2bf492a"
   },
   "abernathy": {
-   "key": "b1.c18.s02",
-   "session_id": "41d6f8ce-7415-4740-951d-4d89365494c8"
+   "key": "b1.c19.s02",
+   "session_id": "31f55876-2aff-4132-a262-68b18c7d1d5d"
   },
   "caleb": {
-   "key": "b1.c18.s02",
-   "session_id": "6bf5193d-56c4-49c8-8a57-47a5dc7e8333"
+   "key": "b1.c19.s02",
+   "session_id": "713539f6-b274-4123-bc36-a5b7886b23be"
   },
   "kino": {
-   "key": "b1.c18.s01",
-   "session_id": "bf8fde24-ffbf-489b-87ee-449bac6aba1b"
+   "key": "b1.c19.s01",
+   "session_id": "431ab4d4-403e-4272-bb87-e09637d5ae97"
   },
   "ava": {
-   "key": "b1.c18.s02",
-   "session_id": "12872c4f-8fb4-425f-9cf5-07c7b9e07630"
+   "key": "b1.c19.s01",
+   "session_id": "a311b6a0-582d-443f-9557-79ffc4e70b18"
   },
   "malachi": {
-   "key": "b1.c18.s02",
-   "session_id": "19ff23d7-1a93-4607-bfab-63a0484ab702"
+   "key": "b1.c19.s02",
+   "session_id": "c7f25759-6efa-440c-b2c7-9c8780c3263f"
   },
   "author": {
    "key": "b1.c17.between",
    "session_id": "275a71ff-2fa8-4925-a035-d691af82175d"
+  },
+  "director": {
+   "key": "b1.c18.s02",
+   "session_id": "ae79d272-0fa2-43ec-a53d-853f822c162b"
   }
  },
  "charges": {
   "dm": {
-   "period": "b1.c18",
-   "left": 19
+   "period": "b1.c19",
+   "left": 18
   },
   "author": {
-   "period": "b1.c18",
+   "period": "b1.c19",
    "left": 0
   },
   "lorekeeper": {
-   "period": "b1.c18",
+   "period": "b1.c19",
    "left": 6
   },
   "director": {
-   "period": "b1.c18",
+   "period": "b1.c19",
    "left": 6
   },
   "arenya": {
-   "period": "b1.c18",
+   "period": "b1.c19",
    "left": 3
   },
   "malachi": {
-   "period": "b1.c18",
+   "period": "b1.c19",
    "left": 3
   },
   "abernathy": {
-   "period": "b1.c18",
+   "period": "b1.c19",
    "left": 3
   },
   "kino": {
-   "period": "b1.c18",
+   "period": "b1.c19",
    "left": 3
   },
   "ava": {
-   "period": "b1.c18",
+   "period": "b1.c19",
    "left": 3
   },
   "caleb": {
-   "period": "b1.c18",
+   "period": "b1.c19",
    "left": 3
   }
  },
  "grants_used": {
   "b1.c15": 4,
   "b1.c16": 4,
-  "b1.c17": 4
+  "b1.c17": 4,
+  "b1.c18": 4,
+  "b1.c19": 2
  },
- "upshift": [
-  "dm"
- ],
+ "upshift": [],
  "spotlight": [],
  "queue": [
   {
-   "seq": 1057,
+   "seq": 1295,
    "agent": "author",
    "job": "draft",
    "args": {
     "scene": {
-     "id": "b1.c18.s01",
-     "title": "Monday",
-     "location": "Hillcrest, Daly City \u2192 the Mission \u2192 the city, Sun night Nov 1 to Mon noon Nov 2",
-     "place": "daly-city-nana-house",
+     "id": "b1.c19.s01",
+     "title": "The Coffee",
+     "location": "Crissy Field warming hut, the Presidio, San Francisco: Wed Nov 4, 6:22 a.m., before dawn",
+     "place": null,
      "cast": [
       "arenya",
-      "malachi",
       "abernathy",
       "kino",
       "ava",
-      "caleb"
+      "caleb",
+      "malachi"
      ],
-     "start_id": 969,
-     "end_id": 987,
-     "summary": "Monday Nov 2, morning to 1 p.m. The Heron Thing clip (Candlestick, 6:52) goes viral with the 11-second breath; Kino's left forearm warmed 6:52\u20136:53, keyed to the water, not the bird. Ava's oven swung east at 11:58 Sunday night. Appa's PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52, and Appa adds it to the \"11\" envelope on the fridge. Nana says the taken salt was manners: the thing now knows it's welcome, so don't leave more unless you mean it. Teddy keeps Arenya on the waterfront beat (600 words due Tue 5 p.m.) with a new keycard, and reveals her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer. Elias confirms the coffee: Wed 6:40, Crissy Field warming hut, \"He'll be early. He's always early when he's scared.\" Malachi saw 3 calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). At 11:58 Rodel left a message on the landline: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. Malachi's true name has been sold. Abernathy heard a turn signal tick eleven times on the tape. The cassette is in Nana's freezer; Kino salted the hall sill; Malachi will park a block away and keep distance from Arenya. The ofrenda is built with Susmithaa's canister; church at four, Colma after.",
+     "start_id": 1241,
+     "end_id": 1290,
+     "summary": "Wed Nov 4, 6:22\u20136:45 a.m., Crissy Field. Typhus Quinn met Arenya in person with two coffees and five pages (an unplugged coil ringing at 11.0 s; Alameda's 11-s seiche; Adonis's \"WHERE FROM? / Unit 8 \u2014 'Melnikov'?\"; \"Mon 17:03\"; \"Tue 19:46,\" the coil cooling and the bay improving 4 cm as the stakes came out). Arenya told him the eater isn't his machine but is *in* it, through Bayline, a vendor under his own Applied Field Research. **Typhus reached step 3**: he believes the rendering hurts the bay and that something outside him feeds the coil. Yuri Melnikov was a Dogpatch machinist who died in August, and no Unit 8 appears on any drawing Typhus has signed. He also said Elias found Arenya in the lobby system from September, and that someone else pulled her old badge Saturday. Lattice watchers worked the meeting: Voss as a jogger with a Crown under her headband, and a Sprinter with an array whose sweep hunted the Lamp in Arenya's bag. Arenya refused to let Abernathy block the sweep, shielded the bag and moved Typhus out of the van's line. Voss's Crown locked onto **Malachi's sold true name**. She stepped on Ava's kelp knot and her Crown squealed, and the van's beam swung to her. Kino, Ava and Arenya (\"Mr. Shawani!\") turned her away. Malachi told her \"whoever paid in water rights overpaid.\" Caleb, at the van's door, heard **Hale**: \"walk it off, Voss, we're burned.\" He slipped the rear camera, and the van left. The Lamp was not tagged. Typhus gave Arenya his number and Elias's personal line (to memorize and burn), and revealed **INTAKE EXCEPTION 0001, NO SOURCE**, logged 9:14 p.m. Tue and lockboxed in the Lantern control room two floors above the coil. Abernathy's wrist went cold in the cuff's shape, so it's his cuff. Arenya advised him to throttle the coil, not shut it off, and to copy everything off-site. As he left, the foghorn skipped once to twelve seconds.",
      "book": 1,
-     "chapter": 18
+     "chapter": 19
     }
    },
    "priority": 9,
    "attempt": 0,
-   "ts": "2026-10-29T04:37:28Z"
+   "ts": "2026-10-29T05:22:28Z"
   },
   {
-   "seq": 1058,
+   "seq": 1296,
    "agent": "lorekeeper",
    "job": "extract",
    "args": {
     "scene": {
-     "id": "b1.c18.s01",
-     "title": "Monday",
-     "location": "Hillcrest, Daly City \u2192 the Mission \u2192 the city, Sun night Nov 1 to Mon noon Nov 2",
-     "place": "daly-city-nana-house",
+     "id": "b1.c19.s01",
+     "title": "The Coffee",
+     "location": "Crissy Field warming hut, the Presidio, San Francisco: Wed Nov 4, 6:22 a.m., before dawn",
+     "place": null,
      "cast": [
       "arenya",
-      "malachi",
       "abernathy",
       "kino",
       "ava",
-      "caleb"
+      "caleb",
+      "malachi"
      ],
-     "start_id": 969,
-     "end_id": 987,
-     "summary": "Monday Nov 2, morning to 1 p.m. The Heron Thing clip (Candlestick, 6:52) goes viral with the 11-second breath; Kino's left forearm warmed 6:52\u20136:53, keyed to the water, not the bird. Ava's oven swung east at 11:58 Sunday night. Appa's PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52, and Appa adds it to the \"11\" envelope on the fridge. Nana says the taken salt was manners: the thing now knows it's welcome, so don't leave more unless you mean it. Teddy keeps Arenya on the waterfront beat (600 words due Tue 5 p.m.) with a new keycard, and reveals her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer. Elias confirms the coffee: Wed 6:40, Crissy Field warming hut, \"He'll be early. He's always early when he's scared.\" Malachi saw 3 calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). At 11:58 Rodel left a message on the landline: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. Malachi's true name has been sold. Abernathy heard a turn signal tick eleven times on the tape. The cassette is in Nana's freezer; Kino salted the hall sill; Malachi will park a block away and keep distance from Arenya. The ofrenda is built with Susmithaa's canister; church at four, Colma after.",
+     "start_id": 1241,
+     "end_id": 1290,
+     "summary": "Wed Nov 4, 6:22\u20136:45 a.m., Crissy Field. Typhus Quinn met Arenya in person with two coffees and five pages (an unplugged coil ringing at 11.0 s; Alameda's 11-s seiche; Adonis's \"WHERE FROM? / Unit 8 \u2014 'Melnikov'?\"; \"Mon 17:03\"; \"Tue 19:46,\" the coil cooling and the bay improving 4 cm as the stakes came out). Arenya told him the eater isn't his machine but is *in* it, through Bayline, a vendor under his own Applied Field Research. **Typhus reached step 3**: he believes the rendering hurts the bay and that something outside him feeds the coil. Yuri Melnikov was a Dogpatch machinist who died in August, and no Unit 8 appears on any drawing Typhus has signed. He also said Elias found Arenya in the lobby system from September, and that someone else pulled her old badge Saturday. Lattice watchers worked the meeting: Voss as a jogger with a Crown under her headband, and a Sprinter with an array whose sweep hunted the Lamp in Arenya's bag. Arenya refused to let Abernathy block the sweep, shielded the bag and moved Typhus out of the van's line. Voss's Crown locked onto **Malachi's sold true name**. She stepped on Ava's kelp knot and her Crown squealed, and the van's beam swung to her. Kino, Ava and Arenya (\"Mr. Shawani!\") turned her away. Malachi told her \"whoever paid in water rights overpaid.\" Caleb, at the van's door, heard **Hale**: \"walk it off, Voss, we're burned.\" He slipped the rear camera, and the van left. The Lamp was not tagged. Typhus gave Arenya his number and Elias's personal line (to memorize and burn), and revealed **INTAKE EXCEPTION 0001, NO SOURCE**, logged 9:14 p.m. Tue and lockboxed in the Lantern control room two floors above the coil. Abernathy's wrist went cold in the cuff's shape, so it's his cuff. Arenya advised him to throttle the coil, not shut it off, and to copy everything off-site. As he left, the foghorn skipped once to twelve seconds.",
      "book": 1,
-     "chapter": 18
+     "chapter": 19
     }
    },
    "priority": 8,
    "attempt": 0,
-   "ts": "2026-10-29T04:37:28Z"
+   "ts": "2026-10-29T05:22:28Z"
   },
   {
-   "seq": 1065,
-   "agent": "caleb",
+   "seq": 1303,
+   "agent": "malachi",
    "job": "reflect",
    "args": {
     "scene": {
-     "id": "b1.c18.s01",
-     "title": "Monday",
-     "location": "Hillcrest, Daly City \u2192 the Mission \u2192 the city, Sun night Nov 1 to Mon noon Nov 2",
-     "place": "daly-city-nana-house",
+     "id": "b1.c19.s01",
+     "title": "The Coffee",
+     "location": "Crissy Field warming hut, the Presidio, San Francisco: Wed Nov 4, 6:22 a.m., before dawn",
+     "place": null,
+     "cast": [
+      "arenya",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb",
+      "malachi"
+     ],
+     "start_id": 1241,
+     "end_id": 1290,
+     "summary": "Wed Nov 4, 6:22\u20136:45 a.m., Crissy Field. Typhus Quinn met Arenya in person with two coffees and five pages (an unplugged coil ringing at 11.0 s; Alameda's 11-s seiche; Adonis's \"WHERE FROM? / Unit 8 \u2014 'Melnikov'?\"; \"Mon 17:03\"; \"Tue 19:46,\" the coil cooling and the bay improving 4 cm as the stakes came out). Arenya told him the eater isn't his machine but is *in* it, through Bayline, a vendor under his own Applied Field Research. **Typhus reached step 3**: he believes the rendering hurts the bay and that something outside him feeds the coil. Yuri Melnikov was a Dogpatch machinist who died in August, and no Unit 8 appears on any drawing Typhus has signed. He also said Elias found Arenya in the lobby system from September, and that someone else pulled her old badge Saturday. Lattice watchers worked the meeting: Voss as a jogger with a Crown under her headband, and a Sprinter with an array whose sweep hunted the Lamp in Arenya's bag. Arenya refused to let Abernathy block the sweep, shielded the bag and moved Typhus out of the van's line. Voss's Crown locked onto **Malachi's sold true name**. She stepped on Ava's kelp knot and her Crown squealed, and the van's beam swung to her. Kino, Ava and Arenya (\"Mr. Shawani!\") turned her away. Malachi told her \"whoever paid in water rights overpaid.\" Caleb, at the van's door, heard **Hale**: \"walk it off, Voss, we're burned.\" He slipped the rear camera, and the van left. The Lamp was not tagged. Typhus gave Arenya his number and Elias's personal line (to memorize and burn), and revealed **INTAKE EXCEPTION 0001, NO SOURCE**, logged 9:14 p.m. Tue and lockboxed in the Lantern control room two floors above the coil. Abernathy's wrist went cold in the cuff's shape, so it's his cuff. Arenya advised him to throttle the coil, not shut it off, and to copy everything off-site. As he left, the foghorn skipped once to twelve seconds.",
+     "book": 1,
+     "chapter": 19
+    }
+   },
+   "priority": 6,
+   "attempt": 0,
+   "ts": "2026-10-29T05:22:28Z"
+  },
+  {
+   "seq": 1314,
+   "agent": "author",
+   "job": "draft",
+   "args": {
+    "scene": {
+     "id": "b1.c19.s02",
+     "title": "Wednesday",
+     "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+     "place": null,
      "cast": [
       "arenya",
       "malachi",
@@ -770,59 +901,291 @@
       "ava",
       "caleb"
      ],
-     "start_id": 969,
-     "end_id": 987,
-     "summary": "Monday Nov 2, morning to 1 p.m. The Heron Thing clip (Candlestick, 6:52) goes viral with the 11-second breath; Kino's left forearm warmed 6:52\u20136:53, keyed to the water, not the bird. Ava's oven swung east at 11:58 Sunday night. Appa's PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52, and Appa adds it to the \"11\" envelope on the fridge. Nana says the taken salt was manners: the thing now knows it's welcome, so don't leave more unless you mean it. Teddy keeps Arenya on the waterfront beat (600 words due Tue 5 p.m.) with a new keycard, and reveals her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer. Elias confirms the coffee: Wed 6:40, Crissy Field warming hut, \"He'll be early. He's always early when he's scared.\" Malachi saw 3 calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). At 11:58 Rodel left a message on the landline: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. Malachi's true name has been sold. Abernathy heard a turn signal tick eleven times on the tape. The cassette is in Nana's freezer; Kino salted the hall sill; Malachi will park a block away and keep distance from Arenya. The ofrenda is built with Susmithaa's canister; church at four, Colma after.",
+     "start_id": 1291,
+     "end_id": 1306,
+     "summary": "Wednesday Nov 4 runs fast: the city's clocks drift ahead (Ava logs offsets against GPS, +3:00 by 1:20 p.m.) as the Mill drinks hurry. Teddy's bay story ran, Monolith's comms office asked about his \"sources,\" and Arenya asks him to hold until Friday. Malachi stalls Corinne to Friday and finds the Bayline lease on Tunnel Avenue, guaranteed by Applied Field Research and signed with a stamped \"M.\" Rodel was left an anonymous crate of oranges for the Sowri household, every fruit facing the door, and refused it. A pink two-part carbon from \"H\" in Nana's mailbox offers the Thursday lift site in exchange for being vouched for to El Contador: Colma 110 stop, 7 p.m. Caleb failed his withdrawal save. His hands tremble and he can't drive, but the hum sharpens his sense of the off-beat. Abernathy told Arenya Porter is \"a thing I was called,\" answered in an older, polite voice. At a laundromat on Judah, Ava asked Arenya how she really is, and Arenya confessed grief, guilt, and that some part of her loves being in the crack in the world. Tonight's split: Malachi to Colma with Caleb in the car, and Arenya, Kino and Ava to Second piling at 8:56.",
      "book": 1,
-     "chapter": 18
+     "chapter": 19
+    }
+   },
+   "priority": 9,
+   "attempt": 0,
+   "ts": "2026-10-29T05:24:58Z"
+  },
+  {
+   "seq": 1315,
+   "agent": "lorekeeper",
+   "job": "extract",
+   "args": {
+    "scene": {
+     "id": "b1.c19.s02",
+     "title": "Wednesday",
+     "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+     "place": null,
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 1291,
+     "end_id": 1306,
+     "summary": "Wednesday Nov 4 runs fast: the city's clocks drift ahead (Ava logs offsets against GPS, +3:00 by 1:20 p.m.) as the Mill drinks hurry. Teddy's bay story ran, Monolith's comms office asked about his \"sources,\" and Arenya asks him to hold until Friday. Malachi stalls Corinne to Friday and finds the Bayline lease on Tunnel Avenue, guaranteed by Applied Field Research and signed with a stamped \"M.\" Rodel was left an anonymous crate of oranges for the Sowri household, every fruit facing the door, and refused it. A pink two-part carbon from \"H\" in Nana's mailbox offers the Thursday lift site in exchange for being vouched for to El Contador: Colma 110 stop, 7 p.m. Caleb failed his withdrawal save. His hands tremble and he can't drive, but the hum sharpens his sense of the off-beat. Abernathy told Arenya Porter is \"a thing I was called,\" answered in an older, polite voice. At a laundromat on Judah, Ava asked Arenya how she really is, and Arenya confessed grief, guilt, and that some part of her loves being in the crack in the world. Tonight's split: Malachi to Colma with Caleb in the car, and Arenya, Kino and Ava to Second piling at 8:56.",
+     "book": 1,
+     "chapter": 19
+    }
+   },
+   "priority": 8,
+   "attempt": 0,
+   "ts": "2026-10-29T05:24:58Z"
+  },
+  {
+   "seq": 1316,
+   "agent": "dm",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c19.s02",
+     "title": "Wednesday",
+     "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+     "place": null,
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 1291,
+     "end_id": 1306,
+     "summary": "Wednesday Nov 4 runs fast: the city's clocks drift ahead (Ava logs offsets against GPS, +3:00 by 1:20 p.m.) as the Mill drinks hurry. Teddy's bay story ran, Monolith's comms office asked about his \"sources,\" and Arenya asks him to hold until Friday. Malachi stalls Corinne to Friday and finds the Bayline lease on Tunnel Avenue, guaranteed by Applied Field Research and signed with a stamped \"M.\" Rodel was left an anonymous crate of oranges for the Sowri household, every fruit facing the door, and refused it. A pink two-part carbon from \"H\" in Nana's mailbox offers the Thursday lift site in exchange for being vouched for to El Contador: Colma 110 stop, 7 p.m. Caleb failed his withdrawal save. His hands tremble and he can't drive, but the hum sharpens his sense of the off-beat. Abernathy told Arenya Porter is \"a thing I was called,\" answered in an older, polite voice. At a laundromat on Judah, Ava asked Arenya how she really is, and Arenya confessed grief, guilt, and that some part of her loves being in the crack in the world. Tonight's split: Malachi to Colma with Caleb in the car, and Arenya, Kino and Ava to Second piling at 8:56.",
+     "book": 1,
+     "chapter": 19
+    }
+   },
+   "priority": 5,
+   "attempt": 0,
+   "ts": "2026-10-29T05:24:58Z"
+  },
+  {
+   "seq": 1317,
+   "agent": "arenya",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c19.s02",
+     "title": "Wednesday",
+     "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+     "place": null,
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 1291,
+     "end_id": 1306,
+     "summary": "Wednesday Nov 4 runs fast: the city's clocks drift ahead (Ava logs offsets against GPS, +3:00 by 1:20 p.m.) as the Mill drinks hurry. Teddy's bay story ran, Monolith's comms office asked about his \"sources,\" and Arenya asks him to hold until Friday. Malachi stalls Corinne to Friday and finds the Bayline lease on Tunnel Avenue, guaranteed by Applied Field Research and signed with a stamped \"M.\" Rodel was left an anonymous crate of oranges for the Sowri household, every fruit facing the door, and refused it. A pink two-part carbon from \"H\" in Nana's mailbox offers the Thursday lift site in exchange for being vouched for to El Contador: Colma 110 stop, 7 p.m. Caleb failed his withdrawal save. His hands tremble and he can't drive, but the hum sharpens his sense of the off-beat. Abernathy told Arenya Porter is \"a thing I was called,\" answered in an older, polite voice. At a laundromat on Judah, Ava asked Arenya how she really is, and Arenya confessed grief, guilt, and that some part of her loves being in the crack in the world. Tonight's split: Malachi to Colma with Caleb in the car, and Arenya, Kino and Ava to Second piling at 8:56.",
+     "book": 1,
+     "chapter": 19
     }
    },
    "priority": 6,
    "attempt": 0,
-   "ts": "2026-10-29T04:37:28Z"
+   "ts": "2026-10-29T05:24:58Z"
+  },
+  {
+   "seq": 1318,
+   "agent": "malachi",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c19.s02",
+     "title": "Wednesday",
+     "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+     "place": null,
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 1291,
+     "end_id": 1306,
+     "summary": "Wednesday Nov 4 runs fast: the city's clocks drift ahead (Ava logs offsets against GPS, +3:00 by 1:20 p.m.) as the Mill drinks hurry. Teddy's bay story ran, Monolith's comms office asked about his \"sources,\" and Arenya asks him to hold until Friday. Malachi stalls Corinne to Friday and finds the Bayline lease on Tunnel Avenue, guaranteed by Applied Field Research and signed with a stamped \"M.\" Rodel was left an anonymous crate of oranges for the Sowri household, every fruit facing the door, and refused it. A pink two-part carbon from \"H\" in Nana's mailbox offers the Thursday lift site in exchange for being vouched for to El Contador: Colma 110 stop, 7 p.m. Caleb failed his withdrawal save. His hands tremble and he can't drive, but the hum sharpens his sense of the off-beat. Abernathy told Arenya Porter is \"a thing I was called,\" answered in an older, polite voice. At a laundromat on Judah, Ava asked Arenya how she really is, and Arenya confessed grief, guilt, and that some part of her loves being in the crack in the world. Tonight's split: Malachi to Colma with Caleb in the car, and Arenya, Kino and Ava to Second piling at 8:56.",
+     "book": 1,
+     "chapter": 19
+    }
+   },
+   "priority": 6,
+   "attempt": 0,
+   "ts": "2026-10-29T05:24:58Z"
+  },
+  {
+   "seq": 1319,
+   "agent": "abernathy",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c19.s02",
+     "title": "Wednesday",
+     "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+     "place": null,
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 1291,
+     "end_id": 1306,
+     "summary": "Wednesday Nov 4 runs fast: the city's clocks drift ahead (Ava logs offsets against GPS, +3:00 by 1:20 p.m.) as the Mill drinks hurry. Teddy's bay story ran, Monolith's comms office asked about his \"sources,\" and Arenya asks him to hold until Friday. Malachi stalls Corinne to Friday and finds the Bayline lease on Tunnel Avenue, guaranteed by Applied Field Research and signed with a stamped \"M.\" Rodel was left an anonymous crate of oranges for the Sowri household, every fruit facing the door, and refused it. A pink two-part carbon from \"H\" in Nana's mailbox offers the Thursday lift site in exchange for being vouched for to El Contador: Colma 110 stop, 7 p.m. Caleb failed his withdrawal save. His hands tremble and he can't drive, but the hum sharpens his sense of the off-beat. Abernathy told Arenya Porter is \"a thing I was called,\" answered in an older, polite voice. At a laundromat on Judah, Ava asked Arenya how she really is, and Arenya confessed grief, guilt, and that some part of her loves being in the crack in the world. Tonight's split: Malachi to Colma with Caleb in the car, and Arenya, Kino and Ava to Second piling at 8:56.",
+     "book": 1,
+     "chapter": 19
+    }
+   },
+   "priority": 6,
+   "attempt": 0,
+   "ts": "2026-10-29T05:24:58Z"
+  },
+  {
+   "seq": 1320,
+   "agent": "kino",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c19.s02",
+     "title": "Wednesday",
+     "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+     "place": null,
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 1291,
+     "end_id": 1306,
+     "summary": "Wednesday Nov 4 runs fast: the city's clocks drift ahead (Ava logs offsets against GPS, +3:00 by 1:20 p.m.) as the Mill drinks hurry. Teddy's bay story ran, Monolith's comms office asked about his \"sources,\" and Arenya asks him to hold until Friday. Malachi stalls Corinne to Friday and finds the Bayline lease on Tunnel Avenue, guaranteed by Applied Field Research and signed with a stamped \"M.\" Rodel was left an anonymous crate of oranges for the Sowri household, every fruit facing the door, and refused it. A pink two-part carbon from \"H\" in Nana's mailbox offers the Thursday lift site in exchange for being vouched for to El Contador: Colma 110 stop, 7 p.m. Caleb failed his withdrawal save. His hands tremble and he can't drive, but the hum sharpens his sense of the off-beat. Abernathy told Arenya Porter is \"a thing I was called,\" answered in an older, polite voice. At a laundromat on Judah, Ava asked Arenya how she really is, and Arenya confessed grief, guilt, and that some part of her loves being in the crack in the world. Tonight's split: Malachi to Colma with Caleb in the car, and Arenya, Kino and Ava to Second piling at 8:56.",
+     "book": 1,
+     "chapter": 19
+    }
+   },
+   "priority": 6,
+   "attempt": 0,
+   "ts": "2026-10-29T05:24:58Z"
+  },
+  {
+   "seq": 1321,
+   "agent": "ava",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c19.s02",
+     "title": "Wednesday",
+     "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+     "place": null,
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 1291,
+     "end_id": 1306,
+     "summary": "Wednesday Nov 4 runs fast: the city's clocks drift ahead (Ava logs offsets against GPS, +3:00 by 1:20 p.m.) as the Mill drinks hurry. Teddy's bay story ran, Monolith's comms office asked about his \"sources,\" and Arenya asks him to hold until Friday. Malachi stalls Corinne to Friday and finds the Bayline lease on Tunnel Avenue, guaranteed by Applied Field Research and signed with a stamped \"M.\" Rodel was left an anonymous crate of oranges for the Sowri household, every fruit facing the door, and refused it. A pink two-part carbon from \"H\" in Nana's mailbox offers the Thursday lift site in exchange for being vouched for to El Contador: Colma 110 stop, 7 p.m. Caleb failed his withdrawal save. His hands tremble and he can't drive, but the hum sharpens his sense of the off-beat. Abernathy told Arenya Porter is \"a thing I was called,\" answered in an older, polite voice. At a laundromat on Judah, Ava asked Arenya how she really is, and Arenya confessed grief, guilt, and that some part of her loves being in the crack in the world. Tonight's split: Malachi to Colma with Caleb in the car, and Arenya, Kino and Ava to Second piling at 8:56.",
+     "book": 1,
+     "chapter": 19
+    }
+   },
+   "priority": 6,
+   "attempt": 0,
+   "ts": "2026-10-29T05:24:58Z"
+  },
+  {
+   "seq": 1322,
+   "agent": "caleb",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c19.s02",
+     "title": "Wednesday",
+     "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+     "place": null,
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 1291,
+     "end_id": 1306,
+     "summary": "Wednesday Nov 4 runs fast: the city's clocks drift ahead (Ava logs offsets against GPS, +3:00 by 1:20 p.m.) as the Mill drinks hurry. Teddy's bay story ran, Monolith's comms office asked about his \"sources,\" and Arenya asks him to hold until Friday. Malachi stalls Corinne to Friday and finds the Bayline lease on Tunnel Avenue, guaranteed by Applied Field Research and signed with a stamped \"M.\" Rodel was left an anonymous crate of oranges for the Sowri household, every fruit facing the door, and refused it. A pink two-part carbon from \"H\" in Nana's mailbox offers the Thursday lift site in exchange for being vouched for to El Contador: Colma 110 stop, 7 p.m. Caleb failed his withdrawal save. His hands tremble and he can't drive, but the hum sharpens his sense of the off-beat. Abernathy told Arenya Porter is \"a thing I was called,\" answered in an older, polite voice. At a laundromat on Judah, Ava asked Arenya how she really is, and Arenya confessed grief, guilt, and that some part of her loves being in the crack in the world. Tonight's split: Malachi to Colma with Caleb in the car, and Arenya, Kino and Ava to Second piling at 8:56.",
+     "book": 1,
+     "chapter": 19
+    }
+   },
+   "priority": 6,
+   "attempt": 0,
+   "ts": "2026-10-29T05:24:58Z"
   }
  ],
  "running": [
   {
-   "seq": 1084,
+   "seq": 1313,
    "agent": "dm",
    "job": "turn",
    "args": {},
    "priority": 0,
    "attempt": 0,
-   "ts": "2026-10-29T04:40:06Z"
+   "ts": "2026-10-29T05:24:47Z"
   },
   {
-   "seq": 1064,
-   "agent": "ava",
+   "seq": 1302,
+   "agent": "caleb",
    "job": "reflect",
    "args": {
     "scene": {
-     "id": "b1.c18.s01",
-     "title": "Monday",
-     "location": "Hillcrest, Daly City \u2192 the Mission \u2192 the city, Sun night Nov 1 to Mon noon Nov 2",
-     "place": "daly-city-nana-house",
+     "id": "b1.c19.s01",
+     "title": "The Coffee",
+     "location": "Crissy Field warming hut, the Presidio, San Francisco: Wed Nov 4, 6:22 a.m., before dawn",
+     "place": null,
      "cast": [
       "arenya",
-      "malachi",
       "abernathy",
       "kino",
       "ava",
-      "caleb"
+      "caleb",
+      "malachi"
      ],
-     "start_id": 969,
-     "end_id": 987,
-     "summary": "Monday Nov 2, morning to 1 p.m. The Heron Thing clip (Candlestick, 6:52) goes viral with the 11-second breath; Kino's left forearm warmed 6:52\u20136:53, keyed to the water, not the bird. Ava's oven swung east at 11:58 Sunday night. Appa's PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52, and Appa adds it to the \"11\" envelope on the fridge. Nana says the taken salt was manners: the thing now knows it's welcome, so don't leave more unless you mean it. Teddy keeps Arenya on the waterfront beat (600 words due Tue 5 p.m.) with a new keycard, and reveals her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer. Elias confirms the coffee: Wed 6:40, Crissy Field warming hut, \"He'll be early. He's always early when he's scared.\" Malachi saw 3 calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). At 11:58 Rodel left a message on the landline: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. Malachi's true name has been sold. Abernathy heard a turn signal tick eleven times on the tape. The cassette is in Nana's freezer; Kino salted the hall sill; Malachi will park a block away and keep distance from Arenya. The ofrenda is built with Susmithaa's canister; church at four, Colma after.",
+     "start_id": 1241,
+     "end_id": 1290,
+     "summary": "Wed Nov 4, 6:22\u20136:45 a.m., Crissy Field. Typhus Quinn met Arenya in person with two coffees and five pages (an unplugged coil ringing at 11.0 s; Alameda's 11-s seiche; Adonis's \"WHERE FROM? / Unit 8 \u2014 'Melnikov'?\"; \"Mon 17:03\"; \"Tue 19:46,\" the coil cooling and the bay improving 4 cm as the stakes came out). Arenya told him the eater isn't his machine but is *in* it, through Bayline, a vendor under his own Applied Field Research. **Typhus reached step 3**: he believes the rendering hurts the bay and that something outside him feeds the coil. Yuri Melnikov was a Dogpatch machinist who died in August, and no Unit 8 appears on any drawing Typhus has signed. He also said Elias found Arenya in the lobby system from September, and that someone else pulled her old badge Saturday. Lattice watchers worked the meeting: Voss as a jogger with a Crown under her headband, and a Sprinter with an array whose sweep hunted the Lamp in Arenya's bag. Arenya refused to let Abernathy block the sweep, shielded the bag and moved Typhus out of the van's line. Voss's Crown locked onto **Malachi's sold true name**. She stepped on Ava's kelp knot and her Crown squealed, and the van's beam swung to her. Kino, Ava and Arenya (\"Mr. Shawani!\") turned her away. Malachi told her \"whoever paid in water rights overpaid.\" Caleb, at the van's door, heard **Hale**: \"walk it off, Voss, we're burned.\" He slipped the rear camera, and the van left. The Lamp was not tagged. Typhus gave Arenya his number and Elias's personal line (to memorize and burn), and revealed **INTAKE EXCEPTION 0001, NO SOURCE**, logged 9:14 p.m. Tue and lockboxed in the Lantern control room two floors above the coil. Abernathy's wrist went cold in the cuff's shape, so it's his cuff. Arenya advised him to throttle the coil, not shut it off, and to copy everything off-site. As he left, the foghorn skipped once to twelve seconds.",
      "book": 1,
-     "chapter": 18
+     "chapter": 19
     }
    },
    "priority": 6,
    "attempt": 0,
-   "ts": "2026-10-29T04:37:28Z"
+   "ts": "2026-10-29T05:22:28Z"
   }
  ],
- "job_seq": 1084,
+ "job_seq": 1322,
  "human_waiting": [],
  "idle_wakes": 0,
  "paused": false,
@@ -830,33 +1193,33 @@
  "locations": {
   "caleb": {
    "place": null,
-   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
-   "scene": "b1.c18.s02"
+   "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+   "scene": "b1.c19.s02"
   },
   "kino": {
    "place": null,
-   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
-   "scene": "b1.c18.s02"
+   "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+   "scene": "b1.c19.s02"
   },
   "ava": {
    "place": null,
-   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
-   "scene": "b1.c18.s02"
+   "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+   "scene": "b1.c19.s02"
   },
   "arenya": {
    "place": null,
-   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
-   "scene": "b1.c18.s02"
+   "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+   "scene": "b1.c19.s02"
   },
   "abernathy": {
    "place": null,
-   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
-   "scene": "b1.c18.s02"
+   "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+   "scene": "b1.c19.s02"
   },
   "malachi": {
    "place": null,
-   "location": "Our Lady of Mercy, Daly City \u2192 Holy Cross Cemetery, Colma, Mon Nov 2, 4 p.m. to dusk",
-   "scene": "b1.c18.s02"
+   "location": "San Francisco: Crissy Field to the Sunset to the city, Wed Nov 4, 7:00 a.m. to 4:00 p.m.",
+   "scene": "b1.c19.s02"
   }
  }
 }

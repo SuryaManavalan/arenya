@@ -30,5 +30,7 @@ Claims long service to the Light ("since before your nan's nan"). His own past i
 - Susmithaa warned Arenya he would say he was looking after her and "is lying." He told Arenya on `bond`: "I don't know what she meant," and that he filled her kettle from muscle memory ("Don't ask whose"). He speaks only on `bond` in the physical world. [#0018]
 - Advised her to hide her warm right hand and not scratch or study the cold wrist spot. [#0018]
 
+- **b1.c18.s05 (Tue 3 Nov):** his clerk's strike-through on stake 2's ledger line missed (14 vs DC 15); the line read him back (4 astral cold, −4 astral HP) and opened a copperplate page whose only legible word was **Porter** ([[porter-ledger-page]]). He unbuttoned and **gave up the brass livery cuff** to escape the reading; it rode the line toward the Hunters Point stack and is lost. Told Arenya on bond that Porter "isn't a name I know," but "something in me said *yes* before I could say *no*." [#1212, #1218–#1222, #1231]
+
 ## Status
 Bound to [[arenya-sowri]] as of b1.c15.s01. Secrets: [[abernathy-true-nature]] (restricted).

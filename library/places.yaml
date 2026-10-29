@@ -3,6 +3,23 @@
 # visibility: public | restricted (restricted = characters don't know it yet; the human always sees it)
 # kind: home | work | landmark | spirit | rift | facility | death-site | other
 places:
+  candlestick-point:
+    name: Candlestick Point (State Recreation Area shoreline)
+    lat: 37.7137
+    lon: -122.3830
+    kind: rift
+    note: Mudflats, riprap, near-empty lot, SE San Francisco. Heron Thing (Mon 6:52 a.m.); scene b1.c18.s03 "Low Tide". Slack-water spirit met here; tide dragged NE toward Hunters Point (the Mill). Rift step 3. Strength unspecified.
+    visibility: public
+    sources: ["b1.c18.s03 #1118"]
+  crissy_field:
+    name: Crissy Field warming hut (the Presidio)
+    aliases: [Crissy Field, the warming hut]
+    lat: 37.8068
+    lon: -122.4659
+    kind: landmark
+    note: Small café hut with picnic deck on the bay shore at the Golden Gate end of the Crissy Field promenade; Mason St. runs behind it. Typhus's habitual dawn run. Scene b1.c19.s01 "The Coffee" (Wed Nov 4, 6:22 a.m.).
+    visibility: public
+    sources: ["b1.c19.s01 #1242"]
   pacifica-pier:
     name: Pacifica Municipal Pier (Sharp Park)
     lat: 37.6296

@@ -100,10 +100,23 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[the-runner]] — Shepherd's-crook curb-vigil man, no car, bus 110; Caleb's account s08; s09 scouting: pink transfer, bay C prints, "8:12" (public, provisional)
 - [[dalal-glasses-blue-jar]] — Dalal's wrapped glasses in Nana's blue jar; grey thread to the 110 stop; Nana's trade terms; s10 (public, provisional)
 - [[wiped-circle-windows]] — palm-sized circles in the shelter and Nana's kitchen window; Dalal's "blank page"; s11 (public, provisional)
+- [[rodel-landline-message]] — Mon 11:58 tape: Dalal sold a page to a grey suit, then bought oranges; in Nana's freezer; b1.c18.s01 (public, provisional)
+- [[porter-ledger-page]] — copperplate "Porter" page opened by stake 2's line; Abernathy's lost brass cuff; b1.c18.s05 (public, provisional)
 - [[meridian-mutual-policy]] — the supposed policy / Susmithaa's "door"; s16.s01: "c/o" line, 8 March archana (public, provisional)
 
 ## History & events
 - [[freezing-deaths]] — the cluster (public)
+- [[all-souls-heron-battle]] — b1.c18.s02: ashes buried borrowed, Arenya awakens, first astral battle (public, provisional)
+- [[tide-herald-heron]] — clerk-like heron spirit, spared and sent home (public, provisional)
+- [[foam-hands]] — seawater/kelp crawlers, drawn to heat and pulse (public, provisional)
+- [[holy-cross-cemetery-colma]] — Adonis's grave; Lucero plot; canister buried (public, provisional)
+- [[slack-water-spirit]] — eelgrass tide-woman held by ledger lines; Mill, stakes; b1.c18.s03 (public, provisional)
+- [[ledger-stakes-and-d2-07]] — iron stakes, Drop Two truck D2-07, Kino's 4.0 cm ruled mark; s03 (public, provisional)
+- [[bayline-remediation-survey]] — Monolith's Hunters Point sub; 11 D-series trucks, Tunnel Ave yard; b1.c18.s04 (public, provisional)
+- [[spirit-of-hurry]] — 101 archetypal spirit, drained east into the Mill; s04 (public, provisional)
+- [[kelp-knot-letter]] — three-tick kelp "letter," brass-and-library smell; s04 (public, provisional)
+- [[corinne-abate]] — Malachi's handler; name sold for "water rights"; Nov 10 deadline; s04 (public, provisional)
+- [[our-lady-of-mercy-daly-city]] — Nana's parish (public, provisional)
 
 ## Culture & concepts
 - [[the-bulk-term]] — kanna, Renny, etc. (public)

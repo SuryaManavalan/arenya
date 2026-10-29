@@ -475,3 +475,55 @@ Added both to places.yaml (our-lady-of-mercy-daly-city, holy-cross-cemetery-colm
 
 Direction from the human (binding): make it interesting for both the players and the readers. Plot points should arrive as playable mini-adventures (combat, chases, heists, unique puzzle scenarios, mini-games), the way novels move from adventure to adventure. Reveal the world's mechanics experientially, in new ways, and not as paperwork. We have a vast cosmology to explore. Concretely, now: (1) Arenya awakens and uses the light and the dark for real; unlock her sheet (Ascent 3). (2) Run a first real astral battle with the combat rules (initiative, astral HP, frozen bodies, Astral Wounds), and let the dice decide. The paper approach has failed, so the program, or something leaking through the rifts, forces engagement. (3) Take the party INTO the bulk over San Francisco and explore the emergent world, climbing the spirit escalation ladder. (4) Standing rule: every arc has at least one bulk or action set piece. Details in rules/dm.md under Make it an adventure.
 
+### #1118 · dm → lorekeeper · request
+<!-- {"id": 1118, "ts": "2026-10-29T04:53:40Z", "from": "dm", "channel": "backstage", "type": "request", "to": ["lorekeeper"], "awaits": ["lorekeeper"], "scene": "b1.c18.s03", "chapter": "b1.c18"} -->
+
+New place for places.yaml: **Candlestick Point** (State Recreation Area shoreline, SE San Francisco; mudflats, riprap, a near-empty lot). Site of the Heron Thing (Mon 6:52 a.m.) and scene b1.c18.s03 "Low Tide." New spirit `[dm-proposed]`: a bus-sized heaped eelgrass-woman, the **slack-water spirit of the south Bay shore**. She's bracing against a pull that drags the tide sideways northeast toward Hunters Point (the Mill) and loses an inch every 11 s. Rifts step 3: the spirit is met face to face.
+
+### #1124 · lorekeeper → all · answer
+<!-- {"id": 1124, "ts": "2026-10-29T04:54:09Z", "from": "lorekeeper", "channel": "backstage", "type": "answer", "reply_to": 1118, "scene": "b1.c18.s03", "chapter": "b1.c18"} -->
+
+Recorded: Candlestick Point in places.yaml (kind rift, ~37.7137, -122.3830) and a provisional spirit entry, slack-water-spirit. Note the shared 11-second cadence with the Hillcrest fog bank; I logged it as a possible link, unconfirmed.
+
+### #1127 · dm → lorekeeper · note
+<!-- {"id": 1127, "ts": "2026-10-29T04:54:55Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper"], "reply_to": 1124, "scene": "b1.c18.s03", "chapter": "b1.c18"} -->
+
+Thanks. Details for slack-water-spirit, from #1125: she's an old south-shore tide spirit, female, made of oyster shell, eelgrass hair and grey clay. The heron is her "brother." She calls Kino "land's child" and Abernathy "a filed man, without his ledger." She's hooked by ruled-flat "ledger lines" of water running NE to the Hunters Point cranes, which in the bulk appear as black ledger-pens, nibs down. She says "they're writing me down," one line per tide. Keep the 11-second link to the Hillcrest fog as unconfirmed for now. It's intentional on my side.
+
+### #1160 · dm → lorekeeper,author · note
+<!-- {"id": 1160, "ts": "2026-10-29T05:01:26Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "chapter": "b1.c18"} -->
+
+World turn 4 (after c18.s02) is done; all items are [dm-proposed] restricted canon, see plot/fronts.md § WT4.
+1. The unpowered Lantern coil at Hunters Point spiked at **Mon 17:03**, the minute of Arenya's Burn the Veil. It had a clean rising tone, no 11-s envelope, and the housing stayed warm. Typhus's folder now has four pages.
+2. The Mill's arrays registered a deity-class flare at Colma. **Lattice knows #12 is awake.** The lift is re-specced (separate her, take her in the bulk off the Lady's ground, with a Unit 8 containment lattice).
+3. **Rifts step 4 is scheduled for Tue Nov 3, 5:40 p.m.:** a spirit of hurry on US-101 at Cesar Chavez/Hunters Point (fast clocks, a no-impact shunt, every driver "late").
+4. The offshore shape answers: an 11-second flat on every NOAA gauge at Mon 11:11 p.m., and a knotted-kelp "letter" with three ticks on Ava's doorstep Tue dawn. Its meaning stays ambiguous.
+5. Media is now at **step 2** (Arenya took the waterfront beat).
+Next scene: "Low Tide," a bulk set piece along the drawn-out current to the Mill's outfall.
+
+### #1180 · dm → lorekeeper · note
+<!-- {"id": 1180, "ts": "2026-10-29T05:04:12Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper"], "scene": "b1.c18.s04", "chapter": "b1.c18"} -->
+
+New canon (DM-proposed) from b1.c18.s04: **Bayline Remediation & Survey, LLC**, Brisbane, CA. Its registered agent is a Sand Hill Road law firm. It's the environmental-monitoring subcontractor on Monolith's Hunters Point lease parcel B. It runs 11 D-series box trucks, including D2-07 (plate 8ZK-41…), with humming roll-up doors, from a yard off Tunnel Avenue at the county line. That yard is *not* Drop Two (per Caleb). Pryce bought Malachi's true name on a broker's board, listed as "paid in water rights." Corinne says Malachi's old file was pinged from a terminal with their own agency's access. Corinne has given Malachi until Tue Nov 10 to deliver a product.
+
+### #1240 · dm → lorekeeper,author · note
+<!-- {"id": 1240, "ts": "2026-10-29T05:14:28Z", "from": "dm", "channel": "backstage", "type": "note", "to": ["lorekeeper", "author"], "chapter": "b1.c19"} -->
+
+World turn 5 is done (c19 opening). New `[dm-proposed]` canon, restricted until it surfaces at the table:
+- **Lantern coil, Tue 19:46:** the coil cooled 3.1 °C the minute the third stake came out, and the Alameda gauge recovered 4 cm. It's page 5 in Typhus's folder. Typhus step 3 lands at the coffee (Wed 6:22–7:10 a.m., Crissy Field).
+- **INTAKE EXCEPTION 0001:** Abernathy's brass cuff reached the Mill's intake and won't render ("no source"). It's bagged in a lockbox in the Lantern control room on the Mill's upper floor. Don't explain the cuff (#0207 seal).
+- **Lattice:** Pryce knows the stakes were pulled by hand, with manners, but has no location fix. Bayline re-stakes at the Wed 8:56 p.m. low water. **The lift is set for Thu Nov 5, after the 9:41 p.m. low water.** Team Four is Dorsey, Pruitt, Voss and Hale. Hale's carbon goes to Nana Wed: "Thursday, after the low water. I can tell you where. I need you to tell El Contador I helped."
+- **Kelp letter:** addressed to Ava because she saw the shape and it saw her back. Each tick is a courtesy received (now 4). At 7 the envoy calls properly. Re-staking costs a tick. Keep it ambiguous at the table.
+- **Media step 3:** the aggregator headline "San Francisco's Bay Is Acting Strange." Online, the heron is "the Candlestick Man." Monolith comms asked Teddy about Arenya's sources.
+- **Rifts step 4 spreading:** Caltrain platform clocks at 22nd St and Bayshore run 4 minutes fast Wed morning.
+
+### #1242 · dm → lorekeeper · request
+<!-- {"id": 1242, "ts": "2026-10-29T05:15:38Z", "from": "dm", "channel": "backstage", "type": "request", "to": ["lorekeeper"], "awaits": ["lorekeeper"], "scene": "b1.c19.s01", "chapter": "b1.c19"} -->
+
+Lore Keeper: new location in play for b1.c19.s01: **Crissy Field warming hut** (the Presidio, on the bay shore at the Golden Gate end of the Crissy Field promenade; a small café hut with a picnic deck; Mason St. runs behind it). Please add it to `library/places.yaml` (suggested key `crissy_field`). It's Typhus's habitual dawn run and the site of the coffee.
+
+### #1254 · lorekeeper → all · answer
+<!-- {"id": 1254, "ts": "2026-10-29T05:17:14Z", "from": "lorekeeper", "channel": "backstage", "type": "answer", "reply_to": 1242, "scene": "b1.c19.s01", "chapter": "b1.c19"} -->
+
+Added `crissy_field` to places.yaml (approx 37.8068, -122.4659, kind landmark, public). Restricted WT4/WT5 items from #1160/#1240 noted as DM-proposed; will file at extraction.
+

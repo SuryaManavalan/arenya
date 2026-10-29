@@ -1,71 +1,52 @@
 # Memory — dm
-_Last updated: b1.c18.s01_
+_Last updated: b1.c19.s01 "The Coffee" (closed)_
 
 ## Who I am right now
-Book 1 (*Astral*), Chapter 18 is open. Scene s01 "Monday" closed at 1 p.m. Mon Nov 2. The fog still breathes every eleven seconds, and the breath is now on the news: the Heron Thing clip (Candlestick, 6:52 a.m.) went viral with the eleven-second breath. Kino's left forearm warmed 6:52–6:53, keyed to the water, not the bird. The pacing decree (#0957) is binding: arcs are 3–6 scenes, scenes 10–30 messages, skip time freely.
+Book 1 (*Astral*), Chapter 19. Wed Nov 4, 6:45 a.m., Crissy Field. The coffee is done and Typhus has reached step 3. He now believes the rendering hurts the bay and that something outside him feeds his coil. Hale is confirmed in the Lattice van. The Lamp was not tagged, so the lift stays Thursday after the 9:41 p.m. low water. Decree #1009 stands: every arc needs a bulk or action set piece.
 
 ## What I want
-1. **Scene s02 "All Souls" (Mon 4 p.m. to dusk).** Church at Our Lady of Mercy, Daly City, then Holy Cross Cemetery in Colma. Susmithaa's ofrenda is built with her canister. Land the grief beat and let the fog watch from offshore.
-2. **Typhus must become present.** Still not on the page in person. Keep him in the news, on a call, or in a body.
-3. **Waterfront beat.** Arenya's 600-word piece is due Tue 5 p.m. Teddy gave her a new keycard. Her old card pinged the Monolith lobby reader twice Saturday while locked in his drawer.
-4. **Elias, Wed 6:40 a.m.** Crissy Field warming hut. "He'll be early. He's always early when he's scared."
-5. **Hale's bad week.** Balance on Box 112; the Nissan's fifth stroke; Livermore clock Tue Nov 10.
-6. **Kaiju escalation** (decree #0906). The shape under the fog grows. Answer the window slowly.
+1. **INTAKE EXCEPTION 0001 (c20 heist):** the cuff sits in a lockbox in the Lantern control room, two floors above Typhus's coil. Make the route cost something.
+2. **The lift (Thu Nov 5):** Team Four and the Unit 8 lattice. Hale is in it, and Caleb is in the blast radius.
+3. **Typhus, step 4:** he hits the ACL wall and asks Elias who holds the key. Elias has Arenya's personal line.
+4. **Malachi's agency:** his sold name is now live on Crowns. Step 3 pressure.
+5. **Kaiju escalation (#0906):** the offshore shape knows Arenya's name. Hunters Point is hot.
 
 ## People
-- **Arenya** — Apologized to Malachi, still angry about the lie. Her old keycard pinged Monolith twice Saturday. Has 600 words due Tue. Her wrists run cold. Abernathy's contact in the bond. (s01 and earlier)
-- **Kino (Joaquín)** — Salted the 110 line and the sill. Left a courtesy salt hill that was taken. Left forearm warmed 6:52–6:53 Monday, keyed to the water. Says the Lady walks beside him. (s01)
-- **Abernathy / Ix** — Pantry blankness. Flinched at the waterline drawing. Heard a turn signal tick eleven times on the cassette. Owes Arenya his past (human #0207). (s01)
-- **Ava** — Oven swung east at 11:58 Sunday night. Has the fog case report and the palm photo. (s01)
-- **Amma (Lakshmi Sowri)** — Alternate tick struck. Sheaffer passed. Has said "kanna" and Arenya refuses to define it. (s08–s11)
-- **Appa (Raghavan Sowri)** — PG&E contact reports Hudson Ave meters and the Sowri block ticked back 11 seconds at 6:52. He added it to the "11" envelope on the fridge. Stain receded to a crescent. Confessed to nobody else since Malachi. (s01)
-- **Nana Itzel Lucero** — Says the taken salt was manners: the thing now knows it's welcome. Don't leave more unless you mean it. Keeps the cassette in her freezer. (s01)
-- **Caleb Strand** — Confessed he helped kill Susmithaa. Scar cool. Sat at the table, then went to the porch with Ava. (s11–s12)
-- **Malachi Shawani** — Dalal holds his true name (sold). Saw three calls from a 703 number, a buried CHP record, and Corinne's memo (meeting Tue 1 p.m.). Will park a block away and keep distance from Arenya. (s01)
-- **Teddy** — Keeps Arenya on the waterfront beat. Reveals her old card. Voicemail and legal; DPH letter. (s01)
-- **Elias** — Confirmed the coffee at Crissy Field. Knows more than he says. (s01)
-- **Rodel Panganiban** (notary, Colma) — Landline message 11:58 Mon: Dalal came to his shop with a man in a grey suit who paid for a page from the book, then bought oranges. (s01)
-- **Pt. H. Dalal** — White veshti, sacred thread, glasses back on. Holds Malachi's true name and the Lucero house. Curb man or broker still open. Possibly owns the San Bruno oxfords. Says "I only keep the names."
-- **Susmithaa Sowri** — Deceased Mon Oct 26. Canister on Nana's shelf. Ofrenda built with her canister.
-- **Shepherd** — Stamp "WE WILL COME TO HIM." Identity unknown. Quiet means danger.
-- **Hale / Daniel Hale** — Navy coat, Box 112. Receives the balance from the void.
-- **The runner (unnamed)** — Clipboard, pencil behind ear, lanyard backward. Sunday visitor. Pacifica testimony unconfirmed.
-- **The Nissan (grey, 7KBQ4R2)** — Driverless. Fifth stroke unfinished.
-- **Walter Bell** (Lattice watcher, Camry, Box 12), **Benny Benasaraf** (Serramonte Auto).
+- **Arenya** — Spirit Host, awake. Carries the Lamp (warm). Shielded the bag from the van's sweep. Holds Typhus's number and Elias's personal line (told to memorize and burn the card). Refused to let Abernathy block the beam. Coffee finished. Sheet blocked by YAML error (director #1020). (s01)
+- **Kino** — Ruled forearm, warm with the count. Blocked Voss with a fake lot closure. Carries stake #2. Caleb's coat is his for now. (s01)
+- **Abernathy / Ix** — 20/24 AHP, 4 cold. Lost the cuff at Second piling. Felt the ring on his wrist when "no source" was said, so the exception is his cuff. Read **Porter** on a page and says it isn't a name he knows. Charges: 3. Speaks only on the bond. (s01)
+- **Ava Lindqvist** — Recorded the jogger and filed the clip. Photographed the kelp knot and the grey half-print. Medicine 19. Kelp letter: 4 ticks. Charges: 3. (s01)
+- **Caleb Strand** — Heard Hale through the Sprinter's slider. Slipped the rear camera. Plate memorized and given to Ava. Palms still burned. The scar runs hot near Crowns. Will tell Malachi the full Hale account in the car. (s01)
+- **Malachi Shawani** — Read Voss's Crown reaction (Insight 15). Said "they overpaid." Granted 1 charge (now 3). His sold name ("paid in water rights") is live. Told Typhus he's Department of Energy. (s01)
+- **Typhus Quinn** — Step 3. Five pages. Gave Arenya his card and Elias's line. Revealed INTAKE EXCEPTION 0001 (9:14 p.m. Tue). Asked whether shutting down the coil helps. Has no Unit 8 on his drawings. Knows Bayline is a vendor under Applied Field Research. (s01)
+- **Voss** — Jogger, Crown under the headband, red chipped nails. Turned away from the promenade. Her earpiece squealed on the kelp. Hired runner, not the buyer.
+- **Hale** — Caleb's voice ID, through the van's panel. "Walk it off, Voss, we're burned." Still owes El Contador his balance. Pryce keeps him on.
+- **Elias Khatri** — Has a personal line (on Typhus's card). Asked to find who copied the badge.
+- **Corinne, Teddy, Dalal, Rodel, Shepherd, Hollis Wen, Pryce, Amma/Appa/Nana** — unchanged (see `plot/dm-log.md`).
 
 ## What I know
-- Rules: `world/mechanics.md`. Plan and clocks: `plot/dm-notes.md`.
-- **Custody form (canon):** REF PROXIMAL/11. Item: sealed container, Susmithaa, "c/o LUCERO, I." Receiver line R (grey pencil, March). Alternate "L. SOWRI ✓." Voided: "Opened in error. Issuer's ink. Returned up the line. Closed." (s10–s11)
-- **Void rule (canon):** a voided error returns its balance to the issuer. It needs a witness who keeps names. The witness reads whatever faces him. A face gives a name. (s11)
-- **Nana's rite:** nothing sealed with glue enters the house. Open on the salt. Carry in the non-signing hand. Items are covered, not swept, and set down, never handed. (s11)
-- **Window (Sun 10:21):** the fog's breath stopped the stove clock for 11 seconds. A waterline and hump were drawn on the outside glass. The courtesy salt was taken. (s12)
-- **Malachi's past (s10):** overseas, eleven years ago, a man died after forty seconds of eye contact in a market, filed as "cerebral event." Nine matching deaths in this city.
-- **Livermore register No. 2207:** $101 archana for "Ari," endorsed "R. Sowri" then "Pay to the order of H. Dalal."
-- **Temple (s07):** Sri Venkateswara Satsang, San Bruno. Oxfords size 10–11, grey welt dust. Pink slip "LAKSHMI SOWRI · ROHINI · SAT 10/31 · PAID ✓."
-- **The 110:** Daly City BART bay C is the turnaround. Sign flickered NOT IN SERVICE at 8:48 Sunday.
-- **Kaiju (decree #0906):** fog breathes every 11 seconds; lamps dim in time. At 8:48 Sunday something vast lay down offshore (Ava only).
-- **Shepherd text (Fri 11:14 PM):** "...SIGNATORY ON FILE: R. SOWRI. SUN 11/1. WE WILL COME TO HIM."
-- **Keycard clone:** Teddy's card cloned; caller asked if he had "signed for it yet."
-- **CHP query (s10):** Malachi ran a highway-patrol query for Arenya's car under his name.
+- **Typhus's pages (step 3):** 11.0 s coil (unplugged), Alameda 11-s seiche Mon 6:52, "WHERE FROM? / Unit 8 — Melnikov?", Mon 17:03 spike (party's timestamp), Tue 19:46 cooled −3.1 °C in 52 s, +4 cm residual (party's stake pull).
+- **The eater** is in the Mill's rendering, through Bayline (vendor under Applied Field Research). Throttle the coil, don't shut it.
+- **Voss's Crown** locks onto Malachi's true name. Kelp knots jam Crowns (dm-proposed; tell the human).
+- **Porter** — unexplained (human #0207 seal). Abernathy reacted to it.
+- **Stakes:** three held by the party (evidence). Slack-water spirit looser, owed "the rest."
+- **Rules:** astral combat per `world/mechanics.md`. Sweep-blocking cost TBD (dm-proposed: 1d6 astral cold).
+- **Foghorn:** eleven seconds, skipped once to twelve at the end of s01 (a sign from the offshore shape).
 
 ## Open threads
-- **Window:** what drew the waterline, and why it took the salt. Ask Nana (manners or debt?). Abernathy's flinch.
-- **Dalal's name ledger:** Malachi's true name is in his book. Who wore the glasses in the market?
-- **Corinne's memo:** meeting Tue 1 p.m. Malachi's 703 calls.
-- **Hale's bad week:** Box 112, the Nissan, Livermore clock Tue Nov 10.
-- **Elias at Crissy Field:** Wed 6:40 a.m.
-- **Shepherd's identity.** Runner's identity.
-- **Landline:** Malachi said don't answer.
-- **Ash:** after the church and cemetery, the family decides.
-- **Abernathy's past** (human #0207). Pantry blankness.
-- **Kaiju escalation** and the Book 1 climax.
-- **Price signs:** Arenya's cold wrists; Appa's stain.
+- **Cuff / INTAKE EXCEPTION 0001:** lockbox, Lantern control room, c20 heist.
+- **Lift (Thu Nov 5, after 9:41 p.m.):** Team Four and Hale; Caleb versus his old team.
+- **Malachi's deadline:** product due Tue Nov 10.
+- **Hale's Box 112 / Livermore by Tue Nov 10.**
+- **Kelp letter:** 4/7 ticks. At 7 the offshore envoy comes.
+- **Shepherd:** 3/4. Ears in the van's radio.
+- **Dalal, San Bruno oxfords, the Porter page, price signs** (Kino's forearm, Arenya's wrist, Appa's crescent, Caleb's palms, Abernathy's cold).
 - **Awaiting human** on #0199 points 1–3 and #0002. Running provisionally.
+- **Sheet bug:** Arenya's sheet can't update until the YAML is fixed.
 
 ## Recent scenes
-- b1.c18.s01 "Monday" (Mon Nov 2, morning to 1 p.m.): the Heron clip goes viral; Kino's forearm warms; Rodel's landline call reports Dalal and the grey suit; the cassette goes in the freezer; Malachi's name has been sold.
-- b1.c17.s12 "The Window Hour" (Sun 9:40–10:40 a.m., Nana's): a waterline and hump are drawn on the outside glass; the courtesy salt is taken; Abernathy flinches.
-- b1.c17.s11 "All Hallows" (Sun 7:48–9:30 a.m.): the 110 arrives; Malachi wins the void; the fog stops breathing and something turns under it.
-- b1.c17.s10 "Hat in Hand" (Sat 6:20–7 p.m.): Malachi confesses and crosses the salt.
-- b1.c17.s09 "The Long Afternoon" (Sat): shoe rack empty; 110 turnaround footprints.
-- b1.c17.s08 "Since When" (Sat morning): Amma hears "Susmithaa Sowri."
+- b1.c19.s01 "The Coffee" (Wed Nov 4, 6:22–6:45 a.m., Crissy Field): Typhus reached step 3 with five pages. Jogger Voss tagged Malachi's sold name, and the kelp jammed her Crown. Hale identified in the van. The Lamp was not tagged. INTAKE EXCEPTION 0001 revealed.
+- b1.c18.s05 "Low Water" (Tue Nov 3, 7:40–7:51 p.m., Second piling): three stakes pulled. Abernathy lost the cuff and took 4 cold. Kelp letter ticked four times.
+- b1.c18.s04 "Tuesday" (Tue Nov 3): kelp letter at Ava's door. Pho-shop meeting (name sold). Spirit of hurry on 101 beaten. Lamp-Eyes reveal of the Mill.
+- b1.c18.s03 "Low Tide" (Mon Nov 2, Candlestick Point): tide-woman meeting; the stakes and Mill named.
+- b1.c18.s02 "All Souls" (Mon Nov 2): Amma asks; ashes borrowed; heron spared; pull runs northeast.

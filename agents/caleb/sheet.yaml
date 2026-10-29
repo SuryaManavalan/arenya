@@ -2,27 +2,65 @@ name: Caleb Strand
 level: 3
 class: Meta Mage (sorcerer chassis — power from the Crown; metamagic)
 background: Ex-Army, Lattice Program asset (deserted)
-ascent: 2            # 3 while dosed (the Crown props it up)
+ascent: 2
 house: none (borrowed channel — Vesper)
-abilities: {str: 14, dex: 13, con: 14, int: 11, wis: 10, cha: 15}
+abilities:
+  str: 14
+  dex: 13
+  con: 14
+  int: 11
+  wis: 10
+  cha: 15
 proficiency_bonus: 2
-hp: {max: 20, current: 20, temp: 0}
-astral_hp: {max: 18, current: 18}
+hp:
+  max: 20
+  current: 20
+  temp: 0
+astral_hp:
+  max: 18
+  current: 18
 ac: 13
 speed: 30
-saves: {con: 4, cha: 4}
-skills: {athletics: 4, intimidation: 4, perception: 2, stealth: 3}
+saves:
+  con: 4
+  cha: 4
+skills:
+  athletics: 4
+  intimidation: 4
+  perception: 2
+  stealth: 3
 attacks:
-  - {name: "Combat knife", to_hit: 4, damage: "1d4+2 piercing"}
-  - {name: "Lattice bolt (needs a dose active)", to_hit: 4, damage: "2d8 force", range: 120}
+- name: Combat knife
+  to_hit: 4
+  damage: 1d4+2 piercing
+- name: Lattice bolt (needs a dose active)
+  to_hit: 4
+  damage: 2d8 force
+  range: 120
 abilities_special:
-  - "Dosed (Vesper): for 1 hour, Ascent 3, can enter the bulk, has sorcery points and spells."
-  - "Metamagic (sorcery points 3 while dosed): Quickened, Subtle."
-  - "Withdrawal: each day without a dose, Con save DC 12 + days. Fail = a level of exhaustion and the shakes."
-  - "Forgettable: while flat (dosed), people slide off him: advantage on Stealth in crowds."
-  - "Crown link: Shepherd can try to reach him through the implant (DM-triggered)."
-resources: {vesper_doses: 2, sorcery_points: {max: 3, current: 0}}
-conditions: [withdrawal (day 0)]
-inventory: [grey jacket, 2 Vesper doses, burner phone (dead), combat knife, car keys (team car)]
-coin: {usd: 380}
-notes: ""
+- 'Dosed (Vesper): for 1 hour, Ascent 3, can enter the bulk, has sorcery points and
+  spells.'
+- 'Metamagic (sorcery points 3 while dosed): Quickened, Subtle.'
+- 'Withdrawal: each day without a dose, Con save DC 12 + days. Fail = a level of exhaustion
+  and the shakes.'
+- 'Forgettable: while flat (dosed), people slide off him: advantage on Stealth in
+  crowds.'
+- 'Crown link: Shepherd can try to reach him through the implant (DM-triggered).'
+resources:
+  vesper_doses: 2
+  sorcery_points:
+    max: 3
+    current: 0
+conditions:
+  withdrawal_tremor: 'Until next long rest: disadvantage on Dex checks and steady-hand
+    tasks; advantage on Perception for anything out of step with the eleven-second
+    beat (b1.c19.s02)'
+inventory:
+- grey jacket
+- 2 Vesper doses
+- burner phone (dead)
+- combat knife
+- car keys (team car)
+coin:
+  usd: 380
+notes: ''

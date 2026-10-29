@@ -18,6 +18,21 @@ coffee off Typhus's calendar; **Pryce buys Malachi's true name from Dalal**; lif
 **Rifts** (sign intensifies at the Gate; still step 3). Typhus stays 2-primed (the coffee is step 3's stage).
 Malachi's agency branches on Tuesday. Revise if the party's choices in s01–s03 cut across any of this._
 
+_**World turn 4** (after b1.c18.s02 "All Souls"; covers **Mon Nov 2 5:14 p.m. → Wed Nov 4 6:40 a.m.**, on top
+of WT3). Arenya **awakened at Colma** (4:58–5:14 p.m.) and released the heron with a message. Advanced:
+**Media 1→2** (she took the beat, s01), **Rifts 3→4 scheduled** (spirit of hurry, Tue rush hour on 101),
+**Lattice** (her awakening registered on the Mill's arrays; the lift plan is re-specced for an *awake* host),
+**Typhus** (a fourth coincidence: the Lantern coil answers her light, a different signature), **Kaiju**
+(the offshore shape answers the message). Malachi's agency is still the player's Tuesday choice._
+
+_**World turn 5** (c19 opening; covers **Tue Nov 3 7:51 p.m. → Thu Nov 5**, pre-playing the gap c19 skips
+through). The party pulled the three stakes at Second piling, unseen. Advanced: **Media 2→3** (rift incidents
+go national Wed), **Lattice** (the pens are logged "soft"; re-staking ordered; the lift is set for **Thu Nov 5
+after low water**; the cuff enters the Mill's intake as an unclassifiable object), **Typhus** (page 5 in the folder:
+the coil *cooled* at 7:46 p.m. Tuesday, the minute the stakes came out; step 3 lands at the coffee), **Kaiju**
+(DM canon for the ticks). Malachi's agency holds at 2, pressed. Rifts hold at 4, with the Mill drinking harder
+to make up the tide it lost._
+
 ---
 
 ## 1. Typhus Quinn and Monolith: "accelerate humanity"
@@ -105,6 +120,32 @@ Malachi's agency branches on Tuesday. Revise if the party's choices in s01–s03
   graphite-grey car). It's a small dodge of Pryce, and too late: the calendar line already exists.
 - **Still step 2, primed.** He'll be at the hut at 6:22, eighteen minutes early, with the three pages in a
   manila folder and two coffees he didn't ask the size of.
+
+### World turn 4 (Mon 5:14 p.m. → Wed dawn) `[dm-proposed]`
+- **Mon 5:03 p.m., Hunters Point.** As Arenya's Burn the Veil goes up at Colma, the unpowered Lantern coil
+  logs a **2.6 s spike**. It's a different shape from the others: no eleven-second envelope, but a clean
+  rising tone that ends *above* baseline, and the coil housing is **warm to the touch** for an hour. Hollis
+  Wen sends it at 6:10 p.m. with "this one isn't a ground fault. It looks like something *charged* it." That
+  makes four coincidences, and the first that doesn't fit the tide. Typhus adds a fourth page to the folder:
+  "Mon 17:03." He was at Colma that morning and doesn't connect the place yet. (At the coffee, Arenya can
+  recognize the timestamp as hers. It's a dangerous gift: it tells him the Lantern can *taste* her.)
+- **Still step 2, primed hard.** He now suspects two things: the coil *makes* the tide wrong, and something
+  else out there *feeds* the coil. Step 3 still lands at the coffee.
+
+### World turn 5 (Tue 7:51 p.m. → Thu) `[dm-proposed]`
+- **Tue 7:46 p.m., Hunters Point.** As the third stake came out, the warm Lantern coil **cooled 3.1 °C in
+  under a minute** and the Alameda gauge's residual "wrong" level recovered 4 cm. Hollis Wen sends both at
+  10:40 p.m.: *"Something upstream of us got lighter. I don't know what 'upstream' means in a bay."* Typhus
+  adds **page 5: "Tue 19:46."** Two of his five pages are now the party's own timestamps (17:03 Colma,
+  19:46 Second piling). If Arenya sees the folder, she can recognize both.
+- **Wed 6:22 a.m., Crissy Field.** He's eighteen minutes early, as planned, with five pages and two coffees.
+  **Step 3 lands at the coffee** (play it as s01 of c19, upshifted). If Arenya hands him the link (the Mill
+  renders, the rendering tears), he believes her *because of page 5*: "Then someone took something out of
+  my machine last night, and the bay got better."
+- **After step 3 (Wed–Thu), off-screen:** he orders Hollis to pull the Mill's intake schedule. It's walled
+  under Pryce's "Applied Field Research" ACL. **That's the first wall he's ever hit in his own company.** He
+  doesn't push yet. He asks Elias to find out who holds the key. (This begins the slide to step 4.)
+- **Current step: 2 → 3 at the coffee.**
 
 ### How Typhus becomes present (next 1–3 scenes)
 1. **News (Sun night / Mon morning, any TV or phone):** "Bayview gas scare: PG&E finds no leak," with a
@@ -196,6 +237,49 @@ Malachi's agency branches on Tuesday. Revise if the party's choices in s01–s03
     oranges on my counter. I don't know what to do with the oranges."*
   - **Hale:** grey crescent spreading to the second knuckle by Wed. Seen Tue night at the Colma 110 stop,
     alone, reading the schedule.
+- **World turn 4 (Mon 5:14 p.m. → Wed dawn):**
+  - **Mon 5:03 p.m., the Mill.** The intake arrays register a **deity-class light flare at Colma**: 2.6 s,
+    the same pulse as the Lantern spike. Pryce is told at 5:20. #12 is no longer a carrier; she's an **awake
+    host**, which makes her more valuable and harder to take. Shepherd says in the Crowns, smug: *"It woke.
+    You carry what's returned."*
+  - **The lift is re-specced.** A plain bulk kill is now risky, since a waking light fights back. Pryce wants
+    her **separated and unwitnessed**, ideally *in the bulk away from the Lady's ground*. Requisition: a
+    portable **containment lattice rated for Unit 8** (the Melnikov grade). Team Four drills Tue night at Drop
+    Two. Window still Wed eve – Fri Nov 6.
+  - **Implication for "Low Tide":** if Arenya goes into the bulk toward the Mill, **she's walking into their
+    yard.** The arrays will feel her coming. Not an ambush yet, since the team isn't ready until Wed, but
+    *watchers* (Voss's Crown, or a Mill-side spirit leashed as a dog) will tag her. If she's tagged, the lift
+    gets a location fix and the clock ticks faster.
+  - **Hale, Tue.** Grey to the second knuckle. Seen at the Colma 110 stop (WT3). New: he leaves a **carbon
+    envelope in Nana's mailbox**, unstamped: "I can tell you when. I need you to tell El Contador I helped."
+    It's a defector's first feeler, desperate and conditional. Deliver in c19 or at the coffee's edge.
+- **Lattice wants the light: 4/6** (unchanged; the attempt is still the tick). **Shepherd hunts Caleb: 3/4.**
+  (Caleb was at Colma when her light flared, and his scar burned at 5:03. Shepherd felt a tether *flick*
+  south, toward Colma, not Hillcrest. That misdirects for now.)
+- **World turn 5 (Tue 7:51 p.m. → Thu):**
+  - **Tue 7:52 p.m., Second piling.** The D2 clerk's radio log ("Two's gone soft") reaches Bayline dispatch,
+    then Pryce at 9:15. The stakes were pulled **in order, with manners, by hand, no tool marks**: not
+    vandals. Pryce guesses #12 and her witnesses, but he has **no location fix** (they left unseen). He doesn't
+    know the party has the stakes. That's leverage: the stakes are stamped evidence of a Bayline survey.
+  - **Re-staking:** Bayline schedules three new stakes for **Wed 8:56 p.m. low water** (D2-07 plus a second
+    truck). If the party isn't there, the tide-woman is pinned again by Thursday dawn and the kelp letter
+    **loses a tick** (back to 3). If they interfere, it's a second shoreline encounter, now watched.
+  - **The cuff.** Abernathy's brass livery cuff, reeled in along the line, arrives at the Mill's intake
+    throat Tue ~8:20 p.m. It **won't render**: the arrays read it as "no feedstock / no source" (it's from
+    a page not on any book they know). A technician bags it and logs it **"INTAKE EXCEPTION 0001"** in a
+    lockbox on the Mill's upper floor, in the same room as the Lantern control desk. It's a heist target, and
+    it puts the party's goal in Typhus's building. Don't explain the cuff (#0207 seal).
+  - **The lift is set: Thu Nov 5, after the 9:41 p.m. low water.** Re-specced plan: bait the party back to
+    the shore (they'll want the re-staking stopped or the cuff back), separate Arenya in the bulk off the
+    Lady's ground, and close a Unit 8 containment lattice. Team Four: Dorsey, Pruitt, Voss, and **Hale**
+    (Pryce keeps him on: a debtor pushes). Watchers at the coffee (Voss as the jogger, the Sprinter array)
+    are still observe-and-tag.
+  - **Hale's carbon** lands in Nana's mailbox **Wed ~11 a.m.**: *"Thursday, after the low water. I can tell you
+    where. I need you to tell El Contador I helped."* A real defector feeler. Grey now past the second
+    knuckle. (A play route: turn the lift into an ambush, or into a negotiation with a drowning man.)
+  - **Clocks:** Lattice wants the light **4/6** (the attempt Thu is the tick). Shepherd hunts Caleb **3/4**:
+    Caleb's scar kept the tide's beat at the white door, and Shepherd felt "the tether **near the water**."
+    Next tick if he goes near a Crown again.
 - **Dalal (sub-thread):** a broker, not office staff. He read the Lucero house on Sunday but **won't
   sell the house** (it's under the Lady and he fears her). He'll sell Malachi.
 
@@ -206,8 +290,9 @@ Malachi's agency branches on Tuesday. Revise if the party's choices in s01–s03
   spirits seen face to face → archetypal and characteristic spirits in public → abstract
   "psychosis" entities, mass episodes → magic becomes fully physical near the rifts, and meta mages
   get stronger → kaiju-scale spirits moving in the bulk over the Bay (climax).
-- **Current step: 3** (a place/nature spirit met face to face in public) · **last advanced:** world
-  turn 2. (Step 2 was Bayview, Thu Oct 29.)
+- **Current step: 4** (reached Tue Nov 3, 5:40 p.m.: the spirit of hurry on 101, beaten 5:52) · **last
+  advanced:** world turn 4; WT5 holds and spreads it (see § WT5). Next: 5, abstract entities. (Step 2 was Bayview, Thu Oct 29. Step 3 was the Heron at Candlestick Mon 6:52 a.m., and its
+  attack at Colma Mon 4:58 p.m.)
 - **World turn 2:**
   - **Sun 10:21 a.m., Hillcrest.** The window visitor (see dm-log c17.s12): the Lady's reach, or what lies
     beside her, trying to draw the shape. Unfinished.
@@ -232,10 +317,39 @@ Malachi's agency branches on Tuesday. Revise if the party's choices in s01–s03
   - **Wed 6:40 a.m., Crissy Field (the coffee's weather).** The Golden Gate foghorns, which run on a fixed
     schedule, sound **on the eleven-second breath** for the duration of the meeting. The fog bank sits just
     outside the Gate like something resting its chin on the bridge. Typhus will hear it and say, "It's been
-    doing that since Friday. Nobody at the Coast Guard will tell me why." an archetypal or characteristic spirit in public. Candidate: a
-  **spirit of hurry** on 101 by the Hunters Point exit (cars' clocks run fast, a pileup with no impact,
-  every driver late to something they don't have). It can be tied to the lift attempt (chaos cover) or
-  stand alone.
+    doing that since Friday. Nobody at the Coast Guard will tell me why."
+- **World turn 4 (Mon 5:14 p.m. → Wed dawn): step 3 → 4 scheduled.**
+  - **Mon 7:31 p.m. low tide, Candlestick.** No heron (it's home, broken). The water at the boat ramp
+    draws out **too far, too fast, northeast**, and leaves a hundred yards of mud. A ribbon of current runs
+    *visibly uphill* along the shore toward India Basin and the Mill's old outfall. Two fishermen post it
+    ("the bay's draining into Hunters Point"). Kino's forearm warms, then itches. This is the **"Low Tide"**
+    scene's entry: the tide spirit's current, pulled wrong, is a *road* in the bulk the party can walk.
+    It repeats at **Tue 8:14 p.m.** low tide if they wait a day (recommended; Arenya is at 2/9).
+  - **Tue 5:40 p.m., US-101 at the Cesar Chavez / Hunters Point exits (RIFTS STEP 4).** A **spirit of hurry**,
+    the first archetypal spirit in public. Every dashboard clock within half a mile runs fast. Drivers brake
+    for things that aren't there. A nine-car stop-and-shunt has no injuries and no impact marks, and every
+    driver tells CHP they were "late." Phones read 5:51 when it's 5:40. It's **tied to the Mill's pull**:
+    hurry pools where the tide is being dragged. If the party drives to the bayshore Tue evening, they drive
+    *into it* (chase or traffic set piece, optional). If not, it's the lead on the 6 o'clock news, and Teddy texts.
+  - **Tue all day** (WT3): pelicans on the light-rail wires, all facing the water. Ava's oven light is brighter.
+- **Kaiju (WT4): the offshore shape answers.** **Mon 11:11 p.m.**, every NOAA gauge from Point Reyes to
+  Monterey logs a single **eleven-second flat**, as if the sea held its breath. It's listening. **Tue dawn**, on
+  Ava's doorstep (where Arenya slept): a wet length of kelp knotted like a folded letter, with **three
+  ticks** pressed into the wrack. The meaning is DM canon, kept ambiguous at the table: *"received; will
+  call properly; three."* (Three what? Three tides, three days, or three names. It pays off in c19–c20 as
+  the shape's envoy coming *with manners*, a negotiation with something inhuman.) Abernathy smells
+  **brass and a library** on it again, the door he used to have a key to. Don't explain it (#0207 seal).
+- **World turn 5: rifts hold at step 4; the Mill drinks harder.** Losing the tide-woman's pull, the Mill
+  draws more from the city's **hurry**. Wed 7:30–9 a.m. commute: Caltrain's platform clocks at 22nd St and
+  Bayshore run 4 minutes fast all morning, and two BART operators report "everyone boarding like it's on
+  fire." It's small, but it's spreading west. Step 5 (abstract "psychosis" entities, mass episodes) is the
+  next rung, aimed at the **Thu night lift** as cover, or the week after.
+- **Kaiju (WT5), DM canon for the kelp ticks:** the letter is addressed to **Ava** because she *saw* the shape
+  turn under the fog (c17.s11) and it saw her back. Each tick is a **courtesy received**: the herald spared, the
+  message carried, and now the tide-woman's stakes (3 → 4). At **seven** ticks the shape sends its envoy "to
+  call properly." Re-staking costs a tick. At the table, keep it as "it's counting something." Ava can work
+  it out. Wed dawn, high water at Crissy Field leaves a **single knotted kelp strand on the warming-hut
+  step** (no ticks). It's the sea saying it knows where she'll be. Only Ava notices it's knotted the same way.
 - **Kaiju thread (decree #0906):** the ocean fog bank breathes. On Sunday 8:41 a.m. Ava saw a vast
   shape turn over in it and lie down farther out. Keep it growing across c17–c18.
 - **Next step (3), within a week:** a nature or place spirit met face to face, in public, near the Bay
@@ -262,6 +376,18 @@ Malachi's agency branches on Tuesday. Revise if the party's choices in s01–s03
   Peninsula" has been asking her shop's liaison about 'domestic field anomalies' (the overlap, surfacing).
   Still step 2, but his cover is thin. *If he skips it,* step 3 (recall order) lands Wed by text: "Report to
   Langley Fri. Bring the notebook." Pryce owning his name (Lattice WT3) makes either branch worse in c19.
+- **World turn 4 (still step 2, cover thinner):** Tue 7:02 a.m. Corinne texts the 703 line: *"1 p.m.
+  stands. Someone who isn't us said your name to my liaison yesterday. Not the one on your badge."* (Pryce
+  holds his true name, and the overlap is surfacing.) Malachi gave his coat to Amma. If he goes to the pho
+  shop without it, Corinne notices: "You gave your coat to somebody. You never give your coat."
+- **World turn 5 (still step 2, pressed):** Caleb's D2 report (plate, unit D2-07, the white door's hum, the
+  clerk) gives Malachi **product** for Corinne: Bayline is a domestic contractor running unlicensed "survey"
+  stakes on federal-adjacent shoreline. Malachi can feed her part of it and buy time, but anything he files
+  goes up a chain with a mole in it. **Wed 5:58 a.m., napkin number:** Corinne texts *"Your contractor's
+  liaison asked my liaison for 'the access agent's name.' I said I didn't have it. Do I?"* (Pryce holds
+  Malachi's true name; now he's fishing for Arenya's through the overlap.) Step 3 (recall) comes if
+  Malachi gives Corinne nothing by Fri, or if the mole sees Bayline in a filing.
+- **Rodel's oranges call** (WT3) lands Wed late morning.
 - **Visible sign (next scene he's in):** his work phone, off since Thursday, holds three missed calls
   from a 703 number when he powers it on, plus a text from his CHP contact: *"Someone from your shop asked
   about your Thursday plate. I said nothing. That's the last nothing."* His cell lead (dm-free name:
@@ -271,9 +397,7 @@ Malachi's agency branches on Tuesday. Revise if the party's choices in s01–s03
 - **Goal (impersonal):** a story. Right now: "overdose", "freak aneurysms", "a viral freeze video".
 - **Ladder:** local curiosity → Arenya's own reporting (Teddy, Brooke) → rift incidents go viral →
   Typhus's campaign frames spirits and Arenya → a divided public (which carries into Book 2 `[human]`).
-- **Current step: 1** (local curiosity: Adonis's freeze video, the "Bayview hysteria" item) · **last
-  advanced:** world turn 1 · **step 2 hinges on Monday** (Teddy, 9:00 a.m.: does Arenya keep her job
-  and her story?).
+- **Current step: 3** (rift incidents go national) · **last advanced:** world turn 5 (Wed Nov 4, 9 a.m.).
 - **World turn 2:** still step 1, but loaded: by Mon noon the Candlestick clip ("the Heron Thing") passes
   2M views, alongside Bayview. Local TV runs both as a "Southeast waterfront weirdness" package. Teddy wants a
   reporter on it *today*, which is Arenya's leverage at 9:00: she keeps her job if she takes the waterfront
@@ -281,6 +405,19 @@ Malachi's agency branches on Tuesday. Revise if the party's choices in s01–s03
 - **World turn 3:** if she takes the beat, Teddy wants 600 words by Tue 5 p.m. ("Southeast waterfront: what
   the city isn't saying"). Brooke gets a tip Tue: a PG&E contractor complaint about "backwards meters" on
   Hudson. A national aggregator picks up the Heron Thing Tue night. Step 2 holds once her first piece runs.
+- **World turn 4: STEP 2 reached** (Arenya took the waterfront beat, Mon 9:00, s01). Now: 600 words due
+  **Tue 5 p.m.** Brooke's Hudson-meter tip is live. A Colma groundskeeper's phone clip of "fog stopping at
+  Mission Road" circulates Mon night (≈40k views; the breathing is visible). Arenya may be *in* the
+  background, but she's unrecognizable, with Kino a blur. **Tue 5:40 the spirit of hurry** gives her lede
+  forty minutes after her deadline, and Teddy will want a second piece. Next step (3, rift incidents go
+  national) is set up by the aggregator pickup.
+- **World turn 5: STEP 3 reached (Wed Nov 4).** Teddy's piece ("Southeast waterfront: what the city isn't
+  saying") runs at 6 a.m. By 9 a.m. a national aggregator bundles it with the Heron Thing, the 101 no-impact
+  shunt, and the Colma fog clip as **"San Francisco's Bay Is Acting Strange."** Teddy texts at 7:10: *"Second
+  piece. Friday. And Monolith comms called me asking who your sources are, which means you have one."* (The
+  piece named Bayline's lease parcel; Monolith comms is Pryce's office wearing a press hat.) Online, a
+  subreddit names the Heron "**the Candlestick Man**." The first "it's a Monolith test" theory appears, and
+  it's laughed at. Next step (4: Typhus's campaign frames spirits and Arenya) waits on Typhus step 5.
 - **Visible signs:** the Bayview clip goes regional by Monday (300k views; the "alarms toward the water"
   sequence is uncanny). Brooke texts Arenya Sunday night: *"Did you see Bayview? That's your
   freeze-video energy. Also Teddy's asking where you are."*
