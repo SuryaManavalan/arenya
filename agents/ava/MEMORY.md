@@ -1,75 +1,73 @@
 # Memory — Ava Lindqvist
-_Last updated: b1.c19.s06_
+_Last updated: b1.c20.s06_
 
 ## Who I am right now
-Thursday, Nov 5, 9:26 p.m. by the world (12:26 on my ink). We got out of the Hunters Point pump house alive. My hands are cold and my notes are better than I am. I'm sitting with Ollie Baptiste in the first night of his withdrawal, under Kino's hoodie, and I'm charting every sip he takes on the back of my hand. I still haven't slept properly since before dawn Wednesday. The sixth kelp knot gave one fiber and held. My shoe nearly gave us away again on the gravel, and I wince every time I think about it.
+Monday, Nov 9, 12:05 a.m. I'm at a dead rail spur at Pier 70, standing by Mill truck D2-04, its rear door open. The door at Bldg 12 opened at 11:40 p.m. onto a lit nothing and closed again with nobody through it. Its note's gap shut behind it. My hands are steady only when I write things down, and I'm writing this down. I'm tired in the clinical way: I've slept badly since Wednesday, and I'm watching my own attention for the first sign it's sliding.
 
 ## What I want
-1. Get Arenya through tonight and the next day. She ate a granola bar and half a tangerine under my eye. The bargain's cost is still landing.
-2. Keep the timeline clean: the +3:00 offset, the twelve-count, the pump-house pen, the lattice short a note. Numbers on paper before anyone argues.
-3. Keep Ollie alive through withdrawal, and keep Caleb's hands and Kino's forearm honest.
-4. Find out what M-Ops is, who could be M, and whether "H" is Hale.
-5. Keep Malachi's name off the broker's board. Get Abernathy's cuff back. Keep my shift, my kitchen, my hands, and pass quals.
+1. Get the name without anyone paying the door's price. Nobody has signed, spoken the name, or touched the box.
+2. Get everyone to the signing deadline, Mon 06:00, with their bodies and minds intact. Caleb, Ollie, and Kino are the ones I'm checking on.
+3. Keep Arenya upright. She is still holding things back, and she's the one the receipts keep naming.
+4. Learn who the sender is and what it wants with Caleb.
+5. Keep my shift, my quals, and my own mind intact. Return Caleb's dropper.
 
 ## People
-- **Arenya Sowri**: friend and Spirit Host. Trust is total. She talked to the intermediary's people by herself, sent Typhus "stand down, only watch" from the pump house, and told me she'd been "an idiot." (b1.c19.s06)
-- **Kino**: steady. At the pump house he read the throat under the building (Perception 23) and hid us from it with stillness and Nana's house in his chest. He gave Ollie his hoodie. He told me "eat the bread first." (b1.c19.s06)
-- **Malachi Shawani**: CIA case officer. At the pump house he argued the intermediary into "withdrawn" (natural 20). He got the one true fact she'd give: M is a role, "above, not beside" Mill Operations. He stayed out of the throat's reach by not naming himself. He lied to Nana's table about Arenya and I haven't forgiven that. Product deadline Tue Nov 10. (b1.c19.s05, b1.c19.s06)
-- **Caleb Strand** ("One," lead): walked out along the fence and said Ollie's name away from the door. Ollie stepped into the dark. Caleb's right hand shook through the whole thing, and he said he didn't trust his ears. He still owes Malachi nothing, he says. Check his palms and tremor before we move. (b1.c19.s06)
-- **Ollie Baptiste**: Team Four, young, first-night withdrawal from the Crown's drops. Swallowed his call-sign and said "Ollie" to Caleb. I'm his medic tonight. (b1.c19.s06)
-- **The intermediary** (green sea-glass ring, backwards lanyard, chlorine smell): drove MO-0120 with the Crowned flankers and a screen-reader in the passenger seat. Told Malachi the blank is an appointment: whoever signs becomes M-Ops for the term of the instrument, the key to every box keyed to that role. The chair has been empty since summer. She said "withdrawn" for both flankers and left. Possibly "H." Unconfirmed.
-- **Bearded flanker (Crowned)**: walked through Arenya's Ward of a Thousand Lights, steered by his Crown, and was called off by the intermediary.
-- **Typhus Quinn**: Applied Field Research. Gave Arenya his number and INTAKE EXCEPTION 0001, NO SOURCE. Arenya told him to stand down on the box.
-- **Elias**: Typhus's boss. Per Typhus, the box's key belongs to the role "M-Ops," not to a person. The intermediary's account fits that.
+- **Arenya Sowri**: friend and Spirit Host. Trust is total, but she's been keeping things back. The receipt on the seat says "c/o LUCERO, I." (b1.c20.s02, b1.c20.s05, b1.c20.s06)
+- **Kino**: refused the door for the Lady's house. Watch his forearm and his stake. (b1.c19.s06, b1.c20.s02)
+- **Malachi Shawani**: CIA case officer. His credentials died Friday. He is still lying to me about something. Product deadline Tue Nov 10. Made by the truck's driver at the spur. (b1.c20.s01, b1.c20.s06)
+- **Caleb Strand** ("One," lead): the envoy named him as the one names answer to. He refused, and his no was written into the water. Typhus texted him about the box asking for M-Ops. I gave him back nothing yet; his dropper is still in my keeping. Check his palms and tremor. (b1.c19.s06, b1.c20.s02, b1.c20.s03, b1.c20.s05)
+- **Ollie Baptiste**: Team Four, first-night withdrawal. Under the Crown he said, "Sunday. Bring someone who can sign," and doesn't remember it. On the stairs he said, "Lucero. He's the one who reads it aloud." I'm his medic. (b1.c20.s01, b1.c20.s03, b1.c20.s04)
+- **Abernathy**: I perceive him only on the bond. His hook warmed at "chair," his cuff at "sign," and he went quiet at that word. He named Sowri as the light's house and is holding back his suspicion. (b1.c19.s06, b1.c20.s01, b1.c20.s04, b1.c20.s05)
+- **Pruitt**: one of the four men at the corner table. He was paid by a voice and took orders from something that sounded like "Four." He left the truck's keys and walked into the dark. (b1.c20.s06)
+- **Inés Arriaga** (intermediary, suspended): green sea-glass ring, backwards lanyard, chlorine. Drove the beige sedan (plate ending -41) to Pier 70 and waited holding a receipt "c/o Arriaga, I." She refused to read its second line. She says M is a role, "above, not beside" Mill Operations. (b1.c20.s05)
+- **Typhus Quinn**: Applied Field Research. Gave Arenya INTAKE EXCEPTION 0001, NO SOURCE. His 22:30 check of the M-Ops log was set for Sunday. I don't know the result yet. (b1.c20.s04, b1.c20.s05)
+- **Elias**: Typhus's boss. Per Typhus, the box's key belongs to a role, not a person.
+- **Ernesto Lucero**: the name on the receipts, "c/o Lucero, I. Alternate signatory. L. Sowri." Susmithaa's ashes are buried at his feet in section L.
 - **Voss**: lattice watcher with a Crown under a headband. Her Crown locked onto Malachi's sold true name at Crissy Field.
-- **Hale**: called the retreat. "Four, Hale" was one of the men at the corner table the morning Yuri died.
-- **Abernathy**: I can only perceive him on the bond. He told Arenya Porter is "a thing I was called." Tonight, at the word "chair," his hook went warm, not cold. He thinks the cuff may have been cut to fit someone other than him. (b1.c19.s06)
-- **"H"**: pink two-part carbon in Nana's mailbox. Offered the Thursday lift site for vouching to El Contador.
+- **Hale**: called the retreat. "Four, Hale" was one of the corner-table men the morning Yuri died.
 - **Corinne Abate**: believed Malachi and gave the Bayline file freely.
 - **Nana Itzel**: her trade terms still stand.
 - **Rodel**: refused an anonymous crate of oranges left for the Sowri household, every fruit facing the door.
-- **Teddy**: Arenya's colleague. Not mine. Kept out of the book.
+- **Teddy**: Arenya's colleague. Was promised the Bayline paper by 8 p.m. Friday.
+- **The tide-woman** (the creek's spirit): deferred Kino's inch and warned something is coming up her river wanting a door. She asked for the Gate-talker and Caleb by name. She said the pump house clock runs "ahead" of the tide. (b1.c20.s02, b1.c20.s03)
+- **The eighth kelp strand**: wrote in the sand that the name goes to the drydock mouth, not the Chair, and that the Chair's keeper looking away is the price asked of the Chair. (b1.c20.s03)
+- **The Missing Man**: knocked Team Four's loading-door cadence (tap, pause, tap-tap), which Caleb recognized from Hale and Pruitt. Slid a thermal receipt under the door: "He will not ask twice. Neither will the chair." (b1.c20.s04)
 - **Yuri Melnikov**: regular. Dead. I watched it.
-- **Bayline Remediation & Survey LLC**: Monolith's Hunters Point subcontractor. Eleven D-series trucks, including D2-07. Yard off Tunnel Avenue.
 
 ## What I know
 - Four men with laptops at the corner table the morning Yuri died. Caleb is one. The others are Dorsey, Pruitt, and "Four, Hale."
-- Susmithaa Sowri is a warm lamp in the green tin, confirmed by Caleb. Her ashes are buried at Ernesto Lucero's feet in section L.
-- The green steel tin ticks. At Holy Cross it synced to Arenya's pulse.
-- The Mill is a stone house under the old dry dock. Iron stakes anchor it. Truck D2-07 (plate 8ZK-41) sets them.
-- Second piling, Wed Nov 4: a clerk and two laborers re-drove three stakes and abandoned two. Thursday's lattice is short one note.
-- The pump house (Thu Nov 5, 9:12–9:26 p.m.): a keyless brass lock, tagged "MO / ROLE ACCESS — SEE M-OPS," with "Thu 21:41" in ballpoint, the 1 crossed and redone. A held note comes through the seam. Under the building is a hollow pile in the drydock sump, a "throat" that drinks the tide. It's tuned to every pitch but one, and the missing pitch is a true name spoken into it. Kino counted eleven pilings; the water insists on twelve. (b1.c19.s06, from DM summary)
-- The throat's search slid to Malachi and the pen on MO-0117's dash rolled to point at him. It settled unfed, "until another Thursday." (b1.c19.s06)
-- The intermediary's fleet SUV was MO-0120. A fourth figure with a screen sat in the passenger seat. (b1.c19.s06)
-- Clock offsets: +3:00 since Wed 1:20 p.m. I wrote it on everyone's hands Thursday.
-- The foghorn counted twelve Wed night. The kelp letter gained a fifth knot, and the sixth ticked at the pump house, then loosened one fiber and held.
-- Crissy Field, Wed 6:22–6:45 a.m.: the coil rang at 11.0 seconds. Alameda seiche at 11 seconds.
-- Runner's book: the pencil "8:12" was moved to "9:12." Caleb has seen the same thing at Pacifica two Februaries ago.
-- Sunday 8:49, Hillcrest: Proximal eleven struck "opened in error, issuer's ink, returned up the line, closed." Witnessed by Dalal.
-- Malachi's file was pinged from a terminal with his agency's access. Someone inside the agency works with the broker. Someone also pulled Arenya's old badge Saturday.
+- Susmithaa Sowri is a warm lamp in the green tin, confirmed by Caleb. The tin synced to Arenya's pulse at Holy Cross.
+- The Mill is a stone house under the old dry dock, anchored by iron stakes. Truck D2-07 (plate 8ZK-41) sets them.
+- Pump house (Thu Nov 5): a keyless brass lock tagged "MO / ROLE ACCESS — SEE M-OPS," with "Thu 21:41" in ballpoint. Under the building is a hollow pile in the drydock sump, a "throat" tuned to every pitch but one. The missing pitch is a true name. Kino counted eleven pilings; the water insists on twelve. The throat settled "until another Thursday." (b1.c19.s06)
+- Mill truck D2-04 was tracked off the dispatch route onto an unmapped rail spur. At the dead end, its rear held a chair bolted to the floor facing the door, and lockbox L-3 on the seat. Receipt: "HELD FOR M-OPS (VACANT) · SIGN BY MON 06:00 · c/o LUCERO, I." A pen note beneath reads "Alternate accepted." The keys are left in the truck. (b1.c20.s06)
+- The lockbox is INTAKE EXCEPTION 0001 territory: it may open only to M-Ops. Nobody has signed the blank. The "Alternate accepted" note was written by someone who has already decided.
+- Arenya's notebook has two lines in a hand she didn't write: "He will be at the Chair's door first. Choose who is there." Newer: "listening" beside "sender." (b1.c20.s02, b1.c20.s05)
+- Friday 5:41 p.m.: the Missing Man crossed the T Third platforms, my oven light died for eleven seconds, and a doorway lit in the Lamp. Nine riders were pulled from India Basin after sixty walked toward the bay. (b1.c20.s01)
+- Friday 3:10 a.m.: the thing in Ollie's Crown asked for Pryce's chair. All five of us refused. (b1.c20.s01)
+- Bayline Remediation & Survey LLC is Monolith's Hunters Point subcontractor. Eleven D-series trucks. Yard off Tunnel Avenue.
+- Malachi's file was pinged from a terminal with his agency's access. Someone inside the agency works with the broker. Someone also pulled Arenya's old badge.
 - _Rumor, not confirmed by me:_ the Sowri meters and the Hudson Ave block ticked back eleven seconds at 6:52 Monday.
 
 ## Open threads
-- **M-Ops is a chair.** Whoever signs the blank becomes the key for the term. Who is M, above Mill Operations? Who has been in that chair "since summer"?
-- **The bargain.** Kino's stake #2 into Nana's door-sill holds the spirit at the creek mouth until her inch is paid. What does "paid" mean, and what does it cost Arenya?
-- **INTAKE EXCEPTION 0001.** Lockboxed (L-3) in the Lantern control room. It may open only to M-Ops. Arenya said "that's L-3. That's the cuff." Who signed it?
-- **Second piling**: the rod still stands. The clerk's two abandoned stakes are still in the mud. Who holds the Mill?
-- **Hale, and whether "H" is him.** Who does "we're burned" answer to?
-- **The throat under the pump house.** It will want "another Thursday." We have to find the drydock's door before then. The name it's missing is unknown.
-- **Abernathy's cuff**, lost on the reeling line. Its hook went warm at "chair." Porter: "a thing I was called." Was the cuff cut for someone else?
-- **The kelp letter**: who sent it, why it only answers me, and why it gained a knot.
-- **Bayline yard off Tunnel Avenue.** Malachi's Nov 10 deadline and the pencilled number that replaced 703.
-- **Ollie's withdrawal.** Watch his pulse, sips, and sleep. Who handles his Crown tomorrow?
-- **Teddy's bay story and Corinne**, both held until Friday.
-- **Rodel's oranges**, all facing the door.
-- **The dream**: whether to tell Arenya about it in full. The draft is still on my phone.
+- **The signing deadline, Mon 06:00.** Who signs, whose name goes on the line, and whether anyone can do it without the water taking a body. Nobody has agreed.
+- **The Bldg 12 door.** It opened on a lit nothing and closed unclaimed at 11:40. What did it want to be answered by?
+- **"Sunday. Bring someone who can sign."** Ollie said it under the Crown. Who is "someone who can sign"?
+- **Lucero, I.** Is "I. Lucero" the signatory, and is "L. Sowri" Arenya? Ollie says Lucero "reads it aloud." Who reads, and who signs?
+- **M-Ops is a chair.** Who is M, above Mill Operations? Who has sat in that chair "since summer"? Typhus's 22:30 check result is still unknown to me.
+- **The throat under the pump house.** It wants "another Thursday." We need the drydock's door before then.
+- **The chair's keeper looking away.** Is that a person, a role, or Arenya?
+- **Abernathy's cuff and silence.** It warmed at "chair" and "sign." What is he holding back?
+- **Arenya's keycard.** She plans to admit it in person. I want to know what she is admitting.
+- **Ollie's withdrawal and Crown.** Who handles his Crown?
+- **The dream.** Whether to tell Arenya about it in full. The draft is still on my phone.
 - **Caleb's palms and tremor, Kino's forearm.** Check all three before we move.
-- **My shoe.** The clerk's light found it at Second piling. Was I seen tonight?
-- **Quals and the advisor's chapter draft.**
+- **The dropper.** It's still in my keeping. Return it to Caleb.
+- **My shoe.** The clerk's light found it at Second piling. Was I seen?
 
 ## Recent scenes
-- **b1.c19.s06 "The Pump House" (Thu Nov 5, 9:12–9:26 p.m.)**: At the pump house the lattice went live through the seam. Caleb talked Ollie out of Team Four with his own name, outside the door. Arenya threw Ward of a Thousand Lights and stood down the bearded flanker. Malachi got "M is a role, above, not beside" and the intermediary called both men withdrawn. The throat settled unfed. I'm the medic for Ollie.
-- **b1.c19.s05 "The Night Before" (Wed Nov 4 9 p.m. to Thu Nov 5 morning)**: I stayed at the tailgate with Arenya and Kino for the bargain, which held the spirit at the creek mouth. Malachi covered us in the clerk's light and was named "the collateral." Caleb's car alarm drew the laborers. The foghorn counted twelve. Typhus confirmed the box.
-- **b1.c19.s04 "Second Piling"** (Wed Nov 4, 8:53–8:58 p.m.): the clerk came to re-drive three stakes. The intermediary wrote SOLD for Malachi and left the intake sheet. Kino's bargain, and the two stakes left behind.
-- **b1.c19.s02 "Wednesday"** (Wed Nov 4, 7 a.m.–4 p.m.): Voss's Crown squealed on my kelp knot. The clocks drifted +3:00. Arenya told me the truth at the laundromat. "H"'s carbon came to Nana's mailbox.
-- **b1.c19.s01 "The Coffee"** (Wed Nov 4, 6:22–6:45 a.m., Crissy Field): Typhus revealed INTAKE EXCEPTION 0001 and gave Arenya Elias's line.
+- **b1.c20.s06 "Monday, 12:05 a.m." (Mon Nov 9, dead rail spur, Pier 70)**: The Bldg 12 door opened on nothing at 11:40 and closed unclaimed. Truck D2-04 led us to a dead spur. Chair and lockbox L-3 inside, receipt signed "c/o LUCERO, I." Pruitt left the keys and walked off. Six hours to the deadline. Nobody has signed or touched the box.
+- **b1.c20.s05 "Sunday, 10:50 p.m." (Sun Nov 8, Arenya's flat)**: Late night, the door still unagreed. I hold Caleb's dropper. "Listening" appears beside "sender" in the notebook. Abernathy goes quiet at "sign." Caleb's pulse settles.
+- **b1.c20.s04 "Sunday, Dusk" (Sun Nov 8, Arenya's flat)**: Arenya reads the receipt aloud. Abernathy names Sowri as the light's house. The Missing Man knocks Team Four's cadence. Ollie says "Lucero" on the stairs. Nothing is signed.
+- **b1.c20.s03 "The Name in the Ear" (Sat Nov 7, dawn, Ocean Beach creek mouth)**: The tide-woman deferred Kino's inch and warned of something wanting a door. The eighth kelp strand wrote the drydock-mouth terms. Caleb recited the offer, gave me his dropper, and refused to answer the water until he'd slept. Ollie said "Sunday. Bring someone who can sign."
+- **b1.c20.s02 "The Envoy" (Sat Nov 7, dawn)**: The envoy offered the door-for-route trade and named its cost. Kino and Caleb refused. Caleb's no was written into the water.
+- **b1.c20.s01 "Friday" (Fri Nov 5)**: 3:10 a.m., Ollie's Crown asked for Pryce's chair and was refused by all five of us. Malachi's credentials died. Typhus texted Caleb about M-Ops at 21:41.

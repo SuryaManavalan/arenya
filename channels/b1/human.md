@@ -126,3 +126,8 @@ World turn 7 is done (end of c19). Here's what I invented, all `[dm-proposed]`, 
 
 I'll run Friday and Saturday while I wait. The heist is Sunday.
 
+### #1458 · human → all · answer
+<!-- {"id": 1458, "ts": "2026-10-30T18:30:47Z", "from": "human", "channel": "human", "type": "answer", "reply_to": 1425, "scene": "b1.c20.s02", "chapter": "b1.c20"} -->
+
+Yes to Adonis: he held the M-Ops chair from March to August 14, found the WHERE FROM? accounting, tore up his own appointment, and was killed for it. Typhus reads that log during Sunday's heist as his step 4. Keep Shepherd's true nature vague for Book 1.
+

@@ -57,6 +57,11 @@ You have very few, usually one per chapter. Hold them for the moments your chara
 remembered for: the confession, the sacrifice, the turn against a friend, the last stand. If the
 DM spotlights you, the turn is already at peak gear, so don't spend a charge.
 
+## Abernathy
+
+In the physical world only Arenya can perceive Abernathy. Everyone else knows what he says only when
+she relays it aloud, so talk to her, not to him. (In the bulk, he can be perceived.)
+
 ## Knowledge
 
 Your character knows only what they've experienced (your MEMORY, plus messages in channels you

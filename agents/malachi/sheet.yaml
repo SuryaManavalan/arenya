@@ -2,27 +2,56 @@ name: Malachi Shawani
 level: 3
 class: Field Officer (rogue chassis — Inquisitive)
 background: CIA case officer (DOE cover)
-ascent: 2            # unusually high for someone who's never touched the bulk
+ascent: 2
 house: null
-abilities: {str: 12, dex: 15, con: 13, int: 14, wis: 16, cha: 13}
+abilities:
+  str: 12
+  dex: 15
+  con: 13
+  int: 14
+  wis: 16
+  cha: 13
 proficiency_bonus: 2
-hp: {max: 21, current: 21, temp: 0}
+hp:
+  max: 21
+  current: 10
+  temp: 0
 astral_hp: null
 ac: 14
 speed: 30
-saves: {dex: 4, int: 4}
-skills: {insight: 7, perception: 5, investigation: 4, deception: 5, stealth: 6, intimidation: 3}
+saves:
+  dex: 4
+  int: 4
+skills:
+  insight: 7
+  perception: 5
+  investigation: 4
+  deception: 5
+  stealth: 6
+  intimidation: 3
 attacks:
-  - {name: "Compact pistol (Glock 26)", to_hit: 4, damage: "2d6+2 piercing", range: "40/120"}
-  - {name: "Disarm/strike", to_hit: 3, damage: "1d4+1 bludgeoning"}
+- name: Compact pistol (Glock 26)
+  to_hit: 4
+  damage: 2d6+2 piercing
+  range: 40/120
+- name: Disarm/strike
+  to_hit: 3
+  damage: 1d4+1 bludgeoning
 abilities_special:
-  - "Sneak Attack 2d6 (once per turn, with advantage or an ally adjacent to the target)."
-  - "Cunning Action: Dash, Disengage or Hide as a bonus action."
-  - "Ear for Deceit: insight checks treat rolls below 8 as 8."
-  - "Insightful Fighting: bonus action Insight vs the target's Deception for Sneak Attack without advantage."
-  - "Credentials: federal ID (DOE cover), a handler, a deniable budget."
+- Sneak Attack 2d6 (once per turn, with advantage or an ally adjacent to the target).
+- 'Cunning Action: Dash, Disengage or Hide as a bonus action.'
+- 'Ear for Deceit: insight checks treat rolls below 8 as 8.'
+- 'Insightful Fighting: bonus action Insight vs the target''s Deception for Sneak
+  Attack without advantage.'
+- 'Credentials: federal ID (DOE cover), a handler, a deniable budget.'
 resources: {}
 conditions: []
-inventory: [DOE credentials, CIA comms phone, Glock 26, lockpicks, the Sowri file]
-coin: {usd: "operational budget"}
-notes: ""
+inventory:
+- DOE credentials
+- CIA comms phone
+- Glock 26
+- lockpicks
+- the Sowri file
+coin:
+  usd: operational budget
+notes: ''

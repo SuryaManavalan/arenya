@@ -21,5 +21,16 @@ A tall, narrow, wet, hollow pile-shaped thing standing in the old drydock sump u
 - Something enormous offshore, which knows one of their names, listened for the swallow, then eased. [#1391, #1414]
 - Rule: nobody says a name near the door.
 
+## The envoy's bargain (b1.c20.s02, Sat 7 Nov dawn)
+- A [[tide-envoy]] offered terms for the missing pitch: one holder holds a door for one breath on **Sunday 11:40 p.m.**, and the Missing Man's true name is spoken into the throat by someone else. The throat would then be "whole, and fed, and quiet for a long while." Refused, the one carrying the pitch "keeps walking until someone less careful holds it for him." [#1454, #1462]
+- Cost to the holder: pulse drops to a sleeper's, lips shell-coloured, own name unsayable for about twelve hours. [#1462]
+- The envoy says the name cannot be spoken by its owner: "a name spoken by its owner is only a sound. It must be spoken *for* him." [#1454]
+- No holder was chosen. Caleb refused outright. Kino refused for the Lady's house. [#1459, #1461]
+
+## b1.c20.s05 (Sun 8 Nov, 23:31–23:42, Pier 70)
+- The throat's hum came up through the car floor at 23:31 and left a deliberate gap where the next note should be. At 23:39 the gap "leaned, like a held door." It shut with the steel door at 23:42. [#1520, #1524, #1530]
+- Uphill water under the Bldg 12 side door ran to the threshold as the gap widened: the same water Inés refused to name. [#1524]
+
 ## Open questions
 - Whose name is the final pitch? Where is the drydock's door?
+- Who sent the envoy, and does the throat's hunger connect to the sender ("the one the creek runs to")?

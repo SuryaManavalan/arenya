@@ -146,8 +146,9 @@ Combat needs no special engine. The DM awaits one combatant at a time, in initia
 | `revise` | author | `chapter_end` | fresh | pinned (4) |
 
 Priority (lower runs first): dm 0, players/npcs 1, director 2, lorekeeper 3, author 4, and +5 for
-non-turn jobs. Nudge and replay jobs run at -1. Play stays responsive, and the Author and Lore
-Keeper catch up in the gaps.
+non-turn jobs. Nudge and replay jobs run at -1. Play stays responsive. When background work is waiting
+and none is running, one of the `concurrency` slots goes to it, so drafts and lore extraction can't
+fall behind (at `concurrency: 1` play always goes first).
 
 **Sessions:** an agent keeps one SDK session per scene (`state.sessions[agent] = {key, session_id}`).
 A new scene means a fresh session that starts from `MEMORY.md`, so context never grows without

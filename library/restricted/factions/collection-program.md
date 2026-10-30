@@ -25,6 +25,7 @@ related: [meta-mages, caleb-strand, freezing-deaths, typhus-arc]
 ## Named in play (b1.c15.s02, #0022–#0038; names DM-invented, human approved naming #0027)
 - **Shepherd** — handler; a voice speaking through the Crowns, unhurried, "like a dentist." Can listen through a live Crown; offers "fix" (memory wipe).
 - **Team Four** — Caleb (Lead), Dorsey (driver), Pruitt, Hale. Crown-flat men who don't act without instruction (Hale turns his head "like a security camera").
+- **Team Four status (b1.c20.s04, Sun 8 Nov):** Team Four was dissolved on paper Friday. An 18:12 M-Ops request came in carrying only the tag "T4" and no badge number (Typhus, #1501). Caleb recognizes its loading-door knock (tap, pause, tap-tap) as Team Four's, taught by Hale to Pruitt and Pruitt to Caleb. Someone is still "answering to" Team Four. [#1501, #1507]
 - **Drop Two** — hand-to-hand canister handover point, ~20 min drive from Daly City, on the way to Hunters Point.
 - **The Mill** — under Monolith's leased facility at the old Hunters Point shipyard [human-approved #0027/#0030]. Supersedes "location unknown" above.
 - **Dr. Halden Pryce** — named in #0030 as part of the program; no role recorded yet.

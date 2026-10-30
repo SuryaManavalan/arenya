@@ -197,7 +197,9 @@ def build_server(ctx: TurnContext):
         })
         async def scene_start(args):
             try:
-                return ok(f"Scene {engine.scene_start(args['title'], args['location'], _list(args['cast']), args.get('place'))['id']} open.")
+                sid = engine.scene_start(args["title"], args["location"], _list(args["cast"]), args.get("place"))["id"]
+                note = engine.place_note(args["location"], args.get("place"))
+                return ok(f"Scene {sid} open." + (f" PLACE CHECK: {note}" if note else ""))
             except engine.PostError as e:
                 return err(str(e))
         tools.append(scene_start)

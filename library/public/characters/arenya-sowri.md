@@ -36,6 +36,10 @@ Close to aunt [[susmithaa]]; strained with [[saiesh]]; friendly with [[ava-lindq
 ## Status
 Alive; start of Book 1, c15.
 
+## b1.c20.s04 (Sun 8 Nov, dusk, the Mission studio)
+- Reads the Sunday receipt aloud, whole, and makes Caleb repeat "L. Sowri" to her face. Refuses the pen and the door: "Nobody holds a door tonight." [#1486, #1491, #1502]
+- Stands at the hinge wall when the knocking doorway comes. Refuses to open it without a name. Receives a [[door-receipt-pier-70]] in return. [#1502, #1508]
+
 ## Awakening (b1.c18.s02, Mon Nov 2)
 - Her spoken vow at Holy Cross ("I'll drive you to the sea myself") awakened her as a Spirit Host: level 2, Ascent 3, light by blood + dark by birthplace. Astral HP 26, astral AC 12, spell attack +4, save DC 12, Will 9 / Flow 12 / Anchor 11, 2 prana slots. [#1023]
 - Cantrips: Lamplight Lance (1d10+2 radiant, 120 ft), Hidden Way (fog fold). Spells (1 prana): Night's Mark (hex), Ward of a Thousand Lights (5 temp HP, 5 radiant to melee attackers), Burn the Veil (faerie fire). Lamp-Eyes (sees through fog); Two Lines (1/long rest reroll of a failed bulk save: light = Wis/Cha, dark = Dex/Con); Host's Step (bonus action into the bulk). [#1020, #1023]

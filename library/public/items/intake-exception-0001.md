@@ -21,6 +21,8 @@ An object the Mill's intake logged at 9:14 p.m. Tue 3 Nov that it could not clas
 - **Lockbox L-3**, Lantern control room, under the rack console. Typhus's badge can't open it. Elias: the key is not a person but a role, **"M-Ops"**; he wouldn't say more on a work phone. [#1360, #1352]
 - Arenya's answer to Typhus: "It's something's livery, from somewhere the room never was"; belongs to someone who lost it. She asked him to time any attempt to move the box before Friday. [#1361]
 - Abernathy: "I know that kind of box," a pang at "L-3, under the rack console"; uneasy; doesn't know how he knows. [#1363]
+- **b1.c20.s05 (Sun 8 Nov):** the box L-3 was found on a bolted chair in [[mill-truck-d2-04]] at a Pier 70 dead spur, carrying a "Sign by Mon 06:00" receipt. Its contents are not yet opened. See [[lockbox-l-3]]. [#1535, #1540]
+- Discrepancy (open): the intake record says textile; Abernathy's cuff is brass. [#1281, #1360]
 
 ## Open questions
 - Who/what is "M-Ops" (cf. Mill Operations fleet, MO-0114/MO-0117)?

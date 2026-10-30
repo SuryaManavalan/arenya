@@ -1,69 +1,67 @@
 # Memory — Malachi Shawani
-_Last updated: b1.c19.s06 "The Pump House"_
+_Last updated: b1.c20.s06 "Monday, 12:05 a.m."_
 
 ## Who I am right now
-Thursday night, Nov 5, Crisp Road. I'm cold and wired. I talked a Mill Operations intermediary down in the open air and kept my hands off the pen. Ollie Baptiste is alive, shaking, in first-night withdrawal under Kino's hoodie. Caleb said his name away from the door, and it cost him. Nobody signed anything. The "M" on the lease is a chair, not a man, and the chair is still empty.
-
-I owe Caleb a hard talk about the car and about Hale. I'm carrying the Langley recall, unanswered since 18:00.
+Monday, 12:33 a.m., on the dead rail spur at Pier 70. I took a Dorsey pistol round low on the left side (11 damage, 10 HP left) and my Glock jammed on a natural 1. I cleared it one-handed, with Ava's folded coat pressed to the wound. Caleb dragged me behind the rear wheel. I'm conscious, bleeding slower, and I'm angry at myself for the miss and for being seen. L-3 and the chair went through the Bldg 12-style seam and closed. The box is gone, and so is any clean chance to read it. Dorsey's men are slack on the gravel. Dorsey himself walked off with "I never saw any of this."
 
 ## What I want
-1. Get Ollie Baptiste through the first night and into a bed, not a car. Make sure nobody from Team Four comes for him.
-2. Identify who sits in the "M-Ops" chair and who has been trying to fill it. The chair is empty "since summer." The grey suit, the chlorine woman, the blank intake line, the badge pull, the Langley hand and the Lattice are probably one structure.
-3. Keep Nobody Signs. No blank sheet, no appointment, no "collateral" anywhere in my name.
-4. Keep Bayline's yard and drivers' faces ready for Corinne by Fri Nov 6, so they buy time, not a noose.
-5. Keep Arenya's name out of Corinne's files and out of Langley's.
-6. Get Typhus to watch the L-3 box without moving it. Find Unit 8.
+1. Find out who told Dorsey my credentials "expired Friday." That is a leak from inside my own building, and it puts my name in the Mill's hands.
+2. Keep Ollie Baptiste alive and off the Crown. "Lucero" is still the name the Mill uses for him.
+3. Keep Caleb and Ava out of the Mill's book. Both are now on it as witnesses.
+4. Find who wears Team Four's tag, who approved the 18:12 request, and who "Four" is. "Adonis" was the first holder; torn 08/14 for asking "where from?"
+5. Keep Arenya's name off Corinne's files and off Langley's. She has now put "A. Sowri" on the record as the named alternate. I have to decide how to handle that before anyone else does.
+6. Langley: recall still open, report due Mon 09:00. I haven't answered. I will have to, and soon.
 
 ## People
-- **Arenya Sowri**: investigator, Spirit Host. I opened her as my access agent in front of Corinne, a lie on paper. I covered her shoe at Second piling. Thursday she threw Ward of a Thousand Lights across Crisp to cover the gap, and she copied my collar signal without being told. Trust: high. I still owe her an honest reason for the lie. (c19.s02, c19.s04, c19.s06)
-- **Caleb Strand (Team Four, "One")**: left the car at Second piling and pulled the alarm. Thursday he said Ollie's own name first, walked out of the gap, and won the Persuasion check (16). He said "yes," not "will try," and kept his hands visible. Withdrawal is ongoing. Trust: high. I owe him a hard talk. (c19.s05, c19.s06)
-- **Ollie Baptiste**: 22, five-nine, growing-out fade, left dimple. Touches the Crown at the back of his head. Said "Ollie" on the sidewalk and stepped into the dark. Trust: not yet mine. He is ours to protect, not to recruit.
-- **Corinne Abate**: fifty, reading glasses on a cord. Gatekeeper for this file. Her text denied selling me. Friday stands. Trust: wary, possibly honest. (c19.s05)
-- **Daniel Hale ("Meridian Mutual")**: Voss's handler, collector for the Counter. Sold my name to a lease. His pump-house layout checked out by daylight, but someone was there after him. Trust: none.
-- **The green-ringed woman (MO-0114)**: Mill Operations, chlorine, sea-glass ring, Alameda marina hangtag. Showed me a blank line and wrote SOLD in salt. Thursday she told me M is "a role, above, not beside" Mill Operations. The blank is an appointment: whoever signs becomes M-Ops for the term, with the key to every box keyed to that role. She wrote "withdrawn" for both men and left. Seems sorry for me. Trust: low but not zero.
-- **The bearded Crowned flanker**: walked through Arenya's glare on his Crown and stopped when the intermediary called him off. Not a friend. Not a fighter, tonight.
-- **The clerk (Second piling)**: ledger-light, no face. Called me "collateral." Took the page.
-- **Typhus Quinn (Applied Field Research)**: coil rings at 11.0 s. Described INTAKE EXCEPTION 0001 as a 14×6 cm woven cuff in lockbox L-3. Arenya told him Thursday night to stand down and only watch who carries it. Possibly useful, possibly a casualty.
-- **Kino**: his line is 4.0 cm. Read the throat with Perception (23). Hid himself from it with stillness. Trust: high.
-- **Ava (Tartine)**: logs clock drift (+3:00) and the kelp letter. Her sixth knot tightened and held. Trust: high.
-- **Abernathy**: speaks only on the bond. Thursday he said the cuff's hook went warm at the word "chair." Not mine to command.
-- **Nana Itzel Lucero**: her house holds the slack-water spirit as "family." I owe her a debt. Trust: high.
-- **The slack-water spirit**: owed "the rest" (her inch) until Kino walks her to the sea. Pressed against the shore Thursday by a hollow throat under the pump house. Floats loose at the creek mouth now.
-- **The throat (under the pump house)**: a hollow pile in the drydock sump that drinks the tide. Tuned to every pitch but one. The missing pitch is a true name said into it. It settled unfed "until another Thursday."
+- **Arenya Sowri**: investigator, Spirit Host. Named herself on the record as the alternate (12:22). Took the photos at 12:33 (two frames, no flash). Brass engraved "A. B." I told her not to show me the frames until I can keep my eyes on a page. Trust: high, but I'm frightened for her. I don't want her to be the one who holds the pen.
+- **Caleb Strand (Team Four, "One")**: shaking, not stopped. Refused on the record as a witness. Said the fifth letter isn't his. Said the plain version of the car and Hale will come later. Dragged me out of the line with a 10 Athletics and a tremor costing him a step. I owe him the plain version. Trust: high.
+- **Ava Lindqvist**: named witness by the Mill. Stabilised me (Medicine 14). Holds Caleb's dropper and logs clock drift. Noticed the pen note's slant matched Arenya's notebook. Trust: high.
+- **Kino**: stood in the road in front of the fourth truck; the stopwatch man's count beat her grip (11 vs 17). Trust: high.
+- **Abernathy**: passes in physical world; speaks only in bond. Something in him turned at "A. B." Not mine to command.
+- **Ollie Baptiste**: 22, left dimple. Ours to protect.
+- **Typhus Quinn**: sent the whole M-Ops log unasked. Oldest holder: ADONIS, appointment TORN 08/14, "WHERE FROM?" Trust: useful, dangerous.
+- **Corinne Abate**: gatekeeper for this file. Trust: wary, possibly honest.
+- **Daniel Hale ("Meridian Mutual")**: sold my name to a lease. Trust: none.
+- **Pruitt (Mill driver)**: left the keys and walked into the dark. Trust: low, but he told the truth.
+- **Dorsey (Dorsey Security)**: fired twice; hit me. Knows my credentials had expired. Was only the leash's last knot. Trust: none.
+- **The stopwatch man (Mill clerk, fourth truck)**: burned palm and hook pole; Kino held his wrist. Counted for the doorway. Status: slack.
+- **Inés Arriaga**: suspended intermediary, the beige sedan. Refused the second line. Trust: cautious.
+- **The Missing Man**: its doorway pulled at L-3 tonight. Does not lie. Trust: none.
+- **The green-ringed woman (MO-0114)**: Mill Operations. Trust: low, not zero.
 - **Voss**: Lattice watcher, Crown under her headband. Not a friend.
-- **Elias**: Crissy Field. Has a file on Arenya from September. Told Typhus the key is a role. Trust: unknown.
-- **Yuri Melnikov**: Dogpatch machinist, dead in August. No Unit 8 on any drawing Typhus signed.
-- **Lakshmi "Amma" Sowri**: trust rising. **Raghavan "Appa" Sowri**: I apologized to his face for March. Not forgiven, not refused.
-- **H. "Dalal-ji" (Fremont)**: has my true name and the Lucero house. Kept the terms.
-- **Teddy**: Arenya's boss. Not mine. **Mr. W. Bell**: Lattice-linked. Not my man. **Rodel**: refused the orange crate.
+- **Elias**: Crissy Field. Has a file on Arenya from September. Trust: unknown.
+- **Lakshmi "Amma" and Raghavan "Appa" Sowri**: trust rising / not forgiven, not refused.
+- **H. "Dalal-ji" (Fremont)**: has my true name and the Lucero house. His badge touched the Bldg 12 reader on Sunday. Trust: kept terms, but the reader log is still owed to me.
+- **Nana Itzel Lucero**: her house holds the slack-water spirit as "family." Trust: high.
 
 ## What I know
 - Freeze deaths: victims lock eyes for 25–60 s, then die of a "cerebral event." Nine confirmed in SF by my cell.
 - The overseas death eleven years ago: a man died holding someone's gaze in a market. I wrote it up as something else, and I was told to forget it.
-- The R. SOWRI envelope: "Return of Personal Effects," REF PROXIMAL/11, "c/o LUCERO, I."
-- Bayline Remediation & Survey LLC: Monolith subcontractor on Hunters Point parcel B, eleven D-series trucks, yard on Tunnel Avenue. Unit D2-07, plate 8ZK-41. Unit D2-04 was at Second piling.
+- Bayline Remediation & Survey LLC: Monolith subcontractor, Hunters Point parcel B. D2-04 was at Second piling.
 - Tunnel Avenue lease (Wed Nov 4): guaranteed by Applied Field Research, signed with a stamped "M."
-- Thursday pump house (Crisp Ave, 9:12–9:26 p.m.): held note through the seam. Keyless brass lock tagged "MO / ROLE ACCESS — SEE M-OPS / Thu 21:41." Team Four (MO-0120) arrived early with three men out and one in the passenger seat with a screen. Ollie's flankers were the bearded man and a third. Arenya's Ward of a Thousand Lights hid the gap from the woman's sight. Pen on MO-0117's dash rolled to point at me.
-- The chair: M-Ops is an appointment, the blank sheet is the instrument, and it has been empty since summer. The woman wanted it filled by someone who had already sold his "no."
-- Langley recall (7:40 p.m. Wed, from a 703 number): report Mon Nov 9, 0900, bring the notebook. Thu 6:10 a.m.: "RECALL — ACKNOWLEDGE BY 18:00 THU." Not acknowledged. Went quiet at 18:00.
-- Corinne's text Wed: "That wasn't me. I bought you Friday. Somebody over my head sold it."
+- Pump house (Thu Nov 5): keyless brass lock tagged "MO / ROLE ACCESS — SEE M-OPS / Thu 21:41."
+- Langley recall (Wed 7:40 p.m.): report Mon Nov 9, 0900. Not acknowledged.
 - Typhus's lockbox: "INTAKE EXCEPTION 0001, NO SOURCE," logged 9:14 p.m. Tue. Someone pulled Arenya's old badge Saturday.
+- Sunday 23:40 (fact): the steel door at Bldg 12 opened on lit nothing and closed by itself.
+- Sunday 23:42 (fact): D2-04 left Bay 3, ran the unmapped rail spur to a dead end at the tank farm.
+- Dead spur (fact, now gone): chair bolted to the truck floor facing the door; L-3 on the seat. Receipt: "HELD FOR M-OPS (VACANT) · SIGN BY MON 06:00 · c/o LUCERO, I." Pen notes: "Alternate accepted," "Who sits is not who signs. Who signs is not who is asked," "Seated by proxy at 12:20 if refused by no one aloud," "Vacancy continues. Next sitting Mon 06:00. Bring the one who asks."
+- Radio (fact): at 12:20 it entered four refusals and read back "Lindqvist, A. Strand, C." as witnesses. At 12:31 it said "any alternate, or the box goes." Arenya refused again aloud.
+- Typhus (confirmed by log, 12:25): M-Ops holder ADONIS, appointment TORN 08/14, "WHERE FROM?" Five-letter signer line filled and did not clear.
+- Dorsey (fact): "Expired Friday." I read him on Insight (natural 20): he is the leash's last knot, not the one holding it. The pickup behind the tracks was the real hand on the box.
+- Fact at 12:33: the box, chair, cloth (woven strip, knotted fringe, one knot too many) and brass curve (engraved "A. B.") went through the seam. Arenya took two frames. Abernathy turned at the letters.
 
 ## Open threads
-- **Ollie.** First night withdrawal. Ava is logging what he takes and when. Keep the Crown off him and keep Team Four away.
-- **Caleb.** The hard talk about the car and about Hale. Withdrawal, tremor, disadvantage on steady-hand checks until a long rest.
-- **"M" and the chair.** Who would sign? Who sent the recall? Who sold my name over Corinne's head?
-- **Langley.** Silence has a cost. The recall is still open.
-- **Bayline's yard and drivers.** Corinne has until Friday.
-- **Arenya.** I owe her an honest reason for the lie. Shoe covered.
-- **L-3 box and Unit 8.** Typhus is watching, not moving. Abernathy says the cuff may have been cut to fit someone other than him.
-- **Nana's debt.** Kino's stake is in her sill.
-- **The slack-water spirit.** Kino owes her the rest of her inch.
+- **Who told Dorsey my credentials expired Friday?** Someone in my building, or someone with access to the DOE cover. I need to know before I trust my own paperwork again.
+- **"A. B."** The brass engraving. Abernathy has a suspicion he is holding back. Arenya has the photos. I told her to hold them until I can read a page.
+- **Arenya on the record as alternate.** The Mill has her name. I want it off every file, and I don't yet know how.
+- **Langley.** Report Mon 09:00. I have been silent since Wed. The cost is mine now.
+- **Caleb's plain version.** Owed, and I said so on the spur.
+- **Ollie / Lucero.** Keep the Crown off him; find out what "Lucero" means to him.
+- **Four / Adonis / T4.** The tag and the torn appointment, and who asked "where from?"
 
 ## Recent scenes
-- b1.c19.s01 "The Coffee": Crissy Field with Typhus. Voss's Crown locked onto my true name. Hale called her off.
-- b1.c19.s02 "Wednesday": Stalled Corinne to Friday. Tunnel Ave lease with the stamped "M." Clocks drifting.
-- b1.c19.s03 "The 110 Stop": Three-part vouch to Hale. The bus left provisionally.
-- b1.c19.s04 "Second Piling": Got SOLD in salt. Covered Arenya's shoe. Called collateral.
-- b1.c19.s05 "The Night Before": Caleb took "yes" on Ollie. Thursday daylight recon of Crisp Road.
-- b1.c19.s06 "The Pump House": Nobody signed. The throat settled. Ollie came away alive. M is an appointment.
+- b1.c20.s02 "The Envoy": Sunday door offered for the true name. Caleb refused.
+- b1.c20.s03 "The Name in the Ear": Terms recited. Dropper to Ava. Nothing signed.
+- b1.c20.s04 "Sunday, Dusk": Receipt read aloud, "c/o Lucero." Receipt slid under the door.
+- b1.c20.s05 "Sunday, 10:50 p.m.": Inés refuses the second line. Steel door opens on nothing. I am made on the spur. Pruitt opens the truck.
+- b1.c20.s06 "Monday, 12:05 a.m.": Pruitt leaves the keys. Four refusals; two witnesses logged. Dorsey and the stopwatch crew arrive. I'm shot, my Glock jams. L-3 and the chair go through the seam. Arenya photographs the open lid.

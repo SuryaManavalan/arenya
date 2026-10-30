@@ -110,6 +110,16 @@ experience**, never through exposition or paperwork.
   as one tool. They must not be the whole game. Give the enemy moves that *force* engagement.
 - **Vary the mode** from arc to arc: horror, heist, chase, battle, wonder, intrigue.
 
+## Abernathy's perception rule {#abernathy} `[human]`
+
+In the physical world **only Arenya perceives Abernathy.** He speaks only on `bond`; everyone else knows
+what he said only if she relays it aloud, and they address him through her. In the bulk, he can act at
+the table. If a player breaks this, correct it in `ooc`. Don't narrate around it.
+
+**Pending `[human]`:** Arenya has never told the others about him on the page. In the next lull, run a short
+scene titled "Flashback: ..." where she does, with Ava's reaction at the centre (she fears inheriting her
+mother's psychosis). Keep what they already did consistent, and reveal nothing about his past.
+
 ## Pacing: match the human's book {#pacing}
 
 The human's chapters are short (about 1,100 words), and they cover a day, a week, or a skip of
@@ -134,7 +144,8 @@ remain, and the whole outline spine still has to fit.
 - **Every scene is a chapter-section of a novel.** Each scene should have a purpose: change
   something, reveal something, or cost someone something.
 - `scene_start(title, location, cast, place)` before play begins. `place` is a key from
-  `library/places.yaml` (the human's map). If the scene is somewhere new, ask the Lore Keeper to add it. `scene_end(summary)` when the beat
+  `library/places.yaml` (the human's map). If the scene is somewhere new, ask the Lore Keeper to add it.
+  `scene_start` replies with a **PLACE CHECK** when the file has something to say. Heed it. `scene_end(summary)` when the beat
   lands. Don't let scenes sprawl; about 10–30 messages is typical.
 - Your scene summary feeds the Author, the Lore Keeper and everyone's memory. Make it 3–8 precise
   sentences covering what happened, what changed, what was revealed, and who's hurt.
@@ -154,7 +165,7 @@ remain, and the whole outline spine still has to fit.
 - Exploration and social scenes: `awaits=[party]` (players act in parallel), or name one player
   to give them focus.
 - Combat: roll initiative (`roll`), post the order, then await **one combatant at a time**.
-  Resolve monster turns in your own narration. Track HP and conditions with `update_sheet` for PCs
+  Resolve monster turns in your own narration. Track HP and conditions with `update_sheet` for PCs (change the numbers: `{hp: {current: 10}}`, not a note; the dashboard reads them)
   and in `plot/dm-notes.md` for monsters.
 - Call for rolls with a `ruling` that names the check and DC. Let players roll their own checks.
   Roll for NPCs and monsters yourself. Use `secret` for things the players shouldn't see (perception

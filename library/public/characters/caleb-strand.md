@@ -53,5 +53,24 @@ Arenya has his blurry face on her (former) wall: the grey-jacketed man at the Ta
 - Failed the day's withdrawal Con save (4 vs DC 13). Hands cold to the second knuckle, fine tremor "like a wire with current"; palm burns pale at the edges. Until next long rest: disadvantage on Dex/steady-hand tasks (no driving), **advantage on Perception for anything out of step with the eleven**. Malachi drives. Withdrawal day 0 per sheet.
 - Colma plan: stays in the car at the curb, in earshot; Hale knows his walk.
 
+## b1.c20.s01 "Friday" (Fri 6 Nov, provisional) [#1427–#1444]
+- Withdrawal day 5 at dawn: Con save **6 vs DC 17** failed. One level of exhaustion until he eats, sleeps, or burns something off; disadvantage on Dex/Wis checks today; the scar pulls like a hook **east**. [#1433, #1435]
+- Typhus's text (read on the team car bumper): "Box asked for M-Ops at 21:41 last night. Who asks a box for a role?" [#1437]
+- Pruitt ("Three") logged his face (the drawer where he files men he has stood a corner with); Caleb tells Malachi: "Three has my face. Assume every Crown in that yard can find me by it." [#1436]
+- Refused to be "on a page"; offered Arenya the truth for Teddy, to stand behind in the room. [#1434]
+- Answered the Crown speaking through Ollie: "Caleb Strand. Army, logistics, then a contractor who signed my name on a form. I was in the grey jacket. I'm not a rope." [#1434]
+- At the creek mouth at dusk (with Kino) he kept his feet on flat stones and named the mudflat, heron and Bayline lamp; the tide-woman was summoned to see his empty hands. He is now named by the tide-woman as someone "it has asked about." [#1443, #1444]
+
+## b1.c20.s02 "The Envoy" (Sat 7 Nov, dawn, creek mouth) [#1453, #1461, #1463]
+- The [[tide-envoy]] says "names answer him" and bows to him. The sleeve points toward him, and the envoy's pitch-carrier is "the one he walks behind" (see [[the-missing-man]]).
+- Refused outright: "Nobody holds a breath for me... If I can't say it myself, you don't get it at all." Asked Arenya to "write that I said no." The envoy wrote his no into the water.
+
+## b1.c20.s03 "The Name in the Ear" (Sat 7 Nov, 7:12–7:19 a.m., Sutro creek mouth) [#1467–#1481]
+- The seventh kelp strand lays itself on his boot and speaks the envoy's terms into his heel; he recites them word for word to the party. [#1467, #1472]
+- Surrendered his **Vesper dropper** (capped) to Ava, to be returned "Sunday, or never." He says he is not taking it and wants that said aloud "so it counts." [#1480]
+- Refuses to answer the water until he has slept; he says he has not slept since Tuesday. Pulse 118 → 104 under Ava's count; cold in the fingers. [#1472, #1480, #1481]
+- Puts the word "sign" on his list with "Chair." [#1480]
+- **Discrepancy (flagged to DM):** the packs were laid under Kino's comal on Sat 31 Oct (c17.s05), yet a capped dropper is in his left pocket on Sat 7 Nov. Read as a new or separate dose unless the DM says otherwise.
+
 ## Status
 Joins the party after b1.c15, when his Crown implant burns out. Currently (end s02) alone in the culvert, hunted by the program. His role in the killings: [[collection-program]] and [[meta-mages]] (restricted).

@@ -106,6 +106,13 @@ class Dispatcher:
             now = time.time()
             ready = sorted((j for j in st["queue"] if j.get("not_before", 0) <= now),
                            key=lambda j: (j["priority"], j["seq"]))
+            # Keep one slot for background work when any is waiting, so drafts and lore extraction
+            # can't fall behind while play always outranks them. (At concurrency 1 play would starve.)
+            if limit >= 2 and all(_is_play(j) for j in self.tasks.values()):
+                bg = next((j for j in ready if not _is_play(j) and j["agent"] not in busy), None)
+                if bg:
+                    ready.remove(bg)
+                    ready.insert(0, bg)
             for job in ready:
                 if len(self.tasks) >= limit:
                     break

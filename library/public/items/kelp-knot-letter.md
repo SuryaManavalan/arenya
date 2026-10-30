@@ -22,5 +22,12 @@ Wet bull-kelp rope tied in a careful knot, found 6:58 a.m. Tue Nov 3 on Ava's we
 
 - **b1.c19.s04 (Wed 4 Nov, 8:58 p.m.):** after the foghorn counted **twelve**, Ava found a **fifth knot** that wasn't there at dinner (checked under the dome light). [#1346]
 
+- **b1.c20.s01 (Fri 6 Nov):** the kelp sits in its jar at **six knots**; the **seventh fiber** trembled all afternoon, went flat against the glass at 5:41 p.m. ("decided to listen"), and per the scene's close becomes a knot by **Saturday dawn (7 knots)**. Ava's tide table: slack water ~12:20 Sat. [#1427, #1442, #1444]
+
+- **b1.c20.s02 (Sat 7 Nov dawn):** after the [[tide-envoy]] bowed to Caleb and dissolved, an **eighth strand** rose beside the other seven and knotted "loosely, around nothing." Seven became eight. [#1463]
+
+- **b1.c20.s03 (Sat 7 Nov, 7:12–7:19 a.m.):** the seventh strand lay across Caleb's boot and carried the envoy's terms up through his heel; the eighth strand wrote in wet sand that the name goes to the drydock mouth, not the Chair, and that the Chair's keeper looking away is the price asked of the Chair. Both strands slid back into the surf at 7:19 leaving nothing written. [#1467, #1474, #1481]
+
 ## Open questions
 - Sender (tide-woman, a friend, or someone dressing the sea's knot); Abernathy's workplace link.
+- What the eighth strand is for; whether the kelp counts toward the envoy's sender or toward the Missing Man.

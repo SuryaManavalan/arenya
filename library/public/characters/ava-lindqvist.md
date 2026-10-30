@@ -34,3 +34,9 @@ related: [arenya-sowri, yuri-melnikov, tartine-bakery]
 - The cold spot **went warm around 9 p.m. Wed**, "like someone let go of my wrist" — when Nana Itzel signed the second "no" (Kino: the entry stopped counting her). [#0498, #0501]
 - Keeps the salt; code now **croissant = fine, kouign-amann = call me**. Declined the spare bed but asked for the address by text, not aloud. Call dropped at the Altamont summit mid-question about the cardigan. [#0498]
 - Delayed text: "okay. salt tonight. kouign-amann if anything." Arenya texted the street address + "salt on the sill." Kino: she is a "lookout" now, not bait. [#0500, #0502, #0497]
+
+## b1.c20.s01 "Friday" (Fri 6 Nov, Nana's kitchen) [#1432, #1442]
+- Ollie's medic: two fingers on his wrist, pulse 126 thready at one point, 104 at 5:41, 112 by dawn; counts him backward by sevens; keeps his sips charted every fifteen minutes, phone-free. Ava texted her shift lead she's out tonight.
+- Took Teddy the promise at midday: the Bayline paper by eight, and she will come in to explain the keycard in person. [#1432]
+- **5:41:00 p.m.:** her oven light went out for **11 seconds**, no surge, no breaker; logged beside the timestamp. The kelp's seventh fiber went flat against the jar. She asked Abernathy whether the gap, not the thing behind it, was the thing she'd seen. [#1442]
+- Kino's watch: she held the room still by voice. Ollie's Crown, bucket and salt line all in her kitchen. [#1442]

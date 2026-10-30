@@ -27,6 +27,9 @@ The site Hale named for the Thursday (5 Nov) lift. Unverified: Malachi's vouch i
 - Eleven pilings, but the water shows twelve: the 12th is [[the-throat]], a hollow pile-spirit in the drydock sump. [#1391]
 - Went dormant, unfed, "until another Thursday." Kino: "we find the drydock's door before then." [#1414, #1420]
 
+- **b1.c20.s03 (Sat 7 Nov, 7:14 a.m.):** asked about "the pump house clock," the tide-woman says the clock is not hers, "we only hear it," and that it "runs faster than the tide" / is "always ahead" of it. Who keeps that clock is unanswered. [#1474, #1481]
+
 ## Open questions
+- Who keeps the pump house clock, and does it run on the Mill's time or the envoy's (11:40 p.m. Sunday)? Ava's question "ahead, or faster?" was answered "ahead." [#1479, #1481]
 - Who holds the brass padlock key? (Role-keyed to M-Ops.)
 - Is the site true? If false, the Counter's bus returns for Hale.

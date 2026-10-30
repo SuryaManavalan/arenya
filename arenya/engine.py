@@ -15,7 +15,10 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import subprocess
+
+import yaml
 
 from . import channels, state
 from .config import LOGS_DIR, ROOT, active, role_of, roster, settings
@@ -180,6 +183,26 @@ def enqueue_locked(agent: str, job: str, args: dict | None = None, priority: int
 
 
 # --------------------------------------------------------------------------- scenes & chapters
+
+def place_note(location: str, place: str | None) -> str:
+    """What library/places.yaml says about this scene's location, for the DM to check against."""
+    try:
+        places = (yaml.safe_load((ROOT / "library/places.yaml").read_text()) or {}).get("places", {})
+    except (OSError, yaml.YAMLError):
+        return ""
+    notes = []
+    if place and place not in places:
+        notes.append(f"Place key '{place}' isn't in library/places.yaml; ask the Lore Keeper to add it.")
+    elif not place:
+        notes.append("No place tag, so the map can't show this scene. Pass a key from library/places.yaml.")
+    for owner in dict.fromkeys(re.findall(r"([A-Z][\w-]+)['’]s\b", location)):
+        names = {k: p.get("name", k) for k, p in places.items()
+                 if owner.lower() in " ".join([p.get("name", ""), *(p.get("aliases") or [])]).lower()}
+        if names and place not in names:
+            notes.append(f"On file for {owner}: " + "; ".join(f"{k} = {n}" for k, n in names.items())
+                         + ". If this scene's location disagrees, the file wins: correct it in your narration.")
+    return " ".join(notes)
+
 
 def scene_start(title: str, location: str, cast: list[str], place: str | None = None) -> dict:
     agents = roster()

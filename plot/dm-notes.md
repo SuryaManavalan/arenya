@@ -11,6 +11,12 @@ Pacing: 4–5 scenes, cut hard. Set pieces: the envoy (inhuman negotiation, bulk
 
 **Party state (Thu 9:26 p.m.):** Arenya spent (Ward of a Thousand Lights); she gets a long rest Thu night, so she's full by Friday. Her sheet is still blocked by YAML (director #1020). She carries the Lamp, Typhus's card and Elias's line. Kino: ruled forearm; keeper of the slack-water spirit, owed "the inch." Abernathy 20/24 AHP; the cuff's hook went *warm* at "chair." **Caleb:** tremor (day 4); Persuasion win; Con save each dawn (DC 12 + days). **Ollie Baptiste** is with the party in first-night withdrawal, **with a Crown still seated at his occipital ridge.** Malachi is "withdrawn," not collateral, for now. Ava: kelp **6/7**, log +3:00.
 
+### CURRENT (WT9, Sun 23:56 → Mon dawn): s01–s05 played (see dm-log). Remaining: s06 dawn fallout / chapter end.
+Signs queued, in order: Mon 03:00 Shepherd via Ollie ("Sit. Face the door. Choose who is there."); ~04:00 seam in Lantern bay (off-screen);
+05:00 Inés burner text (plate logged, needs shelter); 05:30 Typhus text (step 4, "Don't sign anything"); 05:45 Teddy; 06:00 Corinne.
+Pryce moves the signing to Mon noon. Chapter end at 06:00 deadline passing unsigned (or signed, then 6/6). Finished s01–s04 notes below are
+history; archive to dm-log next turn.
+
 ### s01 FRIDAY (movement, ~3 a.m. → evening). Deliver in one or two posts, with a quick beat each:
 - **~3:10 a.m., wherever Ollie sleeps:** Ollie sits up, eyes flat: *"Four. Report."* Then, at Caleb: *"You took one of mine. I don't want him back. I want the one who took my office away. Bring me Pryce's chair and I'll let go of the boy."* (Shepherd 4/4: it found them, and it's bargaining.) Caleb's scar burns. A Crown removal is a later mini-adventure (Nana? Ava's clinical hands plus Arenya's light?).
 - **6 a.m., Malachi:** gov creds dead. **~11 a.m., Corinne** in person: AFR/Monolith is the contractor; the agency sponsor is a redacted deputy billet in her own chain (agency step 4). "Don't go Monday. Copy the notebook. Keep the access agent off every page."

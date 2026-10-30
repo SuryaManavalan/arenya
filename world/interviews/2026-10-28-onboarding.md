@@ -138,3 +138,9 @@ The human likes the Counter and signature mechanic, and adds:
 - Introduce spirits through what people already understand (human spirits), then **steadily make them
   stranger and more interesting**. Book 1 is all about the **astral plane, where spirits live**, and
   it should **climax with massive, kaiju-like spirits**.
+
+## During play (b1.c20): Adonis and Shepherd (answer to #1425)
+- **Yes to Adonis as the previous M-Ops holder** (March to August 14). He found the "WHERE FROM?"
+  accounting, tore up his own appointment, and was killed for it. Typhus reads the log on the Sunday heist
+  (his step 4).
+- **Shepherd's true nature stays vague** for Book 1.

@@ -45,6 +45,15 @@ Carbon set, white over pink, folded in thirds:
 - Balance returned up the line to the issuer of the ink (Hale's office); runner carries it "on his lap" on the 9:12. [#0941]
 - Nana did not sweep the salt where the runner's toes stopped; she covered it. [#0950]
 
+## Possible link: "someone who can sign" (b1.c20.s03, Sat 7 Nov) [#1475, #1478]
+- Ollie, under the Crown, said "Sunday. Bring someone who can sign," and half-saw a beige car and a receipt read aloud. Arenya privately links "sign" to the alternate-signatory line (L. SOWRI ✓). Abernathy's cuff warmed at "sign," and he is holding back what he suspects. Unconfirmed.
+
+## Read aloud at the flat (b1.c20.s04, Sun 8 Nov, dusk)
+- Arenya reads the line whole at her Mission studio: "c/o Lucero, I." then dots, then "Alternate signatory. L. Sowri." and a tick. Box number **D2-04**, date **Oct 29**. [#1493]
+- Caleb repeats the name back to her face: "Alternate signatory. L. Sowri." Arenya: "It sounds like someone's already booked your pen." Nobody signs. [#1491]
+- Abernathy names Sowri as the light's house, and says his cuff warmed at "sign," but withholds his suspicion. [#1492]
+- Open: this copy is in Arenya's hands at the flat. The chain of custody from Nana's pestle (where it was left in s08) to the flat is not on the page. [#1486]
+
 ## Open questions
 - Who holds the book and the stub matching the torn corner? Who supplied Rohini in March?
 - What "closing" and "carried forward" really do.

@@ -279,3 +279,12 @@ places:
     kind: temple
     visibility: public
     sources: ["b1.c17.s07 #0808", "b1.c17.s07 #0809"]
+  pier-70:
+    name: Pier 70 (Dogpatch shipyard, SF)
+    aliases: [Building 12, Building 2]
+    lat: 37.7530
+    lon: -122.3860
+    kind: facility
+    note: "Building 12 side door, 23:40 Sun 8 Nov (door receipt); steel door opened 23:40, closed 23:42. Loading bay 3 (Mill truck D2-04). Unmapped dead rail spur past the tank farm, where Pruitt left lockbox L-3 on a bolted chair (Sun 8 Nov, ~23:50). Building 2 kiosk: Typhus's clean M-Ops log terminal, 22:30. Coordinates approximate; buildings not placed within the yard."
+    visibility: public
+    sources: ["b1.c20.s04 #1508", "b1.c20.s04 #1501"]

@@ -89,6 +89,8 @@ Order of authority: **human decree/answer > human-written chapters > table play 
 After every scene you're woken with an **extract** job.
 
 1. Read the scene's messages: table and whispers, plus anything in `backstage` or `human` in that range.
+   Check its details against the library as you read, starting with the location in the scene header
+   (whose home, which neighborhood, who lives where). Flag any mismatch to the DM in `backstage`.
 2. Create or update entries for every named person, place, faction, item, spell and custom that
    appears. Skip trivia, but a named innkeeper gets a two-line entry. Names recur.
 3. Update `timeline.md`, append to `canon-log.md`, and update `index.md`.

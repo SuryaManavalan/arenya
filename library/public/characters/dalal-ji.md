@@ -49,3 +49,6 @@ First met in person at [[san-bruno-satsang]], Sat 31 Oct. Presents as the second
 
 ## Status
 Sun 1 Nov ~8:49 a.m.: left Hillcrest with the runner toward the 9:12 bus, glasses restored. Whereabouts after unknown. His own words ("the other man's box") point to Hale as the box-holder, separate from himself; still provisional.
+
+## b1.c20.s05 (Sun 8 Nov, 9:51 p.m. to 11:14 p.m.)
+- Per Typhus's log: Dalal's badge touched the Bldg 12 door reader at Pier 70, the first time all week. [#1520] Arenya links this to the grey-suit page sale (see [[rodel-landline-message]]); unconfirmed.

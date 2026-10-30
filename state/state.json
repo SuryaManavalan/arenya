@@ -1,24 +1,23 @@
 {
  "phase": "play",
- "next_id": 1429,
+ "next_id": 1640,
  "book": 1,
  "chapter": 20,
- "scene_counter": 1,
+ "scene_counter": 7,
  "scene": {
-  "id": "b1.c20.s01",
-  "title": "Friday",
-  "location": "Nana Itzel's house, Daly City, and across the city (Fri Nov 6, 3:10 a.m. to evening)",
+  "id": "b1.c20.s07",
+  "title": "Dome Light Off",
+  "location": "Arenya's car, leaving Pier 70",
   "cast": [
    "arenya",
    "malachi",
-   "abernathy",
    "kino",
    "ava",
    "caleb"
   ],
-  "place": "daly-city-nana-house",
-  "start_id": 1426,
-  "spotlights_used": 1
+  "place": null,
+  "start_id": 1632,
+  "spotlights_used": 0
  },
  "scenes": [
   {
@@ -774,42 +773,155 @@
    "summary": "At the Crisp Avenue pump house in Hunters Point (Thu Nov 5, 9:12\u20139:26 p.m.; 12:12\u201312:26 on Ava's +3:00 ink), the party found the lattice live. A held note came through the roll-up seam, and the keyless brass lock was tagged \"MO / ROLE ACCESS \u2014 SEE M-OPS / Thu 21:41.\" Kino read the water (23). The twelfth piling is a hollow \"throat\" in the drydock sump. It drinks the tide and is tuned to every pitch but one, and that missing pitch is a true name spoken into it. The slack-water spirit was pressed against the shore by the throat's pull, and the offshore shape was listening for the swallow. Team Four arrived early in fleet SUV MO-0120. Caleb walked out along the fence, away from the door, and said Ollie Baptiste's own name. Ollie swallowed his call-sign, whispered \"Ollie,\" and stepped into the dark (Persuasion 16). The throat then slid toward Malachi, the pen on MO-0117's dash rolled to point at him, and the intermediary (green sea-glass ring) called on \"the collateral\" to sign. Arenya threw Ward of a Thousand Lights. The Crowned bearded flanker walked through it, steered by his Crown, while Kino's stillness hid him from the throat. Malachi argued that a withdrawal is not a default (natural 20). The intermediary called off her man and revealed that M is a role \"above, not beside\" Mill Operations: the blank sheet is an appointment, and whoever signs becomes M-Ops, the key to every box keyed to that role, L-3 included. The chair has been empty since summer, and they wanted it filled by someone who had already sold his \"no.\" She logged both men \"withdrawn,\" told them to get Ollie warm, and left. The throat settled unfed until another Thursday, the sixth kelp knot loosened one fiber and held, and Arenya told Typhus to stand down on the box and only watch. Ollie is safe in first-night withdrawal under Kino's hoodie. Abernathy says the cuff's \"hook\" went warm, not cold, at the word \"chair,\" and that it may have been cut to fit someone other than him.",
    "book": 1,
    "chapter": 19
-  }
- ],
- "expectations": [
-  {
-   "id": 1425,
-   "from": "dm",
-   "channel": "human",
-   "waiting_on": [
-    "human"
-   ],
-   "ts": "2026-10-29T05:48:18Z"
   },
   {
-   "id": 1427,
-   "from": "dm",
-   "channel": "table",
-   "waiting_on": [
+   "id": "b1.c20.s01",
+   "title": "Friday",
+   "location": "Nana Itzel's house, Daly City, and across the city (Fri Nov 6, 3:10 a.m. to evening)",
+   "place": "daly-city-nana-house",
+   "cast": [
+    "arenya",
     "malachi",
     "abernathy",
     "kino",
     "ava",
     "caleb"
    ],
-   "ts": "2026-10-29T05:49:16Z"
+   "start_id": 1426,
+   "end_id": 1445,
+   "summary": "Friday in movement. At 3:10 a.m. the thing in Ollie's Crown (Shepherd) asks for Pryce's chair and is refused by all five, leaving Ollie lucid but weak. Malachi's credentials die; Corinne shows him the AFR and deputy-billet overlap. Typhus texts Caleb that the box asked for M-Ops at 21:41. Arenya promises Teddy the Bayline paper by 8 p.m. with permit, lease, subcontractor and plate, and will admit the keycard in person. At 5:41 p.m. the Missing Man crosses the T Third platforms: sixty riders walk toward the bay, nine are pulled from India Basin, and Ava's oven light dies for 11 seconds. A doorway lights in the Lamp and walks along its seam. Abernathy says he recognizes its walk but won't guess. Malachi's lead D-series driver, plate 8ZK-41, mouths \"Chair\" through the glass, his eyes Crown-glass. At the creek mouth, the tide-woman defers Kino's inch and warns that something is coming up her river wanting a door. She wants the party at dawn with salt, the Gate-talker and Caleb, whom it has asked about. The kelp is at 6, and 7 comes by Saturday dawn.",
+   "book": 1,
+   "chapter": 20
+  },
+  {
+   "id": "b1.c20.s02",
+   "title": "The Envoy",
+   "location": "Creek mouth, Ocean Beach / Sutro, dawn Saturday",
+   "place": null,
+   "cast": [
+    "arenya",
+    "malachi",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 1446,
+   "end_id": 1464,
+   "summary": "At dawn Saturday the tide-woman's envoy offered terms: someone holds a door one breath on Sunday at 11:40 p.m. so the Missing Man's true name can be spoken into the drydock throat. In exchange it would give the box's route and the hour the Chair's keeper looks away. It named the cost: the holder's pulse drops, the lips go shell-colored, and they can't say their own name for about twelve hours. Kino refused for the Lady's house, and Arenya, Malachi, Abernathy and Ava pressed for terms, cost and the sender, whom the envoy named only as \"the one the creek runs to.\" The envoy pointed at Caleb, saying names answer him, and Caleb refused outright: no one holds a breath for him, and the pitch is his to say or no one's. The envoy bowed to him, wrote his no into the water, and dissolved. An eighth kelp strand rose beside the other seven, and a line appeared in Arenya's notebook in a hand she didn't write: \"He will be at the Chair's door first. Choose who is there.\" Human canon (#1458): Adonis held M-Ops from March to August 14, found the WHERE FROM? accounting, tore up his appointment and was killed for it. Typhus reads that log in Sunday's heist as step 4. Shepherd's nature stays vague in Book 1.",
+   "book": 1,
+   "chapter": 20
+  },
+  {
+   "id": "b1.c20.s03",
+   "title": "The Name in the Ear",
+   "location": "Ocean Beach, Sutro creek mouth, Saturday morning",
+   "place": null,
+   "cast": [
+    "arenya",
+    "malachi",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 1466,
+   "end_id": 1482,
+   "summary": "At the Sutro creek mouth, the party argued the envoy's offer without answering it. Caleb recited the terms word for word, surrendered his Vesper dropper to Ava (to be returned \"Sunday, or never\"), and refused to answer the water until he had slept. Malachi asked who benefits. The eighth kelp strand wrote in the sand that the name goes to the drydock mouth, not the Chair, and that the Chair's keeper looking away is the price asked of the Chair. The tide-woman said the pump house clock isn't hers and that it runs \"ahead\" of the tide. Ollie, under the Crown, said \"Sunday. Bring someone who can sign,\" then didn't remember saying it. He half-saw a beige car and a receipt being read aloud. Arenya privately linked \"sign\" to the receipt naming L. Sowri as alternate signatory. Abernathy's cuff warmed at \"sign\" and he is holding back what he suspects. A new word, \"listening,\" appeared beside \"sender\" in the notebook. Caleb's pulse came down from 118 to 104. Nothing was signed, and Sunday dusk is the deadline.",
+   "book": 1,
+   "chapter": 20
+  },
+  {
+   "id": "b1.c20.s04",
+   "title": "Sunday, Dusk",
+   "location": "Arenya's studio, the Mission \u2014 Sunday evening",
+   "place": "arenya-apartment",
+   "cast": [
+    "arenya",
+    "malachi",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 1483,
+   "end_id": 1509,
+   "summary": "Sunday dusk at the flat. Arenya read the receipt aloud (\"c/o Lucero, I. Alternate signatory. L. Sowri.\" with a tick); Abernathy named Sowri as the light's house and said his cuff warmed at \"sign\" but withheld his suspicion; nobody signs. Typhus will check the M-Ops log from a clean Building 2 kiosk at 22:30; his reply revealed the 18:12 request carried only a tag, T4, though Team Four was dissolved Friday. Kino took Ollie out the back. The Missing Man's doorway crossed the kerb and knocked Team Four's loading-door cadence (tap, pause, tap-tap), which Caleb recognized from Hale and Pruitt. Questioned by name, it slid a thermal receipt under the door: \"c/o Lucero, I. Door: Pier 70, Bldg 12, side. 23:40. He will not ask twice. Neither will the chair.\" Ollie, slack on the stairs, said \"Lucero. He's the one who reads it aloud.\" Nothing is signed or held; the party now has a place and an hour they haven't accepted.",
+   "book": 1,
+   "chapter": 20
+  },
+  {
+   "id": "b1.c20.s05",
+   "title": "Sunday, 10:50 p.m.",
+   "location": "Arenya's flat, then the street toward Pier 70",
+   "place": "arenya-apartment",
+   "cast": [
+    "arenya",
+    "malachi",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 1510,
+   "end_id": 1540,
+   "summary": "Sunday night. Malachi and Arenya drove to Pier 70 and watched Bldg 12 from the dark. Typhus reported the M-Ops signer line filled and cleared four times (last: four letters) and Dalal's badge touching the Bldg 12 reader. In\u00e9s Arriaga, the suspended intermediary, waited in the beige sedan (plate ending -41) holding a receipt \"c/o Arriaga, I.\" She refused to read its second line (a name for the water under the pier, meant to let someone pass the Chair's keeper for one count of sixty). The steel door opened at 23:40 on a lit nothing and closed unclaimed; the throat's gap in its note shut. Arenya (natural 20) tracked Mill truck D2-04 off the dispatch route onto an unmapped rail spur; Malachi (12) was made. At the dead end Pruitt opened the truck: a chair bolted to the floor facing the door, and lockbox L-3 on the seat, receipt \"HELD FOR M-OPS (VACANT) \u00b7 SIGN BY MON 06:00 \u00b7 c/o LUCERO, I.\" with a pen note \"Alternate accepted.\" Pruitt (paid by a voice, took orders from \"something that sounded like Four\") left the keys and walked into the dark. Six hours until the signing deadline; nobody has signed, spoken the name, or touched the box.",
+   "book": 1,
+   "chapter": 20
+  },
+  {
+   "id": "b1.c20.s06",
+   "title": "Monday, 12:05 a.m.",
+   "location": "Dead rail spur, Pier 70. Mill truck D2-04, rear door open.",
+   "place": null,
+   "cast": [
+    "arenya",
+    "malachi",
+    "abernathy",
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "start_id": 1541,
+   "end_id": 1630,
+   "summary": "Midnight at the dead spur, Pier 70. The party refused the radio's \"confirm seated\" aloud (Arenya, Malachi, Kino, Ava, Caleb); the Mill logged Ava Lindqvist and Caleb Strand as witnesses by name, and Arenya later put \"A. Sowri\" on the record as the named alternate (not signed). Typhus sent the M-Ops log: the oldest holder is ADONIS, appointment TORN 08/14, reason \"WHERE FROM?\". Dorsey's Crown-leashed crew and a stopwatch-wielding Mill clerk in a fourth truck came for L-3 while a lit doorway (the Missing Man's) pulled at it. Arenya's Ward of a Thousand Lights and Lamplight Lance (13 damage) cracked the pull and burned the clerk's hook pole. Malachi was shot by Dorsey (11 damage, left side) and his Glock jammed on a natural 1; Caleb dragged him behind the car and Ava stabilised him. Kino failed to stop the stopwatch count (11 vs 17), so the last bolt gave and L-3 and the chair went through the seam. Arenya photographed the open lid: a woven cloth strip with a knotted fringe (one knot too many) and a brass curve engraved \"A. B.\" Abernathy admits only that something in him turned at those letters, and promises the rest soon, in a car with the dome light off. The vacancy continues; the deadline (Mon 06:00) has changed shape rather than gone away. Dorsey's men are slack and shaking on the gravel.",
+   "book": 1,
+   "chapter": 20
+  }
+ ],
+ "expectations": [
+  {
+   "id": 1634,
+   "from": "dm",
+   "channel": "table",
+   "waiting_on": [
+    "kino",
+    "ava",
+    "caleb"
+   ],
+   "ts": "2026-10-30T18:54:56Z"
+  },
+  {
+   "id": 1636,
+   "from": "arenya",
+   "channel": "table",
+   "waiting_on": [
+    "ava",
+    "caleb"
+   ],
+   "ts": "2026-10-30T18:55:08Z"
   }
  ],
  "cursors": {
   "lorekeeper": 1253,
-  "dm": 1425,
-  "arenya": 1427,
-  "abernathy": 1428,
-  "author": 596,
-  "caleb": 1428,
-  "kino": 1428,
-  "ava": 1428,
-  "malachi": 1428,
+  "dm": 1630,
+  "arenya": 1634,
+  "abernathy": 1637,
+  "author": 1610,
+  "caleb": 1628,
+  "kino": 1624,
+  "ava": 1639,
+  "malachi": 1636,
   "director": 1020
  },
  "sessions": {
@@ -818,36 +930,36 @@
    "session_id": "6ac94fdb-7034-4e90-a0a3-1e01dc4993a0"
   },
   "arenya": {
-   "key": "b1.c19.s06",
-   "session_id": "d4c4ddb8-d333-45c3-b99c-13516ed8ecad"
+   "key": "b1.c20.s07",
+   "session_id": "fc14559c-d792-43fa-ad38-4d06dd87e4cc"
   },
   "dm": {
-   "key": "b1.c20.between",
-   "session_id": "6bd0ddb0-ebb5-4a9a-859f-b5c2002bb2ac"
+   "key": "b1.c20.s06",
+   "session_id": "dec9339c-8686-4443-9e67-0556d5821302"
   },
   "abernathy": {
-   "key": "b1.c19.s06",
-   "session_id": "a30782b7-483c-42d8-a1f0-0c963a64ba23"
+   "key": "b1.c20.s07",
+   "session_id": "4ab63308-5785-4670-b8e6-070a354ef9eb"
   },
   "caleb": {
-   "key": "b1.c19.s06",
-   "session_id": "ac25ec11-d209-459f-8063-de8ca91e6999"
+   "key": "b1.c20.s06",
+   "session_id": "e7c7482b-174f-4aa4-ad6c-1021d23e94b9"
   },
   "kino": {
-   "key": "b1.c19.s06",
-   "session_id": "71423699-2505-4037-ab62-660785a36c4a"
+   "key": "b1.c20.s06",
+   "session_id": "e0ecae43-8dde-4d67-8f11-8ee362a50dc2"
   },
   "ava": {
-   "key": "b1.c19.s06",
-   "session_id": "8ee9b095-1685-44f1-a3d0-814f2152e954"
+   "key": "b1.c20.s06",
+   "session_id": "16848003-62b4-46d8-9dbe-85c8a47eb13c"
   },
   "malachi": {
-   "key": "b1.c19.s06",
-   "session_id": "bfa395f6-d065-40a3-a77f-cfbec15fefe9"
+   "key": "b1.c20.s07",
+   "session_id": "7dd54bd8-2bb8-4417-be8a-acb9dea16637"
   },
   "author": {
-   "key": "b1.c17.between",
-   "session_id": "275a71ff-2fa8-4925-a035-d691af82175d"
+   "key": "b1.c20.s06",
+   "session_id": "32f7a255-14b3-4436-9cf9-1afef812b9d8"
   },
   "director": {
    "key": "b1.c18.s02",
@@ -873,7 +985,7 @@
   },
   "arenya": {
    "period": "b1.c20",
-   "left": 3
+   "left": 2
   },
   "malachi": {
    "period": "b1.c20",
@@ -881,7 +993,7 @@
   },
   "abernathy": {
    "period": "b1.c20",
-   "left": 3
+   "left": 2
   },
   "kino": {
    "period": "b1.c20",
@@ -907,15 +1019,15 @@
  "spotlight": [],
  "queue": [
   {
-   "seq": 1435,
-   "agent": "dm",
-   "job": "reflect",
+   "seq": 1649,
+   "agent": "author",
+   "job": "draft",
    "args": {
     "scene": {
-     "id": "b1.c19.s06",
-     "title": "The Pump House",
-     "location": "Old drydock pump house off Crisp Ave, Hunters Point \u2014 Thu Nov 5, 9:12 p.m.",
-     "place": "drydock-pump-house-crisp",
+     "id": "b1.c20.s06",
+     "title": "Monday, 12:05 a.m.",
+     "location": "Dead rail spur, Pier 70. Mill truck D2-04, rear door open.",
+     "place": null,
      "cast": [
       "arenya",
       "malachi",
@@ -924,136 +1036,178 @@
       "ava",
       "caleb"
      ],
-     "start_id": 1370,
-     "end_id": 1423,
-     "summary": "At the Crisp Avenue pump house in Hunters Point (Thu Nov 5, 9:12\u20139:26 p.m.; 12:12\u201312:26 on Ava's +3:00 ink), the party found the lattice live. A held note came through the roll-up seam, and the keyless brass lock was tagged \"MO / ROLE ACCESS \u2014 SEE M-OPS / Thu 21:41.\" Kino read the water (23). The twelfth piling is a hollow \"throat\" in the drydock sump. It drinks the tide and is tuned to every pitch but one, and that missing pitch is a true name spoken into it. The slack-water spirit was pressed against the shore by the throat's pull, and the offshore shape was listening for the swallow. Team Four arrived early in fleet SUV MO-0120. Caleb walked out along the fence, away from the door, and said Ollie Baptiste's own name. Ollie swallowed his call-sign, whispered \"Ollie,\" and stepped into the dark (Persuasion 16). The throat then slid toward Malachi, the pen on MO-0117's dash rolled to point at him, and the intermediary (green sea-glass ring) called on \"the collateral\" to sign. Arenya threw Ward of a Thousand Lights. The Crowned bearded flanker walked through it, steered by his Crown, while Kino's stillness hid him from the throat. Malachi argued that a withdrawal is not a default (natural 20). The intermediary called off her man and revealed that M is a role \"above, not beside\" Mill Operations: the blank sheet is an appointment, and whoever signs becomes M-Ops, the key to every box keyed to that role, L-3 included. The chair has been empty since summer, and they wanted it filled by someone who had already sold his \"no.\" She logged both men \"withdrawn,\" told them to get Ollie warm, and left. The throat settled unfed until another Thursday, the sixth kelp knot loosened one fiber and held, and Arenya told Typhus to stand down on the box and only watch. Ollie is safe in first-night withdrawal under Kino's hoodie. Abernathy says the cuff's \"hook\" went warm, not cold, at the word \"chair,\" and that it may have been cut to fit someone other than him.",
+     "start_id": 1541,
+     "end_id": 1630,
+     "summary": "Midnight at the dead spur, Pier 70. The party refused the radio's \"confirm seated\" aloud (Arenya, Malachi, Kino, Ava, Caleb); the Mill logged Ava Lindqvist and Caleb Strand as witnesses by name, and Arenya later put \"A. Sowri\" on the record as the named alternate (not signed). Typhus sent the M-Ops log: the oldest holder is ADONIS, appointment TORN 08/14, reason \"WHERE FROM?\". Dorsey's Crown-leashed crew and a stopwatch-wielding Mill clerk in a fourth truck came for L-3 while a lit doorway (the Missing Man's) pulled at it. Arenya's Ward of a Thousand Lights and Lamplight Lance (13 damage) cracked the pull and burned the clerk's hook pole. Malachi was shot by Dorsey (11 damage, left side) and his Glock jammed on a natural 1; Caleb dragged him behind the car and Ava stabilised him. Kino failed to stop the stopwatch count (11 vs 17), so the last bolt gave and L-3 and the chair went through the seam. Arenya photographed the open lid: a woven cloth strip with a knotted fringe (one knot too many) and a brass curve engraved \"A. B.\" Abernathy admits only that something in him turned at those letters, and promises the rest soon, in a car with the dome light off. The vacancy continues; the deadline (Mon 06:00) has changed shape rather than gone away. Dorsey's men are slack and shaking on the gravel.",
      "book": 1,
-     "chapter": 19
+     "chapter": 20
     }
    },
-   "priority": 5,
+   "priority": 9,
    "attempt": 0,
-   "ts": "2026-10-29T05:44:59Z"
+   "ts": "2026-10-30T18:54:04Z"
   },
   {
-   "seq": 1443,
-   "agent": "dm",
-   "job": "task",
+   "seq": 1651,
+   "agent": "lorekeeper",
+   "job": "extract",
    "args": {
-    "title": "world turn: advance the fronts",
-    "instructions": "Follow rules/dm.md \u00a7 Fronts and the world turn. Read plot/fronts.md, decide what each front did off-screen since its last advance, update fronts.md (step, what, where, when), plan the visible signs, and tidy plot/dm-notes.md (finished scene logs go to plot/dm-log.md). Don't post at the table."
+    "scene": {
+     "id": "b1.c20.s06",
+     "title": "Monday, 12:05 a.m.",
+     "location": "Dead rail spur, Pier 70. Mill truck D2-04, rear door open.",
+     "place": null,
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 1541,
+     "end_id": 1630,
+     "summary": "Midnight at the dead spur, Pier 70. The party refused the radio's \"confirm seated\" aloud (Arenya, Malachi, Kino, Ava, Caleb); the Mill logged Ava Lindqvist and Caleb Strand as witnesses by name, and Arenya later put \"A. Sowri\" on the record as the named alternate (not signed). Typhus sent the M-Ops log: the oldest holder is ADONIS, appointment TORN 08/14, reason \"WHERE FROM?\". Dorsey's Crown-leashed crew and a stopwatch-wielding Mill clerk in a fourth truck came for L-3 while a lit doorway (the Missing Man's) pulled at it. Arenya's Ward of a Thousand Lights and Lamplight Lance (13 damage) cracked the pull and burned the clerk's hook pole. Malachi was shot by Dorsey (11 damage, left side) and his Glock jammed on a natural 1; Caleb dragged him behind the car and Ava stabilised him. Kino failed to stop the stopwatch count (11 vs 17), so the last bolt gave and L-3 and the chair went through the seam. Arenya photographed the open lid: a woven cloth strip with a knotted fringe (one knot too many) and a brass curve engraved \"A. B.\" Abernathy admits only that something in him turned at those letters, and promises the rest soon, in a car with the dome light off. The vacancy continues; the deadline (Mon 06:00) has changed shape rather than gone away. Dorsey's men are slack and shaking on the gravel.",
+     "book": 1,
+     "chapter": 20
+    }
    },
-   "priority": 2,
+   "priority": 8,
    "attempt": 0,
-   "ts": "2026-10-29T05:45:06Z"
+   "ts": "2026-10-30T18:54:04Z"
   },
   {
-   "seq": 1445,
-   "agent": "arenya",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
+   "seq": 1657,
+   "agent": "ava",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c20.s06",
+     "title": "Monday, 12:05 a.m.",
+     "location": "Dead rail spur, Pier 70. Mill truck D2-04, rear door open.",
+     "place": null,
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 1541,
+     "end_id": 1630,
+     "summary": "Midnight at the dead spur, Pier 70. The party refused the radio's \"confirm seated\" aloud (Arenya, Malachi, Kino, Ava, Caleb); the Mill logged Ava Lindqvist and Caleb Strand as witnesses by name, and Arenya later put \"A. Sowri\" on the record as the named alternate (not signed). Typhus sent the M-Ops log: the oldest holder is ADONIS, appointment TORN 08/14, reason \"WHERE FROM?\". Dorsey's Crown-leashed crew and a stopwatch-wielding Mill clerk in a fourth truck came for L-3 while a lit doorway (the Missing Man's) pulled at it. Arenya's Ward of a Thousand Lights and Lamplight Lance (13 damage) cracked the pull and burned the clerk's hook pole. Malachi was shot by Dorsey (11 damage, left side) and his Glock jammed on a natural 1; Caleb dragged him behind the car and Ava stabilised him. Kino failed to stop the stopwatch count (11 vs 17), so the last bolt gave and L-3 and the chair went through the seam. Arenya photographed the open lid: a woven cloth strip with a knotted fringe (one knot too many) and a brass curve engraved \"A. B.\" Abernathy admits only that something in him turned at those letters, and promises the rest soon, in a car with the dome light off. The vacancy continues; the deadline (Mon 06:00) has changed shape rather than gone away. Dorsey's men are slack and shaking on the gravel.",
+     "book": 1,
+     "chapter": 20
+    }
+   },
+   "priority": 6,
    "attempt": 0,
-   "ts": "2026-10-29T05:49:16Z"
+   "ts": "2026-10-30T18:54:04Z"
   },
   {
-   "seq": 1446,
-   "agent": "malachi",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
-   "attempt": 0,
-   "ts": "2026-10-29T05:49:16Z"
-  },
-  {
-   "seq": 1447,
-   "agent": "abernathy",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
-   "attempt": 0,
-   "ts": "2026-10-29T05:49:16Z"
-  },
-  {
-   "seq": 1448,
+   "seq": 1663,
    "agent": "kino",
    "job": "turn",
    "args": {},
    "priority": 1,
    "attempt": 0,
-   "ts": "2026-10-29T05:49:16Z"
+   "ts": "2026-10-30T18:54:56Z"
   },
   {
-   "seq": 1449,
-   "agent": "ava",
-   "job": "turn",
-   "args": {},
-   "priority": 1,
-   "attempt": 0,
-   "ts": "2026-10-29T05:49:16Z"
-  },
-  {
-   "seq": 1450,
+   "seq": 1665,
    "agent": "caleb",
    "job": "turn",
    "args": {},
    "priority": 1,
    "attempt": 0,
-   "ts": "2026-10-29T05:49:16Z"
+   "ts": "2026-10-30T18:54:56Z"
   },
   {
-   "seq": 1442,
-   "agent": "author",
-   "job": "revise",
-   "args": {
-    "book": 1,
-    "chapter": 19,
-    "summary": "Chapter 19 (Wed Nov 4 \u2013 Thu Nov 5). Typhus reached step 3 and gave Arenya the cuff's location, lockbox L-3 under the Lantern rack console, which only the role \"M-Ops\" can open. Hale vouched at Colma, and the Counter's bus left provisionally. At Second Piling the clerk named Malachi \"collateral,\" Kino bargained the slack-water spirit into Nana's house, and the kelp letter reached five knots. Malachi went dark on his agency's recall, Caleb fought withdrawal with the bottle left in plain sight, and the party agreed on \"say my name\" as their check. At the Crisp pump house Caleb pulled Ollie Baptiste out of Team Four by his own name, away from the drydock throat that eats true names. Malachi argued the instrument down with a natural 20 and learned that the blank signature is an appointment: whoever signs becomes M-Ops, the role that holds the key to L-3. The throat sleeps until another Thursday, Ollie is safe, and the chair is still empty. Typhus is watching the box.",
-    "final_in_book": false
-   },
-   "priority": 9,
+   "seq": 1666,
+   "agent": "arenya",
+   "job": "turn",
+   "args": {},
+   "priority": 1,
    "attempt": 0,
-   "ts": "2026-10-29T05:45:06Z"
+   "ts": "2026-10-30T18:55:27Z"
   }
  ],
- "running": [],
- "job_seq": 1450,
- "human_waiting": [
-  1425
+ "running": [
+  {
+   "seq": 1664,
+   "agent": "ava",
+   "job": "turn",
+   "args": {},
+   "priority": 1,
+   "attempt": 0,
+   "ts": "2026-10-30T18:54:56Z"
+  },
+  {
+   "seq": 1658,
+   "agent": "caleb",
+   "job": "reflect",
+   "args": {
+    "scene": {
+     "id": "b1.c20.s06",
+     "title": "Monday, 12:05 a.m.",
+     "location": "Dead rail spur, Pier 70. Mill truck D2-04, rear door open.",
+     "place": null,
+     "cast": [
+      "arenya",
+      "malachi",
+      "abernathy",
+      "kino",
+      "ava",
+      "caleb"
+     ],
+     "start_id": 1541,
+     "end_id": 1630,
+     "summary": "Midnight at the dead spur, Pier 70. The party refused the radio's \"confirm seated\" aloud (Arenya, Malachi, Kino, Ava, Caleb); the Mill logged Ava Lindqvist and Caleb Strand as witnesses by name, and Arenya later put \"A. Sowri\" on the record as the named alternate (not signed). Typhus sent the M-Ops log: the oldest holder is ADONIS, appointment TORN 08/14, reason \"WHERE FROM?\". Dorsey's Crown-leashed crew and a stopwatch-wielding Mill clerk in a fourth truck came for L-3 while a lit doorway (the Missing Man's) pulled at it. Arenya's Ward of a Thousand Lights and Lamplight Lance (13 damage) cracked the pull and burned the clerk's hook pole. Malachi was shot by Dorsey (11 damage, left side) and his Glock jammed on a natural 1; Caleb dragged him behind the car and Ava stabilised him. Kino failed to stop the stopwatch count (11 vs 17), so the last bolt gave and L-3 and the chair went through the seam. Arenya photographed the open lid: a woven cloth strip with a knotted fringe (one knot too many) and a brass curve engraved \"A. B.\" Abernathy admits only that something in him turned at those letters, and promises the rest soon, in a car with the dome light off. The vacancy continues; the deadline (Mon 06:00) has changed shape rather than gone away. Dorsey's men are slack and shaking on the gravel.",
+     "book": 1,
+     "chapter": 20
+    }
+   },
+   "priority": 6,
+   "attempt": 0,
+   "ts": "2026-10-30T18:54:04Z"
+  }
  ],
+ "job_seq": 1667,
+ "human_waiting": [],
  "idle_wakes": 0,
- "paused": true,
- "pause_reason": "stopped by human",
+ "paused": false,
+ "pause_reason": null,
  "locations": {
   "caleb": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's house, Daly City, and across the city (Fri Nov 6, 3:10 a.m. to evening)",
-   "scene": "b1.c20.s01"
+   "place": null,
+   "location": "Arenya's car, leaving Pier 70",
+   "scene": "b1.c20.s07"
   },
   "kino": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's house, Daly City, and across the city (Fri Nov 6, 3:10 a.m. to evening)",
-   "scene": "b1.c20.s01"
+   "place": null,
+   "location": "Arenya's car, leaving Pier 70",
+   "scene": "b1.c20.s07"
   },
   "ava": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's house, Daly City, and across the city (Fri Nov 6, 3:10 a.m. to evening)",
-   "scene": "b1.c20.s01"
+   "place": null,
+   "location": "Arenya's car, leaving Pier 70",
+   "scene": "b1.c20.s07"
   },
   "arenya": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's house, Daly City, and across the city (Fri Nov 6, 3:10 a.m. to evening)",
-   "scene": "b1.c20.s01"
+   "place": null,
+   "location": "Arenya's car, leaving Pier 70",
+   "scene": "b1.c20.s07"
   },
   "abernathy": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's house, Daly City, and across the city (Fri Nov 6, 3:10 a.m. to evening)",
-   "scene": "b1.c20.s01"
+   "place": null,
+   "location": "Dead rail spur, Pier 70. Mill truck D2-04, rear door open.",
+   "scene": "b1.c20.s06"
   },
   "malachi": {
-   "place": "daly-city-nana-house",
-   "location": "Nana Itzel's house, Daly City, and across the city (Fri Nov 6, 3:10 a.m. to evening)",
-   "scene": "b1.c20.s01"
+   "place": null,
+   "location": "Arenya's car, leaving Pier 70",
+   "scene": "b1.c20.s07"
   }
  },
  "resume_at": null

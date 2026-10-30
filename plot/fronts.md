@@ -47,6 +47,61 @@ live tether), **Rifts 4→5** (dread breaks open Friday rush hour), **Malachi's 
 Corinne), **Kaiju 6→7 scheduled** (the envoy calls). Typhus holds at 3 and slides hard: he watched the box, and the box tried to
 open itself at 21:41. Media holds at 3 (Pryce's Friday briefing names Arenya off-record)._
 
+_**World turn 8** (c20.s03; covers **Sat Nov 7 noon → Mon Nov 9 dawn**, the heist weekend). Advanced: **Kaiju 7→8** (kelp 8, the
+envoy's terms refused), **Lattice 5/6 holds** (L-3 move prepped; Dalal's chair-hunt narrows), **Rifts 5, Missing Man tracked toward
+the Mill**, **Typhus 3→4 primed** (reads the M-Ops role log Sun), **Malachi 4, recall Mon 0900 looming**, **Media 3** (Arenya's Friday
+piece runs after 5:41; "seep" line collapses). All `[dm-proposed]`._
+
+### World turn 8 detail
+- **Kaiju 7→8.** The envoy dissolved unpaid; kelp 8 rose. The shape does not punish a refusal, it *notes* it. Sun dusk: the tide-woman's
+  river-thing reaches the Mill outfall and waits there "wanting a door." Sunday 11:40 p.m. is also a low-ish slack, so the Missing
+  Man's name-pitch is the envoy's offer made by other hands: if nobody holds the door, the shape tries to open its own (a cold,
+  wet seam in the Lantern bay's drain floor). Sign: foghorns on the eleven-second breath all Sunday.
+- **Lattice 5/6.** Pryce, with Dalal's help, finds a candidate signer for the M-Ops instrument: a dying man in a county hospice who
+  will sign for his family's debt (a "no" already sold). Signing set for Tue Nov 10. Moving L-3 Sun 11:40 p.m. (D2-04; Dorsey,
+  Pruitt riding; the salt-pen woman signs the manifest, **Inés** being suspended). Shepherd, via Ollie, keeps asking for the chair
+  and now offers Pryce's route in trade, to see who bites. If the party takes the box or the log, Pryce moves the signing up to Mon.
+  Visible sign: Sat night Ollie's Crown hums a work-order number (D2-04, 23:40); Arenya's contact Elias texts "be careful who sees you."
+- **Rifts 5.** Missing Man recurs Sat dusk on the 23 and T lines, each time nearer the Mill (Fri Evans→Palou; Sat Cesar Chavez; Sun
+  dusk Hudson/Innes). Sunday night it stands at the Mill's fence. Dread DC 13 as in WT7. Ava's oven light dark again 11 s Sat 5:41.
+- **Typhus 3→4.** Mon through Sat he has Hollis log every M-Ops access attempt. Sun 11:40 p.m. is his stage: if the party
+  gets the console to show the holder, the log gives **Adonis, signed March 3, rescinded Aug 14 (torn up)** and Pryce's countersign
+  for the Mill's feed dated Aug 15 (the day after the rescission, the day Adonis died). That is step 4. Sat 7 p.m. he calls
+  Arenya (see WT7 sign). If the heist fails he still sees the work order handled by Pryce's people: step 4 slides to Mon.
+- **Malachi 4.** Sat/Sun he is a man without a badge. Corinne's printout stands. Mon 0900 recall is the step-5 clock; Sun night he
+  decides whether to be at the Chair's door (ties to the notebook line).
+- **Media 3.** Fri night the piece runs with the Missing Man clip; by Sat noon "seep events" is a meme. Teddy: "Pryce called
+  me twice. Bayline paper by 8 p.m. Fri was your deal; I'm still holding the page."
+
+### World turn 9 (after c20.s05; covers **Sun Nov 8 23:56 → Mon Nov 9 dawn**) `[dm-proposed]`
+Nobody signed, spoke a name, or touched L-3. The truck sits on a dead spur, keys on the bumper. Everything below is what the world does
+into that vacuum.
+- **Typhus 3→4 (advanced; lands at ~00:30 by the log, not the box).** The M-Ops signer line filled and cleared four more times, last fill
+  four letters. At 23:40 Dalal's badge touched Bldg 12's reader as the door opened on nothing. Hollis Wen pulls the instrument's
+  *event* history (not names) and Typhus finally gets the dates: signed Mar 3, **rescinded Aug 14 by the holder**, Pryce's countersign
+  on the Mill feed **Aug 15**, Adonis dead the same day. With Adonis's notebook ("WHERE FROM?", mid-Aug fear) he has it: **Pryce
+  cut the feed the day after Adonis tore up his seat, and Adonis died.** He is furious, then very cold. He does not call anyone.
+  He tells Hollis to keep the line open. **Sign (Mon ~05:30):** a single text to Arenya: *"I know what he was holding. I know who needed
+  it empty. Don't sign anything. — T."* Step 5 (embrace) is NOT yet: he needs one more push (the signing, Pryce's face).
+- **Lattice 5/6 holds; clock hot.** Pryce learns the truck never arrived at Drop Two (00:20). Dorsey on the spur finds the keys and the
+  chair. Pryce moves the dying-man signing **up from Tue to Mon ~noon** (hospice, notary, Dalal brokering). If the party leaves the box
+  unsigned and unguarded he takes it; if the party signs, 6/6. Inés is the weak point: her sedan plate (-41) is logged by Dorsey's
+  dashcam. **Sign:** Mon ~05:00, Inés texts Arenya's work number from a burner: *"They have my plate. I need somewhere that isn't
+  my house. —I."*
+- **Shepherd (4/4, bargaining).** Ollie's Crown listens through the night; at ~03:00 it says, through Ollie, only: *"Sit. Face the door.
+  Choose who is there."* (an echo of the notebook line; it knows the chair is empty and wants it).
+- **Rifts 5, creeping to 6 at the Mill.** The Missing Man's door stayed open on lit nothing 2 minutes, then shut. Because no name went into
+  the throat, the shape's "own door" tries: **Mon ~04:00, a cold wet seam in the Lantern bay's drain floor** (Hollis finds it at the 06:00
+  shift: brine, kelp, a palm print). Foghorns on the eleven-second breath until dawn.
+- **Kaiju 8 holds.** The seam is the shape's courtesy ending: it asked once with manners. Kelp 8 is in play; no tick 9 unless someone fills
+  the chair, feeds the throat, or invites the envoy (any of which makes it a participant).
+- **Malachi's agency 4→5 pending.** Made on the tail (Stealth 12). His handler's liaison logs a plate at Pier 70. **Mon 0900** is the choice
+  point; if he doesn't go, AWOL at noon. **Sign:** Corinne's burner at 06:00: *"They know about the pier. Don't go. Or go and wear a
+  different coat."*
+- **Media 3 holds.** Missing Man clip trending; Teddy's Bayline paper still held. **Sign:** Teddy 05:45: *"Pryce called. He knows where
+  you were last night. Come in or send me a name."*
+- **Clocks:** Lattice 5/6 · Shepherd 4/4 · Rifts 5 (seam) · Kaiju 8 · Typhus 4 · Agency 4→5 at 0900 · Media 3.
+
 ---
 
 ## 1. Typhus Quinn and Monolith: "accelerate humanity"

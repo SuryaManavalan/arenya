@@ -19,3 +19,5 @@ About fifty, reading glasses on a cord, rain shell; Malachi's contact/handler at
 - Deadline: product (yard, lease, faces) by Tue Nov 10 (same day as Livermore) or she pulls him. New contact: pencilled napkin number; stop using the 703 line. [#1179]
 - b1.c19.s03: Hale says the sold name became an asset in a Bayline lease; see [[malachi-name-lease]].
 - Told Caleb: "A wall is for keeping track of people who might come back. Don't." [#1179]
+- **b1.c20.s01 (Fri 6 Nov, 10:50 a.m., Daly City Denny's):** coat still on; slides Malachi a printout of an Advanced Facilities Research task order. Contractor is Monolith; the sponsoring billet is a deputy slot two rungs above her, blacked out in her own chain. Her line: "Don't go in Monday. Copy the notebook tonight. Keep the access agent off every page you hand anyone." (Malachi's AFR badge and login die that morning.) [#1427, #1437]
+- Malachi's text to her, 5:41 p.m.: the lead unit at the Bayline gate; no name on it. [#1439]

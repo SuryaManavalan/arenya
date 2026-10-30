@@ -559,3 +559,38 @@ New canon from b1.c19.s06 (dm-invented), for the Lore Keeper:
 4. **Ollie Baptiste** has been pulled. He said his own name, and is now in first-night withdrawal with Caleb and Ava. The intermediary logged both "withdrawn."
 5. Crowned flankers move without sight. The Crown steers them, which is why the bearded man made his Ward save.
 
+### #1513 · human → dm,author,lorekeeper · decree
+<!-- {"id": 1513, "ts": "2026-10-30T18:38:04Z", "from": "human", "channel": "backstage", "type": "decree", "to": ["dm", "author", "lorekeeper"], "scene": "b1.c20.s05", "chapter": "b1.c20"} -->
+
+Correction from the human (binding): Arenya's flat is her studio in the Mission, as in Chapter 1. The 'Sunset District' in the b1.c20.s04 header was a slip, and nothing in the story moved her. DM: treat s04 and this scene as the Mission, and don't reference the Sunset for her home. Author: write s04 in the Mission. Lore Keeper: no canon change, she has always lived there; the scene record is corrected.
+
+### #1560 · human → dm · decree
+<!-- {"id": 1560, "ts": "2026-10-30T18:46:15Z", "from": "human", "channel": "backstage", "type": "decree", "to": ["dm"], "scene": "b1.c20.s06", "chapter": "b1.c20"} -->
+
+Direction from the human: the L-3 situation at Pier 70 is sliding back into paperwork and caution. Break it into action soon. Something comes for the box tonight (Dorsey's crew, the Missing Man or the Lattice), so the party has to fight or run with it, and the signing question gets answered under pressure. Use real mechanics and let the dice decide. Keep the human-canon beat: Typhus still reads the M-Ops log and learns about Adonis.
+
+### #1561 · lorekeeper → all · note
+<!-- {"id": 1561, "ts": "2026-10-30T18:46:19Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "scene": "b1.c20.s06", "chapter": "b1.c20"} -->
+
+Contradiction from b1.c20.s03 (#1480): Caleb hands Ava a capped Vesper dropper from his left pocket. The c17.s05 record has both Vesper packs laid under Kino's comal, and c17.s03 has them left on the motel nightstand. Is this a new dose, or was one pack kept back? I've recorded it as unresolved in caleb-strand.md. The envoy's deadline is now "Sunday dusk" (answer) with the box moving Sun 11:40 p.m.; both are logged in the tide-envoy entry.
+
+### #1566 · human → dm,author · decree
+<!-- {"id": 1566, "ts": "2026-10-30T18:47:11Z", "from": "human", "channel": "backstage", "type": "decree", "to": ["dm", "author"], "scene": "b1.c20.s06", "chapter": "b1.c20"} -->
+
+Direction from the human, on two Abernathy problems. (1) Perception rule, binding from now on: in the physical world only Arenya perceives him. He speaks only on bond, others hear him only when she relays it aloud, and they speak to him through her. He posts at the table only in the bulk. (2) Missing reveal: Arenya never told anyone about him on the page. Kino and Nana are already acting on his words by b1.c16.s05 (#374), and Ava by b1.c18.s05 (#1214). DM: once the Pier 70 crisis lets up, run a short flashback scene (title starts 'Flashback:') where she tells them, with Ava's reaction at the centre: she fears inheriting her mother's psychosis, and now her friend hears a voice nobody else can. Keep what they already did consistent, and reveal nothing about his past. Author: treat that flashback as source material for its real place in the timeline, and work it into the existing book chapters, before Kino first repeats him and before Ava's line at the stake raid, not into the current arc's chapters. Also write Abernathy's physical-world lines as heard only by Arenya.
+
+### #1576 · lorekeeper → all · note
+<!-- {"id": 1576, "ts": "2026-10-30T18:47:49Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "scene": "b1.c20.s06", "chapter": "b1.c20"} -->
+
+Extract b1.c20.s04 is in the library. One question needs your call: the receipt reads "c/o Lucero, I.", and the custody receipt (s08) has the same care-of name, which is Nana's surname with her initial. The canister sits on her shelf. But Ollie's line on the stairs (#1509) is "Lucero. He's the one who reads it aloud," and the Crown uses "he." Is "I. Lucero" Nana (Itzel), or a different Lucero? I've recorded both readings as open in door-receipt-pier-70. Also: I recorded the flat as the Mission, per your correction; the "Sunset District" header in #1483 stays a transcript slip.
+
+### #1589 · lorekeeper → all · note
+<!-- {"id": 1589, "ts": "2026-10-30T18:49:07Z", "from": "lorekeeper", "channel": "backstage", "type": "note", "scene": "b1.c20.s06", "chapter": "b1.c20"} -->
+
+Lore Keeper, b1.c20.s05 extract: library updated (new: ines-arriaga, pruitt, mill-truck-d2-04, lockbox-l-3; updated: pier-70, m-ops-appointment, the-throat, intake-exception-0001, dalal-ji, places.yaml). One question for the DM: intake-exception-0001 logs L-3's contents as a 14×6 cm woven textile, but Abernathy's lost cuff is brass and we have been treating L-3 as the cuff. I've left both on record as open, not resolved. Also, "c/o Arriaga, I." and "c/o Lucero, I." share a format; I've left open whether "I." means the same person.
+
+### #1633 · human → dm · decree
+<!-- {"id": 1633, "ts": "2026-10-30T18:54:53Z", "from": "human", "channel": "backstage", "type": "decree", "to": ["dm"], "scene": "b1.c20.s07", "chapter": "b1.c20"} -->
+
+Reminder of the human's standing instruction (#0207): Abernathy's past stays sealed until the Time Masters come into play in later books. He promised Arenya 'the rest' in this car. He can tell her what he feels and what he doesn't know, but he has no answers to give: no origin, no Time Master hints, and nothing that explains 'A. B.' or 'Porter'. Keep it honest and unresolved.
+

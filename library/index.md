@@ -29,10 +29,13 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[dalal-ji]] — Fremont "pandit" in black socks; "I keep names"; endorsee of check 2207; s07 kitchen (public, provisional)
 - [[voss-lattice-runner]] — Crissy Field jogger with a Crown; Hale's "we're burned" (public, provisional)
 - [[ollie-baptiste]] — 22, six weeks on Vesper, told "focus"; apron Thursday (public, provisional)
+- [[ines-arriaga]] — suspended intermediary; "c/o Arriaga, I."; refused the second line, Pier 70 s05 (public, provisional)
+- [[pruitt]] — Team Four's big bearded driver; Crown leash; left keys on bumper, walked into the bay, s05 (public, provisional)
 - minor-characters — Teddy, Marla, Galina, Fatima, etc. (public)
 - abernathy-true-nature — ex-Time Master (restricted)
 - malachi-true-role — CIA; Book 6 secret (restricted)
 - typhus-arc — motives and arc (restricted)
+- adonis-quinn-m-ops — Adonis held M-Ops Mar–Aug 14; WHERE FROM? log; Typhus's step 4 (restricted)
 - void-and-angels — Books 2–6 spoilers (restricted)
 
 ## Places
@@ -52,6 +55,7 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[crissy-field-warming-hut]] — Typhus's dawn-run hut; b1.c19.s01 coffee (public, provisional)
 - [[drydock-pump-house-crisp]] — Hale's Thursday lattice site, Hunters Point; c19.s03 (public, provisional)
 - [[sri-ganesh-tiffin]] — Livermore dosa counter; s11 "paper dosa" truce (public, provisional)
+- [[pier-70]] — Dogpatch shipyard; Bldg 12 side door 23:40 Sun; Building 2 kiosk for M-Ops log (public, provisional)
 
 ## Factions
 - [[monolith]] — space-tech empire (public)
@@ -78,6 +82,8 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[sahasrajyoti]] — the Sowri main spirit (public, provisional)
 - [[sleeping-lady]] — the mountain spirit (public, provisional)
 - [[hillcrest-fog-bank]] — 11-second breathing fog; vast shape turned over offshore, s11 (public, provisional)
+- [[the-missing-man]] — the tall gap in a walk-off at T Third, Fri 5:41 p.m.; the doorway on the Lamp seam (public, provisional)
+- [[tide-envoy]] — coat of tide sent up the creek; offers a holder's breath for the throat's pitch, Sun 11:40 p.m.; refused by Kino and Caleb; b1.c20.s02 (public, provisional)
 
 ## Cosmology
 - [[astral-plane-and-the-ladder]] (public)
@@ -97,6 +103,7 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[susmithaa-ash-canister]] — green steel canister of Aunty's ash; syncs to Arenya's pulse, s04 (public, provisional)
 - [[grey-nissan-7kbq4r2]] — fog-from-inside car, backwards lanyard, four tally strokes (public, provisional)
 - titanium Khatri card noted under [[elias-khatri]]
+- [[door-receipt-pier-70]] — thermal slip under the flat door: "c/o Lucero, I. Door: Pier 70, Bldg 12, side. 23:40"; s04 (public, provisional)
 
 - [[appa-pen-and-grey-stain]] — borrowed pen "R," grey stain, NEXT OF KIN envelope; s06 (public, provisional)
 - [[pink-archana-slip-lakshmi]] — "PAID ✓" archana slip in Amma's Clark, Sat 10/31; s07 (public, provisional)
@@ -114,6 +121,8 @@ Maintained by the Lore Keeper. One line per entry: `[[name]] — hook (public|re
 - [[hale-pink-carbon-invitation]] — "H" pink carbon offering the Thursday lift site; Colma 110 stop, 7 p.m.; c19.s02 (public, provisional)
 - [[oranges-for-the-sowri-household]] — anonymous crate refused by Rodel, every fruit facing the door; c19.s02 (public, provisional)
 
+- [[mill-truck-d2-04]] — white Mill box truck; bay 3 at 23:42; led to a dead rail spur, s05 (public, provisional)
+- [[lockbox-l-3]] — grey lockbox on a bolted chair facing the door; "Sign by Mon 06:00"; c/o Lucero, I.; s05 (public, provisional)
 - [[counter-collection-bus]] — driverless collection bus; waited nine days for Hale; returns if site false; c19.s03 (public, provisional)
 - [[mo-0114-sedan]] — Mill Operations fleet sedan, Alameda hangtag; wrote SOLD in salt; c19.s04 (public, provisional)
 - [[malachi-name-lease]] — Bayline lease, asset paid in water rights, guarantor AFR "M."; sea-glass-ring intermediary; c19.s03 (public, provisional)

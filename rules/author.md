@@ -112,6 +112,16 @@ words: 1350
 - After the final chapter of a book, also write `books/book<N>/README.md` with the book's title,
   a chapter list, and a one-paragraph synopsis.
 
+## Abernathy on the page `[human]`
+
+In the physical world only Arenya perceives Abernathy, so write his lines there as heard by her alone.
+Others know what he says only when she relays it aloud.
+
+**Pending:** the DM will run a scene titled "Flashback: ..." in which Arenya tells the others about him.
+When you get it, don't put it in the current arc's chapters. Work it into the existing book chapters at
+its real place in the timeline: before Kino first repeats him (c22) and before Ava's line at the stake
+raid (c34–c36), editing those chapters as needed.
+
 ## Notes to the DM
 
 If the source material is thin (fights with no texture, a character who never gets to speak, an
